@@ -259,7 +259,21 @@ class FoundryEnforcer:
             print(f"   ⚠️  Cannot determine owner, allowing deletion")
             return
         
-        is_authorized = (self.commit_author == file_owner or self.commit_author == REPO_ADMIN)
+        # Check for admin override in the file before it was deleted
+        has_admin_override = False
+        if self.commit_author == REPO_ADMIN:
+            # Check if the deleted file had admin_override flag
+            result = subprocess.run(
+                ["git", "show", f"{self.commit_sha}^:{path}"],
+                capture_output=True,
+                text=True
+            )
+            if result.returncode == 0 and path.endswith('.md'):
+                frontmatter, _ = self.parse_frontmatter(result.stdout)
+                admin_override = frontmatter.get(FOUNDRY_NAMESPACE, {}).get('admin_override', False)
+                has_admin_override = (admin_override is True)
+        
+        is_authorized = (self.commit_author == file_owner or has_admin_override)
         
         if not is_authorized:
             print(f"   ❌ Unauthorized deletion (owner: {file_owner}, editor: {self.commit_author})")
@@ -267,7 +281,10 @@ class FoundryEnforcer:
             self.files_corrected.append(path)
             self.corrections_made = True
         else:
-            print(f"   ✅ Valid deletion")
+            if has_admin_override:
+                print(f"   🔑 Admin override used for deletion (owner: {file_owner}, admin: {self.commit_author})")
+            else:
+                print(f"   ✅ Valid deletion")
     
     def get_owner_from_history(self, path: str) -> Optional[str]:
         """Get file owner from git history (first committer or frontmatter)"""
