@@ -65,12 +65,11 @@ foundry:
 
 #### Non-Markdown Files (images, PDFs, etc.)
 - **Root-level files**: Owned by `nickarrow` (repository admin)
-- **Files in player folders**: Owned by the commit author who first added them
+- **Non-Markdown files**: Owned by the commit author who first added them
 - Ownership tracked via git history (no frontmatter possible)
 
 #### Hidden Files & Folders
 - `.obsidian/`, `.git/`, `.gitignore`, etc. are **excluded** from enforcement
-- FIT plugin doesn't sync these, so they're not in scope
 
 ---
 
