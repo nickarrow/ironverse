@@ -85,6 +85,13 @@ foundry:
 - Runs on **every push to `main` branch**
 - FIT syncs directly to main (no pull requests)
 
+### Concurrency Control
+- Uses GitHub Actions concurrency groups to prevent conflicts
+- Only one enforcement action runs at a time
+- Additional pushes are queued (not cancelled)
+- Each action processes the latest state including previous corrections
+- Ensures no race conditions or merge conflicts when multiple players sync simultaneously
+
 ### Pipeline Steps
 
 #### 1. Scan Changed Files
@@ -189,6 +196,8 @@ For valid edits by file owner:
 ### Performance at Scale
 - Scanning only changed files keeps pipeline fast
 - Even with hundreds of files, git diff is efficient
+- Concurrency control ensures actions run sequentially (queued, not parallel)
+- Multiple simultaneous pushes will queue but process quickly (typically seconds per action)
 - If performance becomes an issue: add caching or incremental processing
 
 ---
@@ -244,11 +253,20 @@ For valid edits by file owner:
 - Git history inspection (for renames and non-markdown ownership)
 - File system operations (read, write, revert)
 - Commit and push with GitHub token
+- Concurrency control to prevent race conditions
 
 **Language/Tools:**
 - Python 3.11+ with PyYAML for frontmatter handling
 - Git CLI commands for history inspection
-- GitHub Actions native features for triggers and auth
+- GitHub Actions native features for triggers, auth, and concurrency groups
+
+**Concurrency Configuration:**
+```yaml
+concurrency:
+  group: foundry-enforcement
+  cancel-in-progress: false
+```
+This ensures enforcement actions run sequentially, preventing merge conflicts when multiple players push simultaneously.
 
 ### Repository Structure
 ```
