@@ -338,7 +338,7 @@ class FoundryEnforcer:
         print(f"\n📝 Committing corrections for {len(self.files_corrected)} file(s)")
         
         subprocess.run(
-            ['git', 'commit', '-m', 'Enforced ownership rules: Restored unauthorized edits'],
+            ['git', 'commit', '-m', 'Enforced ownership rules'],
             check=True
         )
         
