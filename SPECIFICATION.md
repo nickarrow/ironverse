@@ -1,0 +1,364 @@
+# The Foundry - Technical Specification
+
+## Project Overview
+
+**The Foundry** is a shared narrative repository that allows *Ironsworn*, *Starforged*, and *Sundered Isles* players using **Obsidian + Iron Vault** to:
+- Publish their **entire campaign vault**
+- Read and explore the campaigns of others
+- Contribute to a larger, living narrative universe
+
+Players sync their Obsidian vaults using [FIT](https://github.com/joshuakto/fit). All governance, moderation, and permissions are enforced **automatically** within GitHub through GitHub Actions.
+
+### Design Philosophy
+
+The Foundry is designed to feel:
+- **Effortless for players** - no manual permission management
+- **Invisible in its enforcement** - self-healing corrections happen automatically
+- **Fiction-first in presentation** - focus on storytelling, not technical barriers
+- **Technically boring and reliable** - proven tools, simple architecture
+
+---
+
+## Core Problem Statement
+
+In a shared repository where multiple players contribute to interconnected campaigns, we need:
+1. **File ownership** - every file has exactly one owner
+2. **Automatic enforcement** - unauthorized edits are corrected without manual intervention
+3. **Collaborative world-building** - players can add content to each other's campaigns
+4. **Protection** - players cannot modify or delete files they don't own
+
+---
+
+## Ownership Model
+
+### Frontmatter Schema
+
+All markdown files use **namespaced YAML frontmatter** to track ownership:
+
+```yaml
+---
+foundry:
+  file_owner: "nickarrow"
+  created_date: "2025-12-15T10:30:00Z"
+  last_modified: "2025-12-15T14:22:00Z"
+  admin_override: true  # Optional: only for admin moderation
+---
+```
+
+**Field Definitions:**
+- `file_owner` (string): GitHub username of the file owner
+- `created_date` (ISO 8601): Timestamp when file was first committed
+- `last_modified` (ISO 8601): Timestamp of last valid edit by owner
+- `admin_override` (boolean, optional): Allows repository admin to edit files they don't own
+
+**Key Principles:**
+- Frontmatter injection must **preserve existing YAML** from Obsidian/Iron Vault
+- Only add missing Foundry fields, never overwrite or delete existing keys
+- Use namespacing (`foundry:`) to avoid conflicts with other plugins
+
+### Ownership Rules by File Type
+
+#### Markdown Files (`.md`)
+- Ownership determined by `foundry.file_owner` in frontmatter
+- If frontmatter is missing, GitHub Action injects it using commit author
+- Owner can freely edit, rename, move, or delete their files
+
+#### Non-Markdown Files (images, PDFs, etc.)
+- **Root-level files**: Owned by `nickarrow` (repository admin)
+- **Files in player folders**: Owned by the commit author who first added them
+- Ownership tracked via git history (no frontmatter possible)
+
+#### Hidden Files & Folders
+- `.obsidian/`, `.git/`, `.gitignore`, etc. are **excluded** from enforcement
+- FIT plugin doesn't sync these, so they're not in scope
+
+---
+
+## Enforcement Pipeline
+
+### Trigger
+- Runs on **every push to `main` branch**
+- FIT syncs directly to main (no pull requests)
+
+### Pipeline Steps
+
+#### 1. Scan Changed Files
+- Use `git diff` to identify modified, added, renamed, or deleted files
+- Only process changed files for performance
+- Ignore hidden files/folders (`.obsidian/`, `.git/`, etc.)
+
+#### 2. Inject Foundry Frontmatter
+For markdown files without Foundry frontmatter:
+- Parse existing YAML (preserve all existing keys)
+- Add `foundry.file_owner` = commit author's GitHub username
+- Add `foundry.created_date` = current timestamp (ISO 8601)
+- Add `foundry.last_modified` = current timestamp (ISO 8601)
+- Write back to file with formatting preserved
+
+#### 3. Validate Ownership
+For each changed file:
+- **Markdown files**: Check if commit author matches `foundry.file_owner`, OR if admin override is active
+- **Root-level non-markdown**: Check if commit author is `nickarrow`
+- **Other non-markdown**: Check if commit author matches original committer (via git history)
+
+**Admin Override:**
+- If `foundry.admin_override: true` is present AND commit author is `nickarrow` (admin), allow the edit
+- After successful override, automatically remove the `admin_override` flag
+- Log the override clearly in the Actions output for transparency
+- This provides an intentional escape hatch while preventing accidental edits
+
+#### 4. Restore Unauthorized Edits
+If validation fails:
+- Revert file to last valid version from git history
+- Do not update `foundry.last_modified`
+- Track which files were reverted for commit message
+
+#### 5. Handle Special Cases
+
+**File Renames/Moves:**
+- Git tracks renames as delete + add
+- Detect renames using git rename detection
+- Preserve `foundry.file_owner` from original file
+- Do not treat as new file (prevents ownership theft)
+
+**File Deletions:**
+- If user deletes a file they don't own: restore from previous commit
+- If user deletes their own file: allow deletion
+
+**Frontmatter Tampering:**
+- If user modifies/deletes Foundry frontmatter in file they don't own: restore entire file
+- If owner modifies their own frontmatter: allow, but re-inject if removed
+
+#### 6. Update Metadata
+For valid edits by file owner:
+- Update `foundry.last_modified` to current timestamp
+- Keep `foundry.created_date` unchanged
+- Keep `foundry.file_owner` unchanged
+
+#### 7. Commit Corrections
+- If any files were corrected, create a new commit
+- Commit message: `"Enforced ownership rules"`
+- If no corrections needed (all edits were unauthorized): skip correction commit
+- Push corrected state back to `main`
+
+---
+
+## Collaborative World-Building
+
+### Folder Structure Freedom
+- Players can create files and folders **anywhere** in the repository
+- No path-based restrictions (except root-level non-markdown files)
+- Example: Player B can create `NickArrow/The Starforged/PlayerB-Character.md`
+
+### Cross-Campaign Contributions
+**Scenario:** Player B wants to join Player A's campaign
+1. Player B creates a character file in Player A's campaign folder
+2. Player B writes journal entries in that folder
+3. Player A can read Player B's contributions but cannot edit them
+4. Player B cannot edit Player A's original campaign files
+5. Both players see a shared, evolving world
+
+**Result:** Organic, emergent world-building without permission management
+
+---
+
+## Edge Cases & Nuances
+
+### Merge Conflicts
+- **Low risk** due to self-healing enforcement
+- Most conflicts occur when multiple users edit the same file
+- Enforcement pipeline catches unauthorized edits before they propagate
+- If conflict occurs: unauthorized edits are reverted, owner's changes win
+
+### Manual GitHub Edits
+- **Low risk** - players use FIT, not GitHub web interface
+- Admin (`nickarrow`) follows same ownership rules as all players
+- Admin can use `admin_override: true` flag for intentional moderation
+- If other user makes manual edits: same enforcement rules apply
+
+### Empty Commits
+- If a push contains only unauthorized edits (everything reverted): skip correction commit
+- Player's local vault will sync and receive the reverted state
+- No noise in commit history for "nothing happened"
+
+### Performance at Scale
+- Scanning only changed files keeps pipeline fast
+- Even with hundreds of files, git diff is efficient
+- If performance becomes an issue: add caching or incremental processing
+
+---
+
+## Player Experience
+
+### What Players See
+- **Seamless syncing** via FIT plugin in Obsidian
+- **Silent corrections** - unauthorized edits disappear on next sync
+- **No error messages** - just clean, corrected content
+- **Clear boundaries** - documentation explains ownership model upfront
+
+### What Players Can Do
+- ✅ Create new files anywhere
+- ✅ Edit their own files freely
+- ✅ Delete their own files
+- ✅ Rename/move their own files
+- ✅ Read everyone's files
+- ❌ Edit files owned by others
+- ❌ Delete files owned by others
+- ❌ Steal ownership via rename/frontmatter tampering
+
+### Onboarding & Documentation
+- Root-level documentation files explain The Foundry rules
+- Owned by `nickarrow` (protected from edits unless admin override used)
+- Clear disclaimers about automatic corrections
+- Examples of collaborative workflows
+
+### Admin Experience
+- Repository admin (`nickarrow`) follows same ownership rules as all players
+- Cannot accidentally edit other players' files
+- Can use `admin_override: true` flag for intentional moderation/fixes
+- Override flag is automatically removed after use (one-time)
+- All overrides logged in GitHub Actions for audit trail
+
+---
+
+## Technical Architecture
+
+### Technology Stack
+- **Git/GitHub**: Version control and hosting
+- **GitHub Actions**: Enforcement pipeline automation
+- **Obsidian**: Player-facing vault interface
+- **FIT Plugin**: Automatic git sync from Obsidian
+- **Iron Vault Plugin**: Ironsworn/Starforged game mechanics
+
+### GitHub Action Implementation
+
+**Workflow File:** `.github/workflows/enforce-ownership.yml`
+
+**Required Capabilities:**
+- YAML parsing and manipulation (preserve existing keys)
+- Git history inspection (for renames and non-markdown ownership)
+- File system operations (read, write, revert)
+- Commit and push with GitHub token
+
+**Language/Tools:**
+- Python 3.11+ with PyYAML for frontmatter handling
+- Git CLI commands for history inspection
+- GitHub Actions native features for triggers and auth
+
+### Repository Structure
+```
+the-foundry/
+├── .github/
+│   ├── scripts/
+│   │   └── enforce_ownership.py
+│   └── workflows/
+│       └── enforce-ownership.yml
+├── .obsidian/                    # Excluded from enforcement
+├── The Starforged/               # Game folders (any structure)
+    ├── Characters/
+    ├── Journals/
+    └── ...
+├── LICENSE                       # Root file (owned by nickarrow)
+├── README.md                     # Root file (owned by nickarrow)
+└── SPECIFICATION.md              # This file
+```
+
+---
+
+## Future Considerations
+
+### Not in Scope
+- Pull request workflows (FIT doesn't use them)
+- Collaborative editing permissions (one owner per file only)
+- Content moderation beyond ownership (no profanity filters, etc.)
+- Notification system for corrections (silent only)
+
+### Potential Future Enhancements
+- Analytics dashboard (most active campaigns, etc.)
+- Web interface for browsing (GitHub is the interface)
+- Community Discord
+
+---
+
+## Success Criteria
+
+The Foundry ownership model is successful when:
+1. ✅ Players can sync their vaults without thinking about permissions
+2. ✅ Unauthorized edits are corrected within seconds of push
+3. ✅ No manual moderation required for ownership enforcement
+4. ✅ Players naturally collaborate across campaign boundaries
+5. ✅ Zero data loss (all valid edits preserved, invalid edits reverted)
+6. ✅ Repository remains stable and usable as it grows
+
+---
+
+## Implementation Roadmap
+
+### Phase 1: Foundation ✅ Complete
+1. ✅ Add namespaced frontmatter to existing markdown files
+2. ✅ Create GitHub Action workflow skeleton
+3. ✅ Implement frontmatter injection logic
+4. ✅ Test with manual commits
+
+### Phase 2: Enforcement ✅ Complete
+1. ✅ Implement ownership validation
+2. ✅ Implement file restoration for unauthorized edits
+3. ✅ Handle renames and deletions
+4. ✅ Test with multiple simulated users
+
+### Phase 3: Polish 🚧 In Progress
+1. ✅ Optimize performance (changed files only)
+2. ✅ Add comprehensive logging
+3. ✅ Update root-level documentation
+4. ⏳ Invite beta testers
+
+### Phase 4: Launch
+1. Announce to Ironsworn/Starforged community
+2. Monitor for edge cases
+3. Iterate based on real-world usage
+
+---
+
+## Appendix: Example Scenarios
+
+### Scenario A: New Player Joins
+1. Player C clones the repository
+2. Player C creates `PlayerC/My-Campaign/` folder
+3. Player C adds character and journal files
+4. FIT syncs to GitHub
+5. GitHub Action injects frontmatter with `file_owner: "playerc"`
+6. Files are now protected - only Player C can edit them
+
+### Scenario B: Unauthorized Edit Attempt
+1. Player B edits `NickArrow/The Starforged/Truths.md`
+2. FIT syncs the change to GitHub
+3. GitHub Action detects commit author (playerb) ≠ file_owner (nickarrow)
+4. Action reverts file to previous version
+5. Action commits correction
+6. Player B's next sync pulls the corrected version
+7. Player B's unauthorized edit is gone
+
+### Scenario C: Collaborative Campaign
+1. Player A creates `PlayerA/Shared-World/` campaign
+2. Player B creates `PlayerA/Shared-World/PlayerB-Character.md`
+3. Player C creates `PlayerA/Shared-World/PlayerC-Journal.md`
+4. All three players can read all files
+5. Each player can only edit their own files
+6. The campaign grows organically with multiple contributors
+
+### Scenario D: Admin Moderation
+1. Admin needs to fix a typo in Player A's file
+2. Admin opens `PlayerA/Campaign/Character.md`
+3. Admin adds `admin_override: true` to the frontmatter
+4. Admin makes the correction and syncs
+5. GitHub Action detects admin override flag
+6. Action allows the edit and removes the override flag
+7. Action logs the override in the workflow output
+8. File is corrected, audit trail preserved
+
+---
+
+**Document Version:** 1.1  
+**Last Updated:** 2025-12-15  
+**Author:** nickarrow  
+**Status:** Implemented and Active
