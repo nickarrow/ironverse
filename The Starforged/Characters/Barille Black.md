@@ -18,7 +18,10 @@ Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 iron-vault-kind: character
-
+foundry:
+  file_owner: nickarrow
+  created_date: '2025-12-15T19:45:02.436113+00:00'
+  last_modified: '2025-12-15T19:45:02.436120+00:00'
 ---
 Need to fix. 
 
