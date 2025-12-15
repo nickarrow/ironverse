@@ -146,7 +146,26 @@ This all happens in seconds, completely automatically.
 
 ### Admin Privileges
 
-The repository admin (`nickarrow`) can edit any file for moderation purposes. All other users follow standard ownership rules.
+The repository admin (`nickarrow`) follows the same ownership rules as all other players. However, for moderation purposes, the admin can use an **admin override** flag.
+
+**How Admin Override Works:**
+
+To edit another player's file, the admin must explicitly add this to the frontmatter:
+
+```yaml
+---
+foundry:
+  file_owner: "otherplayer"
+  created_date: "2025-12-15T10:30:00Z"
+  last_modified: "2025-12-15T14:22:00Z"
+  admin_override: true
+---
+```
+
+- The `admin_override: true` flag only works for the admin account
+- After the edit is accepted, the flag is automatically removed
+- This prevents accidental edits while providing an intentional escape hatch
+- All admin overrides are logged in the GitHub Actions output for transparency
 
 ## Best Practices
 

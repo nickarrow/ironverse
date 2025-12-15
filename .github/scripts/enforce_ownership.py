@@ -183,7 +183,11 @@ class FoundryEnforcer:
             file_owner = self.commit_author
             needs_update = True
         
-        is_authorized = (self.commit_author == file_owner or self.commit_author == REPO_ADMIN)
+        # Check for admin override
+        admin_override = frontmatter.get(FOUNDRY_NAMESPACE, {}).get('admin_override', False)
+        has_admin_override = (self.commit_author == REPO_ADMIN and admin_override is True)
+        
+        is_authorized = (self.commit_author == file_owner or has_admin_override)
         
         if not is_authorized:
             # Unauthorized edit - restore from history
@@ -193,6 +197,13 @@ class FoundryEnforcer:
             self.corrections_made = True
         else:
             # Authorized edit
+            if has_admin_override:
+                print(f"   🔑 Admin override used (owner: {file_owner}, admin: {self.commit_author})")
+                # Remove the admin_override flag after use
+                if FOUNDRY_NAMESPACE in frontmatter and 'admin_override' in frontmatter[FOUNDRY_NAMESPACE]:
+                    del frontmatter[FOUNDRY_NAMESPACE]['admin_override']
+                    needs_update = True
+            
             if status == 'modified' and not needs_injection:
                 # Update last_modified for valid edits
                 frontmatter[FOUNDRY_NAMESPACE]['last_modified'] = self.get_iso_timestamp()
