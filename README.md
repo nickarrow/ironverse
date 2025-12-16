@@ -4,20 +4,7 @@ foundry:
   created_date: '2025-12-15T20:25:33.504586+00:00'
   last_modified: '2025-12-16T20:26:31.517950+00:00'
 ---
-# The Foundry
-
-> A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
-
-## What is The Foundry?
-
-**The Foundry** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
-- 📖 **Publish their entire campaign vault** - share your adventures with the community
-- 🔍 **Explore other campaigns** - read and discover the stories of fellow players
-- 🌍 **Build shared worlds** - contribute to campaigns and create interconnected narratives
-- 🤝 **Collaborate organically** - add characters, journals, and content to any campaign
-
-The Foundry uses automatic governance through GitHub Actions to manage permissions and ownership, making collaboration effortless and invisible.
-## How It Works
+I DELETED EVERYTHING!
 
 ### The Magic: Automatic Ownership
 
