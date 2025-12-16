@@ -131,7 +131,7 @@ This all happens in seconds, completely automatically.
 - Ownership tracked via git history
 
 **Hidden files:**
-- `.obsidian/`, `.git/`, etc. are excluded from enforcement
+- `.obsidian/`, `.git/`, etc. are included in enforcement (this protects The Foundry functionality)
 
 ### Admin Privileges
 

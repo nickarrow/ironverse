@@ -75,7 +75,7 @@ foundry:
 - Ownership tracked via git history (no frontmatter possible)
 
 #### Hidden Files & Folders
-- `.obsidian/`, `.git/`, `.gitignore`, etc. are **excluded** from enforcement
+- `.obsidian/`, `.git/`, `.gitignore`, etc. are **included** in enforcement
 
 ---
 
@@ -97,7 +97,6 @@ foundry:
 #### 1. Scan Changed Files
 - Use `git diff` to identify modified, added, renamed, or deleted files
 - Only process changed files for performance
-- Ignore hidden files/folders (`.obsidian/`, `.git/`, etc.)
 
 #### 2. Inject Foundry Frontmatter
 For markdown files without Foundry frontmatter:
