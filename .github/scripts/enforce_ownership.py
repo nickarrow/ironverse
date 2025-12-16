@@ -88,9 +88,9 @@ class FoundryEnforcer:
             parts = line.split('\t')
             status = parts[0]
             
-            # Skip hidden files/folders (except .github which we want to protect)
+            # Skip hidden files/folders (including .github - protected by Guardian)
             path_parts = parts[1].split('/')
-            if any(p.startswith('.') and p != '.github' for p in path_parts):
+            if any(p.startswith('.') for p in path_parts):
                 continue
             
             if status.startswith('R'):  # Rename
