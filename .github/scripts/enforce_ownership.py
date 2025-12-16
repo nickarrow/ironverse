@@ -28,10 +28,21 @@ FOUNDRY_NAMESPACE = "foundry"
 
 class FoundryEnforcer:
     def __init__(self):
-        self.commit_author = os.environ.get("COMMIT_AUTHOR", "unknown").lower()
         self.commit_sha = os.environ.get("COMMIT_SHA", "HEAD")
         self.corrections_made = False
         self.files_corrected = []
+        
+        # Get commit author from git directly (more reliable than GitHub username)
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%an", self.commit_sha],
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            self.commit_author = result.stdout.strip().lower()
+        else:
+            # Fallback to environment variable
+            self.commit_author = os.environ.get("COMMIT_AUTHOR", "unknown").lower()
         
     def run(self):
         """Main enforcement pipeline"""
