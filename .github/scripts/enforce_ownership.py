@@ -56,7 +56,10 @@ class FoundryEnforcer:
         for file_info in changed_files:
             self.process_file(file_info)
         
-        # Step 7: Commit corrections if needed
+        # Step 7: Clean up empty folders
+        self.cleanup_empty_folders()
+        
+        # Step 8: Commit corrections if needed
         if self.corrections_made:
             self.commit_corrections()
         else:
@@ -427,6 +430,37 @@ class FoundryEnforcer:
     def get_iso_timestamp(self) -> str:
         """Get current timestamp in ISO 8601 format"""
         return datetime.now(timezone.utc).isoformat()
+    
+    def cleanup_empty_folders(self):
+        """Remove empty folders from the repository (excluding hidden folders)"""
+        empty_folders = []
+        
+        # Walk the directory tree bottom-up
+        for root, dirs, files in os.walk('.', topdown=False):
+            # Skip hidden folders
+            if any(part.startswith('.') for part in Path(root).parts):
+                continue
+            
+            # Check if directory is empty (no files and no non-hidden subdirs)
+            try:
+                contents = list(os.listdir(root))
+                # Filter out hidden items
+                visible_contents = [item for item in contents if not item.startswith('.')]
+                
+                if not visible_contents and root != '.':
+                    empty_folders.append(root)
+                    os.rmdir(root)
+            except OSError:
+                # Directory not empty or permission issue, skip
+                continue
+        
+        if empty_folders:
+            print(f"\n🧹 Cleaned up {len(empty_folders)} empty folder(s):")
+            for folder in empty_folders:
+                print(f"   🗑️  {folder}")
+            self.corrections_made = True
+        else:
+            print("\n🧹 No empty folders to clean up")
     
     def commit_corrections(self):
         """Commit any corrections made during enforcement"""
