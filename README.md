@@ -6,19 +6,17 @@ foundry:
 ---
 # The Foundry
 
-> A shared narrative universe for Ironsworn, Starforged, and Sundered Isles players
+> A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
 ## What is The Foundry?
 
 **The Foundry** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
-
 - 📖 **Publish their entire campaign vault** - share your adventures with the community
 - 🔍 **Explore other campaigns** - read and discover the stories of fellow players
 - 🌍 **Build shared worlds** - contribute to campaigns and create interconnected narratives
 - 🤝 **Collaborate organically** - add characters, journals, and content to any campaign
 
 The Foundry uses automatic governance through GitHub Actions to manage permissions and ownership, making collaboration effortless and invisible.
-
 ## How It Works
 
 ### The Magic: Automatic Ownership
@@ -61,28 +59,19 @@ foundry:
 
 ### Setup Instructions
 
-#### 1. Get Repository Access
-
-Contact the repository admin (nickarrow) to be added as a collaborator with **Write** permissions.
-
-#### 2. Clone The Foundry
-
-Once you have access, clone this repository to your local machine:
-
-```bash
-git clone https://github.com/nickarrow/the-foundry.git
-```
-
-#### 3. Open in Obsidian
+#### 1. Create an Empty Obsidian Vault
 
 1. Open Obsidian
-2. Click "Open folder as vault"
-3. Select the `the-foundry` folder you just cloned
+2. Click "Create new vault", give it a name `The Foundry` is a good one, but any name will work. 
+3. Pick a location to save it locally
 
-#### 4. Configure FIT Plugin
+#### 2. Get GitHub Repository Access
+1. Contact the repository admin (nickarrow) to be added as a collaborator with **Write** permissions.
+2. If you do not have a GitHub account, get one for free and then contact me (nickarrow)
+#### 3. Configure the FIT Plugin (Minimalist File giT)
 
 1. In Obsidian, open Settings → Community Plugins
-2. Find the FIT plugin
+2. Install the FIT plugin
 3. Configure it to sync with this repository
 4. Enable automatic syncing
 
