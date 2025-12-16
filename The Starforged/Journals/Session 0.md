@@ -5,4 +5,3 @@ foundry:
   last_modified: '2025-12-15T19:45:02.438921+00:00'
 ---
 This is the beginning of a great adventure...
-Let's goOOOOO!

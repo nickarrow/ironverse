@@ -258,4 +258,4 @@ Contact the repository admin: [@nickarrow](https://github.com/nickarrow)
 
 ---
 
-**Welcome to The Foundry. Your story awaits.**
+**Welcome to The Foundry.**
