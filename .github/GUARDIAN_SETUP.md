@@ -1,3 +1,9 @@
+---
+foundry:
+  file_owner: nickarrow
+  created_date: '2025-12-16T16:06:37.973664+00:00'
+  last_modified: '2025-12-16T16:06:37.973674+00:00'
+---
 # Guardian Workflow Setup Instructions
 
 The Guardian workflow protects The Foundry's enforcement system from unauthorized modifications.
