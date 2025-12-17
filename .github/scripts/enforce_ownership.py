@@ -223,9 +223,13 @@ class FoundryEnforcer:
             status = parts[0]
             
             # Skip hidden files/folders (including .github and .foundry - protected by Guardian)
-            path_parts = parts[1].split('/')
-            if any(p.startswith('.') for p in path_parts):
-                continue
+            # Exception: .LICENSE file in root should be tracked
+            is_license_file = (parts[1] == '.LICENSE')
+            
+            if not is_license_file:
+                path_parts = parts[1].split('/')
+                if any(p.startswith('.') for p in path_parts):
+                    continue
             
             if status.startswith('R'):  # Rename
                 old_path = parts[1]
