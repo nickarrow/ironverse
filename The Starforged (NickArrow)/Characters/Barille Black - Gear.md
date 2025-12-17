@@ -1,0 +1,5 @@
+- A compact multitool capable of 'light' matter manipulation
+- Hand terminal
+- Kinetic pistol
+- A leather bound journal and pen
+- A coin of black iron, embossed with an insignia
