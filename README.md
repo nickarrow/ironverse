@@ -1,9 +1,3 @@
----
-foundry:
-  file_owner: nickarrow
-  created_date: '2025-12-15T20:25:33.504586+00:00'
-  last_modified: '2025-12-16T21:32:56.000293+00:00'
----
 # The Foundry
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
@@ -35,18 +29,18 @@ The Foundry automatically detects unauthorized edits and silently restores the f
 
 ### File Ownership Tracking
 
-Ownership is tracked through YAML frontmatter that's automatically added to your markdown files:
+Ownership is tracked in a centralized registry file at `.foundry/registry.yml`:
 
 ```yaml
----
-foundry:
-  file_owner: "yourusername"
-  created_date: "2025-12-15T10:30:00Z"
-  last_modified: "2025-12-15T14:22:00Z"
----
+files:
+  "My-Campaign/Characters/My-Hero.md":
+    owner: yourusername
+    created: 2025-12-15T10:30:00Z
+    modified: 2025-12-15T14:22:00Z
+    checksum: abc123def456...
 ```
 
-**Don't worry about this!** The system injects and manages this frontmatter automatically. Your existing Iron Vault and Obsidian frontmatter is always preserved.
+**Don't worry about this!** The system manages the registry automatically. Your markdown files stay clean - no automated frontmatter injection. The registry tracks ownership, timestamps, and file integrity using SHA-256 checksums.
 
 ## Getting Started
 
@@ -112,27 +106,26 @@ Now both you and the campaign creator can see each other's content, but neither 
 Every time you push changes to GitHub, an automated workflow:
 
 1. **Scans changed files** - only processes what you modified
-2. **Injects frontmatter** - adds ownership metadata if missing
-3. **Validates ownership** - checks if you're authorized to make the edit
-4. **Restores unauthorized edits** - reverts files you don't own
-5. **Commits corrections** - pushes the corrected state back to the repository
+2. **Calculates checksums** - uses SHA-256 to detect which files actually changed
+3. **Updates registry** - adds new files or updates existing entries
+4. **Validates ownership** - checks if you're authorized to make the edit
+5. **Restores unauthorized edits** - reverts files you don't own
+6. **Commits corrections** - pushes the corrected registry and files back to the repository
 
 This all happens in seconds, completely automatically.
 
 ### File Types
 
-**Markdown files (`.md`):**
-- Ownership tracked via frontmatter
-- Automatically injected on first commit
+**All non-hidden files:**
+- Ownership tracked in `.foundry/registry.yml`
+- Includes markdown, images, PDFs, and any other file type
+- SHA-256 checksums ensure file integrity
+- Automatically added to registry on first commit
 
-**Non-markdown files (images, PDFs, etc.):**
-- Root-level files owned by repository admin
-- Files owned by whoever added them
-- Ownership tracked via git history
-
-**Hidden files:**
+**Hidden files and folders:**
 - `.obsidian/`, `.git/`, etc. are excluded from enforcement
 - `.github/` folder is protected by the Guardian system (see below)
+- `.foundry/registry.yml` is admin-only (ownership hardcoded in enforcement script)
 
 ### Admin Privileges
 
@@ -140,22 +133,29 @@ The repository admin (`nickarrow`) follows the same ownership rules as all other
 
 **How Admin Override Works:**
 
-To edit another player's file, the admin must explicitly add this to the frontmatter:
+To edit another player's file, the admin must explicitly add this to the registry entry:
 
 ```yaml
----
-foundry:
-  file_owner: "otherplayer"
-  created_date: "2025-12-15T10:30:00Z"
-  last_modified: "2025-12-15T14:22:00Z"
-  admin_override: true
----
+files:
+  "Other-Campaign/Characters/Their-Hero.md":
+    owner: otherplayer
+    created: 2025-12-15T10:30:00Z
+    modified: 2025-12-15T14:22:00Z
+    checksum: abc123def456...
+    admin_override: true  # Add this line
 ```
 
-- The `admin_override: true` flag only works for the admin account
-- After the edit is accepted, the flag is automatically removed
-- This prevents accidental edits while providing an intentional escape hatch
+**Steps:**
+1. Edit `.foundry/registry.yml` and add `admin_override: true` to the file entry
+2. Make your changes to the file
+3. Commit both the registry and file changes together
+4. The enforcement workflow automatically removes the flag after use (one-time override)
+
+**Benefits:**
+- Prevents accidental edits (admin must explicitly set the flag)
+- One-time use (flag is automatically removed)
 - All admin overrides are logged in the GitHub Actions output for transparency
+- Works for edit, rename, move, or delete operations
 
 ## Best Practices
 
@@ -171,13 +171,15 @@ foundry:
 
 This means you tried to edit a file you don't own. The Foundry automatically restored it. Create your own file instead!
 
-### Frontmatter looks weird
+### Sync conflicts with registry.yml
 
-The Foundry uses namespaced frontmatter (`foundry:`) to avoid conflicts. Your Iron Vault and Obsidian frontmatter is preserved above or below it. Frontmatter can be hidden in Obsidian settings.
+The registry file updates automatically on every commit. If you get a sync conflict:
+1. Pull the latest changes first
+2. Make your file edits
+3. Push your changes
+4. The enforcement workflow will update the registry automatically
 
-### Sync conflicts
-
-If you get a sync conflict, wait a moment and then try again. The enforcement pipeline prevents most conflicts from happening.
+**Important:** Never manually edit the registry unless you're the admin using the override feature.
 
 ### FIT isn't syncing
 
@@ -232,10 +234,21 @@ For developers and the technically curious:
 
 - **Version Control:** Git/GitHub
 - **Automation:** GitHub Actions (two workflows: enforcement + guardian)
-- **Enforcement Script:** Python with PyYAML
+- **Enforcement Script:** Python with PyYAML and hashlib (SHA-256)
+- **Ownership Registry:** `.foundry/registry.yml` (centralized tracking)
+- **Integrity Checking:** SHA-256 checksums for all tracked files
 - **Sync Tool:** FIT plugin for Obsidian
 - **Game System:** Iron Vault plugin for Obsidian
 - **Protection:** Two-tier system (enforcement pipeline + guardian workflow)
+
+### Why Registry-Based?
+
+The Foundry previously used frontmatter injection but switched to a registry-based system to:
+- **Eliminate merge conflicts** - Registry updates separately from file content
+- **Keep files clean** - No automated frontmatter injection
+- **Improve performance** - Checksums quickly identify changed files
+- **Centralize tracking** - All ownership data in one place
+- **Enhance security** - Registry ownership hardcoded in protected enforcement script
 
 ## Contributing
 

@@ -1,9 +1,3 @@
----
-foundry:
-  file_owner: nickarrow
-  created_date: '2025-12-15T20:55:23.390124+00:00'
-  last_modified: '2025-12-16T18:54:02.462916+00:00'
----
 # The Foundry - Technical Specification
 
 ## Project Overview
@@ -37,46 +31,59 @@ In a shared repository where multiple players contribute to interconnected campa
 
 ## Ownership Model
 
-### Frontmatter Schema
+### Registry-Based Tracking
 
-All markdown files use **namespaced YAML frontmatter** to track ownership:
+All file ownership is tracked in a centralized registry at `.foundry/registry.yml`:
 
 ```yaml
----
-foundry:
-  file_owner: "nickarrow"
-  created_date: "2025-12-15T10:30:00Z"
-  last_modified: "2025-12-15T14:22:00Z"
-  admin_override: true  # Optional: only for admin moderation
----
+files:
+  "My-Campaign/Characters/My-Hero.md":
+    owner: nickarrow
+    created: 2025-12-15T10:30:00Z
+    modified: 2025-12-15T14:22:00Z
+    checksum: abc123def456789...
+  "Other-Campaign/Characters/Their-Hero.md":
+    owner: otherplayer
+    created: 2025-12-16T09:15:00Z
+    modified: 2025-12-18T11:45:00Z
+    checksum: def789ghi012345...
+    admin_override: true  # Optional: Allows admin to edit this file once
 ```
 
 **Field Definitions:**
-- `file_owner` (string): GitHub username of the file owner
-- `created_date` (ISO 8601): Timestamp when file was first committed
-- `last_modified` (ISO 8601): Timestamp of last valid edit by owner
-- `admin_override` (boolean, optional): Allows repository admin to edit files they don't own
+- `owner` (string): GitHub username of the file owner
+- `created` (ISO 8601): Timestamp when file was first committed
+- `modified` (ISO 8601): Timestamp of last valid edit by owner
+- `checksum` (string): SHA-256 hash of file content for integrity checking
+- `admin_override` (boolean, optional): Allows repository admin to edit files they don't own (one-time use)
 
 **Key Principles:**
-- Frontmatter injection must **preserve existing YAML** from Obsidian/Iron Vault
-- Only add missing Foundry fields, never overwrite or delete existing keys
-- Use namespacing (`foundry:`) to avoid conflicts with other plugins
+- Registry is the single source of truth for ownership
+- No frontmatter injection into user files (keeps files clean)
+- SHA-256 checksums detect unauthorized modifications
+- Registry itself is admin-only (ownership hardcoded in enforcement script)
+
+### Why Registry-Based?
+
+The Foundry switched from frontmatter injection to registry-based tracking to:
+- **Eliminate merge conflicts** - Registry updates separately from file content
+- **Keep files clean** - No automated frontmatter injection
+- **Improve performance** - Checksums quickly identify changed files
+- **Centralize tracking** - All ownership data in one place
+- **Enhance security** - Registry ownership hardcoded in protected enforcement script
 
 ### Ownership Rules by File Type
 
-#### Markdown Files (`.md`)
-- Ownership determined by `foundry.file_owner` in frontmatter
-- If frontmatter is missing, GitHub Action injects it using commit author
+#### All Non-Hidden Files
+- Ownership tracked in `.foundry/registry.yml`
+- Includes markdown, images, PDFs, and any other file type
+- SHA-256 checksums ensure file integrity
 - Owner can freely edit, rename, move, or delete their files
-
-#### Non-Markdown Files (images, PDFs, etc.)
-- **Root-level files**: Owned by `nickarrow` (repository admin)
-- **Non-Markdown files**: Owned by the commit author who first added them
-- Ownership tracked via git history (no frontmatter possible)
 
 #### Hidden Files & Folders
 - `.obsidian/`, `.git/`, `.gitignore`, etc. are **excluded** from enforcement
 - `.github/` folder is **excluded** from enforcement (protected by Guardian system instead)
+- `.foundry/registry.yml` is **admin-only** (ownership hardcoded in enforcement script, protected by Guardian)
 
 ---
 
@@ -95,63 +102,80 @@ foundry:
 
 ### Pipeline Steps
 
-#### 1. Scan Changed Files
+#### 1. Load Registry
+- Load `.foundry/registry.yml` from repository
+- Parse YAML structure
+- If registry doesn't exist, initialize empty registry
+
+#### 2. Scan Changed Files
 - Use `git diff` to identify modified, added, renamed, or deleted files
 - Only process changed files for performance
-- **Exclude `.github/` folder** - protected by Guardian system (see Guardian Protection System section)
+- **Include `.foundry/registry.yml`** for validation (special case)
+- **Exclude other `.github/` and `.foundry/` files** - protected by Guardian system
 
-#### 2. Inject Foundry Frontmatter
-For markdown files without Foundry frontmatter:
-- Parse existing YAML (preserve all existing keys)
-- Add `foundry.file_owner` = commit author's GitHub username
-- Add `foundry.created_date` = current timestamp (ISO 8601)
-- Add `foundry.last_modified` = current timestamp (ISO 8601)
-- Write back to file with formatting preserved
-
-#### 3. Validate Ownership
+#### 3. Calculate Checksums
 For each changed file:
-- **Markdown files**: Check if commit author matches `foundry.file_owner`, OR if admin override is active
-- **Root-level non-markdown**: Check if commit author is `nickarrow`
-- **Other non-markdown**: Check if commit author matches original committer (via git history)
+- Calculate SHA-256 hash of file content
+- Compare with checksum in registry (if file exists in registry)
+- If checksums match, file hasn't actually changed (skip)
+- If checksums differ, file was modified (validate ownership)
+
+#### 4. Validate Ownership
+For each changed file:
+- **Registry file (`.foundry/registry.yml`)**: 
+  - Check if commit is from enforcement workflow (allow)
+  - Check if commit author is `nickarrow` (admin, allow)
+  - Otherwise: restore from previous commit
+- **New files**: Add to registry with commit author as owner
+- **Modified files**: Check if commit author matches registry owner OR admin override is active
+- **Renamed files**: Check if commit author matches registry owner, update registry path
+- **Deleted files**: Check if commit author matches registry owner, remove from registry
 
 **Admin Override:**
-- If `foundry.admin_override: true` is present AND commit author is `nickarrow` (admin), allow the edit
-- After successful override, automatically remove the `admin_override` flag
+- If `admin_override: true` is present in registry entry AND commit author is `nickarrow` (admin), allow the edit
+- After successful override, automatically remove the `admin_override` flag from registry
 - Log the override clearly in the Actions output for transparency
 - This provides an intentional escape hatch while preventing accidental edits
 
-#### 4. Restore Unauthorized Edits
+#### 5. Restore Unauthorized Edits
 If validation fails:
 - Revert file to last valid version from git history
-- Do not update `foundry.last_modified`
+- Do not update registry entry
 - Track which files were reverted for commit message
 
-#### 5. Handle Special Cases
+#### 6. Handle Special Cases
 
 **File Renames/Moves:**
 - Git tracks renames as delete + add
 - Detect renames using git rename detection
-- Preserve `foundry.file_owner` from original file
+- Preserve owner from original registry entry
+- Update registry: remove old path, add new path with same owner
 - Do not treat as new file (prevents ownership theft)
 
 **File Deletions:**
 - If user deletes a file they don't own: restore from previous commit
-- If user deletes their own file: allow deletion
+- If user deletes their own file: allow deletion, remove from registry
 
-**Frontmatter Tampering:**
-- If user modifies/deletes Foundry frontmatter in file they don't own: restore entire file
-- If owner modifies their own frontmatter: allow, but re-inject if removed
+**Registry Tampering:**
+- If user modifies registry without authorization: restore registry from previous commit
+- Only admin and enforcement workflow can modify registry
 
-#### 6. Update Metadata
-For valid edits by file owner:
-- Update `foundry.last_modified` to current timestamp
-- Keep `foundry.created_date` unchanged
-- Keep `foundry.file_owner` unchanged
+#### 7. Update Registry
+For valid operations:
+- **New files**: Add entry with owner, created timestamp, modified timestamp, checksum
+- **Modified files**: Update modified timestamp and checksum
+- **Renamed files**: Move entry to new path, update modified timestamp and checksum
+- **Deleted files**: Remove entry from registry
+- **Admin override used**: Remove `admin_override` flag from entry
 
-#### 7. Commit Corrections
-- If any files were corrected, create a new commit
+#### 8. Save Registry
+- Write updated registry to `.foundry/registry.yml`
+- Stage registry file for commit
+
+#### 9. Commit Corrections
+- If any files were corrected OR registry was updated, create a new commit
 - Commit message: `"Enforced ownership rules"`
-- If no corrections needed (all edits were unauthorized): skip correction commit
+- Commit author: "Foundry Enforcer" (enforcement workflow identity)
 - Push corrected state back to `main`
 
 ---
@@ -250,15 +274,17 @@ For valid edits by file owner:
 **Workflow File:** `.github/workflows/enforce-ownership.yml`
 
 **Required Capabilities:**
-- YAML parsing and manipulation (preserve existing keys)
-- Git history inspection (for renames and non-markdown ownership)
+- YAML parsing and manipulation (for registry)
+- SHA-256 checksum calculation (for file integrity)
+- Git history inspection (for renames and restoration)
 - File system operations (read, write, revert)
 - Commit and push with GitHub token
 - Concurrency control to prevent race conditions
 
 **Language/Tools:**
-- Python 3.11+ with PyYAML for frontmatter handling
-- Git CLI commands for history inspection
+- Python 3.11+ with PyYAML for registry handling
+- Python hashlib for SHA-256 checksums
+- Git CLI commands for history inspection and rename detection
 - GitHub Actions native features for triggers, auth, and concurrency groups
 
 **Concurrency Configuration:**
@@ -279,14 +305,17 @@ the-foundry/
 │   │   └── enforce_ownership.py    # Enforcement script
 │   └── workflows/
 │       └── enforce-ownership.yml   # Main enforcement workflow
+├── .foundry/
+│   └── registry.yml                # Ownership registry (admin-only)
 ├── .obsidian/                      # Excluded from enforcement
 ├── The Starforged/                 # Game folders (any structure)
 │   ├── Characters/
 │   ├── Journals/
 │   └── ...
-├── LICENSE                         # Root file (owned by nickarrow)
-├── README.md                       # Root file (owned by nickarrow)
-└── SPECIFICATION.md                # This file
+├── LICENSE                         # Root file (tracked in registry)
+├── README.md                       # Root file (tracked in registry)
+├── SPECIFICATION.md                # This file (tracked in registry)
+└── REGISTRY_MIGRATION.md           # Registry system documentation
 ```
 
 **Guardian Repository:** `the-foundry-guardian` (private)
@@ -297,7 +326,8 @@ the-foundry-guardian/
 │       └── monitor.yml             # Guardian monitoring workflow
 ├── canonical-workflows/
 │   ├── enforce-ownership.yml       # Canonical enforcement workflow
-│   └── enforce_ownership.py        # Canonical enforcement script
+│   ├── enforce_ownership.py        # Canonical enforcement script
+│   └── registry.yml                # Canonical registry structure
 └── README.md                       # Guardian documentation
 ```
 
@@ -438,7 +468,7 @@ The enforcement pipeline protects player content, but what protects the enforcem
 Guardian monitors these critical files:
 - `.github/workflows/enforce-ownership.yml` - Main enforcement workflow
 - `.github/scripts/enforce_ownership.py` - Enforcement script
-- `.github/workflows/guardian.yml` - Guardian itself (self-protecting)
+- `.foundry/registry.yml` - Ownership registry (validated by enforcement, protected by Guardian)
 
 ### Performance Considerations
 
@@ -576,17 +606,18 @@ The Foundry ownership model is successful when:
 2. Player C creates `PlayerC/My-Campaign/` folder
 3. Player C adds character and journal files
 4. FIT syncs to GitHub
-5. GitHub Action injects frontmatter with `file_owner: "playerc"`
+5. GitHub Action adds files to registry with `owner: "playerc"`
 6. Files are now protected - only Player C can edit them
 
 ### Scenario B: Unauthorized Edit Attempt
 1. Player B edits `NickArrow/The Starforged/Truths.md`
 2. FIT syncs the change to GitHub
-3. GitHub Action detects commit author (playerb) ≠ file_owner (nickarrow)
-4. Action reverts file to previous version
-5. Action commits correction
-6. Player B's next sync pulls the corrected version
-7. Player B's unauthorized edit is gone
+3. GitHub Action calculates file checksum (detects change)
+4. Action checks registry: commit author (playerb) ≠ owner (nickarrow)
+5. Action reverts file to previous version
+6. Action commits correction
+7. Player B's next sync pulls the corrected version
+8. Player B's unauthorized edit is gone
 
 ### Scenario C: Collaborative Campaign
 1. Player A creates `PlayerA/Shared-World/` campaign
@@ -598,16 +629,27 @@ The Foundry ownership model is successful when:
 
 ### Scenario D: Admin Moderation
 1. Admin needs to fix a typo in Player A's file
-2. Admin opens `PlayerA/Campaign/Character.md`
-3. Admin adds `admin_override: true` to the frontmatter
-4. Admin makes the correction and syncs
-5. GitHub Action detects admin override flag
-6. Action allows the edit and removes the override flag
-7. Action logs the override in the workflow output
-8. File is corrected, audit trail preserved
+2. Admin opens `.foundry/registry.yml`
+3. Admin adds `admin_override: true` to the file's registry entry
+4. Admin makes the correction to the file and syncs both changes
+5. GitHub Action detects admin override flag in registry
+6. Action allows the edit and removes the override flag from registry
+7. Action updates the file's checksum and modified timestamp
+8. Action logs the override in the workflow output
+9. File is corrected, audit trail preserved
+
+### Scenario E: Registry Protection
+1. Player B tries to edit `.foundry/registry.yml` to grant themselves ownership of Player A's files
+2. FIT syncs the registry change to GitHub
+3. GitHub Action detects registry was modified
+4. Action checks: commit author (playerb) ≠ admin (nickarrow) AND not enforcement workflow
+5. Action reverts registry to previous version
+6. Action commits correction
+7. Player B's next sync pulls the corrected registry
+8. Player B's attempted ownership theft is prevented
 
 ---
 
-**Last Updated:** 2025-12-16  
+**Last Updated:** 2025-12-17  
 **Author:** nickarrow  
-**Status:** Implemented and Active (with Guardian Protection)
+**Status:** Implemented and Active (Registry-Based with Guardian Protection)
