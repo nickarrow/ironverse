@@ -2,7 +2,6 @@
 cssclasses:
   - fountain
 ---
-
 # [[Barille 25.12.17 - Beginnings]]
 > This is the beginning of a great adventure...<
 
