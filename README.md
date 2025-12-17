@@ -1,4 +1,4 @@
-# The Foundry I CAN EDIT WITH IMPUNITY!!
+# The Foundry
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
