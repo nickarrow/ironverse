@@ -4,37 +4,57 @@
 
 files:
   1. Welcome to The Foundry.md:
-    checksum: 6fb78460fb32cf521151970a82cf907039b78c2322a5e190a7aa6bfe2e5cfa4b
+    checksum: 3b57dfcde3c2bcd2739f270ee6fb64b492506634d6f4cfa60efeae060c3234f0
     created: '2025-12-17T16:24:30.677797+00:00'
-    modified: '2025-12-17T16:24:30.677797+00:00'
+    modified: '2025-12-17T16:27:49.450316+00:00'
     owner: nickarrow
   2. Getting Started.md:
-    checksum: 0c2d44023c04e4714459743fbd5c2ae9efc43e619eb8be86d623a6b1cd56f502
+    checksum: f3b036f1c73233a56fec6d0d42845a4cdae3ee61dd6c405616d3c732ee3365f6
     created: '2025-12-17T16:24:30.677888+00:00'
-    modified: '2025-12-17T16:24:30.677888+00:00'
+    modified: '2025-12-17T16:27:49.450401+00:00'
     owner: nickarrow
   3. Tips and Best Practices.md:
-    checksum: 40aba3941a7a147bcaa9c8f514535ce03f40d169b7caf08201bfcbc909e994fb
+    checksum: 27cdd8c81425a6c03712ec4614d76dcece2df20506cd100177ebf42fd6e7189a
     created: '2025-12-17T16:24:30.677943+00:00'
-    modified: '2025-12-17T16:24:30.677943+00:00'
+    modified: '2025-12-17T16:27:49.450443+00:00'
     owner: nickarrow
   4. Iron Vault Feature Wishlist and Bugs.md:
-    checksum: f6851546459abc87c7317bdd7855745cc627d0c6800fcb970fe67ca3d29e6a23
+    checksum: ec6fe43ef5e2d56d724a12a701ad62e84801a414e23bc56bbe8021fd253d5c71
     created: '2025-12-17T16:24:30.677986+00:00'
-    modified: '2025-12-17T16:24:30.677986+00:00'
+    modified: '2025-12-17T16:27:49.450476+00:00'
     owner: nickarrow
   5. The Foundry Changelog.md:
-    checksum: 44ecbaf99b5b860ff1335febdcae2a3aa6a8f2cede712fee384d0cc7c87491a3
+    checksum: 94a6f3bf145a8ed8e54c7e297a3a91291e5fabb5502da6494478405d48f35cd0
     created: '2025-12-17T16:24:30.678025+00:00'
-    modified: '2025-12-17T16:24:30.678025+00:00'
+    modified: '2025-12-17T16:27:49.450505+00:00'
     owner: nickarrow
   README.md:
-    checksum: 128fc4071e625045794aa5afbc75ca7232888f057b8482de6b70f986df27adbb
+    checksum: 08b269470f4bdea218f49461001117e1e0ff3300a5763e834079dfcc51b0d657
     created: '2025-12-17T16:24:30.678087+00:00'
-    modified: '2025-12-17T16:24:30.678087+00:00'
+    modified: '2025-12-17T16:27:49.450542+00:00'
     owner: nickarrow
   SPECIFICATION.md:
-    checksum: 0eef6a782a007a9c850b37d76fc0a2a8717657a87643b06e43ce5f3f42c17aa6
+    checksum: 34a42bb5b2d906102a4b94366b98d2d0aabcdbbaede22d691085d02f6b13b554
     created: '2025-12-17T16:24:30.678176+00:00'
-    modified: '2025-12-17T16:24:30.678176+00:00'
+    modified: '2025-12-17T16:27:49.450594+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Characters/Barille Temp.md:
+    checksum: 7b5c03cfec715622214dae2536083dedbb8a772b6b10a822119ffb282a294cbe
+    created: '2025-12-17T16:27:49.450625+00:00'
+    modified: '2025-12-17T16:27:49.450625+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Journals/Session 0.md:
+    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
+    created: '2025-12-17T16:27:49.450653+00:00'
+    modified: '2025-12-17T16:27:49.450653+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/The Starforged (NickArrow).md:
+    checksum: 82e631fcaf4f95d04b9d3843fd9a35e60de187d137bb15ad846c20e75517d637
+    created: '2025-12-17T16:27:49.450678+00:00'
+    modified: '2025-12-17T16:27:49.450678+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Truths.md:
+    checksum: aa670275b4305c655ad04b70220452c85d3ae324cc6b3c6eaaa952e9a328b320
+    created: '2025-12-17T16:27:49.450708+00:00'
+    modified: '2025-12-17T16:27:49.450708+00:00'
     owner: nickarrow
