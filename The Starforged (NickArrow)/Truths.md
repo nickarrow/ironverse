@@ -10,20 +10,21 @@ In this final war, we were set upon by:
 A tyrannical faction or leader
 ```
 
-
 ## Exodus
+
+```
 When the Exodus fleet set off on a ponderous journey to a new home outside our galaxy, they marked the Forge as their destination. Countless generations lived out their lives aboard those titanic ships during the millennia-long passage.
 
 The refugees built a rich legacy of culture and tradition during the Exodus. Some even remained in the ships after their arrival in the Forge, unwilling or unable to leave their familiar confines. Those vessels, the Ironhomes, still sail the depths of this galaxy.
+```
 
 ## Communities
-```iron-vault-truth
-truth:starforged/communities
-inserted
+
 ```
 Dangers abound, but there is safety in numbers. Many ships and settlements are united under the banner of one of the Founder Clans.
 
 We have a tentative foothold in this galaxy. Each of the five Founder Clans honor the name and legacy of a leader who guided their people in the chaotic time after the Exodus. Vast reaches of the settled domains are claimed by the clans, and territorial skirmishes are common.
+```
 
 ## Iron
 
