@@ -111,9 +111,9 @@ Yeaaaaaaaaaahh!
 
 
 
-Okay this is a test of the new inline mechanics. Barille fires at the lead ship, his engine, and ship coming alive simultaneously  `iv-move:Enter the Fray|Edge|3|1|0|3|3|move:starforged/combat/enter_the_fray` A strong hit with a match!! Let's go!!! Barille check's his radar, how many enemy ships are out there? `iv-oracle:Number|76|Many|oracle_rollable:sundered_isles/misc/magnitude/number` Oh boy... and Barille is flying solo. Even though he got the drop on them, this isn't good. Well, let's see if we can put some distance between them and us  `iv-move:Gain Ground|Wits|5|2|0|9|10|move:starforged/combat/gain_ground` ... Barille his the booster but then sees just as many in front of him as behind. Was this a trap?
+Okay this is a test of the new inline mechanics. Barille fires at the lead ship, his engine, and ship coming alive simultaneously  `iv-move:Enter the Fray|Edge|3|1|0|3|3|move:starforged/combat/enter_the_fray` A strong hit with a match!! Let's go!!! Barille check's his radar, how many enemy ships are out there? `iv-oracle:Number|76|Many|oracle_rollable:sundered_isles/misc/magnitude/number` Oh boy... and Barille is flying solo. Even though he got the drop on them, this isn't good. Well, let's see if we can put some distance between them and us  `iv-move:Gain Ground|Wits|5|2|0|9|10|move:starforged/combat/gain_ground` ... Barille his the booster but then sees just as many in front of him as behind. 
 
-Thsi is the battle!  `iv-move:Strike|Edge|3|1|0|5|9|move:starforged/combat/strike|burn=8:2`  how about oracles now ? Okay oracle  `iv-oracle:Likely|97|No|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  that seem to work  `iv-oracle:Initial Disposition|64|Desperate|oracle_rollable:starforged/character/initial_disposition` yay
+Was this a trap? Let's try a move with momentum  `iv-move:Strike|Edge|3|1|0|5|9|move:starforged/combat/strike|burn=8:2`  How about oracles inserted inline into text? Will this work?  `iv-oracle:Likely|97|No|move.oracle_rollable:starforged/fate/ask_the_oracle.likely` Ha! I beat the odds! How about the disposition of these attackers?  `iv-oracle:Initial Disposition|64|Desperate|oracle_rollable:starforged/character/initial_disposition` Yup. This is going to get messy. 
 
 
 
