@@ -1,6 +1,0 @@
-This is the beginning of a great adventure...
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus consequat consectetur. Nullam commodo ante nec ultrices sollicitudin. Aliquam eget dictum elit, et blandit orci. Donec dignissim eleifend mi, id pharetra ligula dignissim ac. Cras elementum nisi non mi rutrum fringilla. Nunc commodo augue ante, eu rutrum est pretium eget. Aenean ornare porta porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean quis eros eget justo sagittis imperdiet. Nulla nec cursus lectus. Suspendisse libero sapien, luctus in ornare a, iaculis in nibh. Quisque condimentum consectetur purus at bibendum. Duis sollicitudin finibus mauris, vel semper enim ornare nec. Maecenas et mi eu urna molestie rhoncus at vel ligula. Nulla gravida ante nisi, id pulvinar diam sodales et. Nam id justo at diam euismod eleifend ac eget arcu.  
-
-`iv-oracle:Shipwreck Details|70|Ruined supplies or provisions|oracle_rollable:sundered_isles/shipwreck/details|cursed=7` 
