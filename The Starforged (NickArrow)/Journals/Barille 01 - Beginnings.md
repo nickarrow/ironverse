@@ -119,7 +119,7 @@ Now let's create some clocks.  `iv-clock-create:finish before lunch|The Starforg
 `iv-clock-advance:odds clock|The Starforged (NickArrow)/Clocks/Odds clock.md|0|2|2|odds=50 50:15:Yes` I think we should have shown the result
 
 
-Okay, this is a test of creating an entity. Let's welcome Bob to the Foundry.  `iv-entity-create:NPC|Brianna “Mainframe” Nazari|Brianna “Mainframe” Nazari.md` ok, but what is the icon for other entity types? 
+Okay, this is a test of creating an entity. Let's welcome Bob to the Foundry.  `iv-entity-create:NPC|Brianna “Mainframe” Nazari|Brianna “Mainframe” Nazari.md` ok, but what is the icon for other entity types?  `iv-entity-create:Planet|Boreas|Boreas 2.md` 
 
 
 
