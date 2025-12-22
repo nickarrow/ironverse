@@ -120,6 +120,12 @@ This is a test of the inline functionality. Let's start with just a simple make 
 
 `iv-track-advance:Progress counter thing|The Starforged (NickArrow)/Progress/Progress counter thing.md|16|16|dangerous|1` 
 
+`iv-track-create:test2|The Starforged (NickArrow)/Progress/Test2.md`  `iv-track-advance:test2|The Starforged (NickArrow)/Progress/Test2.md|0|2|epic|2`  `iv-track-advance:test2|The Starforged (NickArrow)/Progress/Test2.md|2|15|epic|13` 
+
+`iv-track-advance:Progress counter thing|The Starforged (NickArrow)/Progress/Progress counter thing.md|24|32|dangerous|1`  `iv-progress:Complete the inline feature|6|5|5` 
+
+`iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-move:Swear an Iron Vow|Heart|3|3|0|6|4|move:starforged/quest/swear_an_iron_vow`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` 
+
 `iv-track-create:Do this new thing|The Starforged (NickArrow)/Progress/Do this new thing.md` 
 
 Now let's create some clocks.  `iv-clock-create:finish before lunch|The Starforged (NickArrow)/Clocks/Finish before lunch.md`  , Thats neat.  `iv-clock-advance:finish before lunch|The Starforged (NickArrow)/Clocks/Finish before lunch.md|0|2|2` advancing.  `iv-clock-create:odds clock|The Starforged (NickArrow)/Clocks/Odds clock.md` okay with an odds clock created, 

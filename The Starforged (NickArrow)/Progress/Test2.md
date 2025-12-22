@@ -1,7 +1,7 @@
 ---
-name: Progress counter thing
-rank: dangerous
-progress: 32
+name: test2
+rank: epic
+progress: 15
 tags:
   - incomplete
 track-type: ""
