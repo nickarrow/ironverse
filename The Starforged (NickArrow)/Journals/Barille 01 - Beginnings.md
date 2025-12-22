@@ -109,3 +109,6 @@ Yeaaaaaaaaaahh!
 > The first ship erupts, and before the others can react, the second one does too. These guys weren’t expecting a fight. Barille can’t quite get a shot on the third, which starts burning away. And then the frigate starts firing. Alarms are going off, missiles inbound, and this thing seems to have lots of guns. Barille burns and rolls the ship to evade. 
 > IN A BAD SPOT
 
+
+
+Okay, let's play out a session to test all of the new inline features. First let's  `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` - Barille is walking along the busy market streets of...  `iv-entity-create:Settlement|Reprise|The Starforged (NickArrow)/Locations/Planets/Reprise.md` *The generate entity command with imbedded links is neato!* Okay, wait, why is Barille here?  `iv-oracle:Inciting Incident|53|Locate a downed spacer on an uninhabited planet|oracle_rollable:starforged/campaign_launch/inciting_incident` Okay, so he is looking for information, maybe a clue that will help out someho
