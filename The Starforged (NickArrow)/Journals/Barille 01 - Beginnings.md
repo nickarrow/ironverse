@@ -109,4 +109,3 @@ Yeaaaaaaaaaahh!
 > The first ship erupts, and before the others can react, the second one does too. These guys weren’t expecting a fight. Barille can’t quite get a shot on the third, which starts burning away. And then the frigate starts firing. Alarms are going off, missiles inbound, and this thing seems to have lots of guns. Barille burns and rolls the ship to evade. 
 > IN A BAD SPOT
 
-So whatasfasdf asf asdf asfd sdf asd fasdf fasdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdfa sfasdfd asdf as dfas fasdf  sfa sdf as fasdf as dfas dfas fassdf as fasdf asdf as fas fas dfasddf asd fdasdf a sdfa sfasd fa sdfas dfa fasdf asdf asdf asdf asdfa sdfasf asdf asdf asdf adsf asdf adfas fa sdf as fdasd fdasf sadf asdf asdf asdf asdf asdf asdf 
