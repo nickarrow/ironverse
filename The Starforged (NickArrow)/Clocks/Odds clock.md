@@ -1,7 +1,7 @@
 ---
 name: odds clock
 segments: 6
-progress: 2
+progress: 3
 default-odds: likely
 tags:
   - incomplete

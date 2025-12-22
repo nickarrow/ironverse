@@ -1,10 +1,10 @@
 ---
-name: Complete the inline feature
-rank: formidable
+name: Progress counter thing
+rank: dangerous
 progress: 24
 tags:
   - incomplete
-track-type: Vow
+track-type: ""
 character: "[[The Starforged (NickArrow)/Characters/Barille Black.md]]"
 iron-vault-kind: progress
 ---
