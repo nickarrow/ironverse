@@ -4,13 +4,13 @@
 INT. LONG-RANGE TRANSPORT SHIP, RENTED CABIN
 [[Barille Black]] is sleeping on a stiff bed, wearing his dark blue suit and tie, loosened at the neck. He has dark curly hair, and the stubble of a beard.  
 
-`iv-oracle:Character Goal|87|Action + Theme|oracle_rollable:starforged/character/goal` 
+`iv-oracle:Character Goal|89|Leave, Rival|oracle_rollable:starforged/character/goal` 
 
-`iv-oracle:Character Goal|93|Rebel against power, Defend a person|oracle_rollable:starforged/character/goal` 
+`iv-oracle:Character Goal|91|Restore a relationship, Claim a resource|oracle_rollable:starforged/character/goal` 
 
-`iv-oracle:Character Goal|84|Action + Theme|oracle_rollable:starforged/character/goal` 
 
-/
+`iv-oracle:Character Goal|88|Raid, Health|oracle_rollable:starforged/character/goal` 
+
 
 
 
