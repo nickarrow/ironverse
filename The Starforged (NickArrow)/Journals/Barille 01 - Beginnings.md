@@ -38,29 +38,16 @@ Barille pulls up the UI from his hand terminal, and initiates the pre-launch seq
 
 Barille jumps into his SN-27 snub fighter, the engines are already humming. He punches the launch control and blasts out into the void.
 
-`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray` 
-
-`iv-initiative:Position|in control|in control`    `iv-initiative:Position|in control|in a bad spot` 
-
-
-With a roll of the controls, Barille sees the immediate forces. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. 
+`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray` `iv-initiative:Position|in control|in control`  With a roll of the controls, Barille sees the immediate forces. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. Not great odds, but Barille might be able to catch them by surprise. 
 
 BARILLE
 Let’s see how good their scans are. 
 
-Barille shields the engines, blocks EM, and goes ballistic with a burst of RCS to set up an ambush for the returning fighters. 
+Barille shields the engines, blocks EM, and goes ballistic with a burst of RCS to set up an ambush for the returning fighters.  `iv-move:Gain Ground|Shadow|5|1|0|3|4|move:starforged/combat/gain_ground` They have no idea. 
 
-```iron-vault-mechanics
-actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
-        roll "Shadow" action=5 adds=0 stat=1 vs1=3 vs2=4
-    }
-}
-```
+This seems like a small time raid, and under normal circumstances, it would have been successful. Not today fellas.
 
-They have no idea. This seems like a small time raid, and under normal circumstances, it would have been successful. Not today fellas.
-
-> Barille fires at the lead ship, his engine, and ship coming alive simultaneously. 
+> Barille fires at the lead ship, his engine, and ship coming alive simultaneously.  
 
 ```iron-vault-mechanics
 actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
