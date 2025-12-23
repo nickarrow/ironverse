@@ -2,26 +2,9 @@
 > This is the beginning of a great adventure...
 
 INT. LONG-RANGE TRANSPORT SHIP, RENTED CABIN
-[[Barille Black]] is sleeping on a stiff bed, wearing his dark blue suit and tie, loosened at the neck. He has dark curly hair, and the stubble of a beard.  
+[[Barille Black]] is sleeping on a stiff bed, wearing his dark blue suit and tie, loosened at the neck. He has dark curly hair, and the stubble of a beard. `iv-oracle:Character Goal|91|Gain Riches, Seek Power|oracle_rollable:starforged/character/goal` 
 
-`iv-oracle:Starship Name|92|Tormentor|oracle_rollable:starforged/starship/starship_name` 
-
-`iv-oracle:Character Goal|92|Action + Theme, Build a home, Seek redemption|oracle_rollable:starforged/character/goal` 
-
-
-
-
-
-
-`ROLL CHARACTER GOAL` 
-```iron-vault-mechanics
-oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="Roll twice" roll=91 {
-    oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="Gain Riches" roll=38
-    oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="Seek Power" roll=72
-}
-```
-
-> Growing up within the domain of a founder clan, the [[Circle of the Elder Stars]], Barille's childhood was difficult. Not being of notable bloodline meant that he was relegated to the lower ranks of the Circle's caste system. However, his ability to fight, endure, and complete jobs earned him a reputation that helped elevate his status. Working jobs meant that he was able to grow his reputation, which provided access to bigger and better jobs. Barille has since left the Circle, for reasons unknown, and is currently adrift in the sector [[Devil's Chain]], moving from job to job. 
+Growing up within the domain of a founder clan, the [[Circle of the Elder Stars]], Barille's childhood was difficult. Not being of notable bloodline meant that he was relegated to the lower ranks of the Circle's caste system. However, his ability to fight, endure, and complete jobs earned him a reputation that helped elevate his status. Working jobs meant that he was able to grow his reputation, which provided access to bigger and better jobs. Barille has since left the Circle, for reasons unknown, and is currently adrift in the sector [[Devil's Chain]], moving from job to job. 
 > 
 > When Barille left the Circle he made a vow, to [[Establish a new noble house in the Circle of the Elder Stars]]. A house that would surpass all others and become the dominant authority within the faction. 
 > 
