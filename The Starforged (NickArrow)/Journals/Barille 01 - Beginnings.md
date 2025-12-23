@@ -38,7 +38,12 @@ Barille pulls up the UI from his hand terminal, and initiates the pre-launch seq
 
 Barille jumps into his SN-27 snub fighter, the engines are already humming. He punches the launch control and blasts out into the void.
 
-`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray`  With a roll of the controls, Barille sees the immediate forces. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. 
+`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray` 
+
+`iv-initiative:Position|in control|in control`    `iv-initiative:Position|in control|in a bad spot` 
+
+
+With a roll of the controls, Barille sees the immediate forces. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. 
 
 BARILLE
 Let’s see how good their scans are. 
