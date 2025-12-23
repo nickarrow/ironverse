@@ -13,7 +13,7 @@ tags: [excalidraw]
 Sector: Devil's Chain ^aazSoxa5
 
 ## Element Links
-A51kQGMi: [[Acyrus]]
+A51kQGMi: [[Ackriss-2]]
 
 ## Embedded Files
 8776f7b02d61abee57f82abef777c909a5b02c16: [[devils-chain-background.png]]

@@ -1,8 +1,7 @@
 ![[acyrus.gif]]
 
-| Name                | Acyrus                                               |
+| Name                | Ackriss-2                                            |
 | ------------------- | ---------------------------------------------------- |
-| Sample Names        | Cyrus                                                |
 | Atmosphere          | Toxic                                                |
 | Observed From Space | Towering mountain ranges, Massive supervolcano       |
 | Planetside Feature  | Blinding ash storms, Action:Peaceful Focus:Discovery |
