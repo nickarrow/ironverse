@@ -30,16 +30,9 @@ We're under attack, someone's shooting!
 Barille reaches into his pocket and flips a black iron coin. He catches it and then says to himself.
 
 BARILLE
-On this iron I swear to /make  [[Fend off attackers until the transport can escape]]. 
+On this iron I swear to  `iv-move:Swear an Iron Vow|Heart|3|3|0|9|5|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Fend off attackers until the transport can escape|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md` 
 
-```iron-vault-mechanics
-actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
-        roll "Heart" action=3 adds=0 stat=3 vs1=4 vs2=9
-    }
-}
-```
-> Okay - not sure who these hostiles are, nor why they’d be going after us? Straight up piracy? Maybe if there was more time, I could find out. For now…
+> Okay - not sure who these hostiles are, nor why they’d be going after us? Straight up piracy? Going to need to deal with the immediate, and very explody, problem - and then figure out who is actually attacking transport ships out here.
 
 Barille pulls up the UI from his hand terminal, and initiates the pre-launch sequence for his snub fighter. Green check marks. Great, let’s get there. Barille takes off to the hanger bay. 
 
