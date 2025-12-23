@@ -17,17 +17,7 @@ Barille is suddenly thrown out of his rented bed aboard the transport ship as th
 BARILLE
 Good gods. I’m trying to get some sleep TODAY! 
 
-He stumbles to his feat, pushes buttons on the nearby panel trying to access the ship’s systems.
-
-```iron-vault-mechanics
-actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
-        roll "Wits" action=2 adds=0 stat=2 vs1=1 vs2=4
-    }
-}
-```
-
-Barille opens crew door to see klaxons flashing, people shouting down the call. He sees a crewman running by.
+He stumbles to his feat, pushes buttons on the nearby panel trying to access the ship’s systems.  `iv-move:Gather Information|Wits|2|2|0|5|3|move:starforged/adventure/gather_information` Barille opens crew door to see klaxons flashing, people shouting down the call. He sees a crewman running by.
 
 BARILLE
 Hey, what's going on? 
@@ -40,7 +30,7 @@ We're under attack, someone's shooting!
 Barille reaches into his pocket and flips a black iron coin. He catches it and then says to himself.
 
 BARILLE
-On this iron I swear to [[Fend off attackers until the transport can escape]]. 
+On this iron I swear to /make  [[Fend off attackers until the transport can escape]]. 
 
 ```iron-vault-mechanics
 actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
