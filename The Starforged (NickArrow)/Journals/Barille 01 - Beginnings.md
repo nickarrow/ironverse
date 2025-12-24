@@ -47,7 +47,7 @@ Barille shields the engines, blocks EM, and goes ballistic with a burst of RCS t
 
 This seems like a small time raid, and under normal circumstances, it would have been successful. Not today fellas.
 
-> Barille fires at the lead ship, his engine, and ship coming alive simultaneously.  
+> Barille fires at the lead ship, his engine, and ship coming alive simultaneously.  Hello
 
 ```iron-vault-mechanics
 actor name="[[Campaigns\/The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
