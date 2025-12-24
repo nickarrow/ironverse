@@ -10,7 +10,7 @@ Growing up within the domain of a founder clan, the [[Circle of the Elder Stars]
 > 
 > Barille is on a transport ship. Not having an FTL capable ship of his own, he has to buy or barter his way to systems or sectors. He is already on a job, a posted job for the [[Risen Union]] (RU). The RU has a reputation of keeping its cards close to the vest, but the jobs pay well, even if they tend to come with little information and lead to more questions than answers. 
 > 
-> Barille has sworn a vow for this job, to  `iv-track-create:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` and he means to see it through. 
+> Barille has sworn a vow for this job, to  `iv-track-create:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` and he means to see it through. 
 
 Barille is suddenly thrown out of his rented bed aboard the transport ship as the ship rocks violently. Either it is under attack or something catastrophic has happened. The damage is significant.
 
