@@ -11,8 +11,8 @@ Epistolary play is a style of collaborative storytelling where multiple players 
 This format works beautifully with The Foundry's ownership model: you own your letters, others own theirs, and the shared narrative grows organically through addition.
 
 **This guide covers:**
-- [For Players](#for-players) — How to join and play in an Epistolary campaign
-- [For Organizers](#for-organizers) — How to set up and run an Epistolary campaign
+- For-Players — How to join and play in an Epistolary campaign
+- For Organizers — How to set up and run an Epistolary campaign
 
 ---
 
@@ -212,20 +212,4 @@ Write a campaign introduction that includes:
 - Write letters yourself (though you can if you have a character)
 - Resolve conflicts between player narratives (The Foundry's ownership model handles this)
 
----
-
-## Quick Reference
-
-| Element | Owner | Location |
-|---------|-------|----------|
-| Campaign files | Organizer | Campaign root |
-| Shared Vow | Organizer | Progress folder |
-| Letters | Individual players | Lore/Epistolary/ |
-| Character files | Individual players | Characters folder |
-
-**The Spotlight Rule:** Can't write two Spotlight Letters in a row. Wait for someone else.
-
-**The Endgame Rule:** Fulfill Your Vow only when the track is full. Each player gets a final letter.
-
-**The Foundry Rule:** You own your files. They own theirs. The world grows through addition.
 

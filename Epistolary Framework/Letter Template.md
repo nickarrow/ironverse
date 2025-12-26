@@ -116,10 +116,7 @@ We found where they anchor. A hidden cove on the far side of the Shattered Reef,
 
 - **Voice matters more than format.** A gruff mercenary writes differently than a scholarly mystic. Let your character come through.
 - **Show, don't tell.** Describe what happened, what you saw, what you felt. The narrative is more engaging than a summary.
-- **Connect to The Trouble.** Your letter should relate to the shared threat.
+- **Connect to The Trouble and Shared Vow.** Your letter should relate to the shared threat.
 - **Leave threads for others.** Mention rumors, sightings, or questions that other players might pick up.
 - **"Yes, and..." always.** Reference others' content as inspiration, not targets. Don't write definitive fates for characters, ships, or places that aren't yours.
 
----
-
-*Delete this template after copying, or keep it for reference — your call.*
