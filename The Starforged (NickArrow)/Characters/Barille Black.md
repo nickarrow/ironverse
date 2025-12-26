@@ -2,7 +2,7 @@
 name: Barille Black
 xp_spent: 0
 xp_added: 0
-momentum: 2
+momentum: 5
 edge: 1
 heart: 3
 iron: 2
@@ -32,7 +32,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 4
+      integrity: 2
       integrity/battered: false
       2/victory_marks: 0
     options:
@@ -44,7 +44,7 @@ assets:
       - false
     controls: {}
     options: {}
-initiative: false
+initiative: true
 ---
 ![[barille black profile.png|center|100]] 
 ```iron-vault-character-meters

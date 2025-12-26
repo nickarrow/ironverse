@@ -1,9 +1,9 @@
 ---
 name: Fend off attackers until the transport can escape
 rank: dangerous
-progress: 24
+progress: 32
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 character: "[[Barille Black]]"
 iron-vault-kind: progress
