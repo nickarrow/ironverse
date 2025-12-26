@@ -2,7 +2,7 @@
 
 > A framework for collaborative, asynchronous storytelling in The Foundry
 
-I've always wanted to try asynchronous Ironsworn, and Epistolary games have also always fascinated me. This is a TOTALLY optional framework for playing an Epistolary version of Ironsworn, Starforged, or Sundered Isles. You most certainly can ignore this and just create your own campaign (or go play in someone else's), but it is here if you are interested.
+I've always wanted to try asynchronous Ironsworn, and Epistolary games have also always fascinated me. This, **TOTALLY optional**, framework for playing an Epistolary version of Ironsworn, Starforged, or Sundered Isles. You most certainly can ignore this and just create your own campaign (or go play in someone else's), but it is here if you are interested.
 
 ## What is Epistolary Play?
 
