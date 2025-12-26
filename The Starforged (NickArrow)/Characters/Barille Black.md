@@ -65,7 +65,7 @@ initiative: false
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM #incomplete 
 > WHERE track-type = "Vow"
-> WHERE character = "Barille Black"
+> WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
 > ```
 > 
@@ -75,7 +75,7 @@ initiative: false
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
 > WHERE iron-vault-kind != "clock"
-> WHERE character = "Barille Black"
+> WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
 > ```
 
@@ -83,7 +83,7 @@ initiative: false
 > ```dataview
 > TABLE WITHOUT ID file.link as "Bonds"
 > WHERE track-type = "Connection"
-> WHERE character = "Barille Black"
+> WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
 > ```
 
@@ -100,7 +100,7 @@ initiative: false
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM #complete
 > WHERE track-type = "Vow"
-> WHERE character = "Barille Black"
+> WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
 > ```
 > 
@@ -110,6 +110,6 @@ initiative: false
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
 > WHERE iron-vault-kind != "clock"
-> WHERE character = "Barille Black"
+> WHERE character = [[Barille Black]]
 > SORT file.mtime DESC
 > ```

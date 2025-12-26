@@ -6,7 +6,7 @@ tags:
   - incomplete
 track-type: Vow
 iron-vault-kind: progress
-character: Barille Black
+character: "[[Barille Black]]"
 ---
 
 

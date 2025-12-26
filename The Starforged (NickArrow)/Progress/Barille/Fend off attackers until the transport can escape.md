@@ -5,7 +5,7 @@ progress: 24
 tags:
   - incomplete
 track-type: Combat
-character: Barille Black
+character: "[[Barille Black]]"
 iron-vault-kind: progress
 ---
 
