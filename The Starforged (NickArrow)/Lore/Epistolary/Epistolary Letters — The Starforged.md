@@ -1,6 +1,6 @@
 # Epistolary Letters — The Starforged
 
-> Drop your Spotlight Letters here to contribute to the shared story.
+> Drop your Spotlight Letters into this folder to contribute to the shared story.
 
 ## The Trouble
 
@@ -8,9 +8,7 @@ A notorious pirate clan has emerged in Devil's Chain, striking with unnatural pr
 
 ## The Shared Vow
 
-**"Expose the darkness behind the Devil's Chain raiders and stop it from spreading"** (Extreme)
-
-See: [[Shared Vow - Expose the darkness behind the Devil's Chain raiders]]
+**[[Expose the darkness behind the attacks across the sector and stop it from spreading]]**
 
 ## How to Contribute
 
