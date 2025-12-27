@@ -164,7 +164,7 @@ class FoundryEnforcer:
                 f.write("# The Foundry - File Ownership Registry\n")
                 f.write("# This file tracks ownership and integrity of all non-hidden files in the repository.\n")
                 f.write("# DO NOT EDIT MANUALLY - Managed automatically by the Foundry enforcement system.\n\n")
-                yaml.dump(self.registry, f, default_flow_style=False, sort_keys=True)
+                yaml.dump(self.registry, f, default_flow_style=False, sort_keys=True, allow_unicode=True)
             
             # Commit and push to guardian repo
             subprocess.run(['git', '-C', GUARDIAN_REPO_PATH, 'add', 'registry.yml'], check=True)
