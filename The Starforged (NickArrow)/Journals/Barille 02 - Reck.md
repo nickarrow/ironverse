@@ -2,7 +2,7 @@
 
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-meter:Momentum|5|6` 
 
-EXT. SNUB FIGHTER ‘27’ REENTRY TO ACKRISS-2
+EXT. SNUB FIGHTER 27 REENTRY TO ACKRISS-2
 
 The 27 bursts through the purple and green clouds of [[Ackriss-2]]. Scans are showing a toxic atmosphere and remnants of ash. Likely from regular volcanic eruptions. 
 
