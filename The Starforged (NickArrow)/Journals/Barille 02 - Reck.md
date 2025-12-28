@@ -49,10 +49,25 @@ Before leaving  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_miles
 
 `iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged (NickArrow)/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1` 
 
-`iv-noroll:Take a Break|move:starforged/session/take_a_break` 
+Barille reflects on the little bit of information he has about the so called "horrors" of Reck. The job just stated "terrifying manifestations" not a lot to go on. Need to ask around. And someone has gone missing, let's find anyone in charge.  `iv-move:Gather Information|Wits|1|2|0|9|4|move:starforged/adventure/gather_information` 
+
+
+
+
+
 
 Session outline:
 - Get to Reck
 - Assist if needed
 - Start ship repairs (if possible)
 - Begin investigation of [[Investigate and report on the rumored horrors of Reck]]
+
+
+---
+
+*Moving this block down here so I can test block rendering. Ignore for story purposes.*
+```iron-vault-mechanics
+move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
+    roll "Wits" action=1 adds=0 stat=2 vs1=9 vs2=4
+}
+```

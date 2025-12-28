@@ -32,7 +32,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 2
+      integrity: 4
       integrity/battered: false
       2/victory_marks: 0
     options:
