@@ -26,7 +26,7 @@ tinQrNMs: [[Devil's Chain]]
 ## Embedded Files
 8776f7b02d61abee57f82abef777c909a5b02c16: [[devils-chain-background.png]]
 
-7032e8223d3d089d07b58573362665ff8fd88fc8: [[acyrus-system.svg]]
+7032e8223d3d089d07b58573362665ff8fd88fc8: [[ackriss-system.svg]]
 
 %%
 ## Drawing
