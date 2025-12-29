@@ -67,11 +67,38 @@ Barille get's out of his fighter and sets off. He reflects on the little bit of 
 > 
 > Looks like my message has attracted the wrong kind of attention. 
 
-A sudden crash and screeching of metal is heard from behind Barille, in the landing bay. He runs back to see the large grapple hook 
+A sudden crash and screeching of metal is heard from behind Barille, in the landing bay. He runs back to see the large grapple hook digging into the side of the 27. `iv-meter:Snub Fighter / Integrity|2|1` 
 
-`iv-meter:Snub Fighter / Integrity|2|1` 
+There's also a small group of folk that have gathered, scavengers or otherwise and two big guys step in front of Barille. 
 
-*note to self - need to resolve this miss from Gather Information.*
+```
+BARILLE BLACK
+Hey friends, seems like you have gone and put a hook into my ship. 
+
+SCAVENGER 1
+I think you mean our ship. You picked the wrong day to show up, we control the entire east ward now. 
+
+BARILLE BLACK
+Yeah, that's fine. *Barille pulls out a cigarette and lites it* You can have the east ward, but I'm going to need my ship. How about, you ungrapple it and we don't have to turn this into a... thing.
+```
+
+`iv-move:Compel|Heart|5|3|0|4|5|move:starforged/adventure/compel`  `iv-meter:Momentum|6|7` 
+
+```
+SCAVENGER 1
+Huh. I figured you we're just going to try and pull a gun and... look if you stay out of our way, you can keep this ship. Looks pretty beat up anyway. Just remember, the east ward is ours.
+
+BARILLE BLACK
+Got it. And who is "Us" exactly? 
+
+SCAVENGER 1
+We're with "Murad", and she owns it. Got that!
+
+BARILLE BLACK
+Understood. *Takes a long drag on the *cigarette*, congrats to her. 
+```
+
+`iv-noroll:Take a Break|move:starforged/session/take_a_break` 
 
 Session outline:
 - Get to Reck
