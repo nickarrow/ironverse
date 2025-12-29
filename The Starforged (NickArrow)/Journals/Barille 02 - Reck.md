@@ -53,9 +53,6 @@ Barille reflects on the little bit of information he has about the so called "ho
 
 *note to self - need to resolve this miss from Gather Information.*
 
-
-
-
 Session outline:
 - Get to Reck
 - Assist if needed
