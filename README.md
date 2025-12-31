@@ -32,7 +32,7 @@ The Foundry silently restores it. Your next sync pulls the corrected version. No
 ### Prerequisites
 - [Obsidian](https://obsidian.md/)
 - [GitHub account](https://github.com/)
-- Repository access — contact [@nickarrow](https://github.com/nickarrow) or find me on the [Ironsworn Discord](https://discord.gg/8bRuZwK)
+- Repository access — contact **@nickarrow** on the [Ironsworn Discord](https://discord.gg/8bRuZwK)
 
 ### Quick Setup
 1. Create an empty Obsidian vault
@@ -63,7 +63,6 @@ For community guidelines and the collaborative philosophy, see [[Welcome to The 
 - [[Welcome to The Foundry]] — Community guidelines and collaborative philosophy
 - [[Getting Started]] — Detailed setup walkthrough
 - [[Tips and Best Practices]] — Helpful advice for playing
-- [[4. Iron Vault Feature Wishlist and Bugs]] — Community feedback on Iron Vault
 
 ---
 
