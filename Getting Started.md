@@ -6,7 +6,7 @@ Let's get you set up and playing.
 
 - **Obsidian** — [Download here](https://obsidian.md/)
 - **GitHub account** — [Sign up here](https://github.com/) (free)
-- **Repository access** — Contact [@nickarrow](https://github.com/nickarrow) on GitHub or the [Ironsworn Discord](https://discord.gg/8bRuZwK) to be added as a collaborator
+- **Repository access** — contact **@nickarrow** on the [Ironsworn Discord](https://discord.gg/8bRuZwK) to be added as a collaborator
 
 ## Setup Instructions
 ### Step 1: Create an Empty Vault
