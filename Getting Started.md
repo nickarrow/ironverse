@@ -25,9 +25,13 @@ Let's get you set up and playing.
 3. Name it something like "The Foundry - FIT Plugin"
 4. Set expiration (if it expires you'll just need to regenerate it and copy/paste into FIT settings)
 5. Select the `repo` scope (Full control of private repositories)
-screenshot
-6. Click "Generate token"
-7. **Copy the token immediately** — you won't see it again
+
+**EXAMPLE TOKEN SETTINGS:**
+
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/b37b3307-5481-4a8c-b600-6ad63c31271a" />
+
+7. Click "Generate token"
+8. **Copy the token immediately** — you won't see it again (but you can always regenerate it if you need to)
 
 ### Step 3: Install and Configure FIT Plugin
 
@@ -44,8 +48,12 @@ FIT (Minimalist File giT) handles syncing your vault with GitHub.
 9. Write in `the-foundry` as the 
 10. Select **"the-foundry"** from the repository name
 11. Select **"main"** from the branch dropdown
-screenshot
 12. **Set Auto sync to "Remind Only" <-- IMPORTANT to avoid syncing conflicts**
+
+**EXAMPLE FIT PLUGIN SETTINGS:**
+
+<img width="600" height="443" alt="image" src="https://github.com/user-attachments/assets/f64dd9bf-f513-4af0-8bd3-7e32749250b5" />
+
 
 ### Step 4: Initial Sync
 
