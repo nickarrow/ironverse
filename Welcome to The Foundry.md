@@ -32,9 +32,17 @@ The Foundry silently restores it. Your next sync pulls the corrected version. No
 ### Prerequisites
 - [Obsidian](https://obsidian.md/)
 - [GitHub account](https://github.com/)
-- Repository access — contact [@nickarrow](https://github.com/nickarrow) or find me on the [Ironsworn Discord](https://discord.gg/8bRuZwK)
+- Repository access — contact **@nickarrow** on the [Ironsworn Discord](https://discord.gg/8bRuZwK)
 
-For the full setup walkthrough, see [[2. Getting Started]].
+For the full setup walkthrough, see [[Getting Started]].
+
+## Start Playing
+
+Once you're synced, you have two paths:
+### Start Your Own Campaign
+Use Iron Vault to create a new campaign in your own folder. You own everything you create.
+### Join an Existing Campaign
+Browse the campaigns in your vault. Create your character in someone else's folder. Write journal entries. You own your files, they own theirs, and the world grows organically.
 
 ## Community Guidelines
 
@@ -60,20 +68,8 @@ While The Foundry's technical systems prevent you from editing or deleting other
 - **Treat others' creations as living stories.** That character, location, or faction might still be in active play. Write as if the original creator might continue their story tomorrow.
 - **When in doubt, go adjacent.** Instead of writing definitive outcomes for others' content, write about rumors, near-misses, or your character's *perception* of events.
 
-## Start Playing
-
-Once you're synced, you have two paths:
-### Start Your Own Campaign
-Use Iron Vault to create a new campaign in your own folder. You own everything you create.
-### Join an Existing Campaign
-Browse the campaigns in your vault. Create your character in someone else's folder. Write journal entries. You own your files, they own theirs, and the world grows organically.
-
-## Questions?
-
-Contact [@nickarrow](https://github.com/nickarrow) or join the [Ironsworn Discord](https://discord.gg/8bRuZwK).
-
 ---
 
-**Ready to set up?** See [[2. Getting Started]]
+**Ready to set up?** See [[Getting Started]]
 
-**Already playing?** Check out [[3. Tips and Best Practices]]
+**Already playing?** Check out [[Tips and Best Practices]]

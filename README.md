@@ -40,7 +40,7 @@ The Foundry silently restores it. Your next sync pulls the corrected version. No
 3. Install the **Iron Vault** plugin
 4. Start creating!
 
-For the full setup walkthrough, see [[2. Getting Started]].
+For the full setup walkthrough, see [[Getting Started]].
 
 ## Start Playing
 
@@ -56,13 +56,13 @@ Browse the campaigns in your vault. Create your character in someone else's fold
 
 The Foundry follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK) and embraces the **"Yes, and..."** philosophy of collaborative storytelling.
 
-For community guidelines and the collaborative philosophy, see [[1. Welcome to The Foundry]].
+For community guidelines and the collaborative philosophy, see [[Welcome to The Foundry]].
 
 ## Documentation
 
-- [[1. Welcome to The Foundry]] — Community guidelines and collaborative philosophy
-- [[2. Getting Started]] — Detailed setup walkthrough
-- [[3. Tips and Best Practices]] — Helpful advice for playing
+- [[Welcome to The Foundry]] — Community guidelines and collaborative philosophy
+- [[Getting Started]] — Detailed setup walkthrough
+- [[Tips and Best Practices]] — Helpful advice for playing
 - [[4. Iron Vault Feature Wishlist and Bugs]] — Community feedback on Iron Vault
 
 ---

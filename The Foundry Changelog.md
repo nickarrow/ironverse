@@ -1,7 +1,7 @@
 # The Foundry Changelog
 
 Lists the last modified files within The Foundry
-![[5.1 The Foundry Changelog Base.base]]
+![[The Foundry Changelog Base.base]]
 
 
 

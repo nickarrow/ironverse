@@ -94,7 +94,7 @@ You don't need to think about any of this — it just works.
 
 ## Next Steps
 
-- Check out [[3. Tips and Best Practices]]
+- Check out [[Tips and Best Practices]]
 - Explore existing campaigns to see what others are creating
 - Visit [Ironvault.Quest](https://ironvault.quest/player's-guide/getting-started/04-create-your-character.html) for Iron Vault tutorials
 
