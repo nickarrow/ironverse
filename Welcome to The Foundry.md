@@ -36,14 +36,6 @@ The Foundry silently restores it. Your next sync pulls the corrected version. No
 
 For the full setup walkthrough, see [[Getting Started]].
 
-## Start Playing
-
-Once you're synced, you have two paths:
-### Start Your Own Campaign
-Use Iron Vault to create a new campaign in your own folder. You own everything you create.
-### Join an Existing Campaign
-Browse the campaigns in your vault. Create your character in someone else's folder. Write journal entries. You own your files, they own theirs, and the world grows organically.
-
 ## Community Guidelines
 
 The Foundry follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK):
