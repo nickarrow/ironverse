@@ -137,7 +137,7 @@ oracle-group name="NPC: Kayla “Rover” Dykstra" {
 
 Progress track code block
 ```iron-vault-mechanics
-track name="[[The Starforged (NickArrow)\/Progress\/Testproress.md|testproress]]" status="added"
+track name="[[The Starforged (NickArrow)\/Progress\/Testprogress.md|testprogress]]" status="added"
 ```
 
 Entity creation
