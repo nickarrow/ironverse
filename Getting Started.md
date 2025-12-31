@@ -20,13 +20,12 @@ Let's get you set up and playing.
 
 ### Step 2: Create a GitHub Personal Access Token
 
-NEED TO REWRITE THIS!!!!!
-
 1. Go to [GitHub Personal Access Tokens](https://github.com/settings/tokens)
 2. Click "Generate new token" → "Generate new token (classic)"
 3. Name it something like "The Foundry - FIT Plugin"
-4. Set expiration (90 days or 1 year recommended)
+4. Set expiration (if it expires you'll just need to regenerate it and copy/paste into FIT settings)
 5. Select the `repo` scope (Full control of private repositories)
+screenshot
 6. Click "Generate token"
 7. **Copy the token immediately** — you won't see it again
 
@@ -39,10 +38,14 @@ FIT (Minimalist File giT) handles syncing your vault with GitHub.
 3. Enable the plugin
 4. Open FIT settings
 5. Paste your personal access token
-6. Click "Authenticate" — your username and repositories will auto-populate
-7. Select **"the-foundry"** from the repository dropdown
-8. Select **"main"** from the branch dropdown
-9. Set Auto sync to "Remind Only" <-- IMPORTANT to avoid syncing conflicts
+6. Click "Authenticate" — your username will auto-populate
+7. Toggle on "Manual repository entry"
+8. Write in `nickarrow` as the repo-owner
+9. Write in `the-foundry` as the 
+10. Select **"the-foundry"** from the repository name
+11. Select **"main"** from the branch dropdown
+screenshot
+12. **Set Auto sync to "Remind Only" <-- IMPORTANT to avoid syncing conflicts**
 
 ### Step 4: Initial Sync
 
