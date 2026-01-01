@@ -32,7 +32,7 @@ The Foundry silently restores it. Your next sync pulls the corrected version. No
 ### Prerequisites
 - [Obsidian](https://obsidian.md/)
 - [GitHub account](https://github.com/)
-- Repository access — contact **@nickarrow** on the [Ironsworn Discord](https://discord.gg/8bRuZwK)
+- Repository access - [Join our Discord](https://discord.gg/A3t4mPq2QH)  and contact @nickarrow
 
 For the full setup walkthrough, see [[Getting Started]].
 

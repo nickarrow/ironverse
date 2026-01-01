@@ -4,9 +4,9 @@ Let's get you set up and playing.
 
 ## Prerequisites
 
-- **Obsidian** — [Download here](https://obsidian.md/)
-- **GitHub account** — [Sign up here](https://github.com/) (free)
-- **Repository access** — contact **@nickarrow** on the [Ironsworn Discord](https://discord.gg/8bRuZwK) to be added as a collaborator
+- **Obsidian** - [Download here](https://obsidian.md/)
+- **GitHub account** - [Sign up here](https://github.com/) (free)
+- **Repository access** - [Join our Discord](https://discord.gg/A3t4mPq2QH)  and contact @nickarrow 
 
 ## Setup Instructions
 ### Step 1: Create an Empty Vault
