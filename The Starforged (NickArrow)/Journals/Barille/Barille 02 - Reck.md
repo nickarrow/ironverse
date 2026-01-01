@@ -100,6 +100,8 @@ Understood. *Takes a long drag on the *cigarette*, congrats to her.
 
 `iv-noroll:Take a Break|move:starforged/session/take_a_break` 
 
+Okay, where were we?
+
 Session outline:
 - Get to Reck
 - Assist if needed
