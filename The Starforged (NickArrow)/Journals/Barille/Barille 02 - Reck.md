@@ -61,6 +61,8 @@ Before leaving Barille sends out an encoded wideband broadcast.  `iv-noroll:Reac
 
 `iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged (NickArrow)/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1` 
 
+INT. LANDING PORT WITH 27 PARKED AND RELEASEING STEAM
+
 Barille get's out of his fighter and sets off. He reflects on the little bit of information he has about the so called "horrors" of Reck. The job just stated "terrifying manifestations" not a lot to go on. Need to ask around. And someone has gone missing, let's find anyone in charge.  `iv-move:Gather Information|Wits|1|2|0|9|4|move:starforged/adventure/gather_information` 
 
 > What is the dire threat or unwelcome truth?  `iv-oracle:Action + Theme|68|Journey Opportunity|oracle_rollable:starforgedsupp/templates/actiontheme` Reck is a frontier settlement with an *obvious social stratification*. It looks like there may be a bit of a revolution happening, and Barille just found himself smack in the middle of it. Good luck getting your ship repaired any time soon, and also...  `iv-oracle:Pay the Price|98|Your vehicle suffers damage, Your action causes collateral damage or has an unintended effect|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
@@ -98,7 +100,42 @@ BARILLE BLACK
 Understood. *Takes a long drag on the *cigarette*, congrats to her. 
 ```
 
+Murad's scavengers drop their tools and then push past Barille, pushing him as they pass. Barille looks at the claw still stuck in the side of his fighter.
 
+> Ugh, this is going to cost me. He thinks to himself.
+
+`iv-oracle:Interlude Scene|34|Fight in a sparring match|oracle_rollable:sundered_isles/misc/interlude_scene` Barille finishes his cigarette and then proceeds to begin stretching. He practices a form, and then works up a sweat. All the while, thinking through the current situation. Reck, on the brink of rebellion. Whoever this "Murad" is, staking a claim. The transport ship and the attacking and suicidal pirates. He then thinks back to the [[Circle of the Elder Stars|Circle]] and his vow to [[Establish a new noble house in the Circle of the Elder Stars|establish a new noble house in the Circle]]. You can't ever really leave the Circle, but he is done working for others, doing their dirty work. 
+
+Barille sets off.  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|0|4|formidable|1` 
+
+INT. CROWDED CORRIDORS OF RECK
+
+Barille needs to find a lead for the missing person. Or whatever these "manifestations" are. He checks his hand terminal UI.  `iv-entity-create:NPC|Rowena Jensen|The Starforged (NickArrow)/Characters/Rowena Jensen.md` is the local contact. Let's start there.  `iv-move:Gather Information|Wits|4|2|0|1|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
+
+While looking at Rowena's profile, he immediate gets a ping from her.
+
+```
+ROWENA JENSEN - TEXT MESSAGE
+Mr. Black - RU said you we're coming, so I've been monitoring for a proximity alert. Reck is always kind of a disaseter, but today has been bigger than normal. I'm tied up in other work, but here's what I know. Ping me when you've got something.
+
+*data file attached*
+
+-message ends
+```
+
+> **Info on the missing person:**  `iv-oracle:Action + Theme|22|Deflect Religion|oracle_rollable:starforgedsupp/templates/actiontheme` Karthick Hunter, a colleague to Rowena has gone missing. There is a strong religion that permeates the upper classes of Reck, and Karthick was a true believer. 
+> 
+> Recently, Karthick had started showing up late for work, and when he was there, he was not focused on it, instead he had started to become obsessed with the religion. `iv-oracle:Story Clue|21|Evokes a remarkable anomaly or phenomenon|oracle_rollable:starforged/misc/story_clue` So much so, that one day he just disappeared. Like, every trace of him. His apartment, rented out. His personnel files, deleted. There is simply no record of him anywhere! Local authorities were no help (and generally only existed for the upper classes anyway), and nobody seems to have any answers as to where he is.  
+> 
+> Info on the horrifying manifestations:  `iv-oracle:Descriptor+Focus|17|Deadly Portal|oracle_rollable:starforgedsupp/templates/descriptorfocus` There have always been rumors on Reck. Its a frontier settlement, built into the bedrock of a toxic and violent planet. Going outside is rarely undertaken, and often perilous. Lately though, the rumors seem to center around voids that simply snatch people out of existence. Nobody has been able to document such portals, and most think it is just a rumor. Except now Karthick has gone missing. 
+
+`iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|4|8|formidable|1` 
+
+EXT. RECK MARKET
+
+With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck. 
+
+Barille sits and watches the market for a while, looking for an outdoor pub. 
 
 Session outline:
 - Get to Reck
