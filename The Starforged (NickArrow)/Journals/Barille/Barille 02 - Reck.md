@@ -135,7 +135,7 @@ EXT. RECK MARKET
 
 With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck. 
 
-Barille sits and watches the market for a while, looking for an outdoor pub. adafsdfadsf
+Barille sits and watches the market for a while, looking for an outdoor pub. 
 
 Session outline:
 - Get to Reck
