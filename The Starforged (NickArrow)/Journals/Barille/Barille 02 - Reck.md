@@ -143,3 +143,8 @@ Session outline:
 - Start ship repairs (if possible)
 - Begin investigation of [[Investigate and report on the rumored horrors of Reck]]
 
+
+`iv-move:Battle|Heart|3|3|0|8|6|move:starforged/combat/battle` 
+
+`iv-oracle:Make a Discovery|80|Rare and valuable resource|move.oracle_rollable:starforged/exploration/make_a_discovery.make_a_discovery` 
+
