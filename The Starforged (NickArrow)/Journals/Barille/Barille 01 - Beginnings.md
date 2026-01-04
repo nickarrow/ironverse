@@ -65,7 +65,7 @@ BARILLE BLACK
 ahhhhHHHHHHH! 
 ```
 
-`iv-move:React Under Fire|Edge|3|1|0|9|5|move:starforged/combat/react_under_fire` Barille dodges the ballistic rounds, but there's no answer for the missiles. Barille is burning hard, but one catches him and detonates. `iv-meter:Snub Fighter / Integrity|4|2` `iv-move:Withstand Damage|Snub Fighter / Integrity|4|2|0|4|2|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|2|3``iv-initiative:Position|in a bad spot|in control` The hit is brutal, engine and navigation damage, but still flying. We're still being shot at, but the burn has put some distance between Barille and the attackers. 
+`iv-move:React Under Fire|Edge|3|1|0|9|5|move:starforged/combat/react_under_fire` Barille dodges the ballistic rounds, but there's no answer for the missiles. Barille is burning hard, but one catches him and detonates. `iv-meter:Snub Fighter / Integrity|4|2` `iv-move:Withstand Damage|Snub Fighter / Integrity|4|2|0|4|2|move:starforged/suffer/withstand_damage` `iv-meter:Momentum|2|3` `iv-initiative:Position|in a bad spot|in control` The hit is brutal, engine and navigation damage, but still flying. We're still being shot at, but the burn has put some distance between Barille and the attackers. 
 
 Really needing to stay away from that frigate. A check of on the transport ship, and yup, they are making atmo at [[Ackriss-2]]. If Barille leaves the fight now, they'll likely just pursue the transport ship to the surface. They didn't see me before, let's try that trick again. Cutting engines, and turning up EM damping. Let's disappear and see what they do.  `iv-move:Gain Ground|Shadow|4|1|0|1|2|move:starforged/combat/gain_ground`  `iv-meter:Momentum|3|5`  `iv-track-advance:Fend off attackers until the transport can escape|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md|24|32|dangerous|1` It is quiet for 30 seconds and they have no idea.
 
@@ -95,68 +95,3 @@ Okay, let's get down there and see if we can help. Hopefully the settlement had 
 `iv-noroll:End a Session|move:starforged/session/end_a_session` 
 
 [[Barille 02 - Reck]]
-
-# Inline Mechanics Test - All Icons
-
-## Moves (Action Rolls)
-Strong hit this is what it would look like with wrapping enabled, which it is: `iv-move:Face Danger|edge|6|3|0|2|4` And then you keep typing and writing out new content: Weak hit: `iv-move:Secure an Advantage|wits|4|2|1|3|6`
-Miss: `iv-move:Compel|heart|2|1|0|8|9`
-Strong hit with match: `iv-move:Strike|iron|5|3|2|1|1`
-Miss with match: `iv-move:Clash|iron|1|2|0|7|7`
-With burn: `iv-move:Face Danger|edge|2|3|0|8|9|burn=7:2`
-With adds: `iv-move:Gather Information|wits|3|2|2|4|6|adds=1(bond),1(asset)`
-## Progress Rolls
-Strong hit: `iv-progress:Escape the Ironlands|8|3|5`
-Weak hit: `iv-progress:Slay the Beast|6|4|9`
-Miss: `iv-progress:Find the Lost Temple|3|7|8`
-Miss with match: `iv-progress:Fulfill Your Vow|2|6|6`
-
-## No-Roll Moves
-`iv-noroll:Begin a Session`
-`iv-noroll:End a Session`
-## Oracles
-`iv-oracle:Action|42|Defend`
-`iv-oracle:Theme|73|Mystery`
-`iv-oracle:Location|15|Swamp`
-With cursed die: `iv-oracle:Action|55|Attack|cursed=10`
-## Meters
-Increase: `iv-meter:Health|3|5`
-Decrease: `iv-meter:Spirit|4|2`
-Momentum up: `iv-meter:Momentum|2|5`
-Momentum down: `iv-meter:Momentum|6|3`
-Supply: `iv-meter:Supply|5|4`
-## Burn (Standalone)
-`iv-burn:7|2`
-`iv-burn:9|3`
-## Initiative
-`iv-initiative:Initiative|bad spot|in control`
-`iv-initiative:Initiative|in control|bad spot`
-`iv-initiative:Position||in control`
-`iv-initiative:Position||Bad spot`
-## Tracks - Create
-`iv-track-create:Escape the Ironlands|Quests/Escape the Ironlands.md`
-`iv-track-create:Slay the Beast|Quests/Slay the Beast.md`
-## Tracks - Advance
-`iv-track-advance:Escape the Ironlands|Quests/Escape the Ironlands.md|0|8|Epic|2`
-`iv-track-advance:Find the Artifact|Quests/Find the Artifact.md|12|20|Dangerous|2`
-`iv-track-advance:Protect the Village|Quests/Protect the Village.md|24|32|Formidable|2`
-## Tracks - Complete
-`iv-track-complete:Escape the Ironlands|Quests/Escape the Ironlands.md`
-`iv-track-complete:Slay the Beast|Quests/Slay the Beast.md`
-## Tracks - Reopen
-`iv-track-reopen:Escape the Ironlands|Quests/Escape the Ironlands.md`
-## Clocks - Create
-`iv-clock-create:Storm Approaching|Clocks/Storm Approaching.md`
-`iv-clock-create:Enemy Reinforcements|Clocks/Enemy Reinforcements.md`
-## Clocks - Advance
-`iv-clock-advance:Storm Approaching|Clocks/Storm Approaching.md|1|3|2|6`
-`iv-clock-advance:Enemy Reinforcements|Clocks/Enemy Reinforcements.md|0|1|1|4`
-With odds (success): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|3|1|8|odds=Likely:35:Yes`
-With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|odds=Unlikely:80:No`
-## Clocks - Resolve
-`iv-clock-resolve:Storm Approaching|Clocks/Storm Approaching.md`
-`iv-clock-resolve:Enemy Reinforcements|Clocks/Enemy Reinforcements.md`
-## Entity Create
-`iv-entity-create:NPC|Theron|NPCs/Theron.md`
-`iv-entity-create:Location|The Shattered Vale|Locations/The Shattered Vale.md`
-`iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
