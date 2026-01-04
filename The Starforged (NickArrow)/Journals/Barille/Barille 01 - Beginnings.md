@@ -65,7 +65,7 @@ BARILLE BLACK
 ahhhhHHHHHHH! 
 ```
 
-`iv-move:React Under Fire|Edge|3|1|0|9|5|move:starforged/combat/react_under_fire` Barille dodges the ballistic rounds, but there's no answer for the missiles. Barille is burning hard, but one catches him and detonates.  `iv-meter:Snub Fighter / Integrity|4|2`  `iv-move:Withstand Damage|Snub Fighter / Integrity|4|2|0|4|2|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|2|3`  `iv-initiative:Position|in a bad spot|in control` The hit is brutal, engine and navigation damage, but still flying. We're still being shot at, but the burn has put some distance between Barille and the attackers. 
+`iv-move:React Under Fire|Edge|3|1|0|9|5|move:starforged/combat/react_under_fire` Barille dodges the ballistic rounds, but there's no answer for the missiles. Barille is burning hard, but one catches him and detonates. `iv-meter:Snub Fighter / Integrity|4|2` `iv-move:Withstand Damage|Snub Fighter / Integrity|4|2|0|4|2|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|2|3``iv-initiative:Position|in a bad spot|in control` The hit is brutal, engine and navigation damage, but still flying. We're still being shot at, but the burn has put some distance between Barille and the attackers. 
 
 Really needing to stay away from that frigate. A check of on the transport ship, and yup, they are making atmo at [[Ackriss-2]]. If Barille leaves the fight now, they'll likely just pursue the transport ship to the surface. They didn't see me before, let's try that trick again. Cutting engines, and turning up EM damping. Let's disappear and see what they do.  `iv-move:Gain Ground|Shadow|4|1|0|1|2|move:starforged/combat/gain_ground`  `iv-meter:Momentum|3|5`  `iv-track-advance:Fend off attackers until the transport can escape|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md|24|32|dangerous|1` It is quiet for 30 seconds and they have no idea.
 
@@ -110,6 +110,7 @@ Strong hit: `iv-progress:Escape the Ironlands|8|3|5`
 Weak hit: `iv-progress:Slay the Beast|6|4|9`
 Miss: `iv-progress:Find the Lost Temple|3|7|8`
 Miss with match: `iv-progress:Fulfill Your Vow|2|6|6`
+
 ## No-Roll Moves
 `iv-noroll:Begin a Session`
 `iv-noroll:End a Session`
