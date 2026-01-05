@@ -176,11 +176,11 @@ Supply: `iv-meter:Supply|5|4`
 ## Burn (Standalone)
 `iv-burn:7|2`
 `iv-burn:9|3`
-## Initiative
-`iv-initiative:Initiative|bad spot|in control`
-`iv-initiative:Initiative|in control|bad spot`
+## Position/Initiative
 `iv-initiative:Position||in control`
 `iv-initiative:Position||Bad spot`
+
+`iv-initiative:Position|in control|in a bad spot` 
 ## Tracks - Create
 `iv-track-create:Escape the Ironlands|Quests/Escape the Ironlands.md`
 `iv-track-create:Slay the Beast|Quests/Slay the Beast.md`
@@ -208,6 +208,4 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `iv-entity-create:NPC|Theron|NPCs/Theron.md`
 `iv-entity-create:Location|The Shattered Vale|Locations/The Shattered Vale.md`
 `iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
-
-
 
