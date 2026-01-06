@@ -30,7 +30,8 @@ Let's get you set up and playing.
 
 **EXAMPLE TOKEN SETTINGS:**
 
-<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/b37b3307-5481-4a8c-b600-6ad63c31271a" />
+<img width="600" height="412" alt="image" src="https://github.com/user-attachments/assets/ba4f3550-5091-4b4f-9a57-870d2eb19adc" />
+
 
 ### Step 3: Install and Configure FIT Plugin
 
@@ -51,7 +52,7 @@ FIT (Minimalist File giT) handles syncing your vault with GitHub.
 
 **EXAMPLE FIT PLUGIN SETTINGS:**
 
-<img width="459" height="600" alt="image" src="https://github.com/user-attachments/assets/d03b6b45-d74d-4060-9367-0191947c303a" />
+<img width="600" height="784" alt="image" src="https://github.com/user-attachments/assets/d03b6b45-d74d-4060-9367-0191947c303a" />
 
 
 ### Step 4: Initial Sync
