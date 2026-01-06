@@ -1,8 +1,8 @@
-# The Foundry - Technical Specification
+# Ironverse - Technical Specification
 
-## Project Overview
+## What is The Ironverse?
 
-**The Foundry** is a shared narrative repository that allows *Ironsworn*, *Starforged*, and *Sundered Isles* players using **Obsidian + Iron Vault** to:
+**The Ironverse** is a shared narrative repository that allows *Ironsworn*, *Starforged*, and *Sundered Isles* players using **Obsidian + Iron Vault** to:
 - Publish their **entire campaign vault**
 - Read and explore the campaigns of others
 - Contribute to a larger, living narrative universe
@@ -11,7 +11,7 @@ Players sync their Obsidian vaults using [FIT](https://github.com/joshuakto/fit)
 
 ### Design Philosophy
 
-The Foundry is designed to feel:
+The Ironverse is designed to feel:
 - **Effortless for players** - no manual permission management
 - **Invisible in its enforcement** - self-healing corrections happen automatically
 - **Fiction-first in presentation** - focus on storytelling, not technical barriers
@@ -33,7 +33,7 @@ In a shared repository where multiple players contribute to interconnected campa
 
 ### Registry-Based Tracking
 
-Ownership is tracked in a centralized registry `registry.yml` file at [The-Foundry-Guardian](https://github.com/nickarrow/the-foundry-guardian/blob/main/registry.yml) repo:
+Ownership is tracked in a centralized registry `registry.yml` file at [Ironverse-Guardian](https://github.com/nickarrow/ironverse-guardian/blob/main/registry.yml) repo:
 
 ```yaml
 files:
@@ -65,7 +65,7 @@ files:
 
 ### Why Registry-Based?
 
-The Foundry switched from frontmatter injection to registry-based tracking to:
+The Ironverse switched from frontmatter injection to registry-based tracking to:
 - **Eliminate merge conflicts** - Registry updates separately from file content
 - **Keep files clean** - No automated frontmatter injection
 - **Improve performance** - Checksums quickly identify changed files
@@ -75,7 +75,7 @@ The Foundry switched from frontmatter injection to registry-based tracking to:
 ### Ownership Rules by File Type
 
 #### All Non-Hidden Files
-- Ownership tracked in `.foundry/registry.yml`
+- Ownership tracked in `.ironverse/registry.yml`
 - Includes markdown, images, PDFs, and any other file type
 - SHA-256 checksums ensure file integrity
 - Owner can freely edit, rename, move, or delete their files
@@ -83,7 +83,7 @@ The Foundry switched from frontmatter injection to registry-based tracking to:
 #### Hidden Files & Folders
 - `.obsidian/`, `.git/`, `.gitignore`, etc. are **excluded** from enforcement
 - `.github/` folder is **excluded** from enforcement (protected by Guardian system instead)
-- `.foundry/registry.yml` is **admin-only** (ownership hardcoded in enforcement script, protected by Guardian)
+- `.ironverse/registry.yml` is **admin-only** (ownership hardcoded in enforcement script, protected by Guardian)
 
 ---
 
@@ -103,15 +103,15 @@ The Foundry switched from frontmatter injection to registry-based tracking to:
 ### Pipeline Steps
 
 #### 1. Load Registry
-- Load `.foundry/registry.yml` from repository
+- Load `.ironverse/registry.yml` from repository
 - Parse YAML structure
 - If registry doesn't exist, initialize empty registry
 
 #### 2. Scan Changed Files
 - Use `git diff` to identify modified, added, renamed, or deleted files
 - Only process changed files for performance
-- **Include `.foundry/registry.yml`** for validation (special case)
-- **Exclude other `.github/` and `.foundry/` files** - protected by Guardian system
+- **Include `.ironverse/registry.yml`** for validation (special case)
+- **Exclude other `.github/` and `.ironverse/` files** - protected by Guardian system
 
 #### 3. Calculate Checksums
 For each changed file:
@@ -122,7 +122,7 @@ For each changed file:
 
 #### 4. Validate Ownership
 For each changed file:
-- **Registry file (`.foundry/registry.yml`)**: 
+- **Registry file (`.ironverse/registry.yml`)**: 
   - Check if commit is from enforcement workflow (allow)
   - Check if commit author is `nickarrow` (admin, allow)
   - Otherwise: restore from previous commit
@@ -169,13 +169,13 @@ For valid operations:
 - **Admin override used**: Remove `admin_override` flag from entry
 
 #### 8. Save Registry
-- Write updated registry to `registry.yml` on contained within [The-Foundry-Guardian](https://github.com/nickarrow/the-foundry-guardian/blob/main/registry.yml) repo:
+- Write updated registry to `registry.yml` on contained within [Ironverse-Guardian](https://github.com/nickarrow/ironverse-guardian/blob/main/registry.yml) repo:
 - Commit registry file changes
 
 #### 9. Commit Corrections
 - If any files were corrected, create a new commit
 - Commit message: `"Enforced ownership rules"`
-- Commit author: "Foundry Enforcer" (enforcement workflow identity)
+- Commit author: "Ironverse Enforcer" (enforcement workflow identity)
 - Push corrected state back to `main`
 
 ---
@@ -246,7 +246,7 @@ For valid operations:
 - ❌ Steal ownership via rename/frontmatter tampering
 
 ### Onboarding & Documentation
-- Root-level documentation files explain The Foundry rules
+- **Root-level documentation files** explain The Ironverse rules
 - Owned by `nickarrow` (protected from edits unless admin override used)
 - Clear disclaimers about automatic corrections
 - Examples of collaborative workflows
@@ -290,22 +290,22 @@ For valid operations:
 **Concurrency Configuration:**
 ```yaml
 concurrency:
-  group: foundry-enforcement
+  group: ironverse-enforcement
   cancel-in-progress: false
 ```
 This ensures enforcement actions run sequentially, preventing merge conflicts when multiple players push simultaneously.
 
 ### Repository Structure
 
-**Main Repository:** `the-foundry`
+**Main Repository:** `ironverse`
 ```
-the-foundry/
+ironverse/
 ├── .github/
 │   ├── scripts/
 │   │   └── enforce_ownership.py    # Enforcement script
 │   └── workflows/
 │       └── enforce-ownership.yml   # Main enforcement workflow
-├── .foundry/
+├── .ironverse/
 │   └── registry.yml                # Ownership registry (admin-only)
 ├── .obsidian/                      # Excluded from enforcement
 ├── The Starforged/                 # Game folders (any structure)
@@ -318,9 +318,9 @@ the-foundry/
 └── REGISTRY_MIGRATION.md           # Registry system documentation
 ```
 
-**Guardian Repository:** `the-foundry-guardian` (private)
+**Guardian Repository:** `ironverse-guardian` (private)
 ```
-the-foundry-guardian/
+ironverse-guardian/
 ├── .github/
 │   └── workflows/
 │       └── monitor.yml             # Guardian monitoring workflow
@@ -333,9 +333,9 @@ the-foundry-guardian/
 ```
 
 ### Repository Relationship
-- **`the-foundry`** - Main collaborative repository (players have write access)
-- **`the-foundry-guardian`** - Private monitoring and file registry repository (only admin has access)
-- Guardian monitors `the-foundry` every 15 minutes
+- **`ironverse`** - Main collaborative repository (players have write access)
+- **`ironverse-guardian`** - Private monitoring and file registry repository (only admin has access)
+- Guardian monitors `ironverse` every 15 minutes
 - Guardian cannot be disabled by players (separate private repo)
 - Canonical workflow versions stored in guardian repo
 
@@ -359,7 +359,7 @@ The enforcement pipeline protects player content, but what protects the enforcem
 
 #### Two-Tier Protection
 
-**Tier 1: Enforcement Pipeline** (runs on `main` in `the-foundry`)
+**Tier 1: Enforcement Pipeline** (runs on `main` in `ironverse`)
 - Protects player content from unauthorized edits
 - Validates file ownership
 - Reverts unauthorized changes
@@ -367,30 +367,30 @@ The enforcement pipeline protects player content, but what protects the enforcem
 
 **Tier 2: External Guardian** (runs in separate repository)
 - Protects the enforcement infrastructure
-- Runs every 15 minutes from [`the-foundry-guardian`](https://github.com/nickarrow/the-foundry-guardian) repository
+- Runs every 15 minutes from [`ironverse-guardian`](https://github.com/nickarrow/ironverse-guardian) repository
 - Detects compromised workflows
 - Restores entire repository to last known good state
 - Cannot be disabled by attackers (separate private repo)
 
 #### External Guardian Repository
 
-**Repository:** [`the-foundry-guardian`](https://github.com/nickarrow/the-foundry-guardian)
+**Repository:** [`ironverse-guardian`](https://github.com/nickarrow/ironverse-guardian)
 
 **Purpose:**
 - Private repository (only admin has access)
 - Contains Guardian monitoring workflow
 - Stores canonical versions of `.github/` files
-- Monitors `the-foundry` repository every 15 minutes
+- Monitors `ironverse` repository every 15 minutes
 - Cannot be disabled by players (they don't have access)
 
 **How it works:**
 1. Scheduled workflow runs every 15 minutes
-2. Clones `the-foundry` repository
+2. Clones `ironverse` repository
 3. Compares workflow files against canonical versions
 4. If compromised, finds last known good commit
 5. Restores workflows from canonical versions
 6. Restores content from last good commit
-7. Pushes restoration to `the-foundry`
+7. Pushes restoration to `ironverse`
 8. Logs attack details in workflow output
 
 **Security:**
@@ -469,7 +469,7 @@ The enforcement pipeline protects player content, but what protects the enforcem
 Guardian monitors these critical files:
 - `.github/workflows/enforce-ownership.yml` - Main enforcement workflow
 - `.github/scripts/enforce_ownership.py` - Enforcement script
-- `.foundry/registry.yml` - Ownership registry (validated by enforcement, protected by Guardian)
+- `.ironverse/registry.yml` - Ownership registry (validated by enforcement, protected by Guardian)
 
 ### Performance Considerations
 
@@ -481,25 +481,25 @@ Guardian monitors these critical files:
 ### Updating Workflows (Admin Only)
 
 **Process:**
-1. Update workflow files in `the-foundry` repository
+1. Update workflow files in `ironverse` repository
 2. Test that they work correctly
-3. Copy updated files to `the-foundry-guardian/canonical-workflows/`
+3. Copy updated files to `ironverse-guardian/canonical-workflows/`
 4. Commit and push to guardian repository
 5. Guardian will now use the new canonical versions for comparison
 
 **Example:**
 ```bash
-# 1. Update in the-foundry
-cd the-foundry
+# 1. Update in ironverse
+cd ironverse
 # Edit .github/workflows/enforce-ownership.yml
 git add .github/
 git commit -m "Update enforcement workflow"
 git push
 
 # 2. Update canonical versions in guardian
-cd ../the-foundry-guardian
-cp ../the-foundry/.github/workflows/enforce-ownership.yml canonical-workflows/
-cp ../the-foundry/.github/scripts/enforce_ownership.py canonical-workflows/
+cd ../ironverse-guardian
+cp ../ironverse/.github/workflows/enforce-ownership.yml canonical-workflows/
+cp ../ironverse/.github/scripts/enforce_ownership.py canonical-workflows/
 git add canonical-workflows/
 git commit -m "Update canonical workflows"
 git push
@@ -515,8 +515,8 @@ git push
 ### Monitoring
 
 **Guardian Repository Actions Tab:**
-- Go to [`the-foundry-guardian`](https://github.com/nickarrow/the-foundry-guardian) → Actions
-- Guardian runs show up as "Guardian - Monitor The Foundry"
+- Go to [`ironverse-guardian`](https://github.com/nickarrow/ironverse-guardian) → Actions
+- Guardian runs show up as "Guardian - Monitor Ironverse"
 - Logs show:
   - Workflow integrity check results
   - Number of commits searched
@@ -527,7 +527,7 @@ git push
 **Manual Trigger:**
 - Admin can manually trigger Guardian from guardian repo Actions tab
 - Useful for immediate checking after suspected attack
-- Select "Guardian - Monitor The Foundry" → "Run workflow"
+- Select "Guardian - Monitor Ironverse" → "Run workflow"
 
 **Attack Detection:**
 - When attack is detected, full details logged in workflow output
@@ -553,7 +553,7 @@ git push
 
 ## Success Criteria
 
-The Foundry ownership model is successful when:
+The Ironverse ownership model is successful when:
 1. ✅ Players can sync their vaults without thinking about permissions
 2. ✅ Unauthorized edits are corrected within seconds of push
 3. ✅ No manual moderation required for ownership enforcement
@@ -630,7 +630,7 @@ The Foundry ownership model is successful when:
 
 ### Scenario D: Admin Moderation
 1. Admin needs to fix a typo in Player A's file
-2. Admin opens `.foundry/registry.yml`
+2. Admin opens `.ironverse/registry.yml`
 3. Admin adds `admin_override: true` to the file's registry entry
 4. Admin makes the correction to the file and syncs both changes
 5. GitHub Action detects admin override flag in registry
@@ -640,7 +640,7 @@ The Foundry ownership model is successful when:
 9. File is corrected, audit trail preserved
 
 ### Scenario E: Registry Protection
-1. Player B tries to edit `.foundry/registry.yml` to grant themselves ownership of Player A's files
+1. Player B tries to edit `.ironverse/registry.yml` to grant themselves ownership of Player A's files
 2. FIT syncs the registry change to GitHub
 3. GitHub Action detects registry was modified
 4. Action checks: commit author (playerb) ≠ admin (nickarrow) AND not enforcement workflow

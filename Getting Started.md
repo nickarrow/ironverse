@@ -13,7 +13,7 @@ Let's get you set up and playing.
 
 1. Open Obsidian
 2. Click "Create new vault"
-3. Name it whatever you like ("The Foundry" works)
+3. Name it whatever you like ("Ironverse" works)
 4. Pick a location to save it
 
 **Important:** Keep this vault empty for now. Don't add files or install other plugins yet.
@@ -22,7 +22,7 @@ Let's get you set up and playing.
 
 1. Go to [GitHub Personal Access Tokens](https://github.com/settings/tokens)
 2. Click "Generate new token" → "Generate new token (classic)"
-3. Name it something like "The Foundry - FIT Plugin"
+3. Name it something like "Ironverse - FIT Plugin"
 4. Set expiration (if it expires you'll just need to regenerate it and copy/paste into FIT settings)
 5. Select the `repo` scope (per the screenshot below)
 6. Click "Generate token"
@@ -44,8 +44,8 @@ FIT (Minimalist File giT) handles syncing your vault with GitHub.
 6. Click "Authenticate" — your username will auto-populate
 7. Toggle on "Manual repository entry"
 8. Write in `nickarrow` as the repo-owner
-9. Write in `the-foundry` as the 
-10. Select **"the-foundry"** from the repository name
+9. Write in `ironverse` as the repo name
+10. Select **"ironverse"** from the repository name
 11. Select **"main"** from the branch dropdown
 12. **Set Auto sync to "Remind Only" <-- IMPORTANT to avoid syncing conflicts**
 
@@ -81,11 +81,11 @@ My-Campaign/
 └── Campaign-Index.md
 ```
 
-FIT syncs your files to GitHub, and The Foundry marks you as the owner.
+FIT syncs your files to GitHub, and The Ironverse marks you as the owner.
 
 ### Option B: Join an Existing Campaign
 
-This is where The Foundry shines:
+This is where The Ironverse shines:
 
 1. Browse the the existing campaigns of others in your vault
 2. Create a character in their folder, for example: `The Starforged/Characters/YourCharacter.md`
@@ -97,7 +97,7 @@ You own your files. They own theirs. The world grows organically.
 ## What Happens Behind the Scenes
 
 When you sync:
-- New files get added to The Foundry's ownership registry with you as the owner
+- New files get added to The Ironverse's ownership registry with you as the owner
 - You can freely edit your own files
 - If you accidentally edit or delete someone else's file, it gets silently restored on your next sync
 
@@ -112,7 +112,7 @@ You don't need to think about any of this — it just works.
 ## Troubleshooting
 
 **My edits disappeared!**
-You edited a file you don't own. The Foundry restored it. Create your own file instead.
+You edited a file you don't own. The Ironverse restored it. Create your own file instead.
 
 **FIT isn't syncing**
 Check your FIT configuration and GitHub credentials. Make sure you have Write access to the repository.

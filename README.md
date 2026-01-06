@@ -1,10 +1,10 @@
-# The Foundry
+# Ironverse
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
-## What is The Foundry?
+## What is The Ironverse?
 
-**The Foundry** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
+**The Ironverse** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
 
 - 📖 **Publish your campaigns** — Share your adventures with the community
 - 🔍 **Explore others' stories** — Read the campaigns, characters, and journals around you
@@ -25,7 +25,7 @@ Every file has exactly one owner — whoever created it. Simple.
 
 **What happens if you try to edit someone else's file?**
 
-The Foundry silently restores it. Your next sync pulls the corrected version. No errors, no drama, just clean content.
+The Ironverse silently restores it. Your next sync pulls the corrected version. No errors, no drama, just clean content.
 
 ## Getting Started
 
@@ -54,13 +54,13 @@ Browse the campaigns in your vault. Create your character in someone else's fold
 
 ## Community & Guidelines
 
-The Foundry follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK) and embraces the **"Yes, and..."** philosophy of collaborative storytelling.
+The Ironverse follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK) and embraces the **"Yes, and..."** philosophy of collaborative storytelling.
 
-For community guidelines and the collaborative philosophy, see [[Welcome to The Foundry]].
+For community guidelines and the collaborative philosophy, see [[Welcome to The Ironverse]].
 
 ## Documentation
 
-- [[Welcome to The Foundry]] — Community guidelines and collaborative philosophy
+- [[Welcome to Ironverse]] — Community guidelines and collaborative philosophy
 - [[Getting Started]] — Detailed setup walkthrough
 - [[Tips and Best Practices]] — Helpful advice for playing
 
@@ -68,11 +68,11 @@ For community guidelines and the collaborative philosophy, see [[Welcome to The 
 
 ## For the Technically Curious
 
-*Playing in The Foundry? You can stop here — everything above is all you need. The rest is for contributors and those curious about how the system works.*
+*Playing in The Ironverse? You can stop here — everything above is all you need. The rest is for contributors and those curious about how the system works.*
 
 ### Technical Specification
 
-For full technical details, see **[SPECIFICATION.md](.foundry/SPECIFICATION.md)**, which covers:
+For full technical details, see **[SPECIFICATION.md](.ironverse/SPECIFICATION.md)**, which covers:
 - Ownership model and registry system
 - Enforcement pipeline
 - Guardian protection system
@@ -87,16 +87,16 @@ For full technical details, see **[SPECIFICATION.md](.foundry/SPECIFICATION.md)*
 
 ### Guardian Protection System
 
-The Foundry uses a two-tier protection system:
+The Ironverse uses a two-tier protection system:
 
 1. **Enforcement Pipeline** — Runs on every push, validates ownership, reverts unauthorized edits
-2. **External Guardian** — Runs every 15 minutes from a [separate private repository](https://github.com/nickarrow/the-foundry-guardian), protecting the enforcement infrastructure itself
+2. **External Guardian** — Runs every 15 minutes from a [separate private repository](https://github.com/nickarrow/ironverse-guardian), protecting the enforcement infrastructure itself
 
 Even if an attacker deletes all workflows, the Guardian restores everything within 15 minutes. Maximum vulnerability window: 15 minutes.
 
 ### Contributing
 
-Want to improve The Foundry itself (not just add campaign content)?
+Want to improve The Ironverse itself (not just add campaign content)?
 
 1. Fork the repository
 2. Create a feature branch
@@ -107,8 +107,8 @@ Changes to the core system require admin approval.
 
 ### License
 
-See [LICENSE](.foundry/.LICENSE) for details.
+See [LICENSE](.ironverse/.LICENSE) for details.
 
 ---
 
-**Welcome to The Foundry. Forge your story.**
+**Welcome to The Ironverse. Forge your story.**

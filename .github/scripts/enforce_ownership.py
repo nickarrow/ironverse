@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-The Foundry - Ownership Enforcement Script
+Ironverse - Ownership Enforcement Script
 
-This script enforces file ownership rules for The Foundry shared narrative repository.
+This script enforces file ownership rules for The Ironverse shared narrative repository.
 It runs automatically on every push to main and:
 1. Scans changed files
 2. Updates the ownership registry
@@ -28,7 +28,7 @@ REGISTRY_PATH = f"{GUARDIAN_REPO_PATH}/registry.yml"
 GUARDIAN_PAT = os.environ.get("GUARDIAN_PAT", "")
 
 
-class FoundryEnforcer:
+class IronverseEnforcer:
     def __init__(self):
         self.commit_author = os.environ.get("COMMIT_AUTHOR", "unknown").lower()
         self.commit_sha = os.environ.get("COMMIT_SHA", "HEAD")
@@ -39,7 +39,7 @@ class FoundryEnforcer:
         
     def run(self):
         """Main enforcement pipeline"""
-        print(f"🔨 Foundry Enforcer starting...")
+        print(f"🔨 Ironverse Enforcer starting...")
         print(f"   Commit author: {self.commit_author}")
         print(f"   Commit SHA: {self.commit_sha}")
         
@@ -98,7 +98,7 @@ class FoundryEnforcer:
         # Check if commit is from Guardian Bot
         is_guardian_author = (
             author_name == "Guardian Bot" and 
-            author_email == "guardian@the-foundry.bot"
+            author_email == "guardian@ironverse.bot"
         )
         
         # Check if message starts with "Guardian:"
@@ -128,9 +128,9 @@ class FoundryEnforcer:
         author_email = parts[1]
         commit_message = parts[2]
         
-        # Check if commit is from Foundry Enforcer
+        # Check if commit is from Ironverse Enforcer
         is_enforcer_author = (
-            author_name == "Foundry Enforcer" and 
+            author_name == "Ironverse Enforcer" and 
             author_email == "actions@github.com"
         )
         
@@ -161,9 +161,9 @@ class FoundryEnforcer:
             os.makedirs(os.path.dirname(REGISTRY_PATH), exist_ok=True)
             
             with open(REGISTRY_PATH, 'w', encoding='utf-8') as f:
-                f.write("# The Foundry - File Ownership Registry\n")
+                f.write("# Ironverse - File Ownership Registry\n")
                 f.write("# This file tracks ownership and integrity of all non-hidden files in the repository.\n")
-                f.write("# DO NOT EDIT MANUALLY - Managed automatically by the Foundry enforcement system.\n\n")
+                f.write("# DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.\n\n")
                 yaml.dump(self.registry, f, default_flow_style=False, sort_keys=True, allow_unicode=True)
             
             # Commit and push to guardian repo
@@ -223,11 +223,11 @@ class FoundryEnforcer:
             status = parts[0]
             
             # Skip hidden files/folders (including .github - protected by Guardian)
-            # Exception: .foundry folder should be tracked (hidden from Obsidian but enforced)
+            # Exception: .ironverse folder should be tracked (hidden from Obsidian but enforced)
             file_path = parts[1]
-            is_foundry_folder = file_path.startswith('.foundry/')
+            is_ironverse_folder = file_path.startswith('.ironverse/')
             
-            if not is_foundry_folder:
+            if not is_ironverse_folder:
                 path_parts = file_path.split('/')
                 if any(p.startswith('.') for p in path_parts):
                     continue
@@ -519,7 +519,7 @@ class FoundryEnforcer:
 
 if __name__ == "__main__":
     try:
-        enforcer = FoundryEnforcer()
+        enforcer = IronverseEnforcer()
         enforcer.run()
     except Exception as e:
         print(f"❌ Error: {e}", file=sys.stderr)

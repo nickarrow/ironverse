@@ -1,6 +1,6 @@
 # Epistolary Play Guide
 
-> A framework for collaborative, asynchronous storytelling in The Foundry
+> A framework for collaborative, asynchronous storytelling in The Ironverse
 
 ## What is Epistolary Play?
 
@@ -8,7 +8,7 @@ I've always wanted to try asynchronous Ironsworn, and Epistolary games have also
 
 Epistolary play is a style of collaborative storytelling where multiple players contribute to a shared narrative through **letters, messages, or journal entries** written in-character. Each player plays their own game, pursues their own adventures, but periodically writes a **Spotlight Letter**, a meaningful contribution to the shared story that connects to a **Shared Vow** spanning the entire campaign.
 
-This format works beautifully with The Foundry's ownership model: you own your letters, others own theirs, and the shared narrative grows organically through addition.
+This format works beautifully with The Ironverse's ownership model: you own your letters, others own theirs, and the shared narrative grows organically through addition.
 
 **This guide covers:**
 - For Players - How to join and play in an Epistolary campaign
@@ -32,7 +32,7 @@ Every Epistolary campaign has a **Shared Vow**, a significant goal that multiple
 
 The Shared Vow exists to connect many independent stories together, it is not the only thing you should pursue. You are encouraged to swear personal vows and chase them alongside the shared one. Your character's own goals, relationships, and adventures are the heart of your game. The Shared Vow is the thread that weaves everyone's stories into something larger.
 
-The Shared Vow is owned by the Organizer, who tracks progress based on player letters. You can't edit the vow file directly (The Foundry prevents that), but your letters drive its progress.
+The Shared Vow is owned by the Organizer, who tracks progress based on player letters. You can't edit the vow file directly (The Ironverse prevents that), but your letters drive its progress.
 
 **Example Troubles and Shared Vows:**
 - *Trouble:* A tyrannical faction is consolidating power across the sector
@@ -88,7 +88,7 @@ You can still:
 
 ### The "Yes, and..." Philosophy
 
-Epistolary play runs on trust. While The Foundry's ownership system prevents you from editing other players' files, you can still write whatever you want in your own letters. This is where "Yes, and..." becomes essential.
+Epistolary play runs on trust. While The Ironverse's ownership system prevents you from editing other players' files, you can still write whatever you want in your own letters. This is where "Yes, and..." becomes essential.
 
 **What this means for your letters:**
 - **Don't narratively destroy what others create.** Avoid writing that another player's character died, their ship was destroyed, or their faction was wiped out. Their creations are theirs to conclude.
@@ -178,7 +178,7 @@ Create a vow file in your campaign's Progress folder. This is the mechanical hea
 - Be achievable through varied approaches (combat, diplomacy, investigation, etc.)
 - Allow for partial successes and setbacks along the way
 
-**You own this file.** Other players can't edit it (The Foundry enforces this). You'll update progress based on their letters.
+**You own this file.** Other players can't edit it (The Ironverse enforces this). You'll update progress based on their letters.
 
 ### Step 4: Set Up the Letter Folder
 
@@ -210,6 +210,6 @@ Write a campaign introduction that includes:
 - Approve letters before they're posted
 - Coordinate player schedules
 - Write letters yourself (though you can if you have a character)
-- Resolve conflicts between player narratives (The Foundry's ownership model handles this)
+- Resolve conflicts between player narratives (The Ironverse's ownership model handles this)
 
 

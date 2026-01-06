@@ -6,7 +6,7 @@
 
 ## Collaborative Campaigns
 
-**Join existing campaigns!** The Foundry shines when players contribute to each other's worlds:
+**Join existing campaigns!** The Ironverse shines when players contribute to each other's worlds:
 - Create your character in someone else's campaign folder
 - Write journal entries from your character's perspective
 - Add locations, NPCs, or other content that enriches the shared world
@@ -14,7 +14,7 @@
 
 **Example:** If you want to join "The Starforged" campaign, create `The Starforged/Characters/YourCharacter.md` and start playing. The campaign creator can read your content but can't edit it, and vice versa.
 
-**Practice "Yes, and..." in your writing.** The Foundry protects files technically, but collaborative storytelling requires narrative respect too:
+**Practice "Yes, and..." in your writing.** The Ironverse protects files technically, but collaborative storytelling requires narrative respect too:
 - Write about others' creations as living, ongoing stories - not concluded ones
 - Use rumors, observations, and your character's perspective rather than definitive statements about others' content
 - If your story *needs* something dramatic to happen to shared content, reach out to the creator first
@@ -55,7 +55,7 @@ This way you're always in control of when syncs happen, and you won't lose work 
 
 **Understanding the `_fit/` folder:** When FIT detects a conflict (same file changed both locally and remotely), it saves the remote version to `_fit/your-file.md` and keeps your local version in place. You can then manually compare and merge if needed. Feel free to delete files from `_fit/` once you've resolved them.
 
-**If your edits disappear:** This means you tried to edit a file you don't own. The Foundry automatically restored it. Create your own file instead!
+**If your edits disappear:** This means you tried to edit a file you don't own. The Ironverse automatically restored it. Create your own file instead!
 
 ## Getting Help
 - Check the README.md for detailed technical information
@@ -69,13 +69,13 @@ This way you're always in control of when syncs happen, and you won't lose work 
 Yes! You own your files, so you can rename, move, or delete them freely.
 
 **Can I delete someone else's file?**
-No. The Foundry will automatically restore it.
+No. The Ironverse will automatically restore it.
 
 **What if I accidentally edit someone else's file?**
-No worries! The Foundry will silently restore it on the next sync. No harm done.
+No worries! The Ironverse will silently restore it on the next sync. No harm done.
 
 **Can multiple people edit the same file?**
 No. Each file has exactly one owner. For collaborative content, create separate files that reference each other.
 
 **How do I know who owns a file?**
-If you created the file, you own it. If you didn't create it, you don't. But if you really want to see the whole file registry, you can view it here [registry.yml](https://github.com/nickarrow/the-foundry-guardian/blob/main/registry.yml)
+If you created the file, you own it. If you didn't create it, you don't. But if you really want to see the whole file registry, you can view it here [registry.yml](https://github.com/nickarrow/ironverse-guardian/blob/main/registry.yml)
