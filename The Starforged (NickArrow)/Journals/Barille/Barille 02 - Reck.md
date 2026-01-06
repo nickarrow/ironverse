@@ -144,6 +144,10 @@ Session outline:
 - Begin investigation of [[Investigate and report on the rumored horrors of Reck]]
 
 
+
+# Ignore everything below, these are tests for Iron Vault 
+
+---
 # Inline Mechanics Test - All Icons
 
 ## Moves (Action Rolls)
@@ -179,8 +183,7 @@ Supply: `iv-meter:Supply|5|4`
 ## Position/Initiative
 `iv-initiative:Position||in control`
 `iv-initiative:Position||Bad spot`
-
-`iv-initiative:Position|in control|in a bad spot` 
+`iv-initiative:Position|out of combat|out of combat` 
 ## Tracks - Create
 `iv-track-create:Escape the Ironlands|Quests/Escape the Ironlands.md`
 `iv-track-create:Slay the Beast|Quests/Slay the Beast.md`
