@@ -56,7 +56,7 @@ Browse the campaigns in your vault. Create your character in someone else's fold
 
 The Ironverse follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK) and embraces the **"Yes, and..."** philosophy of collaborative storytelling.
 
-For community guidelines and the collaborative philosophy, see [[Welcome to The Ironverse]].
+For community guidelines and the collaborative philosophy, see [[Welcome to Ironverse]].
 
 ## Documentation
 
