@@ -51,7 +51,8 @@ FIT (Minimalist File giT) handles syncing your vault with GitHub.
 
 **EXAMPLE FIT PLUGIN SETTINGS:**
 
-<img width="600" height="443" alt="image" src="https://github.com/user-attachments/assets/f64dd9bf-f513-4af0-8bd3-7e32749250b5" />
+<img width="459" height="600" alt="image" src="https://github.com/user-attachments/assets/d03b6b45-d74d-4060-9367-0191947c303a" />
+
 
 ### Step 4: Initial Sync
 
