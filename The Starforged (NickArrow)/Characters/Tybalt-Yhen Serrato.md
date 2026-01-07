@@ -96,3 +96,10 @@ assets:
 ```iron-vault-character-assets
 ```
 
+> [!gear]- GEAR
+> - Standard Spacer Kit
+> - Serrato Bannersworn Warplate
+> - Serrato Mag-Pistol, firing both solid slug and buckshot rounds
+> - Serrato Friction-Axe with black iron head, recovered from the Grave World of Purgatory
+> - Bottle of Brandy, distilled in the Serrato holdings upon the Ice World of Cicero
+> - Handheld computer, can run pre-exodus video games
