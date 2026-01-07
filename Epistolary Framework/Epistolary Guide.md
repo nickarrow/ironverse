@@ -1,6 +1,6 @@
 # Epistolary Play Guide
 
-> A framework for collaborative, asynchronous storytelling in The Ironverse
+> A framework for collaborative, asynchronous storytelling in the Ironverse
 
 ## What is Epistolary Play?
 
@@ -8,7 +8,7 @@ I've always wanted to try asynchronous Ironsworn, and Epistolary games have also
 
 Epistolary play is a style of collaborative storytelling where multiple players contribute to a shared narrative through **letters, messages, or journal entries** written in-character. Each player plays their own game, pursues their own adventures, but periodically writes a **Spotlight Letter**, a meaningful contribution to the shared story that connects to a **Shared Vow** spanning the entire campaign.
 
-This format works beautifully with The Ironverse's ownership model: you own your letters, others own theirs, and the shared narrative grows organically through addition.
+This format works beautifully with Ironverse's ownership model: you own your letters, others own theirs, and the shared narrative grows organically through addition.
 
 **This guide covers:**
 - For Players - How to join and play in an Epistolary campaign
