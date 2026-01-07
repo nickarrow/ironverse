@@ -2,7 +2,7 @@
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
-## What is The Ironverse?
+## What is Ironverse?
 
 **The Ironverse** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
 
@@ -49,7 +49,7 @@ The Ironverse follows the community rules from the [Ironsworn Discord](https://d
 
 **5. The "Yes, and..." Philosophy** The Ironverse embraces the improv principle of building on others' contributions rather than negating them.
 
-While The Ironverse's technical systems prevent you from editing or deleting other players' files, you can still write whatever you want in your *own* files. This is where "Yes, and..." becomes a social contract:
+While Ironverse's technical systems prevent you from editing or deleting other players' files, you can still write whatever you want in your *own* files. This is where "Yes, and..." becomes a social contract:
 
 **What this means in practice:**
 - **Don't narratively destroy what others create.** Even in your own journals, avoid writing that another player's character died, their settlement was obliterated, or their faction was wiped out. Their creations are theirs to conclude.

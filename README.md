@@ -2,7 +2,7 @@
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
-## What is The Ironverse?
+## What is the Ironverse?
 
 **The Ironverse** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
 
@@ -25,7 +25,7 @@ Every file has exactly one owner — whoever created it. Simple.
 
 **What happens if you try to edit someone else's file?**
 
-The Ironverse silently restores it. Your next sync pulls the corrected version. No errors, no drama, just clean content.
+Ironverse silently restores it. Your next sync pulls the corrected version. No errors, no drama, just clean content.
 
 ## Getting Started
 
@@ -43,7 +43,6 @@ The Ironverse silently restores it. Your next sync pulls the corrected version. 
 For the full setup walkthrough, see [[Getting Started]].
 
 ## Start Playing
-
 Once you're synced, you have two paths:
 
 ### Start Your Own Campaign
@@ -53,7 +52,6 @@ Use Iron Vault to create a new campaign in your own folder. You own everything y
 Browse the campaigns in your vault. Create your character in someone else's folder. Write journal entries. You own your files, they own theirs, and the world grows organically.
 
 ## Community & Guidelines
-
 The Ironverse follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK) and embraces the **"Yes, and..."** philosophy of collaborative storytelling.
 
 For community guidelines and the collaborative philosophy, see [[Welcome to Ironverse]].
@@ -68,7 +66,7 @@ For community guidelines and the collaborative philosophy, see [[Welcome to Iron
 
 ## For the Technically Curious
 
-*Playing in The Ironverse? You can stop here — everything above is all you need. The rest is for contributors and those curious about how the system works.*
+*Playing in the Ironverse? You can stop here — everything above is all you need. The rest is for contributors and those curious about how the system works.*
 
 ### Technical Specification
 
@@ -96,7 +94,7 @@ Even if an attacker deletes all workflows, the Guardian restores everything with
 
 ### Contributing
 
-Want to improve The Ironverse itself (not just add campaign content)?
+Want to improve the Ironverse itself (not just add campaign content)?
 
 1. Fork the repository
 2. Create a feature branch
@@ -111,4 +109,4 @@ See [LICENSE](.ironverse/.LICENSE) for details.
 
 ---
 
-**Welcome to The Ironverse. Forge your story.**
+**Welcome to Ironverse.

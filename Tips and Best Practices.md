@@ -1,4 +1,4 @@
-# 3. Tips and Best Practices
+# Tips and Best Practices
 
 ## Organizing Your Content
 
@@ -27,7 +27,6 @@
 - Spaces are fine too, but some players prefer hyphens for consistency
 
 ## Recommended Plugins
-
 Beyond the required plugins (Iron Vault and FIT), consider installing these optional plugins to enhance your experience:
 
 **Required:**
@@ -59,7 +58,7 @@ This way you're always in control of when syncs happen, and you won't lose work 
 
 ## Getting Help
 - Check the README.md for detailed technical information
-- Visit [Ironvault.Quest](https://ironvault.quest/) for Iron Vault tutorials
+- Visit [ironvault.quest](https://ironvault.quest/) for Iron Vault tutorials
 - Contact nickarrow if you have questions or issues
 - Join the [Ironsworn Discord](https://discord.gg/8bRuZwK) for community support
 

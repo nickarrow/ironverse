@@ -83,11 +83,11 @@ My-Campaign/
 └── Campaign-Index.md
 ```
 
-FIT syncs your files to GitHub, and The Ironverse marks you as the owner.
+FIT syncs your files to GitHub, and the Ironverse marks you as the owner.
 
 ### Option B: Join an Existing Campaign
 
-This is where The Ironverse shines:
+This is where Ironverse shines:
 
 1. Browse the the existing campaigns of others in your vault
 2. Create a character in their folder, for example: `The Starforged/Characters/YourCharacter.md`
@@ -99,11 +99,11 @@ You own your files. They own theirs. The world grows organically.
 ## What Happens Behind the Scenes
 
 When you sync:
-- New files get added to The Ironverse's ownership registry with you as the owner
+- New files get added to Ironverse's ownership registry with you as the owner
 - You can freely edit your own files
 - If you accidentally edit or delete someone else's file, it gets silently restored on your next sync
 
-You don't need to think about any of this — it just works.
+You don't need to think about any of this, it just works.
 
 ## Next Steps
 
