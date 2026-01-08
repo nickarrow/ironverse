@@ -2,7 +2,7 @@
 name: Tybalt-Yhen Serrato
 xp_spent: 0
 xp_added: 0
-momentum: 2
+momentum: 3
 edge: 1
 heart: 2
 iron: 3
@@ -29,7 +29,7 @@ assets:
       integrity/battered: false
       integrity/cursed: false
     options:
-      name: Kaal-Kaaz
+      name: Kaal-Kaaz (Cruiser)
   - id: asset:starforged/path/armored
     abilities:
       - true
@@ -76,7 +76,10 @@ assets:
       name: Paxel
       expertise: Graveworld Scavenger
 ---
+Tybalt-Yhen Serrato & his sidekick Paxel, in full wargear (Credit to Wolfdawgartcorner)
+![[Pasted image 20260107182957.png]]
 
+![[Pasted image 20260107183157.png]]
 
 ```iron-vault-character-info
 ```
@@ -100,6 +103,6 @@ assets:
 > - Standard Spacer Kit
 > - Serrato Bannersworn Warplate
 > - Serrato Mag-Pistol, firing both solid slug and buckshot rounds
-> - Serrato Friction-Axe with black iron head, recovered from the Grave World of Purgatory
+> - "Shattersky", Serrato Friction-Axe with black iron head, recovered from the Grave World of Purgatory
 > - Bottle of Brandy, distilled in the Serrato holdings upon the Ice World of Cicero
 > - Handheld computer, can run pre-exodus video games
