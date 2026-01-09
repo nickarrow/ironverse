@@ -48,20 +48,79 @@ files:
     modified: 2025-12-18T11:45:00Z
     checksum: def789ghi012345...
     admin_override: true  # Optional: Allows admin to edit this file once
+
+folders:
+  "My-Campaign":
+    structural_owner: nickarrow
+    created: 2025-12-15T10:30:00Z
+  "Other-Campaign":
+    structural_owner: otherplayer
+    created: 2025-12-16T09:15:00Z
 ```
 
-**Field Definitions:**
-- `owner` (string): GitHub username of the file owner
+**File Field Definitions:**
+- `owner` (string): GitHub username of the file's content owner
 - `created` (ISO 8601): Timestamp when file was first committed
 - `modified` (ISO 8601): Timestamp of last valid edit by owner
 - `checksum` (string): SHA-256 hash of file content for integrity checking
 - `admin_override` (boolean, optional): Allows repository admin to edit files they don't own (one-time use)
+
+**Folder Field Definitions:**
+- `structural_owner` (string): GitHub username who can reorganize files within this folder tree
+- `created` (ISO 8601): Timestamp when folder was first created
 
 **Key Principles:**
 - Registry is the single source of truth for ownership
 - No frontmatter injection into user files (keeps files clean)
 - SHA-256 checksums detect unauthorized modifications
 - Registry itself is admin-only (ownership hardcoded in enforcement script)
+- Two types of ownership: content ownership (who can edit) and structural ownership (who can reorganize)
+
+### Content vs. Structural Ownership
+
+The Ironverse distinguishes between two types of ownership:
+
+**Content Ownership** — Who can edit a file's contents
+- Assigned to whoever creates the file
+- Tracked in the `files` section of the registry
+- Content owner can edit, delete, or move their own files
+
+**Structural Ownership** — Who can reorganize files within a folder tree
+- Assigned to whoever creates the first file in a folder hierarchy
+- Tracked in the `folders` section of the registry
+- Structural owner can move/rename files within their folder tree (even files owned by others)
+- Structural ownership inherits down the folder tree
+
+**Example:**
+```
+The Starforged (NickArrow)/           # structural_owner: nickarrow
+├── Characters/
+│   ├── My-Hero.md                    # content owner: nickarrow
+│   └── NPCs/
+│       └── Rowena Jensen.md          # content owner: playerB
+└── Journals/
+    └── PlayerB-Journal.md            # content owner: playerB
+```
+
+In this example:
+- `nickarrow` owns the structure of the entire campaign folder
+- `nickarrow` can rename `The Starforged (NickArrow)/` to something else
+- When renamed, all files move with it (including `playerB`'s files)
+- `playerB` still owns the content of their files — `nickarrow` cannot edit them
+- `playerB` can only move/rename their own files, not reorganize the campaign structure
+
+### Automatic Folder Registration
+
+Folder ownership is registered automatically:
+1. When a new file is created, the script walks up its folder path
+2. Any folder not in the registry gets checked for a parent with existing ownership
+3. If no parent has ownership, the commit author becomes the structural owner
+4. Child folders inherit structural ownership from their nearest registered ancestor
+
+This means:
+- Creating `NewCampaign/Characters/Hero.md` registers `NewCampaign` with you as structural owner
+- Other players creating files in your campaign don't gain structural authority
+- You can reorganize your entire campaign without triggering unauthorized edit reverts
 
 ### Why Registry-Based?
 
@@ -113,6 +172,13 @@ The Ironverse switched from frontmatter injection to registry-based tracking to:
 - **Include `.ironverse/registry.yml`** for validation (special case)
 - **Exclude other `.github/` and `.ironverse/` files** - protected by Guardian system
 
+#### 2.5. Detect Moves via Checksum Matching
+Before processing individual files:
+- Collect all deleted files and their checksums from the registry
+- Collect all added files and calculate their checksums
+- Match pairs where checksums are identical — these are moves, not delete+create
+- This is critical for FIT sync which doesn't preserve Git's rename detection
+
 #### 3. Calculate Checksums
 For each changed file:
 - Calculate SHA-256 hash of file content
@@ -126,10 +192,17 @@ For each changed file:
   - Check if commit is from enforcement workflow (allow)
   - Check if commit author is `nickarrow` (admin, allow)
   - Otherwise: restore from previous commit
-- **New files**: Add to registry with commit author as owner
+- **New files**: Add to registry with commit author as owner; register folder ownership for path
 - **Modified files**: Check if commit author matches registry owner OR admin override is active
 - **Renamed files**: Check if commit author matches registry owner, update registry path
 - **Deleted files**: Check if commit author matches registry owner, remove from registry
+- **Detected moves**: Check if commit author is content owner OR structural owner of source/destination paths
+
+**Move Authorization:**
+A move is authorized if any of these conditions are met:
+1. Mover is the file's content owner
+2. Mover is the structural owner of both source and destination folder paths
+3. Admin override is set on the file
 
 **Admin Override:**
 - If `admin_override: true` is present in registry entry AND commit author is `nickarrow` (admin), allow the edit
@@ -163,8 +236,10 @@ If validation fails:
 #### 7. Update Registry
 For valid operations:
 - **New files**: Add entry with owner, created timestamp, modified timestamp, checksum
+- **New folders**: Add entry with structural_owner and created timestamp (auto-registered from file paths)
 - **Modified files**: Update modified timestamp and checksum
 - **Renamed files**: Move entry to new path, update modified timestamp and checksum
+- **Moved files**: Transfer entry to new path, preserve content owner, register new folders if needed
 - **Deleted files**: Remove entry from registry
 - **Admin override used**: Remove `admin_override` flag from entry
 
@@ -240,9 +315,11 @@ For valid operations:
 - ✅ Edit their own files freely
 - ✅ Delete their own files
 - ✅ Rename/move their own files
+- ✅ Reorganize folder structures they own (including moving other players' files within)
 - ✅ Read everyone's files
 - ❌ Edit files owned by others
 - ❌ Delete files owned by others
+- ❌ Move files out of a folder structure they don't own
 - ❌ Steal ownership via rename/frontmatter tampering
 
 ### Onboarding & Documentation
@@ -639,7 +716,18 @@ The Ironverse ownership model is successful when:
 8. Action logs the override in the workflow output
 9. File is corrected, audit trail preserved
 
-### Scenario E: Registry Protection
+### Scenario E: Campaign Folder Rename
+1. Player A has a campaign folder `PlayerA-Campaign/` with files from multiple contributors
+2. Player A wants to rename it to `The New Dawn (PlayerA)/`
+3. Player A renames the folder in Obsidian
+4. FIT syncs the change — Git sees deletions + additions (not renames)
+5. GitHub Action detects moves via checksum matching
+6. Action checks: Player A is structural owner of source folder
+7. Action allows all moves, preserving content ownership of each file
+8. Registry updates all file paths, folder paths, content owners unchanged
+9. All contributors' files are now at new paths but still owned by original creators
+
+### Scenario F: Registry Protection
 1. Player B tries to edit `.ironverse/registry.yml` to grant themselves ownership of Player A's files
 2. FIT syncs the registry change to GitHub
 3. GitHub Action detects registry was modified
@@ -651,6 +739,6 @@ The Ironverse ownership model is successful when:
 
 ---
 
-**Last Updated:** 2025-12-17  
+**Last Updated:** 2026-01-08  
 **Author:** nickarrow  
-**Status:** Implemented and Active (Registry-Based with Guardian Protection)
+**Status:** Implemented and Active (Registry-Based with Guardian Protection and Structural Ownership)

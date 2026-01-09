@@ -36,6 +36,7 @@ class IronverseEnforcer:
         self.files_corrected = []
         self.registry = self.load_registry()
         self.registry_updated = False
+        self.detected_moves = {}  # Maps old_path -> new_path for detected moves
         
     def run(self):
         """Main enforcement pipeline"""
@@ -56,7 +57,10 @@ class IronverseEnforcer:
         
         print(f"\n📋 Processing {len(changed_files)} changed file(s)")
         
-        # Step 2-6: Process each file
+        # Step 2: Detect moves via checksum matching (before individual processing)
+        self.detect_moves(changed_files)
+        
+        # Step 3-6: Process each file
         for file_info in changed_files:
             self.process_file(file_info)
         
@@ -142,17 +146,19 @@ class IronverseEnforcer:
     def load_registry(self) -> Dict:
         """Load the ownership registry from file"""
         if not os.path.exists(REGISTRY_PATH):
-            return {'files': {}}
+            return {'files': {}, 'folders': {}}
         
         try:
             with open(REGISTRY_PATH, 'r', encoding='utf-8') as f:
                 registry = yaml.safe_load(f) or {}
                 if 'files' not in registry:
                     registry['files'] = {}
+                if 'folders' not in registry:
+                    registry['folders'] = {}
                 return registry
         except Exception as e:
             print(f"⚠️  Warning: Could not load registry: {e}")
-            return {'files': {}}
+            return {'files': {}, 'folders': {}}
     
     def save_registry(self):
         """Save the ownership registry to file in guardian repo"""
@@ -163,6 +169,8 @@ class IronverseEnforcer:
             with open(REGISTRY_PATH, 'w', encoding='utf-8') as f:
                 f.write("# Ironverse - File Ownership Registry\n")
                 f.write("# This file tracks ownership and integrity of all non-hidden files in the repository.\n")
+                f.write("# 'files' section: content ownership (who can edit file contents)\n")
+                f.write("# 'folders' section: structural ownership (who can move/rename within folder trees)\n")
                 f.write("# DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.\n\n")
                 yaml.dump(self.registry, f, default_flow_style=False, sort_keys=True, allow_unicode=True)
             
@@ -253,6 +261,115 @@ class IronverseEnforcer:
         
         return changed_files
     
+    def detect_moves(self, changed_files: List[Dict]):
+        """Detect file moves by matching deletions with additions via checksum"""
+        deletions = {f['path']: f for f in changed_files if f['status'] == 'deleted'}
+        additions = {f['path']: f for f in changed_files if f['status'] == 'added'}
+        
+        if not deletions or not additions:
+            return
+        
+        print(f"\n🔍 Detecting moves ({len(deletions)} deletions, {len(additions)} additions)")
+        
+        matched_deletions = set()
+        matched_additions = set()
+        
+        for del_path in deletions:
+            if del_path not in self.registry['files']:
+                continue
+            
+            old_checksum = self.registry['files'][del_path].get('checksum')
+            if not old_checksum:
+                continue
+            
+            for add_path in additions:
+                if add_path in matched_additions:
+                    continue
+                
+                if not os.path.exists(add_path):
+                    continue
+                
+                new_checksum = self.calculate_checksum(add_path)
+                if old_checksum == new_checksum:
+                    self.detected_moves[del_path] = add_path
+                    matched_deletions.add(del_path)
+                    matched_additions.add(add_path)
+                    print(f"   📦 Detected move: {del_path} → {add_path}")
+                    break
+        
+        if self.detected_moves:
+            print(f"   Found {len(self.detected_moves)} move(s)")
+    
+    def get_structural_owner(self, path: str) -> Optional[str]:
+        """Get the structural owner for a path by walking up the folder hierarchy"""
+        path_obj = Path(path)
+        
+        # Walk up the directory tree
+        for parent in [path_obj.parent] + list(path_obj.parent.parents):
+            parent_str = str(parent)
+            if parent_str == '.':
+                break
+            
+            if parent_str in self.registry.get('folders', {}):
+                return self.registry['folders'][parent_str].get('structural_owner')
+        
+        return None
+    
+    def register_folder_ownership(self, file_path: str):
+        """Register folder ownership for all folders in a file's path"""
+        path_obj = Path(file_path)
+        folders_to_register = []
+        
+        # Collect all parent folders
+        for parent in path_obj.parents:
+            parent_str = str(parent)
+            if parent_str == '.':
+                break
+            folders_to_register.append(parent_str)
+        
+        # Process from root to leaf (reverse order)
+        folders_to_register.reverse()
+        
+        for folder in folders_to_register:
+            if folder not in self.registry.get('folders', {}):
+                # Check if there's a parent with ownership to inherit from
+                existing_owner = self.get_structural_owner(folder + "/dummy")
+                
+                if existing_owner is None:
+                    # No parent owner - this user becomes the structural owner
+                    self.registry['folders'][folder] = {
+                        'structural_owner': self.commit_author,
+                        'created': self.get_iso_timestamp()
+                    }
+                    self.registry_updated = True
+                    print(f"   📁 Registered folder ownership: {folder} → {self.commit_author}")
+    
+    def is_move_authorized(self, old_path: str, new_path: str) -> Tuple[bool, str]:
+        """Check if a move operation is authorized"""
+        file_entry = self.registry['files'].get(old_path, {})
+        content_owner = file_entry.get('owner', '').lower()
+        
+        # Check for admin override
+        admin_override = file_entry.get('admin_override', False)
+        if self.commit_author.lower() == REPO_ADMIN.lower() and admin_override:
+            return True, "admin_override"
+        
+        # Content owner can always move their own files
+        if self.commit_author.lower() == content_owner:
+            return True, "content_owner"
+        
+        # Check structural ownership of source and destination
+        source_structural_owner = self.get_structural_owner(old_path)
+        dest_structural_owner = self.get_structural_owner(new_path)
+        
+        # Structural owner of both paths can move files within their structure
+        if (source_structural_owner and 
+            source_structural_owner.lower() == self.commit_author.lower() and
+            (dest_structural_owner is None or dest_structural_owner.lower() == self.commit_author.lower())):
+            return True, "structural_owner"
+        
+        return False, f"content_owner={content_owner}, source_structural={source_structural_owner}, dest_structural={dest_structural_owner}"
+    
     def process_file(self, file_info: Dict):
         """Process a single file through the enforcement pipeline"""
         path = file_info['path']
@@ -283,6 +400,14 @@ class IronverseEnforcer:
     def handle_new_file(self, file_info: Dict):
         """Handle a newly added file"""
         path = file_info['path']
+        
+        # Skip if this is the destination of a detected move (handled in handle_detected_move)
+        if path in self.detected_moves.values():
+            print(f"   ⏭️  Skipping - part of detected move")
+            return
+        
+        # Register folder ownership for all folders in this file's path
+        self.register_folder_ownership(path)
         
         # Calculate checksum
         checksum = self.calculate_checksum(path)
@@ -402,8 +527,14 @@ class IronverseEnforcer:
             print(f"   ✅ Valid rename - registry updated")
     
     def handle_deletion(self, file_info: Dict):
-        """Handle file deletion - restore if unauthorized"""
+        """Handle file deletion - restore if unauthorized, or process as move if detected"""
         path = file_info['path']
+        
+        # Check if this deletion is part of a detected move
+        if path in self.detected_moves:
+            new_path = self.detected_moves[path]
+            self.handle_detected_move(path, new_path)
+            return
         
         # Check if file is in registry
         if path not in self.registry['files']:
@@ -432,6 +563,54 @@ class IronverseEnforcer:
             del self.registry['files'][path]
             self.registry_updated = True
             print(f"   ✅ Valid deletion - removed from registry")
+    
+    def handle_detected_move(self, old_path: str, new_path: str):
+        """Handle a move that was detected via checksum matching"""
+        print(f"\n📦 Processing detected move: {old_path} → {new_path}")
+        
+        is_authorized, reason = self.is_move_authorized(old_path, new_path)
+        file_entry = self.registry['files'].get(old_path, {})
+        content_owner = file_entry.get('owner', '')
+        
+        if not is_authorized:
+            print(f"   ❌ Unauthorized move (content owner: {content_owner}, mover: {self.commit_author})")
+            print(f"      Reason: {reason}")
+            
+            # Restore old file and remove new file
+            self.restore_file_from_history(old_path)
+            if os.path.exists(new_path):
+                os.remove(new_path)
+                subprocess.run(['git', 'add', new_path], check=True)
+            
+            self.files_corrected.append(old_path)
+            self.corrections_made = True
+        else:
+            print(f"   ✅ Authorized move ({reason})")
+            
+            # Register any new folders in the destination path
+            self.register_folder_ownership(new_path)
+            
+            # Calculate new checksum (should match, but recalculate for safety)
+            checksum = self.calculate_checksum(new_path)
+            
+            # Remove admin_override if it was used
+            admin_override = file_entry.get('admin_override', False)
+            if self.commit_author.lower() == REPO_ADMIN.lower() and admin_override:
+                print(f"   🔑 Admin override consumed")
+            
+            # Move entry to new path (preserve content owner)
+            self.registry['files'][new_path] = {
+                'owner': content_owner,
+                'created': file_entry.get('created', self.get_iso_timestamp()),
+                'modified': self.get_iso_timestamp(),
+                'checksum': checksum
+            }
+            
+            # Remove old entry
+            del self.registry['files'][old_path]
+            self.registry_updated = True
+            
+            print(f"   📝 Registry updated (content owner preserved: {content_owner})")
     
 
     
