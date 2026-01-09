@@ -212,4 +212,57 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `iv-entity-create:Location|The Shattered Vale|Locations/The Shattered Vale.md`
 `iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
 
-   
+## Dice Rolling
+
+`Roll dice`  `iv-dice:10d6 + 55|79`  
+
+`Make an action roll`  `iv-action-roll:Heart|5|3|0|10|7` 
+
+
+```iron-vault-mechanics
+dice-expr expr="2d6 + 20" result=27 {
+    rolls 6 1 dice="2d6"
+}
+```
+`Reroll a die`
+
+
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+    reroll action="6"
+}
+```
+
+`Make an action roll`
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+    roll "Momentum" action=3 adds=0 stat=9 vs1=5 vs2=4
+}
+```
+
+`Set action roll challenge dice sides`
+
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+    roll "Momentum" action=1 adds=0 stat=9 vs1=8 vs2=1
+    roll "Momentum" action=3 adds=0 stat=9 vs1=11 vs2=10
+}
+
+```
+
+make a roll and a reroll right after
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+    roll "Edge" action=3 adds=0 stat=1 vs1=6 vs2=7
+    reroll action="6"
+}
+
+```
+
+reroll
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+    reroll action="2"
+}
+```
+
