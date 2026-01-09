@@ -144,4 +144,41 @@ Epathus: So you've come to beg. Again.
 Tybalt: I am sure the elders can attest that they witnessed me thrash yo-
 ```
 
-Tybalt bit back his insult before it could emerge in full. He couldn't just pick a fight with Epathus here, not when the trail was so old 
+Tybalt bit back his insult before it could emerge in full. He couldn't just pick a fight with Epathus here, not when the trail he followed was so old.
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
+        roll "Iron" action=3 adds=0 stat=3 vs1=7 vs2=2
+    }
+}
+```
+
+```
+Tybalt: I have the trail of the pirates. There has been a sighting of them in the Expanse, crashed their ship into a planetary settlement rather than surrender.
+
+Epathus: And the soft children of Terminus call US mad. But what does this matter to me?
+
+Tybalt: Oh, my apologies, I was under the impression you were a warrior.
+```
+
+Smashing his fist into the armrest, Epathus rises to his feet in a furious clatter of armor, but Tybalt knew he was curious. Neither of them were as dumb as they presented themselves as, in their barbaric personas, but they both relished being in the thick of a fight.
+
+```
+Epathus: You test my hospitality, and ask me to ignore the Warlord's command? Should I take your head for both those sins?
+
+Tybalt: We would both still be defending Helia-36, the only ones who won't see that are spoilt fools that think defense is all about standing idle
+
+Epathus: ...You yet owe me a duel, do you not? Friction-Axes and fists, until submission, here and NOW. The loser serves the winner, either as warrior or as a corpse to be salvaged.
+```
+
+Technically, there was a standing ban on duels to the death among those Bannersworn commanded to guard the mining station, but both knew that the enmity ran deep enough for 'accidents' to happen.
+
+Without fanfare they began approaching each other as they drew their axes, for it was the bridge where the challenge was issued, and so it was the bridge where it would be fought
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
+        roll "Heart" action=4 adds=0 stat=2 vs1=9 vs2=3
+    }
+}
+```
+
