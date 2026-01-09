@@ -9,7 +9,7 @@ iron: 3
 shadow: 1
 wits: 2
 health: 5
-spirit: 4
+spirit: 5
 supply: 5
 Quests_Progress: 12
 Quests_XPEarned: 6
