@@ -211,7 +211,7 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `iv-entity-create:NPC|Theron|NPCs/Theron.md`
 `iv-entity-create:Location|The Shattered Vale|Locations/The Shattered Vale.md`
 `iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
-
+/make
 ## Dice Rolling
 
 `Roll dice`  `iv-dice:10d6 + 55|79`  
