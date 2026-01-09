@@ -1,10 +1,10 @@
 ---
-name: Command-Duel with Epathus
+name: Reach the Devil's Chain Sector
 rank: formidable
-progress: 32
+progress: 4
 tags:
-  - complete
-track-type: Combat
+  - incomplete
+track-type: Expedition
 character: "[[The Starforged/Characters/Tybalt-Yhen Serrato.md]]"
 iron-vault-kind: progress
 ---

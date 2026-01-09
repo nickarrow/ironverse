@@ -1,10 +1,10 @@
 ---
-name: Command-Duel with Epathus
+name: Determine if the Ascendancy attacked Helia-36, and destroy them if they did
 rank: formidable
-progress: 32
+progress: 0
 tags:
-  - complete
-track-type: Combat
+  - incomplete
+track-type: Vow
 character: "[[The Starforged/Characters/Tybalt-Yhen Serrato.md]]"
 iron-vault-kind: progress
 ---

@@ -2,7 +2,7 @@
 name: Tybalt-Yhen Serrato
 xp_spent: 0
 xp_added: 0
-momentum: 6
+momentum: 2
 edge: 1
 heart: 2
 iron: 3

@@ -259,4 +259,84 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 
 ```
 
-With his free hand Tybalt seizes the haft of Epathus' warhammer, and before it can be wrestled away from the former it is cut in half by a black iron axe, the severed metal and wires glowing and sparking from where the cleaving cut occured.
+With his free hand Tybalt seizes the haft of Epathus' warhammer, and before it can be wrestled away from the former it is cut in half by a black iron axe, the severed metal and wires glowing and sparking from where the cleaving cut occurred. That done, Epathus manages to shove Tybalt away a second time with a heavy kick, and the two stagger away from each other to reassess from a distance
+
+And for the first time since the duel started, Epathus speaks to Tybalt as he drew the long knife at his side, intent on continuing the duel.
+
+```
+Epathus: So where was this lead of yours?
+
+Tybalt: Devil's Chain, out in the Expanse. Some
+
+Epathus: Do you even think it's worth the trip?
+
+Tybalt: It's better than waiting for them to make the first move
+```
+
+They measure the other's words in silence for a few moments more, before both charge for a final time. Metal shrieks as Tybalt's axe hits center mass, and the surgeon waiting on the periphery almost rushes over. But both men remain standing, and the outcome becomes clear to the spectator, and in a way it is something both contenders dreaded above even an accidental death. While Shattersky had punched through Epathus' armor, it was only just grazing his chest hairs. At the same time, Epathus' knife was poised at Tybalt's throat, having slipped in through a gap between his helmet and gorget. If the fight continued both men would be dead, and so the verdict was clear: The two had to earnestly cooperate as equals, with their honor on the line, for the length of their shared task. 
+
+Something easier said than done, when the two had spent the last few years bickering and resenting one another.
+
+```
+Epathus: ...
+
+Tybalt: ...
+
+Epathus: Is your ship ready?
+
+Tybalt: I oversaw the loading of the final provisions before coming here
+
+Epathus: Mmm. We leave at the end of the day-cycle. Allow the Stationmaster time to re-draw patrol routes.
+```
+
+Slowly, awkwardly, the two men come apart. Epathus goes to pick up his divided hammer, and Tybalt takes his leave. 
+```iron-vault-mechanics
+progress from=4 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" rank="extreme" steps=1
+```
+
+Only now does it occur to him that someone has been trying to contact him.
+
+```
+Tybalt: Paxel?
+
+Paxel: What the f- what was that?!
+
+Tybalt: Determining the leader of the expedition.
+
+Paxel: It looked like you two were trying to kill each other.
+
+Tybalt: Oh, was the duel being broadcast?
+
+Paxel: You going to answer the question?
+
+Tybalt: I don't know where this is coming from, we did that when we first met.
+
+Paxel: Back then I thought you were a Colossus-lover, and I wanted that can of beans. An-and now I'm wondering if staying behind to be trampled when that THING woke up would have been smarter.
+
+Tybalt: Is everyone at their stations?
+
+Paxel: ...Yes.
+```
+
+Tybalt cuts the connection, removes his helmet, and rubs the bridge of his nose. Frankly, sometimes he wondered if Paxel was really all there, getting hung up on the simplest things as he did. The graveworlder had saved his life, however, and that meant more than some mild frustrations.
+
+Hours later, he was settling into his own command-throne (a humbler one than the one on the *Clarion Call*, owing to the difference in tonnage) in newly-patched armor, and was drifting out of the furnace world's orbit, and towards the Expanse. Though much of the way was well-charted, the distance was vast enough that it would take as long as an expedition into uncharted space. The whole time he would need to keep his crew fed & watered, their guns ready to fire, and...work with Epathus.
+
+He was really hoping there was enough glory at the end of this road, to make this worthwhile. The last bit wasn't proving as much an issue (yet), as the two coordinated positioning and other minutiae of space travel.
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
+        add 1 "Connection bonus"
+        roll "Heart" action=5 adds=1 stat=2 vs1=6 vs2=2
+        meter "Momentum" from=6 to=8
+    }
+}
+track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Pirate Hunt.md|Determine if the Ascendancy attacked Helia-36, and destroy them if they did]]" status="added"
+- "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Pirate Hunt.md|iv-embed]]"
+track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Reach the Devil's Chain Sector.md|Reach the Devil's Chain Sector]]" status="added"
+- "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Reach the Devil's Chain Sector.md|iv-embed]]"
+
+```
+
+Determine if the Ascendancy attacked Helia-36, and destroy them if they did
+Reach the Devil's Chain Sector
