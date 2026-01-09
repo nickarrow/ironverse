@@ -32,5 +32,5 @@ Focus on the narrative, not the dice. See [[Letter Template]] for a starting poi
 ## Resources
 
 - [[Epistolary Guide]] — Full rules and guidelines
-- [[The Starforged (NickArrow)]] — Campaign overview
+- [[The Starforged]] — Campaign overview
 - [[Truths]] — Setting truths for this campaign
