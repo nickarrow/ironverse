@@ -153,7 +153,7 @@ Session outline:
 # Inline Mechanics Test - All Icons
 
 ## Moves (Action Rolls)
-Strong hit this is what it would look like with wrapping enabled, which it is: `iv-move:Face Danger|edge|6|3|0|2|4` And then you keep typing and writing out new content: Weak hit: `iv-move:Secure an Advantage|wits|4|2|1|3|6`
+Strong hit and this is what it would look like as it wraps, which it is: `iv-move:Face Danger|edge|6|3|0|2|4` And then if keep typing out content and then make another move `iv-move:Secure an Advantage|wits|4|2|1|3|6`
 Miss: `iv-move:Compel|heart|2|1|0|8|9`
 Strong hit with match: `iv-move:Strike|iron|5|3|2|1|1`
 Miss with match: `iv-move:Clash|iron|1|2|0|7|7`
@@ -164,12 +164,6 @@ Strong hit:  `iv-progress:Fulfill Your Vow|Investigate and report on the rumored
 Weak hit:  `iv-progress:Take Decisive Action|Survive the Asteroid Storm|8|8|1|The Starforged/Progress/Tybalt-Yhen Serrato/Survive the Asteroid Storm.md|move:starforged/combat/take_decisive_action` 
 Miss:  `iv-progress:Forge a Bond|Find where he stands with Epathus|2|6|5|The Starforged/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|move:starforged/connection/forge_a_bond` 
 Miss with match:  `iv-progress:Finish an Expedition|Reach the Devil's Chain Sector|4|10|10|The Starforged/Progress/Tybalt-Yhen Serrato/Reach the Devil's Chain Sector.md|move:starforged/exploration/finish_an_expedition` 
-
-`iv-move:Enter the Fray|Heart|4|3|0|6|10|move:starforged/combat/enter_the_fray` 
-
-`iv-progress:Take Decisive Action|Command-Duel with Epathus|8|1|6|The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md|move:starforged/combat/take_decisive_action` 
-
-`iv-progress:Fulfill Your Vow|Investigate and report on the rumored horrors of Reck|2|1|9|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|move:starforged/quest/fulfill_your_vow` 
 ## No-Roll Moves
 `iv-noroll:Begin a Session`
 `iv-noroll:End a Session`
@@ -218,13 +212,11 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `iv-entity-create:NPC|Theron|NPCs/Theron.md`
 `iv-entity-create:Location|The Shattered Vale|Locations/The Shattered Vale.md`
 `iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
-/make
+
 ## Dice Rolling
-`Roll dice`   `iv-dice:2d6{1+1=2} + 27|29` 
+`iv-dice:1d100|7` 
+`iv-dice:2d6{4+1} + 9|14` 
+`iv-dice:1d100{58} + 9d12{6+1+6+1+11+12+3+2+8} + 55|163` 
 Make an action roll  `iv-action-roll:Heart|5|3|0|10|7`  then do a reroll   `iv-reroll:vs1|10|5|Heart|3|0|5|7|5` 
 
 
-
-`iv-action-roll:Edge|2|1|0|9|4` This is an example of a roll. Now I'll do a reroll but I want to see what happens on a new line.
-
-Will it work down here?  `iv-reroll:action|2|4|Edge|1|0|9|4|2` 
