@@ -89,6 +89,40 @@ Paxel: That. Doesn't. Help.
 Tybalt: Just do as I say, no extra effort is required. He will not kill you just for existing.
 ```
 
-As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was...complicated, going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive
+As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was...[complicated](obsidian://open?vault=The%20Foundry&file=The%20Starforged%20(NickArrow)%2FCharacters%2FNPCs%2FEpathus-Barabas%20Serrato), going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive. 
 
-Tybalt was just a year away from 
+```iron-vault-mechanics
+track name="[[The Starforged (NickArrow)\/Progress\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" status="added"
+- "![[The Starforged (NickArrow)\/Progress\/Find where he stands with Epathus.md|iv-embed]]"
+```
+
+"The *Clarion Call* was supposed to be mine." is a thought that still clings to Tybalt's mind. The surviving crew had held a vote from among the living and the heirs of the slain for command, as was tradition...but Tybalt did not even come close to contesting Epathus. 
+
+If the latter was just that much better a warrior than him, that much better a leader, Tybalt could have accepted that. But he has won against him in the dueling rings as often as he has lost to him, and he heard as recently as a day ago of how the crew has needed to rein his excesses in, rather than the other way around.
+
+Even the act of discovering the resting place of a ship that had seen the Exodus, and taking it for his own, had not made Tybalt any more willing to learn why he was the one his father's comrades had no faith in.
+
+But time would not freeze for Tybalt to wallow in doubt, as the armor that enclosed him ceased to weigh upon him once the back-mounted power generator was activated. So when he exited the barracks into the teeming corridors of Helia-36, Tybalt strode as a towering golem of whirring servos and armor plating of archaic-motif. The very picture of a Serrato Bannersworn, the red-handed enforcers of the Conclave.
+
+CRIMSON DEEP SECTOR
+THE CLARION CALL, HOUSEHOLD SERRATO DREADNOUGHT
+COMMAND BRIDGE
+
+As the one seeking this meeting between captains, Tybalt was the one who went aboard Epathus' ship. Like many other vessels the Clarion Call had been recalled from it's previous assignments to serve as physical assurances to the other noble houses, that the recent attack that brought production to a grinding halt was an aberration, that would not be permitted again.
+
+The bridge followed typical Serrato design-principles, in that in many ways it resembled some pre-Spacer throne-room, with melee weapons and boarding shields lining the walls beside Barabas and Serrato banners. Tybalt did not and would not look at the old hands that manned their stations, for this was still a spaceship despite appearances. 
+
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Secure an Advantage](datasworn:move:starforged\/adventure\/secure_an_advantage)" {
+        roll "Wits" action=3 adds=0 stat=2 vs1=10 vs2=8
+    }
+}
+```
+
+Epathus-Barabas lounged on his command throne before him in full warplate, helmet and all to obscure his expression, staring down at him like some Iron Age king through an unblinking visor.
+
+
+```
+Epathus: So, what did you send your mutant to pester me for
+```
