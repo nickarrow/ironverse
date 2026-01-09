@@ -244,8 +244,16 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 }
 progress from=20 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
 actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
+        roll "Heart" action=6 adds=0 stat=2 vs1=5 vs2=6
+        meter "Momentum" from=4 to=6
+    }
+}
+progress from=28 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
+oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=46
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Take Decisive Action](datasworn:move:starforged\/combat\/take_decisive_action)" {
-        progress-roll name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" score=7 vs1=8 vs2=7
+        progress-roll name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" score=8 vs1=2 vs2=10
     }
 }
 
