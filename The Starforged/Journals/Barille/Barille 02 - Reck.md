@@ -214,7 +214,8 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 /make
 ## Dice Rolling
 
-`Roll dice`  `iv-dice:10d6 + 55|79`  
+`Roll dice`  
+
 
 `Make an action roll`  `iv-action-roll:Heart|5|3|0|10|7` 
 
