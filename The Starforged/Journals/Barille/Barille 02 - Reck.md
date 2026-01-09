@@ -158,12 +158,10 @@ Miss with match: `iv-move:Clash|iron|1|2|0|7|7`
 With burn: `iv-move:Face Danger|edge|2|3|0|8|9|burn=7:2`
 With adds: `iv-move:Gather Information|wits|3|2|2|4|6|adds=1(bond),1(asset)`
 ## Progress Rolls
-Strong hit: `iv-progress:Escape the Ironlands|8|3|5`
-Weak hit: `iv-progress:Slay the Beast|6|4|9`
-Miss: `iv-progress:Find the Lost Temple|3|7|8`
-Miss with match: `iv-progress:Fulfill Your Vow|2|6|6`
-
-`iv-progress:Investigate and report on the rumored horrors of Reck|2|8|9|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` 
+Strong hit:  `iv-progress:Fulfill Your Vow|Investigate and report on the rumored horrors of Reck|4|3|1|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|move:starforged/quest/fulfill_your_vow` 
+Weak hit:  `iv-progress:Take Decisive Action|Survive the Asteroid Storm|8|8|1|The Starforged/Progress/Tybalt-Yhen Serrato/Survive the Asteroid Storm.md|move:starforged/combat/take_decisive_action` 
+Miss:  `iv-progress:Forge a Bond|Find where he stands with Epathus|2|6|5|The Starforged/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|move:starforged/connection/forge_a_bond` 
+Miss with match:  `iv-progress:Finish an Expedition|Reach the Devil's Chain Sector|4|10|10|The Starforged/Progress/Tybalt-Yhen Serrato/Reach the Devil's Chain Sector.md|move:starforged/exploration/finish_an_expedition` 
 
 `iv-move:Enter the Fray|Heart|4|3|0|6|10|move:starforged/combat/enter_the_fray` 
 
@@ -220,58 +218,11 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `iv-entity-create:Faction|The Iron Circle|Factions/The Iron Circle.md`
 /make
 ## Dice Rolling
-
-`Roll dice`  
-
-
+`Roll dice`   `iv-dice:2d6{1+1=2} + 27|29` 
 Make an action roll  `iv-action-roll:Heart|5|3|0|10|7`  then do a reroll   `iv-reroll:vs1|10|5|Heart|3|0|5|7|5` 
 
 
-```iron-vault-mechanics
-dice-expr expr="2d6 + 20" result=27 {
-    rolls 6 1 dice="2d6"
-}
-```
-`Reroll a die` /reroll
 
+`iv-action-roll:Edge|2|1|0|9|4` This is an example of a roll. Now I'll do a reroll but I want to see what happens on a new line.
 
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    reroll action="6"
-}
-```
-
-`Make an action roll`
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    roll "Momentum" action=3 adds=0 stat=9 vs1=5 vs2=4
-}
-```
-
-`Set action roll challenge dice sides`
-
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    roll "Momentum" action=1 adds=0 stat=9 vs1=8 vs2=1
-    roll "Momentum" action=3 adds=0 stat=9 vs1=11 vs2=10
-}
-
-```
-
-make a roll and a reroll right after
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    roll "Edge" action=3 adds=0 stat=1 vs1=6 vs2=7
-    reroll action="6"
-}
-
-```
-
-reroll
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
-    reroll action="2"
-}
-```
-
-`iv-track-create:testtest|The Starforged/Progress/Testtest.md` 
+Will it work down here?  `iv-reroll:action|2|4|Edge|1|0|9|4|2` 
