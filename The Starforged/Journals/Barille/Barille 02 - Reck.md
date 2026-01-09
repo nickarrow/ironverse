@@ -163,6 +163,13 @@ Weak hit: `iv-progress:Slay the Beast|6|4|9`
 Miss: `iv-progress:Find the Lost Temple|3|7|8`
 Miss with match: `iv-progress:Fulfill Your Vow|2|6|6`
 
+`iv-progress:Investigate and report on the rumored horrors of Reck|2|8|9|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` 
+
+`iv-move:Enter the Fray|Heart|4|3|0|6|10|move:starforged/combat/enter_the_fray` 
+
+`iv-progress:Take Decisive Action|Command-Duel with Epathus|8|1|6|The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md|move:starforged/combat/take_decisive_action` 
+
+`iv-progress:Fulfill Your Vow|Investigate and report on the rumored horrors of Reck|2|1|9|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|move:starforged/quest/fulfill_your_vow` 
 ## No-Roll Moves
 `iv-noroll:Begin a Session`
 `iv-noroll:End a Session`
@@ -217,7 +224,7 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 `Roll dice`  
 
 
-`Make an action roll`  `iv-action-roll:Heart|5|3|0|10|7` 
+Make an action roll  `iv-action-roll:Heart|5|3|0|10|7`  then do a reroll   `iv-reroll:vs1|10|5|Heart|3|0|5|7|5` 
 
 
 ```iron-vault-mechanics
@@ -225,7 +232,7 @@ dice-expr expr="2d6 + 20" result=27 {
     rolls 6 1 dice="2d6"
 }
 ```
-`Reroll a die`
+`Reroll a die` /reroll
 
 
 ```iron-vault-mechanics
