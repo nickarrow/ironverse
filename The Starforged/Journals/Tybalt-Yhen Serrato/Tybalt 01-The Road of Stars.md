@@ -52,6 +52,7 @@ Paxel: ...Does that mean we can stay put?
 
 Tybalt: No. A bad lead is still a lead. But if the reach of this "Ascendancy" stretches out from the Expanse...we might have to share the Conclave's recognition.
 ```
+
 ```iron-vault-mechanics
 track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|Traveling to Devil's Chain]]" status="added"
 - "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|iv-embed]]"
@@ -229,7 +230,7 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
         roll "Iron" action=4 adds=1 stat=3 vs1=5 vs2=2
     }
 }
-progress from=12 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+progress from=12 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
 
 ```
 So when Epathus strikes, Tybalt has no choice but to retaliate if he hoped to make it through this. Unable to leverage the full strength of his arms without tumbling down, his axe lashes out at Epathus' descending hammer, and in the clash the impeding hook is detached, and Tybalt leans in such that he is the one at his preferred range.
