@@ -259,3 +259,4 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 
 ```
 
+With his free hand Tybalt seizes the haft of Epathus' warhammer, and before it can be wrestled away from the former it is cut in half by a black iron axe, the severed metal and wires glowing and sparking from where the cleaving cut occured.
