@@ -67,11 +67,14 @@ class IronverseEnforcer:
         # Step 7: Clean up empty folders
         self.cleanup_empty_folders()
         
-        # Step 8: Save registry if updated
+        # Step 8: Clean up orphaned folder entries from registry
+        self.cleanup_orphaned_folder_entries()
+        
+        # Step 9: Save registry if updated
         if self.registry_updated:
             self.save_registry()
         
-        # Step 9: Commit corrections if needed (only if there were actual corrections)
+        # Step 10: Commit corrections if needed (only if there were actual corrections)
         if self.corrections_made:
             self.commit_corrections()
         else:
@@ -695,6 +698,33 @@ class IronverseEnforcer:
             self.corrections_made = True
         else:
             print("\n🧹 No empty folders to clean up")
+    
+    def cleanup_orphaned_folder_entries(self):
+        """Remove folder entries from registry that no longer have any files under them"""
+        if 'folders' not in self.registry or not self.registry['folders']:
+            return
+        
+        orphaned_folders = []
+        
+        for folder_path in list(self.registry['folders'].keys()):
+            # Check if any file in the registry has this folder as a prefix
+            has_files = False
+            for file_path in self.registry['files'].keys():
+                if file_path.startswith(folder_path + '/'):
+                    has_files = True
+                    break
+            
+            if not has_files:
+                orphaned_folders.append(folder_path)
+                del self.registry['folders'][folder_path]
+                self.registry_updated = True
+        
+        if orphaned_folders:
+            print(f"\n🗂️  Cleaned up {len(orphaned_folders)} orphaned folder entry(ies):")
+            for folder in orphaned_folders:
+                print(f"   🗑️  {folder}")
+        else:
+            print("\n🗂️  No orphaned folder entries to clean up")
     
     def commit_corrections(self):
         """Commit any corrections made during enforcement"""
