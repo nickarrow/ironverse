@@ -24,6 +24,6 @@ I've also set this campaign up to be an [[Epistolary Guide|Epistolary]] game wit
 Otherwise, you can also just read the latest adventures of [[Barille Black]]:
 ```dataview
 TABLE WITHOUT ID file.link as "Journals"
-FROM "The Starforged (NickArrow)/Journals/Barille"
+FROM "The Starforged/Journals/Barille"
 ```
 

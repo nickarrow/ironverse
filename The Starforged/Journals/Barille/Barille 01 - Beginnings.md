@@ -13,7 +13,7 @@ INT. LONG-RANGE TRANSPORT SHIP, RENTED CABIN
 
 > Barille is on a transport ship. Not having an FTL capable ship of his own, he has to buy or barter his way to systems or sectors. He is already on a job, a posted job for the [[Risen Union]] (RU). The RU has a reputation of keeping its cards close to the vest, but the jobs pay well, even if they tend to come with little information and lead to more questions than answers. 
 
-> Barille has sworn a vow for this job, to  `iv-track-create:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` and he means to see it through. 
+> Barille has sworn a vow for this job, to  `iv-track-create:Investigate and report on the rumored horrors of Reck|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md` and he means to see it through. 
 
 Barille is suddenly thrown out of his rented bed aboard the transport ship as the ship rocks violently. Either it is under attack or something catastrophic has happened. The damage is significant.
 
@@ -47,7 +47,7 @@ Barille pulls up the UI from his hand terminal, and initiates the pre-launch seq
 
 Barille jumps into the 27 (SN-27 snub fighter), the engines are already humming. He punches the launch control and blasts out into the void.
 
-`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray`  `iv-track-create:Fend off attackers until the transport can escape|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md` `iv-initiative:Position|in control|in control` With a roll of the controls, Barille immediately sees the hostiles. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. Not great odds, but Barille might be able to catch them by surprise. 
+`iv-move:Enter the Fray|Snub Fighter / Integrity|5|4|0|10|3|move:starforged/combat/enter_the_fray`  `iv-track-create:Fend off attackers until the transport can escape|The Starforged/Progress/Barille/Fend off attackers until the transport can escape.md` `iv-initiative:Position|in control|in control` With a roll of the controls, Barille immediately sees the hostiles. Looks like a large frigate with at least 3 fighters circling. The transport ship is putting on a significant burn, and there are no other friendlies. Not great odds, but Barille might be able to catch them by surprise. 
 
 ```
 BARILLE
@@ -67,14 +67,14 @@ ahhhhHHHHHHH!
 
 `iv-move:React Under Fire|Edge|3|1|0|9|5|move:starforged/combat/react_under_fire` Barille dodges the ballistic rounds, but there's no answer for the missiles. Barille is burning hard, but one catches him and detonates. `iv-meter:Snub Fighter / Integrity|4|2` `iv-move:Withstand Damage|Snub Fighter / Integrity|4|2|0|4|2|move:starforged/suffer/withstand_damage` `iv-meter:Momentum|2|3` `iv-initiative:Position|in a bad spot|in control` The hit is brutal, engine and navigation damage, but still flying. We're still being shot at, but the burn has put some distance between Barille and the attackers. 
 
-Really needing to stay away from that frigate. A check of on the transport ship, and yup, they are making atmo at [[Ackriss-2]]. If Barille leaves the fight now, they'll likely just pursue the transport ship to the surface. They didn't see me before, let's try that trick again. Cutting engines, and turning up EM damping. Let's disappear and see what they do.  `iv-move:Gain Ground|Shadow|4|1|0|1|2|move:starforged/combat/gain_ground`  `iv-meter:Momentum|3|5`  `iv-track-advance:Fend off attackers until the transport can escape|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md|24|32|dangerous|1` It is quiet for 30 seconds and they have no idea.
+Really needing to stay away from that frigate. A check of on the transport ship, and yup, they are making atmo at [[Ackriss-2]]. If Barille leaves the fight now, they'll likely just pursue the transport ship to the surface. They didn't see me before, let's try that trick again. Cutting engines, and turning up EM damping. Let's disappear and see what they do.  `iv-move:Gain Ground|Shadow|4|1|0|1|2|move:starforged/combat/gain_ground`  `iv-meter:Momentum|3|5`  `iv-track-advance:Fend off attackers until the transport can escape|The Starforged/Progress/Barille/Fend off attackers until the transport can escape.md|24|32|dangerous|1` It is quiet for 30 seconds and they have no idea.
 
 ```
 BARILLE BLACK
 Is this really going to work again? Hahaha, suckers. I guess they're not used to anyone fighting back. Let's put a round in your drive cone. 
 ```
 
-`iv-progress:Fend off attackers until the transport can escape|8|2|10|The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md`  `iv-oracle:Take Decisive Action|99|It gets complicated: The true nature of a foe or objective is revealed|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action` After another 30 seconds, the frigate starts to burn towards the planet. As they pivot, Barille lines up the shot and fires. A direct hit, and they are out of commission... except they aren't? `iv-oracle:Action + Theme|75|Create World|oracle_rollable:starforgedsupp/templates/actiontheme` Their ship should be out of commission, but somehow it is still accelerating? The third fighter is nowhere on scans and something is very wrong. 
+`iv-progress:Fend off attackers until the transport can escape|8|2|10|The Starforged/Progress/Barille/Fend off attackers until the transport can escape.md`  `iv-oracle:Take Decisive Action|99|It gets complicated: The true nature of a foe or objective is revealed|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action` After another 30 seconds, the frigate starts to burn towards the planet. As they pivot, Barille lines up the shot and fires. A direct hit, and they are out of commission... except they aren't? `iv-oracle:Action + Theme|75|Create World|oracle_rollable:starforgedsupp/templates/actiontheme` Their ship should be out of commission, but somehow it is still accelerating? The third fighter is nowhere on scans and something is very wrong. 
 
 The frigate's engines aren't lit, no heat signatures, yet it is still actively pursuing the transport ship, which is headed directly to [[Reck]]. The 27's engines come alive, and then sputter, Barille isn't going to be able to catch them limping along. A bit of time passes and the frigate should have started their retro burn by now, they are going way to fast for reentry. It's beyond visual range, but sensors are still showing the frigate accelerate towards the planet. 
 

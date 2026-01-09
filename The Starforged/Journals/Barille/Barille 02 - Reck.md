@@ -42,7 +42,7 @@ BARILLE BLACK
 Got it. Thanks for the info. Barille out. 
 ```
 
-> So we have a name. `iv-entity-create:Faction|Ascendancy of the Awakened Worlds|The Starforged (NickArrow)/Factions/Ascendancy of the Awakened Worlds.md` A bit of a mouthful, and clearly not the most inconspicuous bunch. 
+> So we have a name. `iv-entity-create:Faction|Ascendancy of the Awakened Worlds|The Starforged/Factions/Ascendancy of the Awakened Worlds.md` A bit of a mouthful, and clearly not the most inconspicuous bunch. 
 
 Barille check's to see if the landing has an automated repair system. Negative. Okay, can I send a message? 
 
@@ -59,7 +59,7 @@ Before leaving Barille sends out an encoded wideband broadcast.  `iv-noroll:Reac
 
 ![[Message 01 - Barille Black]]
 
-`iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged (NickArrow)/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1` 
+`iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1` 
 
 INT. LANDING PORT WITH 27 PARKED AND RELEASEING STEAM
 
@@ -106,11 +106,11 @@ Murad's scavengers drop their tools and then push past Barille, pushing him as t
 
 `iv-oracle:Interlude Scene|34|Fight in a sparring match|oracle_rollable:sundered_isles/misc/interlude_scene` Barille finishes his cigarette and then proceeds to begin stretching. He practices a form, and then works up a sweat. All the while, thinking through the current situation. Reck, on the brink of rebellion. Whoever this "Murad" is, staking a claim. The transport ship and the attacking and suicidal pirates. He then thinks back to the [[Circle of the Elder Stars|Circle]] and his vow to [[Establish a new noble house in the Circle of the Elder Stars|establish a new noble house in the Circle]]. You can't ever really leave the Circle, but he is done working for others, doing their dirty work. 
 
-Barille sets off.  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|0|4|formidable|1` 
+Barille sets off.  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|0|4|formidable|1` 
 
 INT. CROWDED CORRIDORS OF RECK
 
-Barille needs to find a lead for the missing person. Or whatever these "manifestations" are. He checks his hand terminal UI.  `iv-entity-create:NPC|Rowena Jensen|The Starforged (NickArrow)/Characters/Rowena Jensen.md` is the local contact. Let's start there.  `iv-move:Gather Information|Wits|4|2|0|1|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
+Barille needs to find a lead for the missing person. Or whatever these "manifestations" are. He checks his hand terminal UI.  `iv-entity-create:NPC|Rowena Jensen|The Starforged/Characters/Rowena Jensen.md` is the local contact. Let's start there.  `iv-move:Gather Information|Wits|4|2|0|1|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
 
 While looking at Rowena's profile, he immediate gets a ping from her.
 
@@ -129,7 +129,7 @@ Mr. Black - RU said you we're coming, so I've been monitoring for a proximity al
 > 
 > Info on the horrifying manifestations:  `iv-oracle:Descriptor+Focus|17|Deadly Portal|oracle_rollable:starforgedsupp/templates/descriptorfocus` There have always been rumors on Reck. Its a frontier settlement, built into the bedrock of a toxic and violent planet. Going outside is rarely undertaken, and often perilous. Lately though, the rumors seem to center around voids that simply snatch people out of existence. Nobody has been able to document such portals, and most think it is just a rumor. Except now Karthick has gone missing. 
 
-`iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|4|8|formidable|1` 
+`iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|4|8|formidable|1` 
 
 EXT. RECK MARKET
 
@@ -236,14 +236,14 @@ dice-expr expr="2d6 + 20" result=27 {
 
 
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
     reroll action="6"
 }
 ```
 
 `Make an action roll`
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
     roll "Momentum" action=3 adds=0 stat=9 vs1=5 vs2=4
 }
 ```
@@ -251,7 +251,7 @@ actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Bla
 `Set action roll challenge dice sides`
 
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
     roll "Momentum" action=1 adds=0 stat=9 vs1=8 vs2=1
     roll "Momentum" action=3 adds=0 stat=9 vs1=11 vs2=10
 }
@@ -260,7 +260,7 @@ actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Bla
 
 make a roll and a reroll right after
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
     roll "Edge" action=3 adds=0 stat=1 vs1=6 vs2=7
     reroll action="6"
 }
@@ -269,7 +269,7 @@ actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Bla
 
 reroll
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
+actor name="[[The Starforged\/Characters\/Barille Black\/Barille Black.md|Barille Black]]" {
     reroll action="2"
 }
 ```
