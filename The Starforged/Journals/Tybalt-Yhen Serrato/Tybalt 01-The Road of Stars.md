@@ -52,6 +52,11 @@ Paxel: ...Does that mean we can stay put?
 
 Tybalt: No. A bad lead is still a lead. But if the reach of this "Ascendancy" stretches out from the Expanse...we might have to share the Conclave's recognition.
 ```
+```iron-vault-mechanics
+track name="[[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|Traveling to Devil's Chain]]" status="added"
+- "![[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|iv-embed]]"
+```
+
 
 The graveworlder folded his arms as he maintained eye contact, even when blinking, thanks to the transparent, vertical eyelids he possessed: The vagaries of generational radiation exposure and natural selection giving the man this reptilian mutation.
 
@@ -89,11 +94,10 @@ Paxel: That. Doesn't. Help.
 Tybalt: Just do as I say, no extra effort is required. He will not kill you just for existing.
 ```
 
-As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was...[complicated](obsidian://open?vault=The%20Foundry&file=The%20Starforged%20(NickArrow)%2FCharacters%2FNPCs%2FEpathus-Barabas%20Serrato), going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive. 
-
+As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was...[complicated](obsidian://open?vault=The%20Foundry&file=The%20Starforged%2FThe%20Starforged%2FProgress%2FTybalt-Yhen%20Serrato%2FFind%20where%20he%20stands%20with%20Epathus), going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive. 
 ```iron-vault-mechanics
-track name="[[The Starforged (NickArrow)\/Progress\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" status="added"
-- "![[The Starforged (NickArrow)\/Progress\/Find where he stands with Epathus.md|iv-embed]]"
+track name="[[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" status="added"
+- "![[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|iv-embed]]"
 ```
 
 "The *Clarion Call* was supposed to be mine." is a thought that still clings to Tybalt's mind. The surviving crew had held a vote from among the living and the heirs of the slain for command, as was tradition...but Tybalt did not even come close to contesting Epathus. 
@@ -144,4 +148,114 @@ Epathus: So you've come to beg. Again.
 Tybalt: I am sure the elders can attest that they witnessed me thrash yo-
 ```
 
-Tybalt bit back his insult before it could emerge in full. He couldn't just pick a fight with Epathus here, not when the trail was so old 
+Tybalt bit back his insult before it could emerge in full. He couldn't just pick a fight with Epathus here, not when the trail he followed was so old.
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
+        roll "Iron" action=3 adds=0 stat=3 vs1=7 vs2=2
+    }
+}
+```
+
+```
+Tybalt: I have the trail of the pirates. There has been a sighting of them in the Expanse, crashed their ship into a planetary settlement rather than surrender.
+
+Epathus: And the soft children of Terminus call US mad. But what does this matter to me?
+
+Tybalt: Oh, my apologies, I was under the impression you were a warrior.
+```
+
+Smashing his fist into the armrest, Epathus rises to his feet in a furious clatter of armor, but Tybalt knew he was curious. Neither of them were as dumb as they presented themselves as, in their barbaric personas, but they both relished being in the thick of a fight.
+
+```
+Epathus: You test my hospitality, and ask me to ignore the Warlord's command? Should I take your head for both those sins?
+
+Tybalt: We would both still be defending Helia-36, the only ones who won't see that are spoilt fools that think defense is all about standing idle
+
+Epathus: ...You yet owe me a duel, do you not? Any weapon at hand, until submission, here and NOW. The loser serves the winner, either as warrior or as a corpse to be salvaged.
+```
+
+Technically, there was a standing ban on duels to the death among those Bannersworn commanded to guard the mining station, but both knew that the enmity ran deep enough for 'accidents' to happen. And without fanfare they began approaching each other as they drew their weapons, for it was the bridge where the challenge was issued, and so it was the bridge where it would be fought
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
+        roll "Heart" action=4 adds=0 stat=2 vs1=9 vs2=3
+    }
+}
+track name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" status="added"
+- "![[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|iv-embed]]"
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
+        roll "Heart" action=2 adds=0 stat=2 vs1=3 vs2=8
+        meter "Momentum" from=3 to=5
+    }
+}
+progress from=0 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
+
+```
+
+Epathus favored a warhammer that took both hands to wield, even with Serrato augmetics, and so Tybalt had the speed advantage with his friction-axe. Thus the latter closed the distance with a booming war-cry, momentarily putting the former on the backfoot as the weapons clashed.
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Strike](datasworn:move:starforged\/combat\/strike)" {
+        add 1 "Augmented"
+        add 1 "Blademaster Strike"
+        roll "Iron" action=1 adds=2 stat=3 vs1=10 vs2=1
+    }
+}
+progress from=4 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+
+```
+
+Tybalt's axe screeched against the armor of his opponent once, twice then thrice, but then his attention lapses when one of Epathus' men activate a recording of the booming drums of ritual combat. That lapse is all Epathus needs to thrust his warhammer into Tybalt's chestplate to force him back.
+```iron-vault-mechanics
+oracle name="[Miscellaneous Oracles \/ Combat Action](datasworn:oracle_rollable:starforged\/misc\/combat_action)" result="Use an unexpected weapon or ability" roll=91
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[React Under Fire](datasworn:move:starforged\/combat\/react_under_fire)" {
+        roll "Edge" action=5 adds=0 stat=1 vs1=8 vs2=3
+    }
+    move "[Lose Momentum](datasworn:move:starforged\/suffer\/lose_momentum)" {
+        meter "Momentum" from=5 to=4
+    }
+}
+
+```
+
+Staggering back to create more space for a second charge, Tybalt is surprised to feel a tug against his shoulder, as Epathus reveals a wrist-mounted mag-hook to yank Tybalt back towards him for a hammerstroke. Stuck balancing on one foot, and not at all eager to test his armor against Epathus' warhammer again, Tybalt is left idling in place while his opponent could advance at his leisure
+```iron-vault-mechanics
+oracle name="[Miscellaneous Oracles \/ Combat Action](datasworn:oracle_rollable:starforged\/misc\/combat_action)" result="Overrun a position" roll=69
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Clash](datasworn:move:starforged\/combat\/clash)" {
+        add 1 "Blademaster"
+        roll "Iron" action=4 adds=1 stat=3 vs1=5 vs2=2
+    }
+}
+progress from=12 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+
+```
+So when Epathus strikes, Tybalt has no choice but to retaliate if he hoped to make it through this. Unable to leverage the full strength of his arms without tumbling down, his axe lashes out at Epathus' descending hammer, and in the clash the impeding hook is detached, and Tybalt leans in such that he is the one at his preferred range.
+```iron-vault-mechanics
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Strike](datasworn:move:starforged\/combat\/strike)" {
+        add 1 "Blademaster"
+        add 1 "Augmented"
+        roll "Iron" action=3 adds=2 stat=3 vs1=4 vs2=5
+    }
+}
+progress from=20 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
+        roll "Heart" action=6 adds=0 stat=2 vs1=5 vs2=6
+        meter "Momentum" from=4 to=6
+    }
+}
+progress from=28 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
+oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=46
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Take Decisive Action](datasworn:move:starforged\/combat\/take_decisive_action)" {
+        progress-roll name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" score=8 vs1=2 vs2=10
+    }
+}
+
+```
+

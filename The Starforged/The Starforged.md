@@ -1,5 +1,5 @@
 ---
-name: The Starforged (NickArrow)
+name: The Starforged
 ironvault:
   playset:
     type: globs
