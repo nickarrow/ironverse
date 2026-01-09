@@ -144,4 +144,4 @@ Epathus: So you've come to beg. Again.
 Tybalt: I am sure the elders can attest that they witnessed me thrash yo-
 ```
 
-Tybalt bit back his words
+Tybalt bit back his insult before it could emerge in full. He couldn't just pick a fight with Epathus here, not when the trail was so old 
