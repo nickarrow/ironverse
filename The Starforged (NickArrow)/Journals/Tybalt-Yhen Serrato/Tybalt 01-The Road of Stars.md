@@ -111,7 +111,6 @@ COMMAND BRIDGE
 As the one seeking this meeting between captains, Tybalt was the one who went aboard Epathus' ship. Like many other vessels the Clarion Call had been recalled from it's previous assignments to serve as physical assurances to the other noble houses, that the recent attack that brought production to a grinding halt was an aberration, that would not be permitted again.
 
 The bridge followed typical Serrato design-principles, in that in many ways it resembled some pre-Spacer throne-room, with melee weapons and boarding shields lining the walls beside Barabas and Serrato banners. Tybalt did not and would not look at the old hands that manned their stations, for this was still a spaceship despite appearances. 
-
 ```iron-vault-mechanics
 actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Secure an Advantage](datasworn:move:starforged\/adventure\/secure_an_advantage)" {
@@ -119,10 +118,30 @@ actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tyb
     }
 }
 ```
-
-Epathus-Barabas lounged on his command throne before him in full warplate, helmet and all to obscure his expression, staring down at him like some Iron Age king through an unblinking visor.
-
+Epathus-Barabas lounged on his command throne before him in full warplate, helmet and all to obscure his expression, staring down at him like some Iron Age king through an unblinking visor. Tybalt had intended to gain his measure, to guess at his current mood so as to better sway him with words, but the realization of what he was doing made his blood run cold.
+```iron-vault-mechanics
+actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    move "[Pay the Price](datasworn:move:starforged\/fate\/pay_the_price)"
+}
+oracle name="[Pay the Price \/ Pay the Price](datasworn:move.oracle_rollable:starforged\/fate\/pay_the_price.pay_the_price)" result="You are stressed" roll=84
+actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+    meter "Spirit" from=5 to=4
+}
 
 ```
-Epathus: So, what did you send your mutant to pester me for
+
+"*We had been brothers once, Epathus.*" Tybalt thought bitterly. "*When did we draw battle-lines between us?*"
+
+Tybalt's attention would return to the man himself once he began speaking.
+
 ```
+Epathus: So, what did you send your mutant to pester me for?
+
+Tybalt: I have come to negotiate.
+
+Epathus: So you've come to beg. Again.
+
+Tybalt: I am sure the elders can attest that they witnessed me thrash yo-
+```
+
+Tybalt bit back his words
