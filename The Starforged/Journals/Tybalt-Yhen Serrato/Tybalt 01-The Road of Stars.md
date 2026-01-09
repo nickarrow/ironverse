@@ -1,6 +1,6 @@
 
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Begin a Session](datasworn:move:starforged\/session\/begin_a_session)" {
         meter "Momentum" from=2 to=3
     }
@@ -37,9 +37,9 @@ Paxel: And if this "Barille" guy's lying?
 Tybalt: Then I beat the tar out of him.
 ```
 
-Cracking his neck, Tybalt inelegantly jabbed and prodded the screen of the data-pad to access the station's navigational charts to look up the names of the places mentioned in the [broadcast transcript](obsidian://open?vault=The%20Foundry&file=The%20Starforged%20(NickArrow)%2FLore%2FEpistolary%2FMessage%2001%20-%20Barille%20Black), already dreading the answer he would receive based on his unfamiliarity with the terms. 
+Cracking his neck, Tybalt inelegantly jabbed and prodded the screen of the data-pad to access the station's navigational charts to look up the names of the places mentioned in the [[Message 01 - Barille Black|broadcast transcript]], already dreading the answer he would receive based on his unfamiliarity with the terms. 
 
-(Does the navigational data still exist? 7 vs 75: Yes) Fortunately, as all the mineral wealth the thousands-strong labor force of Helia-36 extracted (Including it's harvests of precious, precious black iron) would be useless if they needed to re-learn their shipping routes every time, the physical medium where the data is held is enclosed within the Warlord's Palace upon the station, meant to be their residence whenever they visit for inspections that can span months owing to the sheer scale of the operation. And as is to be expected for the estate of a [ruling lord of a Founder Clan](obsidian://open?vault=The%20Foundry&file=The%20Starforged%20(NickArrow)%2FFactions%2FCircle%20of%20the%20Elder%20Stars), it's defenses were beyond the abilities of the pirates to breach, even if the latest one was a raid of rare magnitude.
+(Does the navigational data still exist? 7 vs 75: Yes) Fortunately, as all the mineral wealth the thousands-strong labor force of Helia-36 extracted (Including it's harvests of precious, precious black iron) would be useless if they needed to re-learn their shipping routes every time, the physical medium where the data is held is enclosed within the Warlord's Palace upon the station, meant to be their residence whenever they visit for inspections that can span months owing to the sheer scale of the operation. And as is to be expected for the estate of a ruling [[Circle of the Elder Stars|lord of a Founder Clan]], it's defenses were beyond the abilities of the pirates to breach, even if the latest one was a raid of rare magnitude.
 
 ```
 Tybalt: Alright... Devil's Chain sector, found by settler fleet under Agryle Stubbs...damn their eyes, it's in the Expanse?
@@ -53,10 +53,9 @@ Paxel: ...Does that mean we can stay put?
 Tybalt: No. A bad lead is still a lead. But if the reach of this "Ascendancy" stretches out from the Expanse...we might have to share the Conclave's recognition.
 ```
 ```iron-vault-mechanics
-track name="[[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|Traveling to Devil's Chain]]" status="added"
-- "![[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|iv-embed]]"
+track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|Traveling to Devil's Chain]]" status="added"
+- "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Traveling to Devil's Chain.md|iv-embed]]"
 ```
-
 
 The graveworlder folded his arms as he maintained eye contact, even when blinking, thanks to the transparent, vertical eyelids he possessed: The vagaries of generational radiation exposure and natural selection giving the man this reptilian mutation.
 
@@ -94,10 +93,10 @@ Paxel: That. Doesn't. Help.
 Tybalt: Just do as I say, no extra effort is required. He will not kill you just for existing.
 ```
 
-As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was...[complicated](obsidian://open?vault=The%20Foundry&file=The%20Starforged%2FThe%20Starforged%2FProgress%2FTybalt-Yhen%20Serrato%2FFind%20where%20he%20stands%20with%20Epathus), going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive. 
+As Paxel departed and Tybalt did as he said he would, he reflected upon what he just asked of his lieutenant. His relationship with Epathus was... [[Find where he stands with Epathus|complicated]], going as far back as when both their fathers still lived. Tybalt's father had been the previous Reaver-Chief of the *Clarion Call,* one of Household Serrato's newer dreadnoughts, with Epathus' father being his second-in-command. Both had perished in a skirmish with another Founder Clan, over a Garden World in Terminus, when the ship they were boarding detonated their e-drive. 
 ```iron-vault-mechanics
-track name="[[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" status="added"
-- "![[The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|iv-embed]]"
+track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|Find where he stands with Epathus]]" status="added"
+- "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Find where he stands with Epathus.md|iv-embed]]"
 ```
 
 "The *Clarion Call* was supposed to be mine." is a thought that still clings to Tybalt's mind. The surviving crew had held a vote from among the living and the heirs of the slain for command, as was tradition...but Tybalt did not even come close to contesting Epathus. 
@@ -116,7 +115,7 @@ As the one seeking this meeting between captains, Tybalt was the one who went ab
 
 The bridge followed typical Serrato design-principles, in that in many ways it resembled some pre-Spacer throne-room, with melee weapons and boarding shields lining the walls beside Barabas and Serrato banners. Tybalt did not and would not look at the old hands that manned their stations, for this was still a spaceship despite appearances. 
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Secure an Advantage](datasworn:move:starforged\/adventure\/secure_an_advantage)" {
         roll "Wits" action=3 adds=0 stat=2 vs1=10 vs2=8
     }
@@ -124,11 +123,11 @@ actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tyb
 ```
 Epathus-Barabas lounged on his command throne before him in full warplate, helmet and all to obscure his expression, staring down at him like some Iron Age king through an unblinking visor. Tybalt had intended to gain his measure, to guess at his current mood so as to better sway him with words, but the realization of what he was doing made his blood run cold.
 ```iron-vault-mechanics
-actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Pay the Price](datasworn:move:starforged\/fate\/pay_the_price)"
 }
 oracle name="[Pay the Price \/ Pay the Price](datasworn:move.oracle_rollable:starforged\/fate\/pay_the_price.pay_the_price)" result="You are stressed" roll=84
-actor name="[[The Starforged (NickArrow)\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
+actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     meter "Spirit" from=5 to=4
 }
 
@@ -182,15 +181,15 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
         roll "Heart" action=4 adds=0 stat=2 vs1=9 vs2=3
     }
 }
-track name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" status="added"
-- "![[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|iv-embed]]"
+track name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" status="added"
+- "![[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|iv-embed]]"
 actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
         roll "Heart" action=2 adds=0 stat=2 vs1=3 vs2=8
         meter "Momentum" from=3 to=5
     }
 }
-progress from=0 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
+progress from=0 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
 
 ```
 
@@ -203,7 +202,7 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
         roll "Iron" action=1 adds=2 stat=3 vs1=10 vs2=1
     }
 }
-progress from=4 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+progress from=4 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
 
 ```
 
@@ -242,18 +241,18 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
         roll "Iron" action=3 adds=2 stat=3 vs1=4 vs2=5
     }
 }
-progress from=20 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
+progress from=20 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=2
 actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Gain Ground](datasworn:move:starforged\/combat\/gain_ground)" {
         roll "Heart" action=6 adds=0 stat=2 vs1=5 vs2=6
         meter "Momentum" from=4 to=6
     }
 }
-progress from=28 name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
+progress from=28 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" rank="formidable" steps=1
 oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=46
 actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Take Decisive Action](datasworn:move:starforged\/combat\/take_decisive_action)" {
-        progress-roll name="[[The Starforged\/The Starforged\/The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" score=8 vs1=2 vs2=10
+        progress-roll name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Command-Duel with Epathus.md|Command-Duel with Epathus]]" score=8 vs1=2 vs2=10
     }
 }
 
