@@ -5,7 +5,7 @@ progress: 4
 tags:
   - incomplete
 track-type: Connection
-character: "[[The Starforged/Characters/Tybalt-Yhen Serrato.md]]"
+character: "[[Tybalt-Yhen Serrato]]"
 iron-vault-kind: progress
 ---
 
