@@ -493,7 +493,19 @@ class IronverseEnforcer:
         admin_override = file_entry.get('admin_override', False)
         has_admin_override = (self.commit_author.lower() == REPO_ADMIN.lower() and admin_override is True)
         
-        is_authorized = (self.commit_author.lower() == file_owner.lower() or has_admin_override)
+        # Check if authorized: content owner, structural owner, or admin override
+        is_content_owner = (self.commit_author.lower() == file_owner.lower())
+        
+        # Check structural ownership
+        source_structural_owner = self.get_structural_owner(old_path)
+        dest_structural_owner = self.get_structural_owner(new_path)
+        is_structural_owner = (
+            source_structural_owner and 
+            source_structural_owner.lower() == self.commit_author.lower() and
+            (dest_structural_owner is None or dest_structural_owner.lower() == self.commit_author.lower())
+        )
+        
+        is_authorized = is_content_owner or is_structural_owner or has_admin_override
         
         if not is_authorized:
             print(f"   ❌ Unauthorized rename (owner: {file_owner}, editor: {self.commit_author})")
@@ -508,11 +520,16 @@ class IronverseEnforcer:
             # Authorized rename - update registry
             if has_admin_override:
                 print(f"   🔑 Admin override used for rename (owner: {file_owner}, admin: {self.commit_author})")
+            elif is_structural_owner and not is_content_owner:
+                print(f"   📁 Structural owner rename (content owner: {file_owner}, structural owner: {self.commit_author})")
+            
+            # Register any new folders in the destination path
+            self.register_folder_ownership(new_path)
             
             # Calculate new checksum
             checksum = self.calculate_checksum(new_path)
             
-            # Move entry to new path (without admin_override flag)
+            # Move entry to new path (preserve content owner, without admin_override flag)
             self.registry['files'][new_path] = {
                 'owner': file_owner,
                 'created': file_entry.get('created', self.get_iso_timestamp()),
