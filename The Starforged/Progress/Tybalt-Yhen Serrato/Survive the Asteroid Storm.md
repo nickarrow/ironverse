@@ -5,7 +5,7 @@ progress: 32
 tags:
   - incomplete
 track-type: Combat
-character: "[[The Starforged/Characters/Tybalt-Yhen Serrato.md]]"
+character: "[[Tybalt-Yhen Serrato]]"
 iron-vault-kind: progress
 ---
 

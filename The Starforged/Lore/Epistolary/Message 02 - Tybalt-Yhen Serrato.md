@@ -4,7 +4,7 @@ From: Valda Mackenson, Koshiba Bulletin News Anchor
 To: Residents of [Port Koshiba](obsidian://open?vault=The%20Foundry&file=The%20Starforged%2FLocations%2FSettlements%2FPort%20Koshiba)
 
 ---
-Ladies and gentlemen, Valda Mackenson here wishing you a good third work-quarter and coming to you live with the top stories of the day. As early as the start of the first work-quarter, two warships arrived in-system broadcasting the data-heraldry of Household Serrato, the toughest fighters on this side of the Forge. We here at Koshiba Bulletin have secured a first-hand, exclusive recording of the Serrato proclamation of their mission here, playing now:
+Ladies and gentlemen, Valda Mackenson here wishing you a good third work-quarter and coming to you live with the top stories of the day. As early as the start of the first work-quarter today, two warships arrived in-system broadcasting the data-heraldry of Household Serrato, the toughest fighters on this side of the Forge. We here at Koshiba Bulletin have secured a first-hand, exclusive recording of the Serrato proclamation of their mission here, playing now:
 
 "*Hear me.*
 
