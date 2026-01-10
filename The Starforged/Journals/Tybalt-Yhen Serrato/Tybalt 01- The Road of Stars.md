@@ -237,6 +237,10 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 Groaning, Tybalt would thumb the requisite buttons on his command-throne to receive all the incoming call requests. But before he could get swept away in a tide of advertising, he put on his best "Woe to the Vanquished" voice before making a broadcast on all frequencies
 
 ![[Message 02 - Tybalt-Yhen Serrato]]
+```iron-vault-mechanics
+progress from=2 name="[[The Starforged\/Progress\/Expose the darkness behind the attacks across the sector and stop it from spreading.md|Expose the darkness behind the attacks across Devil's Chain and stop it from spreading]]" rank="extreme" steps=1
+```
+
 
 ---
 ```iron-vault-mechanics
