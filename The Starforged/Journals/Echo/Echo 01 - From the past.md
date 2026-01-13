@@ -1,5 +1,5 @@
 
-# Echo 01 - From past to future
+# Echo 01 - From the past
 > Well, this took no time at all to come out
 ```iron-vault-mechanics
 oracle name="[Begin a Session \/ Begin a Session](datasworn:move.oracle_rollable:starforged\/session\/begin_a_session.begin_a_session)" result="Flashback reveals an aspect of your background or nature" roll=2
@@ -72,6 +72,6 @@ Vesper knows.
 > Well, isn't that a cheery way to end the conversation? 
 > Luckily I've learnt to accept it when spirits do stuff like this.
 
-I spin the dark iron card in my hand, making the Skeleton face Vesper, and I wait for the old man to find the information.
+Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need.
 
 (To do next: create the vault, eventual system and planet. Next scene takes us there.)
