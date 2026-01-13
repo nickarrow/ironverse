@@ -240,7 +240,13 @@ Groaning, Tybalt would thumb the requisite buttons on his command-throne to rece
 ```iron-vault-mechanics
 progress from=2 name="[[The Starforged\/Progress\/Expose the darkness behind the attacks across the sector and stop it from spreading.md|Expose the darkness behind the attacks across Devil's Chain and stop it from spreading]]" rank="extreme" steps=1
 ```
+Tybalt observed, with mixed feelings, how the attempts to hawk trinkets to him diminished, only to be replaced with new requests to accept incoming files: Annotated cargo manifests, extraction quotas and a host of other things he had no choice now but to at least try and parse.
 
+At least he might get real information on his quarry's habits, and not get dragged into the intrigues of this place
+
+....
+
+Bah, who was he kidding?
 
 ---
 ```iron-vault-mechanics

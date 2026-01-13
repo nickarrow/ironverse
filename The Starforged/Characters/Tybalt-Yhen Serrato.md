@@ -1,8 +1,8 @@
 ---
 name: Tybalt-Yhen Serrato
-xp_spent: 0
+xp_spent: 12
 xp_added: 0
-momentum: 2
+momentum: 7
 edge: 1
 heart: 2
 iron: 3
@@ -75,6 +75,8 @@ assets:
     options:
       name: Paxel
       expertise: Graveworld Scavenger
+callsign: Axe-Grinder
+pronouns: He/Him
 ---
 Tybalt-Yhen Serrato & his sidekick Paxel, in full wargear (Credit to Wolfdawgartcorner)
 ![[Pasted image 20260107182957.png]]
