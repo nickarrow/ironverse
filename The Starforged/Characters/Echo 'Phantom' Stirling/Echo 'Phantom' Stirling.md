@@ -98,3 +98,7 @@ Brownish-blonde hair, fairly pale and a little grey in the skin, apparently I re
 >[!vows] VOWS
 > Background Vow:  [[Find the lost relic and understand my connection to it]]
 > [[Take the Hourglass Relic]]
+
+> [!passages] Known Passages
+> From [[Echo 01 - From the past|The First Light]] to [[Croifols-4]]
+> From [[Ackriss-2]] to Outbound Sector (Crimson Deep?)
