@@ -13,7 +13,7 @@ spirit: 5
 supply: 5
 Quests_Progress: 12
 Quests_XPEarned: 6
-Bonds_Progress: 5
+Bonds_Progress: 6
 Bonds_XPEarned: 2
 Discoveries_Progress: 10
 Discoveries_XPEarned: 4
