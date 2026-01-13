@@ -82,7 +82,7 @@ actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom
 
 Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need.
 
-- *Vault and planet creation rolls folded under here* 
+- *Vault and planet creation rolls folded under here in edit mode* 
 	```iron-vault-mechanics
 	oracle-group name="Precursor Vault Oracles: [[Hourglass_vault|New Precursor Vault Oracles]]" {
 	    oracle name="[Precursor Vault Oracles \/ Location](datasworn:oracle_rollable:starforged\/precursor_vault\/location)" result="Orbital" roll=69
