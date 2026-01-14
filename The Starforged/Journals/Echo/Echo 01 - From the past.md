@@ -8,7 +8,7 @@ oracle name="[Starship Oracles \/ Starship Name](datasworn:oracle_rollable:starf
 ```
 
 #### TWO DAYS BEFORE
-INT. THE FIRST LIGHT IRONHOME
+##### INT. THE FIRST LIGHT IRONHOME
 
 [[Echo 'Phantom' Stirling]] stepped past the airlock to the Ironhome for the first time since her escape from the cloning chambers and laid her eyes on the one who'd called her in. 
 ```iron-vault-mechanics
@@ -115,12 +115,13 @@ Echo spun the dark iron card in her hand, making the Skeleton in the death tarot
 ---
 
 #### PRESENT
-INT. PRECURSOR VAULT - MAUSEFORT
+##### EST.  MAUSEFORT PRECURSOR VAULT
 
 Vesper had said that this place was called Mausefort, and from the tall spires jutting out of its bulk that she'd seen approaching, the reasoning at least on the 'fort' part was clear - though they had no rhyme or reason, going in any and all directions. 
 The vault itself was a large monstrosity made of what looked like bone, sculpted and fused together by hands unknown, with no clear purpose, shining a tepid reflection in the warm light of the Croifols. 
 The entrance she'd found was made of a deformed giant skull with its mouth wide open. It looked right at the planet the vault orbited, its oceans, as dead and dry as the bones that were looking upon it from above, disappeared from view as the maw closed behind the tiny form of the Ilex-zed.
 
+##### INT. MAUSEFORT ENTRANCE
 Echo breathed in the dry air inside the Vault with a grimace. It smelled both dusty and alive, a little like the farthest chambers of the vaults of the dead inside the First Light, the ones that rarely spoke anymore, and no one visited. Dead, but with a presence. 
 
  ````
@@ -148,7 +149,7 @@ oracle name="[Templates \/ Descriptor+Focus](datasworn:oracle_rollable:starforge
 }
 
 ```
-He hadn't been clear, not really, reminiscing about stories older than even him of a war that had decimated the planet, and how the Hourglass artifact, whatever it was, had been used to keep at bay the monstrosities of flesh and metal created to fight it after the planet had finally ceased to be viable at all. 
+He hadn't been clear, not really, reminiscing about stories older than even him of a war that had decimated the planet, and how the Hourglass artifact, whatever it was, had been used to keep at bay the monstrosities of flesh and metal created to fight said war after the planet had finally ceased to be viable at all. 
 
 ```iron-vault-mechanics
 oracle name="[Precursor Vault Oracles \/ Interior \/ Inner First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/interior\/first_look)" result="Dissonant tones or music" roll=27
@@ -176,7 +177,7 @@ oracle name="[Templates \/ Descriptor+Focus](datasworn:oracle_rollable:starforge
 progress from=4 name="[[The Starforged\/Progress\/Echo\/Find your way through the Mausefort to the Hourglass.md|Find your way through the Mausefort to the Hourglass]]" rank="formidable" steps=1
 
 ```
-
+##### INT. MAUSEFORRT CORRIDOR - 1 
 She walked forward following the low bell tones and their warbling, steps careful and alert. The corridor didn't seem to branch at all, uniform and dull ivory-white, until she noticed the very gradual ascending slope she had been walking when the path twisted suddenly in a spiral, going up. 
 Bordering the sudden ascent there were hollow-eyed statues with dust gathering on them, staring straight into the soul of any that dared walk this path. If anyone else were there, they would have though them just unsettling decoration, but Echo could clearly hear their song joining in with the bells. They looked like bone, melted into shape, but they clearly weren't.
 Maybe they had something to say.
@@ -192,7 +193,7 @@ oracle name="[Templates \/ Action + Theme](datasworn:oracle_rollable:starforgeds
 }
 
 ```
-She looked with her eyes, tasted the air, touched the bone-- stone, with her hands, all to avoid just going to talk with the voices she could now hear whisper in her hears. 
+She looked with her eyes, tasted the air, touched the bone-- stone, with her hands, all to avoid just going to talk with the voices she could now hear whisper in her ears. 
 No one wanted to get ambushed because they'd gotten used to listening to spirits first, Vesper had insisted, rightfully so. These particular voices sounded soft, inviting, relaxing.
 ````
 VOICES
@@ -242,7 +243,7 @@ actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom
 oracle name="[Pay the Price \/ Pay the Price](datasworn:move.oracle_rollable:starforged\/fate\/pay_the_price.pay_the_price)" result="Your action causes collateral damage or has an unintended effect" roll=30
 
 ```
-> Does the Hourglass have to do with actually freezing time like I've been thinking all this time?
+> Does the Hourglass have to do with actually freezing time/in time like I've been thinking all this time?
 ```iron-vault-mechanics
 - ">" {
     oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=41
@@ -292,10 +293,12 @@ actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom
 }
 ```
 She took the collapsible blade out, unhappily, and shook it into place. She wasn't the best with it. She would try and reason with them instead, even if it just slowed them down a little.   
+
 ```
 ECHO
 Listen to me! I am Phantom, you must listen.
 ```
+
 She made an effort to make her voice less commanding and more entreating in the spirit-winds, while still giving the command. 
 ```iron-vault-mechanics
 actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
@@ -310,6 +313,7 @@ The dead faltered, their song in the winds losing a little of their readiness to
 ECHO
 I don't intend to use the relic! I was sent here to 'take it, or someone else would' by one of you! 
 ```
+
 She tried to remember the exact sensation of Roman Vesper's speech as she said it, to evoke the lingering silhouette of that conversation and project it to them.
 ```iron-vault-mechanics
 actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
