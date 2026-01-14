@@ -8,6 +8,9 @@
 | Character Goal            |                        |
 | Revealed Character Aspect |                        |
 | Last Known Position       | Ironhome "First Light" |
+```iron-vault-mechanics
+track name="[[The Starforged\/Progress\/Echo\/Will Echo ever forgive Vesper.md|Will Echo ever forgive Vesper?]]" status="added"
+```
 
 ```iron-vault-mechanics
 oracle-group name="NPC: Vesper Savela" {

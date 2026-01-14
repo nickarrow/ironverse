@@ -1,12 +1,13 @@
 ---
-name: Find your way through the Mausefort to the Hourglass
-rank: formidable
-progress: 8
+name: Stop those who want to take the Hourglass
+rank: dangerous
+progress: 0
 tags:
   - incomplete
-track-type: Expedition
+track-type: ""
 character: "[[The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md]]"
 iron-vault-kind: progress
+
 ---
 
 

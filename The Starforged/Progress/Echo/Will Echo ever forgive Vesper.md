@@ -1,10 +1,10 @@
 ---
-name: Find your way through the Mausefort to the Hourglass
+name: Will Echo ever forgive Vesper?
 rank: formidable
-progress: 8
+progress: 0
 tags:
   - incomplete
-track-type: Expedition
+track-type: Connection
 character: "[[The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md]]"
 iron-vault-kind: progress
 ---

@@ -2,15 +2,15 @@
 name: Echo 'Phantom' Stirling
 xp_spent: 0
 xp_added: 0
-momentum: 3
+momentum: 6
 edge: 2
 heart: 2
 iron: 1
 shadow: 1
 wits: 3
 health: 5
-spirit: 5
-supply: 5
+spirit: 4
+supply: 4
 Quests_Progress: 0
 Quests_XPEarned: 0
 Bonds_Progress: 0
@@ -19,7 +19,7 @@ Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 iron-vault-kind: character
 callsign: Phantom
-pronouns: She ??
+pronouns: She/Her
 assets:
   - id: asset:starforged/path/lore_hunter
     abilities:
@@ -53,6 +53,9 @@ assets:
       integrity/cursed: false
     options:
       name: Ilex-zed
+description: |-
+  I'm told that I'm younger looking than I am, mostly because I'm a little unkempt, not because I'm stunningly youthful. I do, in fact, look like the one I've been cloned from, so I know exactly what I'll be like when I'm old, and dead. 
+  Brownish-blonde hair, fairly pale and a little grey in the skin, apparently I resemble a little the corpses I can talk to, or so I've been teased about. Tall, though! And apparently my good cheer, if a little unnerving to some, manages to make me win over people some.
 ---
 
 
@@ -74,8 +77,10 @@ assets:
 
 ```iron-vault-character-assets
 ```
+>[!CONNECTIONS]- CONNECTIONS
+>[[Vesper Savela]]
 
-> [!gear] GEAR
+> [!gear]- GEAR
 > - My Toolkit
 > - Lights, handheld and attached too
 > - Medikit
@@ -83,17 +88,16 @@ assets:
 > - Spacer's low-oxygen suit
 > - Five cards from what looks like a tarot deck, but made in Black Iron. I only recognize the Death
 
+>[!Backstory]- BACKSTORY
 I'm a wanderer exploring the galaxy, selling what I find for profit, bound to no one and nothing. I'm a clone, too, that's why I gave myself the name Echo. 
 Making a living by recovering relics thought lost to time... because I'm talking to their spirits to let them tell me where they are. I talked to the spirit of the one I've been cloned from, he told me of the old relic I've been chasing rumors of since the very beginning. The spirits whisper about it.
 What is it? I don't know, but the spirit of the other E. Stirling was adamant, I need to find it. 
-Apparently, some pirates might be aware of where it is?
 
+> [!Incitig]- Working Through Stuff
 Still, in the meanwhile I'm here on this hunt, in this vault, where the spirit of a contact's grandparent directed me. There are many spirits, many undead, too many to be usual. Is this connected to the pirates I've heard about?
 
+> [!spaceship]- SPACESHIP
 The Ilex-zed is my ship now, she was my original first, but since the bio-metrics are the same, no one can really do a thing about it. I'm the only one left now. So I named her that, as a fun way to spell "eleven multiplied by two", because the numbers reminded me of being cloned, and I was still a little bitter about it back then. Since then, the ship accompanied me in my forge and spirit related archaeology.
-
-I'm told that I'm younger looking than I appear, mostly because I'm a little unkempt, not because I'm stunningly youthful. I do, in fact, look like the one I've been cloned from, so I know exactly what I'll be like when I'm old, and dead. 
-Brownish-blonde hair, fairly pale and a little grey in the skin, apparently I resemble a little the corpses I can talk to, or so I've been teased about. Tall, though! And apparently my good cheer, if a little unnerving to some, manages to make me win over people some.
 
 >[!vows] VOWS
 > Background Vow:  [[Find the lost relic and understand my connection to it]]
