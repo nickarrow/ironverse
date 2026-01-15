@@ -86,3 +86,8 @@ With odds (failed): `iv-clock-advance:Ritual Complete|Clocks/Ritual.md|2|2|0|8|o
 Make an action roll  `iv-action-roll:Heart|5|3|0|10|7`  then do a reroll   `iv-reroll:vs1|10|5|Heart|3|0|5|7|5` 
 
 
+`iv-move:Gain Ground|Heart|2|3|0|2|8|move:starforged/combat/gain_ground`  `iv-oracle:Take Decisive Action|52|Victory is short-lived: A new peril or foe appears|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action` 
+
+
+
+`iv-move:Gain Ground|Wits|5|2|0|7|5|move:starforged/combat/gain_ground` 
