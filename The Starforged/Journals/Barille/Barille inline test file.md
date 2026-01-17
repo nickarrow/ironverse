@@ -38,3 +38,13 @@ Strong hit `iv-move:Face Danger|Heart|4|3|0|6|4|move:starforged/adventure/face_d
 `iv-dice:5d10{3+9+9+6+6} + 2|35` 
 `iv-action-roll:Iron|4|2|0|5|6` How about a reroll?  `iv-reroll:vs2|6|10|Iron|2|0|5|10|4` 
 
+Okay text  `iv-move:Battle|Heart|4|3|0|9|10|move:starforged/combat/battle` how about `iv-move:Enter the Fray|Edge|4|1|0|8|8|move:starforged/combat/enter_the_fray` 
+
+asdf `iv-oracle:First Look|75|Slight|oracle_rollable:starforged/character/first_look` asdf  `iv-dice:10d99{36+25+77+3+11+96+38+18+56+56}|416` 
+
+```iron-vault-mechanics
+dice-expr expr="10d99" result=591 {
+    rolls 56 16 73 97 92 39 53 65 37 63 dice="10d99"
+}
+```
+
