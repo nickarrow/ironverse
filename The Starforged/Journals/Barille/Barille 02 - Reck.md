@@ -142,7 +142,3 @@ Session outline:
 - Assist if needed
 - Start ship repairs (if possible)
 - Begin investigation of [[Investigate and report on the rumored horrors of Reck]]
-
-
-
-
