@@ -137,6 +137,8 @@ With new key information in hand. Barille leans against a pillar in a larger mar
 
 Barille sits and watches the market for a while, looking for an outdoor pub. 
 
+`iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
+
 Session outline:
 - Get to Reck
 - Assist if needed
