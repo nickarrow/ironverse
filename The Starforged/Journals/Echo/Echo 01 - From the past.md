@@ -1,16 +1,13 @@
 # Echo 01 - From the past
 > Well, this took no time at all to come out
-```iron-vault-mechanics
-oracle name="[Begin a Session \/ Begin a Session](datasworn:move.oracle_rollable:starforged\/session\/begin_a_session.begin_a_session)" result="Flashback reveals an aspect of your background or nature" roll=2
-```
-```iron-vault-mechanics
-oracle name="[Starship Oracles \/ Starship Name](datasworn:oracle_rollable:starforged\/starship\/starship_name)" result="First Light" roll=28
-```
 
+ `iv-oracle:Begin a Session|2|Flashback reveals an aspect of another character, place, or faction|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
+ `iv-oracle:Starship Name|28|First Light|oracle_rollable:starforged/starship/starship_name` 
 #### TWO DAYS BEFORE
 ##### INT. THE FIRST LIGHT IRONHOME
 
 [[Echo 'Phantom' Stirling]] stepped past the airlock to the Ironhome for the first time since her escape from the cloning chambers and laid her eyes on the one who'd called her in. 
+
 ```iron-vault-mechanics
 oracle-group name="NPC: Vesper Savela" {
     oracle name="[Character Oracles \/ Character Name \/ Given Name](datasworn:oracle_rollable:starforged\/character\/name\/given_name)" result="Vesper" roll=93
@@ -71,47 +68,32 @@ Vesper knows.
 > Well, isn't that a cheery way to end the conversation? 
 > Luckily I've learnt to accept it when spirits do stuff like this.
 
+Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need to `iv-track-create:Take the Hourglass Relic|The Starforged/Progress/Echo/Take the Hourglass Relic.md`.
+
+---
 ```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
-        roll "Heart" action=1 adds=0 stat=2 vs1=7 vs2=2
-        reroll action=6
-    }
-}
-```
-
-Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need.
-
-- *Vault and planet creation rolls folded under here in edit mode* 
-	```iron-vault-mechanics
 	oracle-group name="Precursor Vault Oracles: [[Hourglass_vault|New Precursor Vault Oracles]]" {
-	    oracle name="[Precursor Vault Oracles \/ Location](datasworn:oracle_rollable:starforged\/precursor_vault\/location)" result="Orbital" roll=69
-	    oracle name="[Precursor Vault Oracles \/ Scale](datasworn:oracle_rollable:starforged\/precursor_vault\/scale)" result="Large, elaborate site" roll=89
-	    oracle name="[Precursor Vault Oracles \/ Form](datasworn:oracle_rollable:starforged\/precursor_vault\/form)" result="Incomprehensible" roll=98
-	    oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Roll twice" roll=97 {
-	        oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Spires or towers" roll=65
-	        oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Sculptural or effigy" roll=75
-	    }
-	    oracle name="[Precursor Vault Oracles \/ Material](datasworn:oracle_rollable:starforged\/precursor_vault\/material)" result="Bone-like" roll=75
-	    oracle name="[Precursor Vault Oracles \/ Outer First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/outer_first_look)" result="Dreadful premonitions" roll=25
-	    oracle name="[Precursor Vault Oracles \/ Outer First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/outer_first_look)" result="Hazardous readings" roll=50
+	   oracle name="[Precursor Vault Oracles \/ Location](datasworn:oracle_rollable:starforged\/precursor_vault\/location)" result="Orbital" roll=69
+	   oracle name="[Precursor Vault Oracles \/ Scale](datasworn:oracle_rollable:starforged\/precursor_vault\/scale)" result="Large, elaborate site" roll=89
+	   oracle name="[Precursor Vault Oracles \/ Form](datasworn:oracle_rollable:starforged\/precursor_vault\/form)" result="Incomprehensible" roll=98
+	   oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Roll twice" roll=97 {
+	       oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Spires or towers" roll=65
+        oracle name="[Precursor Vault Oracles \/ Shape](datasworn:oracle_rollable:starforged\/precursor_vault\/shape)" result="Sculptural or effigy" roll=75
+	   }
+	   oracle name="[Precursor Vault Oracles \/ Material](datasworn:oracle_rollable:starforged\/precursor_vault\/material)" result="Bone-like" roll=75
+	   oracle name="[Precursor Vault Oracles \/ Outer First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/outer_first_look)" result="Dreadful premonitions" roll=25
+	   oracle name="[Precursor Vault Oracles \/ Outer First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/outer_first_look)" result="Hazardous readings" roll=50
 	}
-	
-	```
-	Is the atmosphere inside the Vault breathable?
-	```iron-vault-mechanics
-	oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=2
-	```
-	Is it around Ackriss-2?
-	```iron-vault-mechanics
-	oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="No" roll=85
+```
+```Is the atmosphere inside the Vault breathable?``` `iv-oracle:50/50|2|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+```Is it around Ackriss-2?``` `iv-oracle:50/50|85|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+```iron-vault-mechanics
 	oracle name="[Planet Oracles \/ Planetary Class](datasworn:oracle_rollable:starforged\/planet\/class)" result="[Grave World](datasworn:oracle_collection:starforged\/planet\/grave)" roll=31
 	oracle name="[Planet Oracles \/ Grave World \/ Observed From Space](datasworn:oracle_rollable:starforged\/planet\/grave\/observed_from_space)" result="Dry seabeds" roll=54
 	
 	
 	oracle name="[Space Encounter Oracles \/ Stellar Object](datasworn:oracle_rollable:starforged\/space\/stellar_object)" result="Glowing orange star" roll=21
-	```
-
+```
 ---
 
 #### PRESENT
@@ -131,167 +113,72 @@ Echo breathed in the dry air inside the Vault with a grimace. It smelled both du
  ````
 
 Relieved when no one answered her, she centered on her breathing and reached out with her other senses, listening to the ever present ghostly wind and what it was telling her, thinking back to what Roman had whispered two days prior.
-
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
-        roll "Heart" action=2 adds=0 stat=2 vs1=4 vs2=10
-        burn from=5 to=2
-    }
-}
-oracle name="[Templates \/ Action + Theme](datasworn:oracle_rollable:starforgedsupp\/templates\/actiontheme)" result="Hold Burden" roll=49 {
-    oracle name="[Core Oracles \/ Action](datasworn:oracle_rollable:starforged\/core\/action)" result="Hold" roll=53
-    oracle name="[Core Oracles \/ Theme](datasworn:oracle_rollable:starforged\/core\/theme)" result="Burden" roll=10
-}
-oracle name="[Templates \/ Descriptor+Focus](datasworn:oracle_rollable:starforgedsupp\/templates\/descriptorfocus)" result="Contested Territory" roll=96 {
-    oracle name="[Core Oracles \/ Descriptor](datasworn:oracle_rollable:starforged\/core\/descriptor)" result="Contested" roll=23
-    oracle name="[Core Oracles \/ Focus](datasworn:oracle_rollable:starforged\/core\/focus)" result="Territory" roll=88
-}
-
-```
+`iv-move:Gather Information|Heart|2|2|0|4|10|move:starforged/adventure/gather_information` `iv-burn:5|2` `iv-oracle:Action + Theme|49|Hold |oracle_rollable:starforgedsupp/templates/actiontheme`  `iv-oracle:Descriptor+Focus|96|Contested Territory|oracle_rollable:starforgedsupp/templates/descriptorfocus` 
 He hadn't been clear, not really, reminiscing about stories older than even him of a war that had decimated the planet, and how the Hourglass artifact, whatever it was, had been used to keep at bay the monstrosities of flesh and metal created to fight said war after the planet had finally ceased to be viable at all. 
-
-```iron-vault-mechanics
-oracle name="[Precursor Vault Oracles \/ Interior \/ Inner First Look](datasworn:oracle_rollable:starforged\/precursor_vault\/interior\/first_look)" result="Dissonant tones or music" roll=27
-```
-```iron-vault-mechanics
-track name="[[The Starforged\/Progress\/Echo\/Find your way through the Mausefort to the Hourglass.md|Find your way through the Mausefort to the Hourglass]]" status="added"
-```
+`iv-oracle:Inner First Look|27|Dissonant tones or music|oracle_rollable:starforged/derelict/inner_first_look` 
+`iv-track-create:Find your way through the Mausefort to the Hourglass|The Starforged\/Progress\/Echo\/Find your way through the Mausefort to the Hourglass.md`
 As she thought about that old legend a shiver ran down her spine and she looked up and saw it. There, on the walls of one of the many bone corridors opening in front of her, was a bas-relief representing what could be one such monstrosity. 
 As soon as she saw it the ghostly wind chimed for her ears only, with bitter and contrasting bell tones, so low-pitched that they lost their clarity.  
 
 > And who am I to refuse such a clear invitation?
-
-```iron-vault-mechanics
-progress from=0 name="[[The Starforged\/Progress\/Echo\/Find your way through the Mausefort to the Hourglass.md|Find your way through the Mausefort to the Hourglass]]" rank="formidable" steps=1
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Undertake an Expedition](datasworn:move:starforged\/exploration\/undertake_an_expedition)" {
-        roll "Wits" action=1 adds=0 stat=3 vs1=3 vs2=1
-    }
-}
-oracle name="[Precursor Vault Oracles \/ Interior \/ Interior Feature](datasworn:oracle_rollable:starforged\/precursor_vault\/interior\/feature)" result="Ascending or descending path" roll=3
-oracle name="[Templates \/ Descriptor+Focus](datasworn:oracle_rollable:starforgedsupp\/templates\/descriptorfocus)" result="Preserved People" roll=74 {
-    oracle name="[Core Oracles \/ Descriptor](datasworn:oracle_rollable:starforged\/core\/descriptor)" result="Preserved" roll=76
-    oracle name="[Core Oracles \/ Focus](datasworn:oracle_rollable:starforged\/core\/focus)" result="People" roll=61
-}
-progress from=4 name="[[The Starforged\/Progress\/Echo\/Find your way through the Mausefort to the Hourglass.md|Find your way through the Mausefort to the Hourglass]]" rank="formidable" steps=1
-
-```
+`iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|8|4|formidable|1` 
 ##### INT. MAUSEFORRT CORRIDOR - 1 
+`iv-oracle:Inner First Look|3|Ascending or descending path|oracle_rollable:starforged/derelict/inner_first_look` 
+`iv-oracle:Descriptor+Focus|28|Preserved People|oracle_rollable:starforgedsupp/templates/descriptorfocus` 
+`iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|8|8|formidable|1`
+
 She walked forward following the low bell tones and their warbling, steps careful and alert. The corridor didn't seem to branch at all, uniform and dull ivory-white, until she noticed the very gradual ascending slope she had been walking when the path twisted suddenly in a spiral, going up. 
 Bordering the sudden ascent there were hollow-eyed statues with dust gathering on them, staring straight into the soul of any that dared walk this path. If anyone else were there, they would have though them just unsettling decoration, but Echo could clearly hear their song joining in with the bells. They looked like bone, melted into shape, but they clearly weren't.
 Maybe they had something to say.
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Explore a Waypoint](datasworn:move:starforged\/exploration\/explore_a_waypoint)" {
-        roll "Wits" action=4 adds=0 stat=3 vs1=7 vs2=5
-    }
-}
-oracle name="[Templates \/ Action + Theme](datasworn:oracle_rollable:starforgedsupp\/templates\/actiontheme)" result="Deflect Expedition" roll=41 {
-    oracle name="[Core Oracles \/ Action](datasworn:oracle_rollable:starforged\/core\/action)" result="Deflect" roll=31
-    oracle name="[Core Oracles \/ Theme](datasworn:oracle_rollable:starforged\/core\/theme)" result="Expedition" roll=32
-}
 
-```
 She looked with her eyes, tasted the air, touched the bone-- stone, with her hands, all to avoid just going to talk with the voices she could now hear whisper in her ears. 
 No one wanted to get ambushed because they'd gotten used to listening to spirits first, Vesper had insisted, rightfully so. These particular voices sounded soft, inviting, relaxing.
 ````
 VOICES
 don't... don't go... stay... don't move... sleep...
 ````
-
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Face Danger](datasworn:move:starforged\/adventure\/face_danger)" {
-        roll "Iron" action=2 adds=0 stat=1 vs1=8 vs2=4
-        burn from=5 to=2
-        meter "Spirit" from=5 to=4
-        meter "Momentum" from=2 to=3
-    }
-}
-
-```
-
+`iv-move:Face Danger|Iron|2|1|0|8|4|move:starforged/adventure/face_danger` `iv-burn:5|2` 
 Her eyelids lowered down, her body melting on the shallow bone steps under her, surprisingly soft and warm, the ghostly wind finally slowing down, peace after hearing it for all her life, the bells drawing out, their sound warbling and sliding before its pitch became, surprisingly, harmony. 
 
 ````
 VOICES
 ...never awake... always asleep... stay.
 ````
-
+ `iv-meter:Spirit|5|4`
 The bells. The vault. Roman had said about something the spirits waking up, hadn't he?
 Echo suddenly stood up, shards of what looked like bone enamel falling down from her limbs, shaken: she hadn't even noticed.
-> When did I sit down??
+> When did I sit down?? 
 
 ```
 ECHO
 Enough!
 ```
 
-Her voice echoed through the vault and in the winds beyond.
+Her voice echoed through the vault and in the winds beyond. `iv-meter:Momentum|2|3`
 
 ```
 ECHO
 I am Phantom, you will listen to me. Tell me of the hourglass or stay silent!
 ```
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
-        roll "Heart" action=6 adds=0 stat=2 vs1=8 vs2=10
-    }
-}
-oracle name="[Pay the Price \/ Pay the Price](datasworn:move.oracle_rollable:starforged\/fate\/pay_the_price.pay_the_price)" result="Your action causes collateral damage or has an unintended effect" roll=30
+`iv-move:Gather Information|Heart|5|1|0|8|10|` `iv-oracle:Pay the Price|30|Your action causes collateral damage or has an unintended effect|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
 
-```
-> Does the Hourglass have to do with actually freezing time/in time like I've been thinking all this time?
-```iron-vault-mechanics
-- ">" {
-    oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=41
-}
-```
-The hands of the frozen dead around her broke free from the enamel and surged forward, the echoes of Echo's voice and her command still ringing around, but the undead's voices around her now spoke clearly. 
+> Does the Hourglass have to do with actually freezing time/in time like I've been thinking all this time?  `iv-oracle:50/50|41|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+The hands of the frozen dead around her broke free from the enamel and surged forward, the echoes of Echo's voice and her command still ringing around, but the undeads' voices around her now spoke clearly. 
 
 ```
 VOICES
 ...fall under the Hourglass' sleep with us, or die and fall prey to it then.
 ```
 
->Trap 1-50, melee 51-100
-```iron-vault-mechanics
-oracle name="[Ask the Oracle \/ 50\/50](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.fifty_fifty)" result="Yes" roll=13
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
-        roll "Wits" action=1 adds=0 stat=3 vs1=10 vs2=4
-    }
-}
+>Trap 'yes', melee 'no' `iv-oracle:50/50|13|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-```
-Echo scanned quickly her exact position, trying to find a way forward: she didn't want to fight these poor, compelled dead people, though she would if she had to. She had to escape.
+Echo scanned quickly her exact position, trying to find a way forward: she didn't want to fight these poor, compelled dead people, though she would if she had to. She had to escape. `iv-track-create:Escape the Statues|The Starforged\/Progress\/Echo\/Escape the Statues.md`
 
-```iron-vault-mechanics
-track name="[[The Starforged\/Progress\/Echo\/Escape the Statues.md|Escape the Statues]]" status="added"
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    position from="out of combat" to="in a bad spot"
-}
+`iv-move:Enter the Fray|Wits|1|3|0|10|4|move:starforged/combat/enter_the_fray`  `iv-initiative:Position|in a bad spot|in a bad spot`   
 
-```
-
-The dead were never spry and fast, not usually, and this time it wasn't different. They tried to grab her with freezing hands, to hold her down. Had she ever said that she'd stay put? No.
-
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[React Under Fire](datasworn:move:starforged\/combat\/react_under_fire)" {
-        roll "Edge" action=2 adds=0 stat=2 vs1=7 vs2=2
-    }
-}
-```
-Echo ducked under the freezing hands and dodged legs, their joints still stiff from their long vigil making it easier, a little.
-Still, she hissed through her teeth when she saw that her pistol had slipped its holster and was still right there in the middle of the cluster.
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    meter "Supply" from=5 to=4
-}
-```
+The dead were never spry and fast, not usually, and this time it wasn't different. They tried to grab her with freezing hands, to hold her down. Had she ever said that she'd stay put? No. `iv-move:React Under Fire|Edge|2|0|0|7|2|move:starforged/combat/react_under_fire` 
+Echo ducked under the freezing hands and dodged legs, their joints still stiff from their long vigil making it easier, a little. Still, she hissed through her teeth when she saw that her pistol had slipped its holster and was still right there in the middle of the cluster. `iv-meter:Supply|5|4`
 She took the collapsible blade out, unhappily, and shook it into place. She wasn't the best with it. She would try and reason with them instead, even if it just slowed them down a little.   
 
 ```
@@ -299,14 +186,7 @@ ECHO
 Listen to me! I am Phantom, you must listen.
 ```
 
-She made an effort to make her voice less commanding and more entreating in the spirit-winds, while still giving the command. 
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Secure an Advantage](datasworn:move:starforged\/adventure\/secure_an_advantage)" {
-        roll "Heart" action=5 adds=0 stat=2 vs1=1 vs2=7
-    }
-}
-```
+She made an effort to make her voice less commanding and more entreating in the spirit-winds, while still giving the command.   `iv-move:Secure an Advantage|Heart|5|2|0|1|7|move:starforged/adventure/secure_an_advantage` heart 5 0 2 1 7
 The dead faltered, their song in the winds losing a little of their readiness to fight, but still creeping forward.
 
 ```
@@ -314,15 +194,7 @@ ECHO
 I don't intend to use the relic! I was sent here to 'take it, or someone else would' by one of you! 
 ```
 
-She tried to remember the exact sensation of Roman Vesper's speech as she said it, to evoke the lingering silhouette of that conversation and project it to them.
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
-        add 1 "there must be a perk to being a necromancer, just to offset all the decay I see..."
-        roll "Heart" action=3 adds=1 stat=2 vs1=5 vs2=8
-    }
-}
-```
+She tried to remember the exact sensation of Roman Vesper's speech as she said it, to evoke the lingering silhouette of that conversation and project it to them.  `iv-move:Compel|Heart|3|2|1|5|8|move:starforged/adventure/compel|adds=1(there must be a benefit to being a necromancer after all)` 
 The wind picked up pace so much that she almost expected her hair to blow away in it, so strong was the noise. Then as one the dead surrounded her, even as she stepped back, pushing her to the edge of the staircase and its looming drop.
 
 ```
@@ -339,18 +211,8 @@ ECHO
 I swear, I will!
 ```
 
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
-        roll "Heart" action=5 adds=0 stat=2 vs1=3 vs2=6
-        meter "Momentum" from=3 to=5
-    }
-}
-track name="[[The Starforged\/Progress\/Echo\/Stop those who want to take the Hourglass.md|Stop those who want to take the Hourglass]]" status="added"
-track name="[[The Starforged\/Progress\/Echo\/Escape the Statues.md|Escape the Statues]]" status="completed"
-
-```
-As Echo took her five black iron tarots and pulled out the Death one without looking, facing its pale blue glow towards them, the spirits settled and their songs dimmed. She opened her mouth to ask further details-
+`iv-move:Swear an Iron Vow|Heart|3|2|0|3|6||burn=7:3|move:starforged/quest/swear_an_iron_vow` 
+As Echo took her five black iron tarots and pulled out the Death one without looking, facing its pale blue glow towards them, swearing to `iv-track-create:Stop those who want to take the Hourglass|The Starforged\/Progress\/Echo\/Stop those who want to take the Hourglass.md`, the spirits settled and their songs dimmed. She opened her mouth to ask further details-
 
 One glacial hand, encased in enamel, landed on her shoulder and *pushed* her off the stairs.
 
@@ -359,15 +221,8 @@ VOICE
 Good luck, Phantom.
 ```
 
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    move "[End a Session](datasworn:move:starforged\/session\/end_a_session)"
-}
-```
+`iv-track-complete:Escape the Statues|The Starforged\/Progress\/Echo\/Escape the Statues.md`
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
 > I need to remember: complete the vault and the current vow, yes, but while Echo is here she should probably also look into the mysterious them"
-```iron-vault-mechanics
-actor name="[[The Starforged\/Characters\/Echo 'Phantom' Stirling\/Echo 'Phantom' Stirling.md|Echo 'Phantom' Stirling]]" {
-    meter "Momentum" from=5 to=6
-}
-```
+> `iv-meter:Momentum|5|6`
 

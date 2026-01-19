@@ -1,7 +1,7 @@
 ---
 name: Find your way through the Mausefort to the Hourglass
 rank: formidable
-progress: 8
+progress: 12
 tags:
   - incomplete
 track-type: Expedition
