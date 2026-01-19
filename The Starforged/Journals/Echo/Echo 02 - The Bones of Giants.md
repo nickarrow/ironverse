@@ -39,7 +39,7 @@ Its speaker croaked to life, metallic and shrill.
 DROID
 Halt!
 ```
-Echo does, hands going up even as she catches the symbol on the side of its head.
+Echo did, her hands going up even as she caught the symbol on the side of its head.
 
 > Does she recognize the symbol on the droid?
 >`iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
