@@ -226,3 +226,4 @@ Good luck, Phantom.
 > I need to remember: complete the vault and the current vow, yes, but while Echo is here she should probably also look into the mysterious them"
 > `iv-meter:Momentum|5|6`
 
+[[Echo 02 - The Bones of Giants]]
