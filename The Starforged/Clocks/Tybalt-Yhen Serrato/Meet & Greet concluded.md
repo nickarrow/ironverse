@@ -1,10 +1,10 @@
 ---
 name: Meet & Greet concluded
 segments: 4
-progress: 2
+progress: 4
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

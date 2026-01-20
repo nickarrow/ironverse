@@ -1,9 +1,9 @@
 ---
 name: Complaint Compiling
 rank: dangerous
-progress: 16
+progress: 24
 tags:
-  - incomplete
+  - complete
 track-type: Scene Challenge
 character: "[[The Starforged/Characters/Tybalt-Yhen Serrato.md]]"
 iron-vault-kind: progress
