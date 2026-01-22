@@ -41,9 +41,59 @@ Halt!
 ```
 Echo did, her hands going up even as she caught the symbol on the side of its head.
 
-> Does she recognize the symbol on the droid?
->`iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
-> Is it one of our known factions?
- `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
- > 1 - Ascendancy of the Awakened Worlds, 2 - Circle of the Elder Stars, 3- Household Serrato, 4- Risen union
- >  `iv-dice:1d4|4` 
+> Does she recognize the symbol on the droid? `iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+> Is it one of our known factions?  `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+ > 1 - Ascendancy of the Awakened Worlds, 2 - Circle of the Elder Stars, 3- Household Serrato, 4- Risen union  `iv-dice:1d4|4`
+ > The symbol?  `iv-oracle:Descriptor+Focus|23|Guarded Energy|oracle_rollable:starforgedsupp/templates/descriptorfocus` 
+
+The symbol on the droid's chassis was one that Echo had seen many times in her travels through the forge, the yellow shield with a white dot in its center of the [[Risen Union]], but the model wasn't familiar. 
+> Fair enough, from the amount of bone dust on it... It's positively ancient.
+
+ `iv-oracle:Initial Disposition|13|Friendly|oracle_rollable:starforged/character/initial_disposition`Usually when she'd met their members they'd been enigmatic, but generally friendly, if distant. She cleared her throat and twitched when the droid's firearm swayed a little more in her direction.
+
+```
+ECHO
+Don't shoot! I'm not an enemy, the statues attacked me too!
+```
+`iv-move:Compel|Heart|2|2|0|5|4|move:starforged/adventure/compel|burn=8:2`  
+Echo saw its lens scan her from head to toe and analyze her person for signs of battle: whatever it was that the droid saw, its weapon lowered. `iv-meter:Momentum|2|3` 
+
+```
+DROID
+Condition- Critical. Assistance required. 
+
+ECHO
+Sure, I'll... try and repair you. I can't work miracles though. What were you even doing here?
+```
+She took out her equipment and started lining up the, admittedly sparse, robotic repair kit she usually brought with her, showing it to the Droid as they talked.
+`iv-move:Gather Information|Wits|5|3|0|9|10|move:starforged/adventure/gather_information` 
+>Were they trying to find the Hourglass too?  `iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Were they involved in the planet's war?  `iv-oracle:50/50|59|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Does the droid know current orders?  `iv-oracle:50/50|21|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Is the RU still now searching for the Hourglass?  `iv-oracle:50/50|93|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+In its grating, halting speech, the droid told her more that she thought it would: about how the Risen Union of decades past had been searching for the Hourglass in here, how most of the team inside had been attacked and died and only a few had managed to flee. How it had been monitoring the RU's frequencies ever since, but couldn't communicate its own status due to a broken comm unit, and had to spectate as the ones fleeing from here formed their own splinter group, obsessed with finding the Hourglass, among other relics and precursor technologies, to their own end.
+Were this splinter group the ones she was 'supposed to stop'? Well, if she took it first they'd never *begin* anything in the first place.
+`iv-track-advance:Stop those who want to take the Hourglass|The Starforged/Progress/Echo/Stop those who want to take the Hourglass.md|0|8|dangerous|1` 
+She'd first have to see where this machine stood, of course.
+`iv-move:Secure an Advantage|Wits|4|3|0|2|10|move:starforged/adventure/secure_an_advantage` 
+```
+DROID
+I recently recognized once again their speech patterns in the comm channels. It's statistically likely that they are infiltrating the Risen Union and searching again.
+
+ECHO
+And what about you? Where do you stand about the Hourglass?
+
+DROID
+My loyalty to the Risen Union is programmed. I will complete my last mission, unless my orders change.
+
+ECHO
+Got it! Makes sense.
+```
+
+Echo tried to make it sound cheerful even as she prepared to fake with everything she had. It looked like she'd have to *repair* the droid's issued to death. She warned it that she was beginning and took her tools.  `iv-move:Face Danger|Shadow|4|1|1|2|5|move:starforged/adventure/face_danger|adds=1(Echo now knows that this droid is the enemy)`  `iv-meter:Momentum|3|4`  `iv-move:Repair|Wits|6|3|0|6|2|move:starforged/recover/repair` 
+
+Echo was extremely thankful that this unit was so old, she was sweating by the time she'd finished, after disabling its comm unit completely and talking it into believing that she was doing it simply for the repairs. She watched the chassis fall to the ground completely inert as the computational unit was removed, then took the data storage and hid it inside her suit, to look at once outside the Vault and its many nightmares.
+
+She readied her blade and steadied her breath, and looked down towards the rest of the corridor and its grey shadows. There was no time to dwadle.
+
+##### INT. MAUSEFORT - RUINED CORRIDOR, DEEPER
+`iv-move:Undertake an Expedition|Wits|6|3|0|7|6|move:starforged/exploration/undertake_an_expedition` 
+`iv-oracle:Interior Feature|40|Looted or dismantled technology|oracle_rollable:starforged/precursor_vault/interior/feature` 
