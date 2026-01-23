@@ -139,8 +139,6 @@ Barille sits and watches the market for a while, looking for an outdoor pub.
 
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
 
-`iv-entity-create:Precursor Vault Oracles|Magolorium|Magolorium.md` 
-
 Session outline:
 - Get to Reck
 - Assist if needed

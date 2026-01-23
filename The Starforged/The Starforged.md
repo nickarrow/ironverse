@@ -11,9 +11,10 @@ ironvault:
       - oracle_rollable:sundered_isles/weather**
       - oracle_rollable:sundered_isles/treasure**
       - "!oracle_rollable:sundered_isles/misc/local**"
-  customContentFolder: Starsmith
+      - "*:ancient_wonders/**"
+      - "*:starsmith/**"
+  customContentFolder: Custom Content
 iron-vault-kind: campaign
-
 ---
 
 # [[The Starforged]]
