@@ -1,8 +1,8 @@
-# Welcome to Ironverse
+# Welcome to the Ironverse
 
 > A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
 
-## What is Ironverse?
+## What is the Ironverse?
 
 **The Ironverse** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
 
@@ -11,7 +11,7 @@
 - 🤝 **Collaborate organically** — Add your character to someone else's campaign, write journal entries that interweave with theirs
 - 🌍 **Build shared worlds** — Watch the universe grow as players contribute to each other's stories
 
-All governance happens automatically through GitHub Actions — no manual permission management, no drama.
+We have one [[The Starforged|Starforged campaign]] running, and new players are always welcome to join the Ironverse. Feel free to join in the current campaign, or if you want to start your own (Ironsworn, and Sundered Isles also supported) go for it!
 
 ## How Ownership Works
 Every file has exactly one owner — whoever created it. Simple.
