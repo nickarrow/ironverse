@@ -133,13 +133,9 @@ Mr. Black - RU said you we're coming, so I've been monitoring for a proximity al
 
 EXT. RECK MARKET
 
-With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck.  `iv-ooc:This is me thinking outloud with an inline ooc comment. It can be long or short, but I am not sure what style I like here. ` And back to the action!   `iv-move:Enter the Fray|Edge|2|1|0|2|6|move:starforged/combat/enter_the_fray` 
+With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck. 
 
-
-Barille sits and watches the market for a while, looking for an outdoor pub. 
-
-`iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
-
+Barille sits and watches the market for a while, looking for something to catch his eye, or maybe just an outdoor pub to get a drink....
 
 
 
