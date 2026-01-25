@@ -119,7 +119,7 @@ Even as he tried to batter them aside, to make space to draw his weapons or even
 
 But just as one of them was ready to make the Bannersworn choke on steel, the familiar thump of a Serrato Mag-Rifle rings out, and the ensuing hail of bullets either clatters harmlessly against Tybalt’s warplate or flies past him to set off car alarms by punching holes in them. As Tybalt staggers upright he draws his axe, he finally gets a good look at his opponents. Their dull grey bodysuits revealed down to a man the physiques of dancers, slim but strong, and the son of Bertold was willing to bet that those suits possessed layers of synthetic muscle to go with their personalised stealth fields. And for weapons, they bore gleaming, single-edged swords of unassuming design, and carried an assortment of gadgets and pistols on their belts.
 
-Keeping his gaze focused upon the four assassins, he speaks to his lieutenant over encrypted comms.
+Keeping his gaze focused upon the four assassins, he speaks to his lieutenant through the speaker in his warplate.
 
 ```
 Tybalt: Paxel? I thought you were at some pleasure den?
@@ -130,5 +130,11 @@ Paxel: Wasn’t feeling it anymore, decided to take a hike. And didn’t you say
 Before the argument could escalate, one of the four killers addressed Paxel over the shrill shriek of alarms
 
 ```
-Assassin: You
+Assassin: Begone from here. Your master is the only one marked to die. You may leave with your throat uncut.
+
+Paxel: OoooOoh, how intimidating. Unfortunately for you, a pretty girl just shot me down hard, and the only way I’m gonna feel better is making it everyone else’s problem.
+
+Assassin: Then die a fool.
 ```
+
+Right at that moment, both sides had achieved what they were stalling for: Tybalt had sent out a distress signal with accompanying danger assessments, and responses were already filtering in one after the other. While the assassins stealth fields had finished recharging, and so they disappeared at once, to try and finish the job before more interference arrived in response to the gunfire
