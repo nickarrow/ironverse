@@ -137,4 +137,30 @@ Paxel: OoooOoh, how intimidating. Unfortunately for you, a pretty girl just shot
 Assassin: Then die a fool.
 ```
 
-Right at that moment, both sides had achieved what they were stalling for: Tybalt had sent out a distress signal with accompanying danger assessments, and responses were already filtering in one after the other. While the assassins stealth fields had finished recharging, and so they disappeared at once, to try and finish the job before more interference arrived in response to the gunfire
+Right at that moment, both sides had achieved what they were stalling for: Tybalt had sent out a distress signal with accompanying danger assessments, and responses were already filtering in one after the other. While the assassins stealth fields had finished recharging, and so they disappeared at once, to try and finish the job before more interference arrived in response to the gunfire  `iv-track-create:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md` 
+
+`iv-move:React Under Fire|Wits|3|2|0|4|9|move:starforged/combat/react_under_fire`  `iv-noroll:Lose Momentum|move:starforged/suffer/lose_momentum`  `iv-meter:Momentum|9|8` While he still could, Tybalt cycled through his helmet’s vision modes to see if any of them could pierce their stealth fields. But when he had switched to heatvision, that is when one of them popped a smoke grenade with some additive that rendered the cloud a dizzying mass of blinding stars that forced Tybalt to shut his eyes lest they get damaged.
+
+`iv-move:Clash|Iron|4|3|2|8|8|move:starforged/combat/clash|adds=1(Blademaster),1(Augmented)`  `iv-meter:Momentum|8|10`  `iv-track-advance:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|0|12|formidable|3` Blinded, and unable to hear his opponents over the cacophony of car alarms and Paxel’s covering fire, other men might have withdrawn, chosen not to risk themselves in a 4-on-1 to instead go on the backfoot and wait for reinforcements.
+
+But the Bannersworn of the Serrato had a reputation for suicidal bravery, for straddling the line between heroism and foolishness, and Tybalt was no exception to this. He knew his enemies would pounce on any opening he presented. That they would use their numbers
+
+But Tybalt knew his armour, and that there were only so many angles from which his enemies could slice his throat.
+
+Raising *Shattersky* high, as if for a telegraphed downward chop right in front of himself, he sharply turns anti-clockwise half a second later, and is rewarded by the sound of blades scoring lines in inch-thick armour plating rather than maille and rubbery insulation. Tybalt’s roar as he turns his downward chop into a horizontal cleave, which then divorces an assassin’s head from their shoulders, is one of feral satisfaction
+
+`iv-dice:1d6|2`  `iv-oracle:Combat Action|56|Make a sacrificial attack|oracle_rollable:starforged/misc/combat_action`  `iv-move:Strike|Iron|3|3|2|5|7|move:starforged/combat/strike|adds=1(Blademaster),1(Augmented)`  `iv-track-advance:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|12|20|formidable|2` Staggering back for but a moment as Tybalt’s gambit sees one of them slain, their attempts to continue the assault and wear him down by attrition fail as the Serrato gains control of the fight and the smoke begins to clear. 
+
+`iv-oracle:Unlikely|78|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` One of them goes for a strike at Tybalt’s neck, pistol firing point-blank into his visor in a clear attempt to distract him. For his efforts he is split down the middle from his shoulder, and the ally he was making a distraction for is rebuffed by a shoulder shove.
+
+`iv-oracle:Revealed Character Aspect|69|Proud|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Combat Action|152|Make a swift and showy attack|oracle_rollable:starsmith/misc/action`  `iv-move:Strike|Iron|6|3|2|2|6|move:starforged/combat/strike|adds=1(Blademaster),1(Augmented)`  `iv-track-advance:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|20|28|formidable|2` Reduced to half their number, they wordlessly display their pride by refusing to relent on their acrobatic offensive despite these losses and the diminishing of their stealth fields. As if they could not stand to be beaten in their own field of expertise, and Tybalt imagined he could feel the frustration in their strikes, reverberating through arms that could never grow tired. While every swing he made demanded they dodge it, for attempting to parry would threaten to shake their bones apart.
+
+`iv-oracle:Combat Action|20|Counter or reflect an attack|oracle_rollable:starsmith/misc/action`  `iv-move:Strike|Iron|4|3|2|2|5|move:starforged/combat/strike|adds=1(1),1`  `iv-track-advance:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|28|36|formidable|2`  `iv-progress:Take Decisive Action|Conflict in the Carpark|9|10|6|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|move:starforged/combat/take_decisive_action`  `iv-oracle:Take Decisive Action|25|It’s worse than you thought: Make a suffer move (-2)|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action`  `iv-track-complete:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md` 
+
+Then Tybalt looks around as the battle-haze recedes, and really takes in the devastation. Of the vehicles with broken windows and gaping bullet holes. The electrical charger he had smashed the last assassin into (that just caught fire). The dismembered bodies scattered around himself.
+
+```
+Tybalt: Ffffffuuuuuuuuuuuuuuuuck
+```
+
+He was going to have to pay so much in reparations.  `iv-meter:Supply|5|3` 
