@@ -109,6 +109,26 @@ But then he keeps seeing signs of battle-damage that the highlighted ships retai
 
 `iv-oracle:First Look|92|Well-equipped|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|95|Wiry|oracle_rollable:starforged/character/first_look`  `iv-oracle:Number|27|Few|oracle_rollable:sundered_isles/misc/magnitude/number`  `iv-oracle:Combat Action|93|Use an unexpected weapon or ability|oracle_rollable:starforged/misc/combat_action`  `iv-move:Enter the Fray|Wits|4|2|0|3|9|move:starforged/combat/enter_the_fray`  `iv-meter:Momentum|7|9` 
 
-Tybalt was so distracted by the implications of this new information that, as he departed the venue to share his findings with his fellow Bannersworn
+Tybalt was so distracted by the implications of this new information that, as he departed the venue to share his findings with his fellow Bannersworn, he failed to keep his guard up as he headed for where they had quartered themselves in as straight a line as he could manage. Much of that was on the assumption that no alley gang would dare attempt to challenge his passage, let alone possess anything that could pierce his armour.
 
-Is Tybalt the only target? (Match) `iv-oracle:Unlikely|66|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely`  `iv-oracle:Action + Theme|22|Protect Vow|oracle_rollable:starforgedsupp/templates/actiontheme` 
+`iv-oracle:Zones|37|Living|oracle_rollable:starsmith/districts/zones`  `iv-oracle:Area|38|Locker room or storage|oracle_rollable:starsmith/districts/living/area`  It is within a multi-storey carpark, crowded with the personal vehicles of Port Koshiba’s wealthier inhabitants, that he is disabused of this notion. Lost in his thoughts, he attributes the shimmers in the air to heat, taking too long to remember that the building he was in was fully air-conditioned. Tybalt’s lapse costs him, as an invisible blade, sharpened to a monomolecular edge thrust at his neck grazes his gorget and thus goes askew. But it unbalances him enough that he fails to stop four separate bodies leaping onto him, as if to achieve with numbers what precision failed to.
+
+> Is Tybalt the only target? (Match) `iv-oracle:Unlikely|66|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely`  `iv-oracle:Action + Theme|22|Protect Vow|oracle_rollable:starforgedsupp/templates/actiontheme` 
+
+Even as he tried to batter them aside, to make space to draw his weapons or even to smash their bones with his iron hands, Tybalt could see by the ugly gash in his gorget that the assembly-line chainmail protecting his joints and neck would not withstand a direct blow from the blades of his assailants.
+
+But just as one of them was ready to make the Bannersworn choke on steel, the familiar thump of a Serrato Mag-Rifle rings out, and the ensuing hail of bullets either clatters harmlessly against Tybalt’s warplate or flies past him to set off car alarms by punching holes in them. As Tybalt staggers upright he draws his axe, he finally gets a good look at his opponents. Their dull grey bodysuits revealed down to a man the physiques of dancers, slim but strong, and the son of Bertold was willing to bet that those suits possessed layers of synthetic muscle to go with their personalised stealth fields. And for weapons, they bore gleaming, single-edged swords of unassuming design, and carried an assortment of gadgets and pistols on their belts.
+
+Keeping his gaze focused upon the four assassins, he speaks to his lieutenant over encrypted comms.
+
+```
+Tybalt: Paxel? I thought you were at some pleasure den?
+
+Paxel: Wasn’t feeling it anymore, decided to take a hike. And didn’t you say this place would be quiet?
+```
+
+Before the argument could escalate, one of the four killers addressed Paxel over the shrill shriek of alarms
+
+```
+Assassin: You
+```

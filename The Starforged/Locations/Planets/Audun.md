@@ -23,4 +23,3 @@ oracle name="[Planet Oracles \/ Desert World \/ Planetside Feature](datasworn:or
 oracle name="[Planet Oracles \/ Desert World \/ Life](datasworn:oracle_rollable:starforged\/planet\/desert\/life)" result="Scarce" roll=57
 
 ```
-
