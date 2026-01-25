@@ -116,7 +116,7 @@ While looking at Rowena's profile, he immediate gets a ping from her.
 
 ```
 ROWENA JENSEN - TEXT MESSAGE
-Mr. Black - RU said you we're coming, so I've been monitoring for a proximity alert. Reck is always kind of a disaseter, but today has been bigger than normal. I'm tied up in other work, but here's what I know. Ping me when you've got something.
+Mr. Black - RU said you we're coming, so I've been monitoring for a proximity alert. Reck is always kind of a disaster, but today has been bigger than normal. I'm tied up in other work, but here's what I know. Ping me when you've got something.
 
 *data file attached*
 
@@ -125,7 +125,7 @@ Mr. Black - RU said you we're coming, so I've been monitoring for a proximity al
 
 > **Info on the missing person:**  `iv-oracle:Action + Theme|22|Deflect Religion|oracle_rollable:starforgedsupp/templates/actiontheme` Karthick Hunter, a colleague to Rowena has gone missing. There is a strong religion that permeates the upper classes of Reck, and Karthick was a true believer. 
 > 
-> Recently, Karthick had started showing up late for work, and when he was there, he was not focused on it, instead he had started to become obsessed with the religion. `iv-oracle:Story Clue|21|Evokes a remarkable anomaly or phenomenon|oracle_rollable:starforged/misc/story_clue` So much so, that one day he just disappeared. Like, every trace of him. His apartment, rented out. His personnel files, deleted. There is simply no record of him anywhere! Local authorities were no help (and generally only existed for the upper classes anyway), and nobody seems to have any answers as to where he is.  
+> Recently, Karthick had started showing up late for work, and when he was there, he was not focused on it, instead he had started to become obsessed with the religion. `iv-oracle:Story Clue|21|Evokes a remarkable anomaly or phenomenon|oracle_rollable:starforged/misc/story_clue` So much so, and then one day he just disappeared. Like, every trace of him. His apartment, rented out. His personnel files, deleted. There is simply no record of him anywhere! Local authorities were no help (and generally only existed for the upper classes anyway), and nobody seems to have any answers as to where he is.  
 > 
 > Info on the horrifying manifestations:  `iv-oracle:Descriptor+Focus|17|Deadly Portal|oracle_rollable:starforgedsupp/templates/descriptorfocus` There have always been rumors on Reck. Its a frontier settlement, built into the bedrock of a toxic and violent planet. Going outside is rarely undertaken, and often perilous. Lately though, the rumors seem to center around voids that simply snatch people out of existence. Nobody has been able to document such portals, and most think it is just a rumor. Except now Karthick has gone missing. 
 
@@ -136,6 +136,9 @@ EXT. RECK MARKET
 With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck. 
 
 Barille sits and watches the market for a while, looking for something to catch his eye, or maybe just an outdoor pub to get a drink....
+
+One drink. Barille finds a seat at a placed called the  `iv-oracle:Name|265|Pinched Penny|oracle_rollable:starsmith/starships/name` He orders a drink and then turns around, back to the bar. He's eyeing up the people here, trying to get a sense of the place.  `iv-oracle:Descriptor|83|Ruined|oracle_rollable:starsmith/core/descriptor` Yeah, it's seen better days. And now it seems that this settlement might be on the brink of collapse. Or... you know, it could just be one of those days. ^Pinched-Penny
+
 
 
 
