@@ -46,7 +46,7 @@ Echo did, her hands going up even as she caught the symbol on the side of its he
  > 1 - Ascendancy of the Awakened Worlds, 2 - Circle of the Elder Stars, 3- Household Serrato, 4- Risen union  `iv-dice:1d4|4`
  > The symbol?  `iv-oracle:Descriptor+Focus|23|Guarded Energy|oracle_rollable:starforgedsupp/templates/descriptorfocus` 
 
-The symbol on the droid's chassis was one that Echo had seen many times in her travels through the forge, the yellow shield with a white bear in its center of the [[Risen Union]], but the model wasn't familiar. 
+The symbol on the droid's chassis was one that Echo had seen many times in her travels through the forge, the yellow shield with a white rein in its center of the [[Risen Union]], but the model wasn't familiar. 
 > Fair enough, from the amount of bone dust on it... It's positively ancient.
 
  `iv-oracle:Initial Disposition|13|Friendly|oracle_rollable:starforged/character/initial_disposition`Usually when she'd met their members they'd been enigmatic, but generally friendly, if distant. She cleared her throat and twitched when the droid's firearm swayed a little more in her direction.
@@ -98,6 +98,3 @@ She readied her blade and steadied her breath, and looked down towards the rest 
 `iv-move:Undertake an Expedition|Wits|6|3|0|7|6|move:starforged/exploration/undertake_an_expedition` 
 `iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|12|16|formidable|1` 
 `iv-oracle:Interior Feature|40|Looted or dismantled technology|oracle_rollable:starforged/precursor_vault/interior/feature` 
-
-
-

@@ -89,20 +89,22 @@ description: |-
 > - Five cards from what looks like a tarot deck, but made in Black Iron. I only recognize the Death
 
 >[!Backstory]- BACKSTORY
-I'm a wanderer exploring the galaxy, selling what I find for profit, bound to no one and nothing. I'm a clone, too, that's why I gave myself the name Echo. 
-Making a living by recovering relics thought lost to time... because I'm talking to their spirits to let them tell me where they are. I talked to the spirit of the one I've been cloned from, he told me of the old relic I've been chasing rumors of since the very beginning. The spirits whisper about it.
-What is it? I don't know, but the spirit of the other E. Stirling was adamant, I need to find it. 
+>I'm a wanderer exploring the galaxy, selling what I find for profit, bound to no one and nothing. I'm a clone, too, that's why I gave myself the name Echo. 
+>Making a living by recovering relics thought lost to time... because I'm talking to their spirits to let them tell me where they are. I talked to the spirit of the one I've been cloned from, he told me of the old relic I've been chasing rumors of since the very beginning. The spirits whisper about it.
+>What is it? I don't know, but the spirit of the other E. Stirling was adamant, I need to find it. 
 
 > [!Incitig]- Working Through Stuff
-Still, in the meanwhile I'm here on this hunt, in this vault, where the spirit of a contact's grandparent directed me. There are many spirits, many undead, too many to be usual. Is this connected to the pirates I've heard about?
+>Still, in the meanwhile I'm here on this hunt, in this vault, where the spirit of a contact's grandparent directed me. There are many spirits, many undead, too many to be usual. Is this connected to the pirates I've heard about?
 
 > [!spaceship]- SPACESHIP
-The Ilex-zed is my ship now, she was my original first, but since the bio-metrics are the same, no one can really do a thing about it. I'm the only one left now. So I named her that, as a fun way to spell "eleven multiplied by two", because the numbers reminded me of being cloned, and I was still a little bitter about it back then. Since then, the ship accompanied me in my forge and spirit related archaeology.
+>The Ilex-zed is my ship now, she was my original first, but since the bio-metrics are the same, no one can really do a thing about it. I'm the only one left now. So I named her that, as a fun way to spell "eleven multiplied by two", because the numbers reminded me of being cloned, and I was still a little bitter about it back then. Since then, the ship accompanied me in my forge and spirit related archaeology.
 
 >[!vows] VOWS
 > Background Vow:  [[Find the lost relic and understand my connection to it]]
 > [[Take the Hourglass Relic]]
+> [[Stop those who want to take the Hourglass]]
 
 > [!passages] Known Passages
 > From [[Echo 01 - From the past|The First Light]] to [[Croifols-4]]
 > From [[Ackriss-2]] to Outbound Sector (Crimson Deep?)
+> General position of the [[First Light]] at all times
