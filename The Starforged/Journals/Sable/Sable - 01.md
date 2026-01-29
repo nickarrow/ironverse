@@ -18,6 +18,9 @@ The last known place her parent's [[Find Her Parents Ship|ship]] was located.
 
 ---
 # Courier of the [[Devil's Chain]]
+
+**INT. ABOARD CR-479 DOCKED ON [[Audun|AUDEN]]**
+
 *beep... beep... beep...* 
 
 The incessant light lit up the surrounding control in a soft red haze as it dimmed and brightened to the tone that rung through the cabin. Sable held her head and and walked through the corridors with one hand fisting a sleepy eye will the other eye saw stars and she blinked it awake. She slammed the toggle and Leela's face came beaming across the screen.
@@ -38,3 +41,63 @@ oracle-group name="NPC: [[Leela Asper]]" {
 `iv-oracle:Unlikely|84|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` Leela whipped up her gaze and glared into the screen. Sable averted her gaze and her lips went into a flat line. Sable was missing something--or probably more likely completely forgot something. Sable let the silence hand as heavy as a lead weight.
 
 Her ship warmed, stirring through the startup process as listless as she was. Getting started in Devil's Chain was slow. It would take time before the services of a courier became well established. Until then she would be begging to take literally anything from point A to B for pennies.
+
+"Alright, where am I going?" Sable finally asked.
+```iron-vault-mechanics
+oracle-group name="Settlement: [[Glimmer Outpost]]" {
+    oracle name="[Templates \/ Region](datasworn:oracle_rollable:starforgedsupp\/core\/region)" result="Outlands" roll=66
+    oracle name="[Settlement Oracles \/ Settlement Name](datasworn:oracle_rollable:starforged\/settlement\/name)" result="Glimmer" roll=31
+    oracle name="[Name Suffix](datasworn:oracle_rollable:starforged\/settlement\/name_tags)" result="Outpost" roll=7
+    oracle name="[Settlement Oracles \/ Location](datasworn:oracle_rollable:starforged\/settlement\/location)" result="Orbital" roll=53
+    oracle name="[Population](datasworn:oracle_rollable:starforged\/settlement\/population\/outlands)" result="Dozens" roll=30
+    oracle name="[Settlement Oracles \/ First Look](datasworn:oracle_rollable:starforged\/settlement\/first_look)" result="Intimidating defenses" roll=51
+    oracle name="[Settlement Oracles \/ First Look](datasworn:oracle_rollable:starforged\/settlement\/first_look)" result="Built within repurposed ship" roll=19
+    oracle name="[Settlement Oracles \/ Authority](datasworn:oracle_rollable:starforged\/settlement\/authority)" result="None \/ lawless" roll=5
+    oracle name="[Settlement Trouble](datasworn:oracle_rollable:starforged\/settlement\/trouble)" result="Dangerous discovery" roll=15
+}
+```
+
+"You're picking up a Black service package from an orbiting outpost called 'Glimmer Outpost'. It's also marked red." Leela's tone went stale. Seemed the question about her boyfriend made her as stiff in conversation as a board. Her matter-of-fact tone unsettled Sable.
+
+This was a Black service package and marked red for that matter. Black service meant you don't ask about it. You don't open it. You don't even look at it. Red meant urgent. Sable had no time to loose and not a second to waste. 
+
+"Thank you Leela. I'll get going immediately." Sable accepted the request. "Hey, and sorry about your boyfriend." Sable meekly gave a sincere look.
+
+Leela growled a scream in frustration and shut off the comm-link. Maybe she wasn't mad about a boyfriend? Sable shrugged and picked up her discarded courier suit from the floor. Speaking of boys. He must have left early this morning. *What was his name?*. Sable thought as she pulled the pants over her bare legs, donned the arms, and zipped the suit up. The sigil of the Courier Guild was plastered on a patch on her left arm. Her left breast patch showed the colors of her rank, she currently sat at orange. Just two levels down from her legacy. Not that she truly cared about living up the name Rowe.
+
+Sable wiped the memories of her parents from her mind and turned to her counsel. "Glimmer outpost here we come," she murmured to herself.
+
+```iron-vault-mechanics
+track name="[[The Starforged\/Progress\/Courier Job Glimmer Outpost.md|Courier Job: Glimmer Outpost]]" status="added"
+```
+`iv-move:Swear an Iron Vow|Heart|1|1|0|4|5|move:starforged/quest/swear_an_iron_vow`  `iv-oracle:Story Complication|27|Natural disaster is imminent|oracle_rollable:starforged/misc/story_complication` 
+
+Just as Sable began to charge up to leave her dashboard came to light with warnings. Peering outside people were bustling about like ants to shut everything down, tie of loose cargo, and rush inside. Sables sensors beeped with warnings as an electrical storm closed in.
+
+She didn't have time for this. The storms out here were brutal and would last a considerable amount of time. This package was marked red, which meant it was her job as courier to brave ever hardship to rush the job. She picked up her courier hat and firmly placed it on her mop of long brown hair, tugging on the brim of it until it fit snuggly on her head.
+
+`iv-noroll:Begin the Scene|move:starforged/scene_challenge/begin_the_scene`  Survive The Electrical Storm
+```iron-vault-mechanics
+track name="[[The Starforged\/Progress\/Sable\/Survive the Electrical Storm.md|Survive the Electrical Storm]]" status="added"
+clock name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" status="added"
+
+```
+Sable rushes to move out, pulling in the landing gear and revving up for takeoff. Her eyes scan the route out and she smiles as she sees her clear shot through a break in the storm. `iv-move:Secure an Advantage (Scene Challenge)|Wits|2|3|0|10|6|move:starforged/scene_challenge/secure_an_advantage` 
+
+**CLUNK** 
+
+```iron-vault-mechanics
+clock from=0 name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" out-of=4 to=1
+```
+
+"Shit," Sable cursed. The ship was still connected to the fuel line. "shit, shit, stupid, shit, fuck, gah..." Her curses were punctuated with every word as pounded her way outside to disconnect the fuel line. Her hat tried to break free, but she caught the thing shoving it into her suit, letting her hair whip wildly in the wind. The fuel connector clanked on the floor and she slammed the fuel cover closed and locked it. *Don't forget to lock it*.
+
+She sped back up to the cockpit and plopped herself into her chair, exasperated, wind swept, and feeling pretty dumb. She took a breathe. She knew she could do this. Sable wasn't about to let months of downtime trip her up. She found her opening and she took it `iv-move:Face Danger (Scene Challenge)|Wits|4|3|0|6|10|move:starforged/scene_challenge/face_danger`.
+```iron-vault-mechanics
+progress from=0 name="[[The Starforged\/Progress\/Sable\/Survive the Electrical Storm.md|Survive the Electrical Storm]]" rank="troublesome" steps=1
+clock from=1 name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" out-of=4 to=2
+
+```
+
+
+
