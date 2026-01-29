@@ -98,4 +98,30 @@ progress from=0 name="[[The Starforged\/Progress\/Sable\/Survive the Electrical 
 clock from=1 name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" out-of=4 to=2
 
 ```
+`iv-move:Face Danger|Wits|6|3|0|6|5|move:starforged/adventure/face_danger` She broke free of the port and found herself cruising along the edge of the storm. Lighting kissing at her trail and she flew past.
+```iron-vault-mechanics
+progress from=12 name="[[The Starforged\/Progress\/Sable\/Survive the Electrical Storm.md|Survive the Electrical Storm]]" rank="troublesome" steps=1
+```
+`iv-move:Face Danger|Wits|5|3|0|5|3|move:starforged/adventure/face_danger`  Sable Laughed as she pulled out of the electrical storm and broke free of the planet’s atmosphere. 
+```iron-vault-mechanics
+track name="[[The Starforged\/Progress\/Sable\/Survive the Electrical Storm.md|Survive the Electrical Storm]]" status="completed"
+clock name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" status="resolved"
+
+```
+
+Sable could feel her heart pounding in her ears. These past few week scrapping along on the meager allowance she got from the Courier Guild without a job in sight left her joints rusted. She felt oiled. Broken free of the stagnation that had anchored here in a melancholy rust. She made course for Glimmer Outpost.
+`iv-move:Set a Course|Supply|2|5|0|10|1|move:starforged/exploration/set_a_course` 
+
+The journey there was short and quiet. The meandering old ship orbited Audun. The sight of it was something truly to behold. Reflective panels glittering in the eternal sun that haloed it. Spires of coiled masses shimmering like diamonds jutted out in every direction. As Sable got nearer she saw the glitz in its entirety. The docking station was lined with personal ships that were worth whole planets. At first Sable wondered if the pirates would target this place, but between the spiraling pillars of shining plates were more guns and turrets then a fully kitted out warship. 
+
+Then came the fighters. Two swooped in so fast she blinked and missed them. Before she realized it they were on either side of her. 
+
+Her dashboard rang as she was hailed. “Dock’s closed. You have 1 minute to leave.” The voice clipped over the comms.
+
+“CR-497 requesting—“
+
+“I didn’t ask,” the voice cut her off.
+
+“No, but someone did I’m a hired courier here for a high profile job!” She shouted over them as they attempted to cut her off again. She couldn’t tell if the voice was male or female, some sort of distortion made them seem almost AI. “Now, let me in.”
+
 
