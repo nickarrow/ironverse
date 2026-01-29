@@ -17,6 +17,22 @@ Sables eyes glanced up to the galaxy map wavering in the holo-projector beaming 
 The last known place her parent's [[Find Her Parents Ship|ship]] was located.
 
 ---
+# Courier of the [[Devil's Chain]]
 *beep... beep... beep...* 
 
-The incessant light lit up the surrounding control in a soft red haze as it dimmed and brightened to the tone that rung through the cabin. Sable held her head and and walked through the corridors with one hand fisting a sleepy eye will the other eye saw stars and she blinked it awake. She slamed the toggle an
+The incessant light lit up the surrounding control in a soft red haze as it dimmed and brightened to the tone that rung through the cabin. Sable held her head and and walked through the corridors with one hand fisting a sleepy eye will the other eye saw stars and she blinked it awake. She slammed the toggle and Leela's face came beaming across the screen.
+
+"Good morning sleepy head, you have a package." Sable winced as the young girls voice came through the screen.
+
+Leela was the unfortunate intern assigned to Sable's sector as her handler. Sable had been more than unkind to her in the past. She didn't like the idea of having them assign her babysitter. she made it just fine everywhere else, there was no need to keep her on a leash now that she finally got assigned the position she wanted in the Devil's Chain.
+```iron-vault-mechanics
+oracle-group name="NPC: [[Leela Asper]]" {
+    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Energetic" roll=35
+    oracle name="[Character Oracles \/ Initial Disposition](datasworn:oracle_rollable:starforged\/character\/initial_disposition)" result="Friendly" roll=12
+    oracle name="[Character Oracles \/ Character Role](datasworn:oracle_rollable:starforged\/character\/role)" result="Scout" roll=79
+    oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="Maintain order" roll=40
+}
+```
+"How's the boyfriend Leela?" Perhaps Sable would make nice. Besides she needed a few minutes to get the ship warmed up.
+
+`iv-oracle:Unlikely|84|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` Leela whipped up her gaze and glared into the screen. Sable averted her gaze and her lips went into a flat line. Sable was missing something--or probably more likely completely forgot something.
