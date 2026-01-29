@@ -18,6 +18,8 @@ Sables eye's glanced up to the galaxy nav map projected overhead in the facility
 
 The last known place her parents' [[Find Her Parents Ship|ship]] was located.
 
+`iv-entity-create:Faction|Courier Guild|The Starforged/Factions/Courier Guild.md` 
+
 ---
 # Courier of the [[Devil's Chain]]
 
