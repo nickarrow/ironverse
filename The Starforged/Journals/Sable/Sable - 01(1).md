@@ -19,4 +19,4 @@ The last known place her parent's [[Find Her Parents Ship|ship]] was located.
 ---
 *beep... beep... beep...* 
 
-The incessant light lit up the surrounding control in a soft red haze as it dimmed and brightened to the tone that rung through the cabin. Sable held her head and and walked through the corridors with one hand fisting a sleepy eye will the other eye saw stars and she blinked it awake. 
+The incessant light lit up the surrounding control in a soft red haze as it dimmed and brightened to the tone that rung through the cabin. Sable held her head and and walked through the corridors with one hand fisting a sleepy eye will the other eye saw stars and she blinked it awake. She slamed the toggle an
