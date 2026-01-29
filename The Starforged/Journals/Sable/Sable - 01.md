@@ -92,12 +92,10 @@ clock from=0 name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtak
 
 "Shit," Sable cursed. The ship was still connected to the fuel line. "shit, shit, stupid, shit, fuck, gah..." Her curses were punctuated with every word as pounded her way outside to disconnect the fuel line. Her hat tried to break free, but she caught the thing shoving it into her suit, letting her hair whip wildly in the wind. The fuel connector clanked on the floor and she slammed the fuel cover closed and locked it. *Don't forget to lock it*.
 
-She sped back up to the cockpit and plopped herself into her chair, exasperated, wind swept, and feeling pretty dumb. She took a breathe. She knew she could do this. Sable wasn't about to let months of downtime trip her up. She found her opening and she took it `iv-move:Face Danger (Scene Challenge)|Wits|4|3|0|6|10|move:starforged/scene_challenge/face_danger`.
+She sped back up to the cockpit and plopped herself into her chair, exasperated, wind swept, and feeling pretty dumb. She took a breath. She knew she could do this. Sable wasn't about to let months of downtime trip her up. She found her opening and she took it `iv-move:Face Danger (Scene Challenge)|Wits|4|3|0|6|10|move:starforged/scene_challenge/face_danger`.
 ```iron-vault-mechanics
 progress from=0 name="[[The Starforged\/Progress\/Sable\/Survive the Electrical Storm.md|Survive the Electrical Storm]]" rank="troublesome" steps=1
 clock from=1 name="[[The Starforged\/Clocks\/Sable\/The Electrical Storm Overtakes the Port.md|The Electrical Storm Overtakes the Port]]" out-of=4 to=2
 
 ```
-
-
 
