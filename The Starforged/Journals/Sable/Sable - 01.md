@@ -35,4 +35,6 @@ oracle-group name="NPC: [[Leela Asper]]" {
 ```
 "How's the boyfriend Leela?" Perhaps Sable would make nice. Besides she needed a few minutes to get the ship warmed up.
 
-`iv-oracle:Unlikely|84|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` Leela whipped up her gaze and glared into the screen. Sable averted her gaze and her lips went into a flat line. Sable was missing something--or probably more likely completely forgot something.
+`iv-oracle:Unlikely|84|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` Leela whipped up her gaze and glared into the screen. Sable averted her gaze and her lips went into a flat line. Sable was missing something--or probably more likely completely forgot something. Sable let the silence hand as heavy as a lead weight.
+
+Her ship warmed, stirring through the startup process as listless as she was. Getting started in Devil's Chain was slow. It would take time before the services of a courier became well established. Until then she would be begging to take literally anything from point A to B for pennies.
