@@ -127,8 +127,16 @@ Her dashboard rang as she was hailed. “Dock’s closed. You have 1 minute to l
 
 A long pause had Sable wiping her brow. Wondering if they would turn her away or just shoot her down for not leaving.
 
-“Wait here.” The voice finally came. And one shuttle broke off and headed towards Gilmmer.
+“Wait here.” The voice finally came. And one shuttle broke off and headed towards Glimmer.
 
-So Sable waited. An agonizing amount of time just waiting. 
+So Sable waited. An agonizing amount of time just waiting. By the time she say movement again she had thoroughly cleaned her nails--which means she chewed them to quick. A small transport shuttle flanked by two more fighters including the one who had left her a while ago. Sable pulled her hat out of the front of her shirt, quickly finger combed her hair and placed the hat on her head. She smoothed out her courier suit and prepared herself to meet whoever her employer was.
+
+"Prepare for cargo transport." The voice crackled over her comms.
+
+"Opening cargo doors now, ready for transfer." Sable hesitated before clicking the talk button again. "Is my employer present? I would like to speak to them."
+
+"All the information you need has been given to the courier guild. No need for a meeting." The voice cut the comms and before Sable could protest her ship shook with the onloading of cargo.
+
+Sables raced down to the cargo hold and the efficient workers already had the crate aboard and were shuffling away with their heads down. She stood at the top of the railing, not hiding her presence they
 
 
