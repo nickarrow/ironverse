@@ -143,7 +143,7 @@ Right at that moment, both sides had achieved what they were stalling for: Tybal
 
 `iv-move:Clash|Iron|4|3|2|8|8|move:starforged/combat/clash|adds=1(Blademaster),1(Augmented)`  `iv-meter:Momentum|8|10`  `iv-track-advance:Conflict in the Carpark|The Starforged/Progress/Tybalt-Yhen Serrato/Conflict in the Carpark.md|0|12|formidable|3` Blinded, and unable to hear his opponents over the cacophony of car alarms and Paxel’s covering fire, other men might have withdrawn, chosen not to risk themselves in a 4-on-1 to instead go on the backfoot and wait for reinforcements.
 
-But the Bannersworn of the Serrato had a reputation for suicidal bravery, for straddling the line between heroism and foolishness, and Tybalt was no exception to this. He knew his enemies would pounce on any opening he presented. That they would use their numbers
+But the Bannersworn of the Serrato had a reputation for suicidal bravery, for straddling the line between heroism and foolishness, and Tybalt was no exception to this. He knew his enemies would pounce on any opening he presented. That they would use their numbers to force one into being.
 
 But Tybalt knew his armour, and that there were only so many angles from which his enemies could slice his throat.
 
