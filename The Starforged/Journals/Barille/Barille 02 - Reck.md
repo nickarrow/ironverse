@@ -139,7 +139,8 @@ Barille sits and watches the market for a while, looking for something to catch 
 
 One drink. Barille finds a seat at a placed called the  `iv-oracle:Name|265|Pinched Penny|oracle_rollable:starsmith/starships/name` He orders a drink and then turns around, back to the bar. He's eyeing up the people here, trying to get a sense of the place.  `iv-oracle:Descriptor|83|Ruined|oracle_rollable:starsmith/core/descriptor` Yeah, it's seen better days. And now it seems that this settlement might be on the brink of collapse. Or... you know, it could just be one of those days. ^Pinched-Penny
 
-`iv-noroll:Advance|move:starforged/legacy/advance` 
+
+
 
 
 Session outline:
