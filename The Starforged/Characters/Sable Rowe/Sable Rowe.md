@@ -3,11 +3,11 @@ name: Sable Rowe
 xp_spent: 0
 xp_added: 0
 momentum: 4
-edge: 2
+edge: 3
 heart: 1
-iron: 1
-shadow: 2
-wits: 3
+iron: 2
+shadow: 1
+wits: 2
 health: 5
 spirit: 5
 supply: 5
@@ -21,21 +21,6 @@ iron-vault-kind: character
 callsign: Weasel
 pronouns: She/Her
 assets:
-  - id: asset:starforged/path/courier
-    abilities:
-      - true
-      - false
-      - false
-    controls:
-      safety: 0
-    options: {}
-  - id: asset:starforged/path/outcast
-    abilities:
-      - true
-      - false
-      - false
-    controls: {}
-    options: {}
   - id: asset:starforged/command_vehicle/starship
     abilities:
       - true
@@ -47,6 +32,14 @@ assets:
       integrity/cursed: false
     options:
       name: CR-497
+  - id: asset:starforged/path/courier
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      safety: 5
+    options: {}
   - id: asset:starforged/module/engine_upgrade
     abilities:
       - true
@@ -54,6 +47,13 @@ assets:
       - false
     controls:
       broken: false
+    options: {}
+  - id: asset:starforged/path/ace
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
     options: {}
 ---
 
