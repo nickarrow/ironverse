@@ -2,7 +2,7 @@
 name: Echo 'Phantom' Stirling
 xp_spent: 0
 xp_added: 0
-momentum: 4
+momentum: 9
 edge: 2
 heart: 2
 iron: 1
@@ -15,7 +15,7 @@ Quests_Progress: 0
 Quests_XPEarned: 0
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 0
+Discoveries_Progress: 2
 Discoveries_XPEarned: 0
 iron-vault-kind: character
 callsign: Phantom
@@ -56,6 +56,8 @@ assets:
 description: |-
   I'm told that I'm younger looking than I am, mostly because I'm a little unkempt, not because I'm stunningly youthful. I do, in fact, look like the one I've been cloned from, so I know exactly what I'll be like when I'm old, and dead. 
   Brownish-blonde hair, fairly pale and a little grey in the skin, apparently I resemble a little the corpses I can talk to, or so I've been teased about. Tall, though! And apparently my good cheer, if a little unnerving to some, manages to make me win over people some.
+FailureTrack_Progress: 0
+FailureTrack_XPEarned: 0
 ---
 
 

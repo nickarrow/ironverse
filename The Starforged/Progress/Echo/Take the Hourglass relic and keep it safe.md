@@ -1,10 +1,10 @@
 ---
-name: Take the Hourglass Relic
+name: Take the Hourglass relic and keep it safe
 rank: formidable
-progress: 4
+progress: 8
 tags:
   - incomplete
-track-type: Vow
+track-type: ""
 character: "[[The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md]]"
 iron-vault-kind: progress
 ---

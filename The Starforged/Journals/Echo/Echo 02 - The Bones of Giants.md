@@ -98,3 +98,43 @@ She readied her blade and steadied her breath, and looked down towards the rest 
 `iv-move:Undertake an Expedition|Wits|6|3|0|7|6|move:starforged/exploration/undertake_an_expedition` 
 `iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|12|16|formidable|1` 
 `iv-oracle:Interior Feature|40|Looted or dismantled technology|oracle_rollable:starforged/precursor_vault/interior/feature` 
+
+Echo proceeded forward, stepping over the remains of that decades-old battle between the enamel-covered undead and the RU splinter faction, closing her eyes every once in a while to give all her focus to the bell tones, trying to understand the next steps forward.
+`iv-move:Secure an Advantage|Wits|4|3|0|4|10|move:starforged/adventure/secure_an_advantage`  `iv-meter:Momentum|4|6` 
+She could feel the old robotic parts littering the ground, see the old pieces of ammo and weapon, the discarded archaic-looking armor with the shield-and-reindeer emblem on it. She simply followed the trail of the old battle deeper forward, feeling the deep bell-tones resonate in her bones.
+>Will she search for further info?  `iv-oracle:50/50|93|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+Echo gave the passage one last look as she felt the bell-tones shift towards one specific door. She could search further, if she wanted to, and maybe she'd find something useful. But the hair on the back of her neck was standing up, and she could feel something in the winds of the beyond slither forward: something was paying her too much attention right now. 
+Echo didn't want to linger here. She stepped forward.
+
+##### INT. MAUSEFORT - ANCIENT WAREHOUSE
+`iv-move:Undertake an Expedition|Wits|6|3|0|1|6|move:starforged/exploration/undertake_an_expedition` 
+`iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|16|20|formidable|1` 
+`iv-oracle:Interior Feature|298|Looted storage facility, Inscrutable object lies dark and silent|oracle_rollable:starsmith/vaults/interior/feature` 
+
+The dust, shining vortices in the still air, greeted Echo as she walked in the opening. Shelves protruded out from the walls, made of bone and mostly empty, some destroyed. Some things had been left behind by whoever had been here first and had emptied the place, and Echo could understand why: at a quick glance she couldn't even guess their use. 
+```
+ECHO
+Why here, you damn bell? Is there even another door here?
+```
+
+She clicked on the lights from her insulation suit and detached them, lifting them up into the air with a command on her comm unit to reveal the vast room, and looked around.
+
+`iv-move:Explore a Waypoint|Wits|4|3|1|5|6|move:starforged/exploration/explore_a_waypoint`  `iv-meter:Momentum|6|7` 
+Echo scanned the place carefully, before her attention was pulled to the unseeing... nothingness in the far corner of the vast space: if not for the out-of-tune wavering of the bells that had been her constant companions inside the Vault, she wouldn't be able to see it. As it was, even as she walked towards it almost involuntary, she couldn't focus her eyes on it. 
+`iv-track-advance:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|20|28|formidable|2` 
+
+Was this the Hourglass? `iv-oracle:Likely|47|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  
+Something in the sound over the winds beyond answered her unspoken thoughts: yes. We brought you here, you wanted this Hourglass, here it is; that something seemed to say. Echo didn't know if she could call that feeling, that almost-voice, friendly.
+
+`iv-progress:Finish an Expedition|Find your way through the Mausefort to the Hourglass|7|6|7|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md`  `iv-track-advance:Take the Hourglass relic and keep it safe|The Starforged/Progress/Echo/Take the Hourglass relic and keep it safe.md|4|8|formidable|1`  `iv-meter:Momentum|7|9` 
+`iv-oracle:Peril|50|Spectral manifestations of your fears|oracle_rollable:starforged/location_theme/haunted/peril`  `iv-oracle:Action|64|Manipulate|oracle_rollable:ancient_wonders/core_oracles/action`  `iv-oracle:Theme|1|Ability|oracle_rollable:ancient_wonders/core_oracles/theme` 
+
+>[!note] Notes
+>I didn't want to leave this HERE but I need to ruuuuun and do stuff. Writing the idea down so I can remember it when I come back, soooo if anyone reading doesn't want to be spoiled, don't read the next note.
+>Also, I changed the vow name because it needed some more stuff in there, and keeping the hourglass safe was implied in what I was intending anyway.
+
+>[!SPOILER]- The next stuff
+>So essentially, Echo REACHED the hourglass, but has to TAKE it first, and since we got a weak hit, something has to happen here. With the oracle rolls I got, I'm thinking of a psyco-something manifestation of her fears of some day misusing her gift rising out of the 'winds' of the afterlife. She probably fears something taking control of her, or removing her agency somehow (blackmail? lobotomy? magic?) to essentially use her negromancy and the tech of the First Light to bring people back from the dead endlessly, maybe even in the 'body snatcher' kinda way. Who wouldn't want to rob the body of a very rich, healthy, clan leader? 
+>She's going to be doing either a battle or as scene challenge, I'm leaning more towards the latter, where essentially she's confronted with what her power could be used for, and has to claw back to 'reality', maybe losing some amount of sanity in the middle there.
+>This whole thing is probably connected to the 'something's watching' feeling she had in the corridor.

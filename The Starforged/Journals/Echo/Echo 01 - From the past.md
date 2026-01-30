@@ -68,7 +68,7 @@ Vesper knows.
 > Well, isn't that a cheery way to end the conversation? 
 > Luckily I've learnt to accept it when spirits do stuff like this.
 
-Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need to `iv-track-create:Take the Hourglass Relic|The Starforged/Progress/Echo/Take the Hourglass Relic.md`.
+Echo spun the dark iron card in her hand, making the Skeleton in the death tarot face Vesper, its eyes glowing an unsettling blue, and waited for the old man to find the information she'd need to `iv-track-create:Take the Hourglass Relic and keep it safe|The Starforged/Progress/Echo/Take the Hourglass Relic and keep it safe.md`.
 
 ---
 ```iron-vault-mechanics
