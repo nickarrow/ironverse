@@ -22,7 +22,7 @@ She climbed up the bones to see better what laid around her.  `iv-move:Gather In
 Her eyes lit up on a single patterned tile in the smooth bone, up over the giant skull, and then on the opposing side of the large room, where a glimmer of light revealed a similar pattern in a dark red gemstone, where the outline of a passage was barely visible in the wall. 
 ```
 ECHO
-Looks like the climbing is continuing.
+Looks like there's more climbing to do.
 ```
 `iv-move:Face Danger|Edge|5|2|0|9|4|move:starforged/adventure/face_danger`  `iv-meter:Momentum|9|8` 
 It took a while, Echo almost tripped a few times, and her bruised back was clearly making itself heard, but soon she found herself on top of the skull and pressed the pattern, hoping for the best.
