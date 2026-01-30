@@ -72,4 +72,6 @@ Sable shrieked and grabbed at his are as she hit the cold metal plates on the fl
 
 "Fine," his aggression seemed to dissipate, "I'll uh, take a shower then."
 
-Sable wiped her nose and blood smeared on her courier suit. *Well, then, uhm—remember to disengage the fuel line, and check the fucking bathrooms before you take off.*
+Sable wiped her nose and blood smeared on her courier suit. *Well, then, uhm—remember to disengage the fuel line, and check the fucking bathroom before you take off.*
+
+---
