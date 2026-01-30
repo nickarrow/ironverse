@@ -154,10 +154,12 @@ The crate itself was locked and sealed up tight. Multiple layers of banding and 
 
 "Don't touch it, don't look at it, don't ask questions. Just do your fucking job forge-dammit." Sable scolded herself. She quickly made sure the hover mode was turned off on the crate and it was firmly locked onto the platform. She held her breath and internally walked herself through her operating procedure. She had to get this right.
 
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
 ---
 ```
 Post Session Notes
- So, I've decided to end of session zero here. I wanted to get my thoughts down on what I have so far. Think of these as author notes, reflections, or whatever.
+ So, I've decided to end of session zero here. I wanted to get my thoughts down on what I have so far. Think of these as author notes, reflections, or whatever. This is also where I will note any End Session move relevance
  
  Yay, we have met Sable! Characters for me, inform me of who they want to be as I start to play them--which leads me to a practice that I've taken on with my Ironsworn/Starforged games and that's the session zero refresh. I let myself change stats and assets to better inform narrative. Of course only once and only at the end of session zero before I feel like the narrative starts really taking off. 
  
