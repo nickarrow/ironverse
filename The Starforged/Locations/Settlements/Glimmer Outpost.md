@@ -8,3 +8,4 @@
 | First Look         | Intimidating defenses, Built within repurposed ship |
 | Authority          | None / lawless                                      |
 | Settlement Trouble | Dangerous discovery                                 |
+A shining outpost orbiting [[Audun]]. 

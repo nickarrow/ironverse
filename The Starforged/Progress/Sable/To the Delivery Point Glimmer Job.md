@@ -1,7 +1,7 @@
 ---
 name: "To the Delivery Point: Glimmer Job"
 rank: dangerous
-progress: 8
+progress: 16
 tags:
   - incomplete
 track-type: Expedition
