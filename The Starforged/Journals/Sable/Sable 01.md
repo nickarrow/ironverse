@@ -30,6 +30,24 @@ She fired up the commlink and perky young lady appeared with a forced smile. "An
 
 "That's odd," Leela murmured to herself, Sable quickly inquired, "I've checked the feeds for the holocast at any mention of a Merrick Arden, but there's nothing. whoever it is they are being extremely secretive."
 
+“Things are getting weird around here, more than usual. You know some warships showed up the other day, big ones.” Sable explained. “Whoever they are they traipsing around in huge armor sets, some of them even took out a whole carpark, just destroyed the whole thing. I saw it on the holocast.”
+
+“Oh—wow,” Leela leaned into the feed.
+
+“They are everywhere. Showing up at all the bars, clubs—“
+
+“In there suits?”
+
+“Yeah! Some are all janked up somehow too, or they’re some alien race I don’t recognize and I’m being prejudice.” Sable relaxed into the conversation, especially after Leela chuckled. Sable watched as lights flickered against her face through the screen—she must have been watching the holocast.
+
+“Oh my, they really did a number on that carpark—that’s a lot of blood. They went to bars with those suits on?”
+
+“Yep,” Sable popped the word, “well, hopefully they will fend off these stupid pirates. They attacked a ship and then suicided into the planet. It’s got everyone on edge.”
+
+“I hope so,” Leela paused, but didn’t look back up to the screen. Her thought passive and genuine. “I do worry about you Sable, I only have 187 days left in my apprenticeship and I hope I don’t get transferred to another courier because you—well, you know—died.”
+
+Sable took a breath, the words sinking into her. It was uncomfortable. She didn’t like having someone waiting on her, especially not worrying about her. Maybe Leela wasn’t a leash. *Man, I’m such an asshole.*
+
 "Hey Leela," Sables tone grew soft, "I'm sorry about earlier. I know you must have told me whatever was going on in your life at some point, I just didn't take the time to listen, or even care and... well I'm sorry about that." 
 
 > Does Leela accept her apology?  `iv-oracle:50/50|18|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
