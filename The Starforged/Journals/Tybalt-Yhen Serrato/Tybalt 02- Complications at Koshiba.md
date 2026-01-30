@@ -6,8 +6,8 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 }
 
 ```
->"It is not paranoia when the Forge really is plotting to destroy you."
->- Unknown Serrato Bannersworn, died to a sniper after actually removing his helmet, at the Siege of
+>*"It is not paranoia when the Forge really is plotting to destroy you."*
+>*- Unknown Serrato Bannersworn, died to a sniper after being convinced to eat without his helmet, at the Siege of Sirona*
 
 Tybalt and Epathus brought their ships down to sandy Audun, where the only relief from the unending glare of its suns were sandstorms that could fry an elephant into a smoking corpse with the sheer static charge held within them. As it was, the only human life that existed upon the planet was found in Port Koshiba, contained within a bubble of esoteric safety bounded by pillars of black iron, of clear Precursor make, from which more conventionally sheltered drydocks extended out via train networks sheltered by an extensive solar grid. The settlement kept itself watered by means of the vast, almost ocean-sized aquifers that existed almost mockingly below the sun-scorched surface, and the diet of the locals consisted of submersible-caught fish (both alien and imported species) and hydroponics-grown crops
 
@@ -161,11 +161,11 @@ Raising *Shattersky* high, as if for a telegraphed downward chop right in front 
 
 Mere minutes have passed since the fight began, but Tybalt’s relative spotlessness was bought by spending every second of it fighting as hard as his flesh could go. He did not remember when the counter in the corner of his helmet’s HUD, tracking the number of strikes that had been taken by his armour, passed a thousand and he had no desire to tempt fate any further. As his axe cuts down a third foe, the fourth is already leaping to strike at the opening Tybalt had no choice but to expose in that moment. Then another shot rings out, and the blade is shot out of the assassin’s hand, who is in turn sent spinning away from the force of it. Seeing the tables turn, Tybalt seizes this opening to grab his opponent by the arm. And before they could wriggle from his grasp, he yanks hard and swings them right into a nearby charging station, the glossy plastic exterior cracking from the impact.
 
-Then again. And again. Until Tybalt is reasonably sure his new prisoner has been rendered insensate. Dropping them upon the floor, he turns to speak to Paxel, and pauses when he realises they weren’t alone anymore.  `iv-oracle:First Look|292|Unarmored|oracle_rollable:starsmith/characters/first_look`  `iv-oracle:First Look|36|Flashy|oracle_rollable:starforged/character/first_look`  To his surprise, it is not one of his warriors, nor any of the local law enforcement. Instead, it is a man dressed in the sort of glitzy costume that subjects of the Circle of the Elder Stars have come to associate with news reporters, with a cameraman following close behind that immediately showed he was smarter than his superior by clearly not wanting to be here.
+Then again. And again. Until Tybalt is reasonably sure his new prisoner has been rendered insensate. Dropping them upon the floor, he turns to speak to Paxel, and pauses when he realises they weren’t alone anymore.  `iv-oracle:First Look|292|Unarmored|oracle_rollable:starsmith/characters/first_look`  `iv-oracle:First Look|36|Flashy|oracle_rollable:starforged/character/first_look`  To his surprise, it is not one of his warriors, nor any of the local law enforcement. Instead it is a woman in the attire of a office bureaucrat, worn in a way to flaunt her youth, but her face was presently glancing back and forth between Tybalt and the destruction all around him. Her thumb absentmindedly presses against the screen of the civilian communicator sitting in her hand, presumably sharing what she was seeing.
 
-With the question posed to him snapping his mind back to less violent tracks, Tybalt looks around as the battle-haze recedes and really takes in the devastation. Of the vehicles with broken windows and gaping bullet holes. The electrical charger he had smashed the last assassin into (that just caught fire). The dismembered bodies scattered around himself.
+Trying to shift his mind back to less violent tracks, Tybalt looks around as the battle-haze recedes and really takes in the devastation. Of the vehicles with broken windows and gaping bullet holes. The electrical charger he had smashed the last assassin into (that just caught fire). The dismembered bodies scattered around himself.
 
-Thus, he gives Mackenson his answer.
+Thus, he gives his answer for the camera.
 
 ```
 Tybalt: Ffffffuuuuuuuuuuuuuuuuck
@@ -173,3 +173,4 @@ Tybalt: Ffffffuuuuuuuuuuuuuuuuck
 
 He was going to have to pay so much in reparations.  `iv-meter:Supply|5|3` 
 
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
