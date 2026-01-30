@@ -9,4 +9,5 @@ DRYDOCK GAMMA-12 (OCCUPIED: CRUISER-CLASS WARSHIP "KAAL-KAAZ")
 
 He would most certainly dispense harsh punishments for this betrayal, because he definitely wasn't laughing with them, Epathus included. `iv-oracle:Likely|47|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-noroll:Develop Your Relationship|move:starforged/connection/develop_your_relationship`  `iv-track-advance:Find where he stands with Epathus|The Starforged/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|12|14|extreme|1` 
 
-`iv-move:Compel|Iron|6|3|0|6|7|move:starforged/adventure/compel` 
+But there yet remained the matter of their prisoner, whom he and Paxel were dragging back to their
+`iv-move:Compel|Iron|6|3|0|6|7|move:starforged/adventure/compel`  `iv-oracle:Likely|6|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
