@@ -40,6 +40,7 @@ oracle-group name="NPC: [[Leela Asper]]" {
     oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="Maintain order" roll=40
 }
 ```
+`iv-track-create:Leela Asper|The Starforged/Progress/Sable/Leela Asper.md` 
 "How's the boyfriend, Leela?" Perhaps Sable should make nice for once. Besides she needed a few minutes for the startup cycle to finish.
 
 >Does play nice go well? `iv-oracle:Unlikely|84|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` 
