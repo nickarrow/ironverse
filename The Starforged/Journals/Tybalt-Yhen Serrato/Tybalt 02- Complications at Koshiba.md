@@ -6,6 +6,8 @@ actor name="[[The Starforged\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Ser
 }
 
 ```
+>"It is not paranoia when the Forge really is plotting to destroy you."
+>- Unknown Serrato Bannersworn, died to a sniper after actually removing his helmet, at the Siege of
 
 Tybalt and Epathus brought their ships down to sandy Audun, where the only relief from the unending glare of its suns were sandstorms that could fry an elephant into a smoking corpse with the sheer static charge held within them. As it was, the only human life that existed upon the planet was found in Port Koshiba, contained within a bubble of esoteric safety bounded by pillars of black iron, of clear Precursor make, from which more conventionally sheltered drydocks extended out via train networks sheltered by an extensive solar grid. The settlement kept itself watered by means of the vast, almost ocean-sized aquifers that existed almost mockingly below the sun-scorched surface, and the diet of the locals consisted of submersible-caught fish (both alien and imported species) and hydroponics-grown crops
 

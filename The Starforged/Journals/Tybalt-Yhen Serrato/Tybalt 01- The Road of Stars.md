@@ -13,6 +13,8 @@ oracle name="[Space Encounter Oracles \/ Space Sighting \/ Outlands](datasworn:o
 oracle name="[Space Encounter Oracles \/ Stellar Object](datasworn:oracle_rollable:starforged\/space\/stellar_object)" result="Neutron star surrounded by intense magnetic fields" roll=77
 
 ```
+>*"Become a Star"*
+> *-Common phrase in the Circle of Elder Stars, in the same vein as "Rest in peace"*
 
 It was, perhaps, a bad sign when things began going wrong at the very first anchorage they stopped at. A lone neutron star surrounded by practically nothing, it's peculiarly strong magnetic fields were assumed to be what allowed it to serve as an anchorage.
 
