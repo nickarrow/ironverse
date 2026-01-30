@@ -43,7 +43,8 @@ Leela met Sable's gazed with pouty sort of thinking face. "My girlfriend left me
 
 The awkward nods continued for a minute before Leela promptly cut the feed after Sable declared the e-drive was charged and ready to go. The chrome fighters watched her every second of the way as she turned to make headway towards her destination.
 
-`iv-move:Undertake an Expedition|Edge|3|2|0|3|5|move:starforged/exploration/undertake_an_expedition` 
+`iv-track-create:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md` 
+`iv-move:Undertake an Expedition|Edge|3|2|0|3|5|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|0|8|dangerous|1` 
 > What sort of complication does Sable face? `iv-oracle:Action|8|Attack|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|55|Love|oracle_rollable:starforged/core/theme` 
 
 `iv-meter:Health|5|3`
