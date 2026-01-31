@@ -63,6 +63,7 @@ The awkward nods continued for a minute before Leela promptly cut the feed after
 
 ---
 `iv-track-create:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md` 
+![[To the Delivery Point Glimmer Job]]
 `iv-move:Undertake an Expedition|Edge|3|2|0|3|5|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|0|8|dangerous|1` 
 > What sort of complication does Sable face? `iv-oracle:Action|8|Attack|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|55|Love|oracle_rollable:starforged/core/theme` 
 
