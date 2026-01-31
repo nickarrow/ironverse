@@ -10,7 +10,7 @@ shadow: 1
 wits: 2
 health: 3
 spirit: 5
-supply: 5
+supply: 4
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
@@ -38,7 +38,7 @@ assets:
       - false
       - false
     controls:
-      safety: 5
+      safety: 4
     options: {}
   - id: asset:starforged/module/engine_upgrade
     abilities:
@@ -55,6 +55,8 @@ assets:
       - false
     controls: {}
     options: {}
+FailureTrack_Progress: 0
+FailureTrack_XPEarned: 0
 ---
 
 ```iron-vault-character-info

@@ -16,9 +16,8 @@ Let's begin
 ```
 
 ---
-**INT. CR-497 CABIN JUST OUTSIDE OF GLIMMER OUTPOST**
-
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` `iv-meter:Momentum|4|5`
+**INT. CR-497 CABIN JUST OUTSIDE OF GLIMMER OUTPOST**
 
 Sable clicked the datapad into place and her destination began populating her nav. Little lines raced across the screen as her course was charted. She sat down in her chair and began charging the e-drive for the journey. *Might as well call Leela.*
 
@@ -62,6 +61,7 @@ Leela met Sable's gazed with pouty sort of thinking face. "My girlfriend left me
 
 The awkward nods continued for a minute before Leela promptly cut the feed after Sable declared the e-drive was charged and ready to go. The chrome fighters watched her every second of the way as she turned to make headway towards her destination.
 
+---
 `iv-track-create:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md` 
 `iv-move:Undertake an Expedition|Edge|3|2|0|3|5|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|0|8|dangerous|1` 
 > What sort of complication does Sable face? `iv-oracle:Action|8|Attack|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|55|Love|oracle_rollable:starforged/core/theme` 
@@ -95,8 +95,8 @@ Sable shrieked and grabbed at his are as she hit the cold metal plates on the fl
 Sable wiped her nose and blood smeared on her courier suit. *Well, then, uhm—remember to disengage the fuel line and check the fucking bathroom before you take off.*
 
 ---
-**INT. THE CARGO HOLD OF CR-497**
 `iv-move:Undertake an Expedition|Edge|3|3|0|4|1|move:starforged/exploration/undertake_an_expedition` `iv-meter:Momentum|2|4`  `iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|8|16|dangerous|1` 
+**INT. THE CARGO HOLD OF CR-497**
 
 “Do you ever go anywhere without that thing?” Sable observed Dal-Karus as he sorted out his—metal suit thing.
 
@@ -134,14 +134,28 @@ Sable wiped her nose and blood smeared on her courier suit. *Well, then, uhm—r
 The station was perfect. It was a large traveling station manned by automated systems ran by an ancient AI system. What it's original purpose was it completely unknown at this point, but several stations like this are still in existence. Some the AI has turned hostile or the system's become corrupt. This station was mostly intact, even if it was missing some amenities—like food for humans. 
 
 Sable gave Dal-Karus some rations to last him until he got back to his station. He clambered of the shipped, ducking considerably as he did.
-`iv-move:Make a Connection|Heart|4|1|0|7|6|move:starforged/connection/make_a_connection` 
 
 "This is an automated station. Should have comms and anything else you need, hell some of these things even ships you can rent." Sable lingered at the loading ramp.
-
+`iv-move:Make a Connection|Heart|4|1|0|7|6|move:starforged/connection/make_a_connection` 
 "So you're just going to leave me here with these machines and an uncontrolled AI." He complained. 
 
-Sable sneered, "You fucking chipped my tooth! 'oh thanks for last night WHAM'—" she retorted mockingly, "you know what fuck you."
+Sable sneered, "You fucking chipped my tooth! 'oh thanks for last night WHAM'—" she retorted mockingly, "you know what, fuck you."
 
-He turned to move towards to her, beginning some rant. She slammed the cargo hold door with her fit and it shut with finality. She growled to herself and skipped ladder prongs to get back up to the cockpit to leave before he could protest any further.
+He turned to move towards to her, beginning some rant. She slammed the cargo hold door with her fist and it shut with finality. She growled to herself and skipped ladder prongs to get back up to the cockpit to leave before he could protest any further.
 
 ---
+`iv-move:Undertake an Expedition|Edge|3|3|0|7|2|move:starforged/exploration/undertake_an_expedition` `iv-meter:Saftey|5|4` `iv-meter:Supply|5|4`
+`iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|16|24|dangerous|1` 
+**INT. CR-497 CARGO HOLD**
+
+Sable came out of FTL and a blip on her console started to flash a warning. It took her a second to figure out what this warning was flashing at her.
+
+"Preservation module offline..." she read to herself. The little square indicator made her jump as she realized the module was not a module connected to her ship, but part of the sensors attached to the black box. She grabbed her datapad and raced to the cargo hold to check on the thing. 
+
+She didn't even realize this thing had a preservation module. Whatever was inside was perishable. Somehow the battery on the module failed so she connected it to an external power supply to keep it running. It didn't directly plug into her ship—security measure of course—but it did divert power. She drained an emergency power supply to make it work. she could delay the e-drive charge—she was already delayed is it was.
+
+---
+`iv-move:Undertake an Expedition|Edge|6|3|0|9|1|move:starforged/exploration/undertake_an_expedition` 
+`iv-oracle:Spaceborne Peril|15|Dust clouds imperil navigation or conceal foes|oracle_rollable:starforged/space/peril` 
+> Pirates?  `iv-oracle:50/50|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Is this related to the package?  `iv-oracle:50/50|67|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`, so they don't know what she has, they are just attacking her.
+
