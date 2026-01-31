@@ -2,7 +2,7 @@
 name: Barille Black
 xp_spent: 0
 xp_added: 0
-momentum: 9
+momentum: 4
 edge: 1
 heart: 3
 iron: 2
