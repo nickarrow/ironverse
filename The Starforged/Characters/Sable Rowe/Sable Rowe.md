@@ -2,7 +2,7 @@
 name: Sable Rowe
 xp_spent: 0
 xp_added: 0
-momentum: 6
+momentum: 7
 edge: 3
 heart: 1
 iron: 2
@@ -36,7 +36,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls:
       safety: 4
     options: {}
@@ -44,7 +44,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls:
       broken: false
     options: {}

@@ -172,4 +172,7 @@ She glances, a flicker catching her eye. She took a double take and leaned in cl
 
 Sable shrieked as the face turned ghastly against the window. Wide eyes opened and slammed against the window. Sable fell back in her chair, her heart racing, her skin crawling. Its cheeks sunk in and it howled a ghastly wail.
 
-Then her world spun and two ships appeared from the fog. 
+Then her world spun as two ships appeared from the fog. 
+`iv-track-create:Dust Cloud Battle |The Starforged/Progress/Dust Cloud Battle.md` 
+![[Dust Cloud Battle]]
+`iv-move:React Under Fire|Edge|5|3|1|7|8|move:starforged/combat/react_under_fire`  `iv-meter:Momentum|6|7` 
