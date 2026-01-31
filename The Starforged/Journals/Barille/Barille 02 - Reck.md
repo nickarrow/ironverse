@@ -145,11 +145,18 @@ Barille finds a seat at a placed called the  `iv-oracle:Name|265|Pinched Penny|o
 
 Barille reviews the data file, the image of Karthick. Time to go for a walk, and he heads towards Karthick's former apartment.  `iv-ooc:Is Barille getting closer to the suicide crash site?`  `iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  
 
-After about 10 min of walking, Barille sees flashing lights and alert messages pinging his hand terminal.  `iv-oracle:Story Clue|186|Uncovers a damaging secret involving a secondary threat|oracle_rollable:starsmith/misc/story_clue` Barille proceeds forward, and then suddenly realizes he's completely alone. There should be fire crews, or other people here, but there isn't. There's... nobody. He's in a residency district, and about block away from Karthick's former apartment.  `iv-move:Gather Information|Wits|1|2|0|6|4|move:starforged/adventure/gather_information|burn=9:2` that's when he sees  `iv-oracle:Action + Theme|69|Summon Rumor|oracle_rollable:starforgedsupp/templates/actiontheme` the very solid wall in front of him twist in upon itself and a blaze of blue fire twisting open what appears to be a portal.
+After about 10 min of walking, Barille sees flashing lights and alert messages pinging his hand terminal.  `iv-oracle:Story Clue|186|Uncovers a damaging secret involving a secondary threat|oracle_rollable:starsmith/misc/story_clue` Barille proceeds forward, and then suddenly realizes he's completely alone. There should be fire crews, or other people here, but there isn't. There's... nobody. He's in a residency district, and about block away from Karthick's former apartment.  `iv-move:Gather Information|Wits|1|2|0|6|4|move:starforged/adventure/gather_information|burn=9:2` that's when he sees  `iv-oracle:Action + Theme|69|Summon Rumor|oracle_rollable:starforgedsupp/templates/actiontheme` the very solid wall in front of him twist in upon itself and a blaze of blue fire twisting open what appears to be a portal. His hand terminal is alerting him to something. 
 
-The portal slowly expands, and inside of it there is first an abyss of nothing, but then a craggy rockface appears, it is a though Barille is looking into some other world, through a window in the side of this very flex-steel building. As it all goes quiet, and then out of the portal steps a human, or something human like. 
+The portal slowly expands, and inside of it there is first an abyss of nothing, but then a craggy rockface appears, it is a though Barille is looking into some other world, through a window in the side of this very flex-steel building. As it all goes quiet, and then out of the portal steps a human, or something human like.  `iv-oracle:Descriptor|189|Shocking|oracle_rollable:starsmith/core/descriptor`  Whatever it is, it is hard to for Barille to focus his eyes on. The human shaped entity seems to disregard Barille, turns towards the adjacent hallway and then moves off. In a sudden flash, the portal disappears, and then Barille can hear the alarms going off again in the hallway. 
 
-`iv-oracle:Descriptor|189|Shocking|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|275|Revolution|oracle_rollable:starsmith/core/focus` 
+```
+BARILLE
+So... that kind of ratchets up this missing person's case a bit. 
+```
+
+Barille checks his hand terminal, its got all kinds of radiation alerts, and there are definitely some unique isotopes that were just recorded. Barille feels for his *kinetic pistol*. So, maybe that is a way to track, whatever those things are? Or at least the portals? It's at least something that we can track.  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|8|12|formidable|1` 
+
+
 
 
 `iv-ooc:Threat one was these horrifying manifestations, threat two was the Ascendency. So, I am thinking that the Ascendency suicide problem is... catching? Yeah, I like that. ` 
