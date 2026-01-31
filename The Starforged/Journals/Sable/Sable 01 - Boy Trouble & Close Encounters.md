@@ -157,7 +157,7 @@ Sable came out of FTL and a blip on her console started to flash a warning. It t
 
 "Preservation module offline..." she read to herself. The little square indicator made her jump as she realized the module was not a module connected to her ship, but part of the sensors attached to the black box. She grabbed her datapad and raced to the cargo hold to check on the thing. 
 
-She didn't even realize this thing had a preservation module. Whatever was inside was perishable. Somehow the battery on the module failed so she connected it to an external power supply to keep it running. It didn't directly plug into her ship—security measure of course—but it did divert power. She drained an emergency power supply to make it work. she could delay the e-drive charge—she was already delayed is it was.
+She didn't even realize this thing had a preservation module. Whatever was inside was perishable. Somehow the battery on the module failed so she connected it to an external power supply to keep it running. It didn't directly plug into her ship—security measure of course—but it did divert power. She drained an emergency power supply to make it work. She could delay the e-drive charge—but she was already delayed is it was.
 
 ---
 `iv-move:Undertake an Expedition|Edge|6|3|0|9|1|move:starforged/exploration/undertake_an_expedition` 
@@ -181,35 +181,37 @@ Then her world spun as two ships appeared from the fog.
 
 `iv-move:React Under Fire|Edge|5|3|1|7|8|move:starforged/combat/react_under_fire`  `iv-meter:Momentum|6|8` 
 
-"Shit!" The red warnings rang out as her proximity alarms finally sensed something. The two ships came each from different direction attempting to ram into her. She punched the throttle and sent herself into a spin, the angle making them both miss her narrowly.  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|0|8|dangerous|1` 
+"Shit!" The red warnings rang out as her proximity alarms finally sensed something. The two ships came, each from different direction attempting to ram into her. She punched the throttle and sent herself into a spin, the angle making them both miss her narrowly.  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|0|8|dangerous|1` 
 
-"Are they trying to just hit me?" Their maneuvers were confusing. All manner of logic vanished as the two small ships chased her within the clouds. The dust swirled and spun in her vision, making it impossible to see. She shut off the low visibility warnings and paralleled herself to one of the ships, goading him to try to hit her again. They might thought themselves brave, but they were stupid to attack a courier ship.
+"Are they trying to just hit me?" Their maneuvers were confusing, all manner of logic vanished as the two small ships chased her within the clouds. The dust swirled and spun in her vision, making it impossible to see. She shut off the low visibility warnings and paralleled herself to one of the ships, goading him to try to hit her again. They might thought themselves brave, but they were stupid to attack a courier’s ship.
 
 `iv-move:Strike|Edge|5|3|1|10|9|move:starforged/combat/strike`  `iv-oracle:Pay the Price|64|Your vehicle suffers damage|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`  `iv-initiative:Position|out of combat|in a bad spot`  `iv-meter:Starship / Integrity|5|3`  `iv-move:Withstand Damage|Starship / Integrity|1|3|0|5|3|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|8|7`  `iv-meter:Starship / Integrity|3|4` 
 
-Her plan betrayed her as the ship she was following threw out a magnetic anchor and attacked itself to her ship. It banks hard and tried to slingshot her into the other ship—that was coming in fast to her far side. She shut off the thruster opposite the anchor and push into the other as hard as she could. The trajectory change was too sudden for the other ship to course correct and it scrapped along the hull of her ship. Sable cringe at the sound and repeatedly apologized to her ship.
+Her plan betrayed her as the ship she was following threw out a magnetic anchor and attached itself to her ship. It banked hard and tried to slingshot her into the other ship—that was coming in fast to her far side. She shut off the thruster opposite the anchor and push into the other as hard as she could. The trajectory change was too sudden for the other ship to course correct and it scrapped along the hull of her ship. Sable cringe at the sound of scraping metal and repeatedly apologized to her ship.
 
 `iv-move:React Under Fire|Edge|4|3|1|1|8|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Spirit|5|4`  `iv-move:Endure Stress|Spirit|2|4|0|7|10|move:starforged/suffer/endure_stress`  `iv-meter:Spirit|4|3` 
 
-She felt the sudden clank of another anchor attaching itself to her ship. She rebalanced the thrusters and moved in tandem with the pull of their ships. Her only goal at the moment was to not let them rip her apart. She glanced outside, watching the two ships spin around her. The faces appeared, distorting her vision, their gaunt faces pressed again the glass until they shattered through. Dozens of screaming masks poured into the cockpit. She held her breathe and listened her ship doing everything she could to keep it together.
+She felt the sudden clank of another anchor attaching itself to her ship. She rebalanced the thrusters and moved in tandem with the pull of their ships. Her only goal at the moment was to not let them rip her apart. She glanced outside, watching the two ships spin around her. 
+
+Then the faces appeared and distorted her vision, their gaunt visage pressed against the glass until they shattered through. Dozens of screaming masks poured into the cockpit. She held her breath and listened to her ship, doing everything she could to keep it together.
 
 `iv-move:React Under Fire|Edge|5|3|1|10|3|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Courier / Safety|4|3`
 
-The cold Sable and she opened her eyes. The screaming face went through the floor and towards the storage bay. "I had to get out of this cloud."
+The cold left Sable and she opened her eyes. The screaming faces went through the floor and towards the storage bay. "I have to get out of this cloud."
 
 `iv-move:React Under Fire|Edge|4|3|1|7|4|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Momentum|7|8`  `iv-initiative:Position|in a bad spot|in control` 
 
-Sable checked her ships sensors to see where the magnetic anchors were attached to her ship and smiled. She hit the 'Waste Hatch' and the panel flung open, the force the anchor had ahold of it ripped the panel off and sent one ship spinning out of control.
+Sable checked her ship’s sensors to see where the magnetic anchors were attached to her ship and smiled. She hit the 'Waste Hatch' and the panel flung open, the force the anchor had ahold of it ripped the panel off and sent one ship spinning out of control.
 
 `iv-move:Strike|Edge|3|3|0|5|9|move:starforged/combat/strike`  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|8|24|dangerous|2`  `iv-initiative:Position|in control|in a bad spot` 
 
-Sable barrel rolled and pushed her thruster to the limit, being the one to pull that nasty slingshot move. She slammed her anchor into it partner ship and the two twisted and collided together. Sable felt relief course through her, all she had to do now was figure out how to get this anchor to detach. Her victory was short lived as the mass of steel was still functional enough to spool up their guns.
+Sable barrel rolled and pushed her thruster to the limit, being the one to pull that nasty slingshot move. She slammed her anchored prisoner into its partner ship and the two twisted and collided together. Sable felt relief course through her, all she had to do now was figure out how to get this anchor to detach. Her victory was short lived as the mass of steel was still functional enough to spool up their guns.
 
 "Oh fu—"
 
 `iv-move:React Under Fire|Edge|6|3|1|8|1|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Momentum|8|10`  `iv-move:Strike|Edge|3|3|0|6|1|move:starforged/combat/strike|burn=10:2`  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|24|40|dangerous|2`  `iv-progress:Take Decisive Action|Dustcloud Battle|10|8|1|The Starforged/Progress/Sable/Dustcloud Battle.md|move:starforged/combat/take_decisive_action` 
 
-"—ck you," Sable put some slack into the anchor and twist the ship to wrap the cable around the barrel, and twist their gun loose. She cackled as that whole section of their ship ripped free and any surviving pilots now had to contend with space. Luckily it gave her the time to figure out to detach the anchor, check on the cargo and get the hell out of the creepy dust cloud.
+"—ck you," Sable put some slack into the anchor and pulled her ship in a tight circle to wrap the cable around the barrel, and twist their gun loose. She cackled as that whole section of their ship ripped free and any surviving pilots now had to contend with the unforgiving expanse of space. Luckily it gave her the time to figure out how to detach the anchor, check on the cargo and get the hell out of the creepy dust cloud.
 
 `iv-track-complete:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md` 
 ![[Dustcloud Battle]]
