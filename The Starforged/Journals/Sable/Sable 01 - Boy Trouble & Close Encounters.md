@@ -44,7 +44,7 @@ She fired up the commlink and perky young lady appeared with a forced smile. "An
 
 “Yep,” Sable popped the word, “well, hopefully they will fend off these stupid pirates. They attacked a ship and then suicided into the planet. It’s got everyone on edge.”
 
-“I hope so,” Leela paused, but didn’t look back up to the screen. Her thought passive and genuine. “I do worry about you Sable, I only have 187 days left in my apprenticeship and I hope I don’t get transferred to another courier because you—well, you know—died.”
+“I hope so,” Leela paused, but didn’t look back up to the screen. Her thoughts passive and genuine. “I do worry about you Sable, I only have 187 days left in my apprenticeship and I hope I don’t get transferred to another courier because you—well, you know—died.”
 
 Sable took a breath, the words sinking into her. It was uncomfortable. She didn’t like having someone waiting on her, especially not worrying about her. Maybe Leela wasn’t a leash. *Man, I’m such an asshole.*
 
@@ -57,7 +57,7 @@ Leela met Sable's gazed with pouty sort of thinking face. "My girlfriend left me
 
 "That—that sucks," Sable was in uncharted space with this, "I uh, well you could always live in my apartment. It's empty now and I don't think I'm coming back."
 
-"Oh, well, that would be—nice actually, I'm couch surfing right now. Thank Sable." Leela seemed genuine.
+"Oh, well, that would be—nice actually, I'm couch surfing right now. Thanks Sable." Leela seemed genuine.
 
 The awkward nods continued for a minute before Leela promptly cut the feed after Sable declared the e-drive was charged and ready to go. The chrome fighters watched her every second of the way as she turned to make headway towards her destination.
 
@@ -123,7 +123,7 @@ Sable wiped her nose and blood smeared on her courier suit. *Well, then, uhm—r
 
 “Hey, I didn’t ask to be kidnapped.”
 
-“I didn’t kidnap you! I thought you left, I didn’t expect you to sleep in my tub.” He glared at her with a stern face, his jaw flaring. 
+“I didn’t kidnap you! I thought you left, I didn’t expect you to sleep in my tub.” She raised her voice and he glared at her with a stern face, his jaw flaring. 
 
 "What's in it?" Boldened, he asked a question he knew she wouldn't answer.
 
