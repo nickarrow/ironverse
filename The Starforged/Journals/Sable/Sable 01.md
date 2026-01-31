@@ -17,7 +17,7 @@ Let's begin
 
 ---
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` `iv-meter:Momentum|4|5`
-**INT. CR-497 CABIN JUST OUTSIDE OF GLIMMER OUTPOST**
+**INT. CR-497 COCKPIT WAITING JUST OUTSIDE OF GLIMMER OUTPOST**
 
 Sable clicked the datapad into place and her destination began populating her nav. Little lines raced across the screen as her course was charted. She sat down in her chair and began charging the e-drive for the journey. *Might as well call Leela.*
 
@@ -69,6 +69,8 @@ The awkward nods continued for a minute before Leela promptly cut the feed after
 
 `iv-meter:Health|5|3`
 `iv-move:Endure Harm|Health|3|3|0|10|5|move:starforged/suffer/endure_harm` 
+
+**INT. CR-479 COCKPIT**
 
 She has nodded off in her chair on the flight deck. It was known to happen, the subtle light shifting over head as she cruised FTL speed through a relatively easy passage. The gentle hum of the engines reverberating through the hull lulling her to sleep. The rude awakening came in the form of a forceful slam of her face into her console.
 
