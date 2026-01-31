@@ -156,15 +156,4 @@ So... that kind of ratchets up this missing person's case a bit.
 
 Barille checks his hand terminal, its got all kinds of radiation alerts, and there are definitely some unique isotopes that were just recorded. Barille feels for his *kinetic pistol*. So, maybe that is a way to track, whatever those things are? Or at least the portals? It's at least something that we can track.  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|8|12|formidable|1` 
 
-
-
-
-`iv-ooc:Threat one was these horrifying manifestations, threat two was the Ascendency. So, I am thinking that the Ascendency suicide problem is... catching? Yeah, I like that. ` 
-
-
-
-Session outline:
-- Get to Reck
-- Assist if needed
-- Start ship repairs (if possible)
-- Begin investigation of [[Investigate and report on the rumored horrors of Reck]]
+[[Barille 03 - Searching Through Reck]] 
