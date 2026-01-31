@@ -160,4 +160,16 @@ She didn't even realize this thing had a preservation module. Whatever was insid
 `iv-oracle:Spaceborne Peril|15|Dust clouds imperil navigation or conceal foes|oracle_rollable:starforged/space/peril` 
 > Pirates?  `iv-oracle:50/50|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Is this related to the package?  `iv-oracle:50/50|67|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`, so they don't know what she has, they are just attacking her. 
 
-Testing
+`iv-move:Enter the Fray|Wits|1|2|0|3|4|move:starforged/combat/enter_the_fray` 
+
+The CR-497 came out of FTL into a thick sparkling cloud of shifting cosmic dust. It was beautiful and dangerous. Moves like fog across her viewport. The static charge from the dust made her sensors wiry and confused. She would have to navigate manually, slowly out of the cloud so she could chart her next course. 
+
+“If you weren’t so dangerous I would just sit here and watch how beautiful you are, but—I can’t afford to just sit blind for a few hours.” Sable talked to the cloud as though it were listening.
+
+> Does the cloud display any paranormal phenomena?  `iv-oracle:50/50|15|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+She glances, a flicker catching her eye. She took a double take and leaned in closer. There, just through the window was—*a face?*  Soft in its features. Glittering in the dust, swirling around a strange ethereal beauty. Sable leaned in closer, trying to get a better look, her body hanging over her console, her toes pressed against the ground as she strained her body to see this strange beautiful face.
+
+Sable shrieked as the face turned ghastly against the window. Wide eyes opened and slammed against the window. Sable fell back in her chair, her heart racing, her skin crawling. Its cheeks sunk in and it howled a ghastly wail.
+
+Then her world spun and two ships appeared from the fog. 
