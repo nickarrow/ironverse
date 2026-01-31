@@ -1,6 +1,5 @@
 
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-oracle:Begin a Session|3|Flashback reveals an aspect of your background or nature|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
-**+ Add Momentum**
 
 # Flashback - Entering the Courier Guild
 
@@ -159,18 +158,18 @@ The crate itself was locked and sealed up tight. Multiple layers of banding and 
 
 ---
 ```
-Post Session Notes
- So, I've decided to end of session zero here. I wanted to get my thoughts down on what I have so far. Think of these as author notes, reflections, or whatever. This is also where I will note any End Session move relevance
+Post Session Notes:
+	So, I've decided to end of session zero here. I wanted to get my thoughts down on what I have so far. Think of these as author notes, reflections, or whatever. This is also where I will note any End Session move relevance
  
- Yay, we have met Sable! Characters for me, inform me of who they want to be as I start to play them--which leads me to a practice that I've taken on with my Ironsworn/Starforged games and that's the session zero refresh. I let myself change stats and assets to better inform narrative. Of course only once and only at the end of session zero before I feel like the narrative starts really taking off. 
+	Yay, we have met Sable! Characters for me, inform me of who they want to be as I start to play them--which leads me to a practice that I've taken on with my Ironsworn/Starforged games and that's the session zero refresh. I let myself change stats and assets to better inform narrative. Of course only once and only at the end of session zero before I feel like the narrative starts really taking off. 
  
- We've also learned some about the Courier Guild, which I will fully flesh out for people to know more about. With learning these things about Sable and the Courier Guild I've decided to make some changes.
-	 Edge: 2>3
-	 Heart: 1
-	 Iron: 1>2
-	 Shadow: 2>1
-	 Wits: 3>2
- I feel like this spread better defines who Sable is, what her goals are, and how she fits into the greater narrative.
- Now for Assets, I thinks she's pretty well there, though I am switching Outcast for Ace. It just makes more sense she is a fantastic pilot. Even though she's bad with people, she's not necessarily a loner.
- Thank you so much for reading Sable. I'm excited to see what happens to her next.
+	We've also learned some about the Courier Guild, which I will fully flesh out for people to know more about. With learning these things about Sable and the Courier Guild I've decided to make some changes.
+		 Edge: 2>3
+		 Heart: 1
+		 Iron: 1>2
+		 Shadow: 2>1
+		 Wits: 3>2
+	I feel like this spread better defines who Sable is, what her goals are, and how she fits into the greater narrative.
+	Now for Assets, I thinks she's pretty well there, though I am switching Outcast for Ace. It just makes more sense she is a fantastic pilot. Even though she's bad with people, she's not necessarily a loner.
+	Thank you so much for reading Sable. I'm excited to see what happens to her next.
 ```

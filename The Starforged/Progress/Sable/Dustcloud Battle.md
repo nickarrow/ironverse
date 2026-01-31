@@ -1,13 +1,12 @@
 ---
-name: "Dust Cloud Battle "
+name: Dustcloud Battle
 rank: dangerous
-progress: 0
+progress: 40
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
-
 ---
 
 

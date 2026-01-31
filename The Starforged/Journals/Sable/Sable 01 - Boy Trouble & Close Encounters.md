@@ -1,9 +1,9 @@
 
 ```
 Where we left off...
-Sable is a courier who has work her way in the ranks and was given the special task of expending the reach of the courier guild into an uncharted sector the Devil's Chain.
-She has acquired her first notable job in the sector. Transporting a Black service shipment that marked Red, which means rush as fast as possible.
-With this new resolves Sable has reaffirmed her mission to expand the Courier Guild's reach in the sector and live up to the legacy of her parents. I believe this calls Swear and Iron Vow and +1 Momentum for the start of the session.
+	Sable is a courier who has work her way in the ranks and was given the special task of expending the reach of the courier guild into an uncharted sector the Devil's Chain.
+	She has acquired her first notable job in the sector. Transporting a Black service shipment that marked Red, which means rush as fast as possible.
+	With this new resolves Sable has reaffirmed her mission to expand the Courier Guild's reach in the sector and live up to the legacy of her parents. I believe this calls Swear and Iron Vow and +1 Momentum for the start of the session.
 ```
 
  `iv-track-create:Expand the Influence of the Courier Guild in Devil's Reach|The Starforged/Progress/Sable/Expand the Influence of the Courier Guild in Devil's Reach.md` 
@@ -146,6 +146,8 @@ Sable sneered, "You fucking chipped my tooth! 'oh thanks for last night WHAM'—
 
 He turned to move towards to her, beginning some rant. She slammed the cargo hold door with her fist and it shut with finality. She growled to herself and skipped ladder prongs to get back up to the cockpit to leave before he could protest any further.
 
+`iv-track-advance:Courier Job: Glimmer Outpost|The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md|0|8|dangerous|1` 
+
 ---
 `iv-move:Undertake an Expedition|Edge|3|3|0|7|2|move:starforged/exploration/undertake_an_expedition` `iv-meter:Saftey|5|4` `iv-meter:Supply|5|4`
 `iv-track-advance:To the Delivery Point: Glimmer Job|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|16|24|dangerous|1` 
@@ -175,6 +177,48 @@ She glances, a flicker catching her eye. She took a double take and leaned in cl
 Sable shrieked as the face turned ghastly against the window. Wide eyes opened and slammed against the window. Sable fell back in her chair, her heart racing, her skin crawling. Its cheeks sunk in and it howled a ghastly wail.
 
 Then her world spun as two ships appeared from the fog. 
-`iv-track-create:Dust Cloud Battle |The Starforged/Progress/Dust Cloud Battle.md` 
-![[Dust Cloud Battle]]
-`iv-move:React Under Fire|Edge|5|3|1|7|8|move:starforged/combat/react_under_fire`  `iv-meter:Momentum|6|7` 
+`iv-track-create:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md` 
+
+`iv-move:React Under Fire|Edge|5|3|1|7|8|move:starforged/combat/react_under_fire`  `iv-meter:Momentum|6|8` 
+
+"Shit!" The red warnings rang out as her proximity alarms finally sensed something. The two ships came each from different direction attempting to ram into her. She punched the throttle and sent herself into a spin, the angle making them both miss her narrowly.  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|0|8|dangerous|1` 
+
+"Are they trying to just hit me?" Their maneuvers were confusing. All manner of logic vanished as the two small ships chased her within the clouds. The dust swirled and spun in her vision, making it impossible to see. She shut off the low visibility warnings and paralleled herself to one of the ships, goading him to try to hit her again. They might thought themselves brave, but they were stupid to attack a courier ship.
+
+`iv-move:Strike|Edge|5|3|1|10|9|move:starforged/combat/strike`  `iv-oracle:Pay the Price|64|Your vehicle suffers damage|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`  `iv-initiative:Position|out of combat|in a bad spot`  `iv-meter:Starship / Integrity|5|3`  `iv-move:Withstand Damage|Starship / Integrity|1|3|0|5|3|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|8|7`  `iv-meter:Starship / Integrity|3|4` 
+
+Her plan betrayed her as the ship she was following threw out a magnetic anchor and attacked itself to her ship. It banks hard and tried to slingshot her into the other ship—that was coming in fast to her far side. She shut off the thruster opposite the anchor and push into the other as hard as she could. The trajectory change was too sudden for the other ship to course correct and it scrapped along the hull of her ship. Sable cringe at the sound and repeatedly apologized to her ship.
+
+`iv-move:React Under Fire|Edge|4|3|1|1|8|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Spirit|5|4`  `iv-move:Endure Stress|Spirit|2|4|0|7|10|move:starforged/suffer/endure_stress`  `iv-meter:Spirit|4|3` 
+
+She felt the sudden clank of another anchor attaching itself to her ship. She rebalanced the thrusters and moved in tandem with the pull of their ships. Her only goal at the moment was to not let them rip her apart. She glanced outside, watching the two ships spin around her. The faces appeared, distorting her vision, their gaunt faces pressed again the glass until they shattered through. Dozens of screaming masks poured into the cockpit. She held her breathe and listened her ship doing everything she could to keep it together.
+
+`iv-move:React Under Fire|Edge|5|3|1|10|3|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Courier / Safety|4|3`
+
+The cold Sable and she opened her eyes. The screaming face went through the floor and towards the storage bay. "I had to get out of this cloud."
+
+`iv-move:React Under Fire|Edge|4|3|1|7|4|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Momentum|7|8`  `iv-initiative:Position|in a bad spot|in control` 
+
+Sable checked her ships sensors to see where the magnetic anchors were attached to her ship and smiled. She hit the 'Waste Hatch' and the panel flung open, the force the anchor had ahold of it ripped the panel off and sent one ship spinning out of control.
+
+`iv-move:Strike|Edge|3|3|0|5|9|move:starforged/combat/strike`  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|8|24|dangerous|2`  `iv-initiative:Position|in control|in a bad spot` 
+
+Sable barrel rolled and pushed her thruster to the limit, being the one to pull that nasty slingshot move. She slammed her anchor into it partner ship and the two twisted and collided together. Sable felt relief course through her, all she had to do now was figure out how to get this anchor to detach. Her victory was short lived as the mass of steel was still functional enough to spool up their guns.
+
+"Oh fu—"
+
+`iv-move:React Under Fire|Edge|6|3|1|8|1|move:starforged/combat/react_under_fire|adds=1(Ace)`  `iv-meter:Momentum|8|10`  `iv-move:Strike|Edge|3|3|0|6|1|move:starforged/combat/strike|burn=10:2`  `iv-track-advance:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md|24|40|dangerous|2`  `iv-progress:Take Decisive Action|Dustcloud Battle|10|8|1|The Starforged/Progress/Sable/Dustcloud Battle.md|move:starforged/combat/take_decisive_action` 
+
+"—ck you," Sable put some slack into the anchor and twist the ship to wrap the cable around the barrel, and twist their gun loose. She cackled as that whole section of their ship ripped free and any surviving pilots now had to contend with space. Luckily it gave her the time to figure out to detach the anchor, check on the cargo and get the hell out of the creepy dust cloud.
+
+`iv-track-complete:Dustcloud Battle|The Starforged/Progress/Sable/Dustcloud Battle.md` 
+![[Dustcloud Battle]]
+
+---
+`iv-track-advance:Courier Job: Glimmer Outpost|The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md|8|16|dangerous|1`  `iv-meter:Momentum|2|3` 
+
+```
+Post Session Notes:
+	So Sable totally missed out on a relatioship with Dal-Kurus. Which, she was right, he did knock her teeth in for—well, not 'no reason', but he could have nicer about it.
+	Her first combat! Though she has no guns, so it's just her moving around to avoid getting hit. Which is what she's good at. Next session I hope to figure out where this package is going and let her rest up a little.
+```

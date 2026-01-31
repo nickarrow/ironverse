@@ -2,14 +2,14 @@
 name: Sable Rowe
 xp_spent: 0
 xp_added: 0
-momentum: 7
+momentum: 3
 edge: 3
 heart: 1
 iron: 2
 shadow: 1
 wits: 2
 health: 3
-spirit: 5
+spirit: 3
 supply: 4
 Bonds_Progress: 0
 Bonds_XPEarned: 0
@@ -27,7 +27,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 5
+      integrity: 4
       integrity/battered: false
       integrity/cursed: false
     options:
@@ -38,13 +38,13 @@ assets:
       - false
       - true
     controls:
-      safety: 4
+      safety: 3
     options: {}
   - id: asset:starforged/module/engine_upgrade
     abilities:
       - true
       - false
-      - true
+      - false
     controls:
       broken: false
     options: {}
@@ -57,6 +57,7 @@ assets:
     options: {}
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
+initiative: false
 ---
 
 ```iron-vault-character-info
