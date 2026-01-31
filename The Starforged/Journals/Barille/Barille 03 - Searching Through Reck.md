@@ -60,4 +60,6 @@ Suit yourself kid. See you round.
 
 Barille collects himself, then stands back up and heads off.  `iv-move:Undertake an Expedition|Wits|1|2|0|10|4|move:starforged/exploration/undertake_an_expedition` 
 
-`iv-ooc:Threat one was these horrifying manifestations, threat two was the Ascendency. So, I am thinking that the Ascendency suicide problem is... catching? Yeah, I like that. ` 
+`iv-noroll:Take a Break|move:starforged/session/take_a_break` 
+
+
