@@ -158,5 +158,6 @@ She didn't even realize this thing had a preservation module. Whatever was insid
 ---
 `iv-move:Undertake an Expedition|Edge|6|3|0|9|1|move:starforged/exploration/undertake_an_expedition` 
 `iv-oracle:Spaceborne Peril|15|Dust clouds imperil navigation or conceal foes|oracle_rollable:starforged/space/peril` 
-> Pirates?  `iv-oracle:50/50|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Is this related to the package?  `iv-oracle:50/50|67|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`, so they don't know what she has, they are just attacking her.
+> Pirates?  `iv-oracle:50/50|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` Is this related to the package?  `iv-oracle:50/50|67|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`, so they don't know what she has, they are just attacking her. 
 
+Testing
