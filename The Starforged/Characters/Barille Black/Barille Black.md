@@ -8,7 +8,7 @@ heart: 3
 iron: 2
 shadow: 1
 wits: 2
-health: 5
+health: 3
 spirit: 3
 supply: 5
 Quests_Progress: 0

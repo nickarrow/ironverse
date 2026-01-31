@@ -29,6 +29,35 @@ Barille was hoping to avoid this part, but now he was faced with it. A lot of pe
 
 Barille's guilt hits him hard as he rushes forward. He grabs a mask, and then a medical pack from the wall, and runs towards the chaos to try and help whoever he can. *Yeah, just have a beer at the bar. You coward. Someone else's problem... sure. He thinks to himself.* 
 
-Rushing into crash site, he's going to save whoever he can.  `iv-move:Face Danger|Heart|4|3|0|5|7|move:starforged/adventure/face_danger` Barille does 
+Rushing into crash site, he's going to save whoever he can.  `iv-move:Face Danger|Heart|4|3|0|5|7|move:starforged/adventure/face_danger` Barille finds  `iv-oracle:Number|70|Many|oracle_rollable:sundered_isles/misc/magnitude/number` people trapped. A massive wall of rock and flex-steel came crashing down, and he works to get them free for almost an hour, digging and prying out rubble. Finally, the hole is large enough, and the people are able to pass through. He helps the last of them through, and then falls to his knees, exhausted.  `iv-meter:Health|5|4`  `iv-move:Endure Harm|Health|1|4|0|7|9|move:starforged/suffer/endure_harm`  `iv-meter:Health|4|3` 
+
+One of the survivors puts a hand on his shoulder.  `iv-oracle:Given Name|94|Vuldar|oracle_rollable:starsmith/character/name/given_name`  `iv-oracle:Family Name|246|Hollodo|oracle_rollable:starsmith/character/name/family_name` 
+
+```
+VULDAR HOLLODO
+Hey, thank you. Name's Hollodo, and I am not sure we would have survived if you hadn't helped dig us out. 
+
+BARILLE BLACK
+Yeah, don't mention it. Are there others?
+
+VULDAR HOLLODO
+We got everyone out that I know about. What the hell happened? Do you know?
+
+BARILLE BLACK
+It was an attack, a sucicide run at orbital velocity. I have no idea why they targeted you, nor what would push them to suicide. 
+
+VULDAR HOLLODO
+Gods. Who'd want to attack Reck!? You look pretty banged up, we're heading to the medical ward. Come on. 
+
+BARILLE BLACK
+Sorry, *coughs* I got a hot date. Watch your back Hollodo. 
+
+VULDAR HOLLODO
+Suit yourself kid. See you round. 
+```
+
+> Barille staggers back to the less rubble strewn corridor and lays flat on his back. He check's his hand terminal, and gets an isotope ping.
+
+Barille collects himself, then stands back up and heads off.  `iv-move:Undertake an Expedition|Wits|1|2|0|10|4|move:starforged/exploration/undertake_an_expedition` 
 
 `iv-ooc:Threat one was these horrifying manifestations, threat two was the Ascendency. So, I am thinking that the Ascendency suicide problem is... catching? Yeah, I like that. ` 
