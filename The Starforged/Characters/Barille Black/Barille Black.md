@@ -44,7 +44,6 @@ assets:
       - false
     controls: {}
     options: {}
-initiative: true
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 ---
