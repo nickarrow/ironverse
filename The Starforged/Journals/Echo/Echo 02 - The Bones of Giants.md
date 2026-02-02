@@ -160,9 +160,7 @@ With every world reminding the spirit of the unspoken contract those of the Firs
 > Is the spirit going to be the one that has to unlock the relic?  `iv-oracle:50/50|88|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` What's the clue it gives Echo?  `iv-oracle:Action|92|Suppress|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|200|Wisdom|oracle_rollable:starsmith/core/theme` 
 > 
 
-`iv-ooc: Working through it... I'm seeing 'suppress wisdom' as something that says that you must do the opposite of common sense. Like putting the hand on a flame purposefully, putting your hands in an electrical socket, etc. Common sense here is that Echo is trying to TAKE something, so she instead has to GIVE something.   ` 
-
-> `iv-oracle:Descriptor|133|Extinct|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|164|Motion|oracle_rollable:starsmith/core/focus` 
+`iv-ooc: Working through it... I'm seeing 'suppress wisdom' as something that says that you must do the opposite of common sense. Like putting the hand on a flame purposefully, putting your fingers in an electrical socket, etc. Common sense here is that Echo is trying to TAKE something, so she instead has to GIVE something.   `  `iv-oracle:Descriptor|133|Extinct|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|164|Motion|oracle_rollable:starsmith/core/focus` 
 
 ```
 SPIRIT
@@ -173,11 +171,14 @@ Give Phantom... over... to it.
 
 The reluctant words whispered in her ears became daggers of ice as the images became a flow, known and feared. She was in the First Light, awake and scared. She heard the whispers. Elize's voice, so like her own, but cold, ranting.
 
+```
+VOICES
 -a mere puppet, a replica, an *echo*, and its necromancy is that much more powerful than mine! You know what we could do with it, Vesper! With our tech!
 
 Elize, we don't interfere with the mundane world for a reason! Let the old relics be, you can't just jump bodies and take, the clans will notice!
 
 Who cares about those forge-damned Clans when--
+```
 
 As Echo shook out of her memories she noticed that she was now standing in the cloning chambers of the First Light as she remembered them to be, Elize Stirling, her much older mirror, smiling sweetly in front of her, the relic still between them.
 
@@ -189,7 +190,7 @@ Yes, my darling Echo, give the Hourglass your power, maybe you'll like its plans
 `iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md|0|1|1|4` 
 
 
->[!SPOILER]- The idea for the challenge, don't read if you don't want spoilers!"
+>[!SPOILER]- The idea for the challenge, don't read if you don't want spoilers!
 >So essentially, Echo REACHED the hourglass, but has to TAKE it first, and since we got a weak hit, something has to happen here. With the oracle rolls I got, I'm thinking of a psyco-something manifestation of her fears of some day misusing her gift rising out of the 'winds' of the afterlife. She probably fears something taking control of her, or removing her agency somehow (blackmail? lobotomy? magic?) to essentially use her negromancy and the tech of the First Light to bring people back from the dead endlessly, maybe even in the 'body snatcher' kinda way. Who wouldn't want to rob the body of a very rich, healthy, clan leader? 
 >She's going to be doing either a battle or as scene challenge, I'm leaning more towards the latter, where essentially she's confronted with what her power could be used for, and has to claw back to 'reality', maybe losing some amount of sanity in the middle there.
 >This whole thing is probably connected to the 'something's watching' feeling she had in the corridor.
