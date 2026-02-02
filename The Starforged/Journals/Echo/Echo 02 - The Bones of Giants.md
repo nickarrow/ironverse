@@ -172,7 +172,7 @@ Give Phantom... over... to it.
 The reluctant words whispered in her ears became daggers of ice as the images became a flow, known and feared. She was in the First Light, awake and scared. She heard the whispers. Elize's voice, so like her own, but cold, ranting.
 
 ```
-VOICES
+[MEMORIES]
 -a mere puppet, a replica, an *echo*, and its necromancy is that much more powerful than mine! You know what we could do with it, Vesper! With our tech!
 
 Elize, we don't interfere with the mundane world for a reason! Let the old relics be, you can't just jump bodies and take, the clans will notice!
