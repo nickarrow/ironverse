@@ -128,13 +128,64 @@ Was this the Hourglass? `iv-oracle:Likely|47|Yes|move.oracle_rollable:starforged
 Something in the sound over the winds beyond answered her unspoken thoughts: yes. We brought you here, you wanted this Hourglass, here it is; that something seemed to say. Echo didn't know if she could call that feeling, that almost-voice, friendly.
 
 `iv-progress:Finish an Expedition|Find your way through the Mausefort to the Hourglass|7|6|7|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:Find your way through the Mausefort to the Hourglass|The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md`  `iv-track-advance:Take the Hourglass relic and keep it safe|The Starforged/Progress/Echo/Take the Hourglass relic and keep it safe.md|4|8|formidable|1`  `iv-meter:Momentum|7|9` 
+
+Echo walked up to the Hourglass, trying to focus her gaze on it and failing again and again. The dissonant bells kept chanting their deep, striding song, now so loud in the spiritual winds that she couldn't even hear her own breathing.
+```
+ECHO
+No need to be so insistent about it, I'm here now, aren't I?
+```
+
 `iv-oracle:Peril|50|Spectral manifestations of your fears|oracle_rollable:starforged/location_theme/haunted/peril`  `iv-oracle:Action|64|Manipulate|oracle_rollable:ancient_wonders/core_oracles/action`  `iv-oracle:Theme|1|Ability|oracle_rollable:ancient_wonders/core_oracles/theme` 
 
->[!note] Notes
->I didn't want to leave this HERE but I need to ruuuuun and do stuff. Writing the idea down so I can remember it when I come back, soooo if anyone reading doesn't want to be spoiled, don't read the next note.
->Also, I changed the vow name because it needed some more stuff in there, and keeping the hourglass safe was implied in what I was intending anyway.
+`iv-noroll:Begin the Scene|move:starforged/scene_challenge/begin_the_scene`   `iv-track-create:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md`  `iv-clock-create:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md` 
 
->[!SPOILER]- The next stuff
+She tried examining the relic with her comm's scanner, walking a circle around it. Trying to touch it physically proved to be a very... weird experience, even for someone who regularly took missions from the dead. Her hands could definitely feel something, but no grip was enough, no touch communicated any defining features, was it smooth? Sharp? Cold? This probably was one last defense mechanism.
+When nothing worked she stopped in front of the relic, calmed her breathing down, and called forward her spirit sense. Something had guided Echo here, that meant that the something must be here and have its own kind of agency.
+```
+ECHO
+It's not really how this usually works, we'll just have to force it out, won't we, unseen friend?
+```
+
+She brought the rush of the spiritual wind forward, the eerie tones that had guided her forward becoming louder, more dissonant, until the sound itself coagulated midair in front of her, on the other side of the Hourglass, in an humanoid mass. 
+```
+ECHO
+I followed you here upon your prompting. It is me, Phantom. You must answer now, as the ancient contract says. How do I take this Relic?
+```
+
+`iv-move:Face Danger (Scene Challenge)|Heart|4|2|0|10|2|move:starforged/scene_challenge/face_danger` 
+
+With every world reminding the spirit of the unspoken contract those of the First Light had allegedly stipulated with the dead so long ago, formal and weighty, the gravity in the room became heavier, the atmosphere darker, even as the Hourglass started to shine an almost-purple light beyond the darkness that cloaked it. 
+
+> Is the spirit going to be the one that has to unlock the relic?  `iv-oracle:50/50|88|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` What's the clue it gives Echo?  `iv-oracle:Action|92|Suppress|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|200|Wisdom|oracle_rollable:starsmith/core/theme` 
+
+> Working through it... I'm seeing 'suppress wisdom' as something that says that you must do the opposite of common sense. Like putting the hand on a flame purposefully, putting your hands in an electrical socket, etc. Common sense here is that Echo is trying to TAKE something, so she instead has to GIVE something.  `iv-oracle:Descriptor|133|Extinct|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|164|Motion|oracle_rollable:starsmith/core/focus` 
+
+```
+SPIRIT
+Give Phantom... over... to it.
+```
+
+`iv-track-advance:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md|0|8|dangerous|1` 
+
+The reluctant words whispered in her ears became daggers of ice as the images became a flow, known and feared. She was in the First Light, awake and scared. She heard the whispers. Elize's voice, so like her own, but cold, ranting.
+
+-a mere puppet, a replica, an *echo*, and its necromancy is that much more powerful than mine! You know what we could do with it, Vesper! With our tech!
+
+Elize, we don't interfere with the mundane world for a reason! Let the old relics be, you can't just jump bodies and take, the clans will notice!
+
+Who cares about those forge-damned Clans when--
+
+As Echo shook out of her memories she noticed that she was now standing in the cloning chambers of the First Light as she remembered them to be, Elize Stirling, her much older mirror, smiling sweetly in front of her, the relic still between them.
+
+```
+ELIZE
+Yes, my darling Echo, give the Hourglass your power, maybe you'll like its plans better than mine. But how can you be sure of that?
+```
+
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md|0|1|1|4` 
+
+
+>[!SPOILER]- The idea for the challenge, don't read if you don't want spoilers!"
 >So essentially, Echo REACHED the hourglass, but has to TAKE it first, and since we got a weak hit, something has to happen here. With the oracle rolls I got, I'm thinking of a psyco-something manifestation of her fears of some day misusing her gift rising out of the 'winds' of the afterlife. She probably fears something taking control of her, or removing her agency somehow (blackmail? lobotomy? magic?) to essentially use her negromancy and the tech of the First Light to bring people back from the dead endlessly, maybe even in the 'body snatcher' kinda way. Who wouldn't want to rob the body of a very rich, healthy, clan leader? 
 >She's going to be doing either a battle or as scene challenge, I'm leaning more towards the latter, where essentially she's confronted with what her power could be used for, and has to claw back to 'reality', maybe losing some amount of sanity in the middle there.
 >This whole thing is probably connected to the 'something's watching' feeling she had in the corridor.
