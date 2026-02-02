@@ -36,7 +36,7 @@ assets:
     abilities:
       - true
       - false
-      - true
+      - false
     controls:
       safety: 3
     options: {}
@@ -57,7 +57,6 @@ assets:
     options: {}
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
-initiative: false
 ---
 
 ```iron-vault-character-info
