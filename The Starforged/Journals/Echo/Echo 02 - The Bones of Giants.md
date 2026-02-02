@@ -156,9 +156,13 @@ I followed you here upon your prompting. It is me, Phantom. You must answer now,
 
 With every world reminding the spirit of the unspoken contract those of the First Light had allegedly stipulated with the dead so long ago, formal and weighty, the gravity in the room became heavier, the atmosphere darker, even as the Hourglass started to shine an almost-purple light beyond the darkness that cloaked it. 
 
-> Is the spirit going to be the one that has to unlock the relic?  `iv-oracle:50/50|88|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` What's the clue it gives Echo?  `iv-oracle:Action|92|Suppress|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|200|Wisdom|oracle_rollable:starsmith/core/theme` 
 
-> Working through it... I'm seeing 'suppress wisdom' as something that says that you must do the opposite of common sense. Like putting the hand on a flame purposefully, putting your hands in an electrical socket, etc. Common sense here is that Echo is trying to TAKE something, so she instead has to GIVE something.  `iv-oracle:Descriptor|133|Extinct|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|164|Motion|oracle_rollable:starsmith/core/focus` 
+> Is the spirit going to be the one that has to unlock the relic?  `iv-oracle:50/50|88|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` What's the clue it gives Echo?  `iv-oracle:Action|92|Suppress|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|200|Wisdom|oracle_rollable:starsmith/core/theme` 
+> 
+
+`iv-ooc: Working through it... I'm seeing 'suppress wisdom' as something that says that you must do the opposite of common sense. Like putting the hand on a flame purposefully, putting your hands in an electrical socket, etc. Common sense here is that Echo is trying to TAKE something, so she instead has to GIVE something.   ` 
+
+> `iv-oracle:Descriptor|133|Extinct|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|164|Motion|oracle_rollable:starsmith/core/focus` 
 
 ```
 SPIRIT
