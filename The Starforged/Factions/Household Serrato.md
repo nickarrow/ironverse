@@ -7,6 +7,7 @@
 | Faction Projects     | Exert influence by means of monopoly over violence                                                                                                                                                                                                     |
 | Faction Quirks       | Widespread fascination with cybernetic augmentation, Anachronistic culture                                                                                                                                                                             |
 | Faction Rumors       | Many are believed to be addicted to replacing their flesh with metal, and regarding other humans as annoying pests, beyond even the casual cruelty of the Forge's wealthy, Supposedly invincible in a fight (they work hard to maintain that illusion) |
+(WIP)
 In every epoch of humanity, the rich have always needed enforcers.
 
 But perhaps their fixation with honour is rooted in compensation more than pride? For in the most secret records accessible only to the Warlord and select Clan-Heads, there lies a story.
