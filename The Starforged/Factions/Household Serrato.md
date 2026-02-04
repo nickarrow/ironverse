@@ -16,6 +16,7 @@ When the Exodus commenced, and the Ironhomes of the Founders fled into the dark,
 
 When their dominion over the Milky Way was complete, when the Tyrant’s rampaging armies had no more frontiers to pillage and grew restless, they opted to kill two birds with one stone. Bleeding whole sectors into crushing poverty to cover the cost, a grand armada was constructed, and all but the most loyal armies were herded aboard to punish those who had just wanted to live.
 
-The survivors among the betrayed, who fled bleeding into unknown stars, became the Firestorm Clans.
+The survivors among the betrayed, who fled bleeding into unknown stars before fracturing into a thousand and one pieces, became the Firestorm Clans.
 
 The betrayers, for they merely moved from serving one sadistic tyrant to a council of lesser selfish ones, joined together to form Household Serrato.
+
