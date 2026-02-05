@@ -60,6 +60,7 @@ Suit yourself kid. See you round.
 
 Barille collects himself, then stands back up and heads off.  `iv-move:Undertake an Expedition|Wits|1|2|0|10|4|move:starforged/exploration/undertake_an_expedition` 
 
+`iv-initiative:Position|in a bad spot|out of combat` 
 
 
 `iv-noroll:Take a Break|move:starforged/session/take_a_break` 
