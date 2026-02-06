@@ -23,4 +23,6 @@ It was time to move on.
 `iv-progress:Finish an Expedition|To the Delivery Point: Glimmer Job|8|7|7|The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md|move:starforged/exploration/finish_an_expedition` 
 ![[To the Delivery Point Glimmer Job]]
 `iv-track-advance:Courier Job: Glimmer Outpost|The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md|16|24|dangerous|1` 
+> Match: *Does the client come to meet her?*  `iv-oracle:Likely|34|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely` Is it Merrick or someone else?  `iv-oracle:50/50|22|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
+`iv-entity-create:NPC|Merrick Arden|The Starforged/Characters/NPCs/Merrick Arden.md` 
