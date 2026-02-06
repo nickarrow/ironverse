@@ -13,23 +13,23 @@ Bones
 
 Sofia Legrand
 
-| Name                | Sofia Legrand        |
-| ------------------- | -------------------- |
-| Callsign            |                      |
-| First Look          | Graceful, Swaggering |
-| Initial Disposition | Suspicious           |
-| Role                | In between Roles     |
-| Character Goal      | Become a star        |
-| Revealed Aspect     |                      |
-| Location            | Paxton Memorial      |
+| Name                | Sofia Legrand                  |
+| ------------------- | ------------------------------ |
+| Callsign            |                                |
+| First Look          | Graceful, Swaggering           |
+| Initial Disposition | Suspicious                     |
+| Role                | Pirate                         |
+| Character Goal      | Live up to her father's legacy |
+| Revealed Aspect     |                                |
+| Location            | Paxton Memorial                |
 
 Darlene
 
 | Name                | Darlene         |
 | ------------------- | --------------- |
 | Callsign            |                 |
-| First Look          | Plump, warm     |
-| Initial Disposition | Demanding       |
+| First Look          | Plump           |
+| Initial Disposition | Friendly        |
 | Role                | Server          |
 | Character Goal      |                 |
 | Revealed Aspect     |                 |
