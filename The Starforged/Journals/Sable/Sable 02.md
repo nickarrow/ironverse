@@ -26,3 +26,32 @@ It was time to move on.
 > Match: *Does the client come to meet her?*  `iv-oracle:Likely|34|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely` Is it Merrick or someone else?  `iv-oracle:50/50|22|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
 `iv-entity-create:NPC|Merrick Arden|The Starforged/Characters/NPCs/Merrick Arden.md` 
+
+The ramp clicked into place with a satisfying accordion of extending metal. 
+
+“Glad to see you arrived safe my dear—“ 
+
+Sable stopped in her tracks as she was met with a wall of personal and at the center of it was finely dressed man leaning on a cane. 
+
+“Glad to see I’m safe too—if you’ll excuse me.” She disembarked and moved to retract the ramp.
+
+She felt the can rest firmly on her shoulder, “I appreciate your diligence, I’m Merrick Arden, you have my package.”
+
+Sable turned back and forced a painful smile. “I have to confirm—you understand.”
+
+“Of course, of course, Ganden—“ The rest went unsaid but entirely understood. A man with a datapad walked forward and showed Sable the face of it. Sable scanned the code and the confirmation popped up—this was Merrick Arden.
+
+`iv-progress:Fulfill Your Vow|Courier Job: Glimmer Outpost|6|9|2|The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md|move:starforged/quest/fulfill_your_vow`  `iv-ooc:I will make an iron bow a bit later. Makes sense this situation is complicated.` 
+
+His cane clacked on the ground as he walked closer to her.
+
+“I shall have my surgeon look at that.” His bent calloused fingers touched her bruised lip. “That boy did a number on this beautiful face.”
+
+“How did—“
+
+“Of course there was surveillance attached to the package. What kind of curator would I be if I didn’t keep a close eye on what I acquire. 
+“Yes, I know about the Serrato man that was on your ship. You were careful and I’m understanding so all of forgiving, but best not to be so careless again.” He squeezed her jaw just enough to shoot pain through her skull due to her broken tooth, but she did her best not to wince too hard.
+
+“The Courier Guild appreciates your understanding,” Sable shifted and worked to turn over the package.
+
+`iv-ooc:I'm adding +2 to the Sojourn move due to the hit with a match from the journey move. `  `iv-move:Sojourn|Heart|3|1|2|5|3|move:starforged/recover/sojourn|adds=2(Strong Hit with a Match)` 
