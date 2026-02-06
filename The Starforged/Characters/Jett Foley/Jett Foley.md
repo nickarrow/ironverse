@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 0
 xp_added: 0
-momentum: 2
+momentum: 6
 edge: 2
 heart: 2
 iron: 1
@@ -87,3 +87,4 @@ track name="[[The Starforged\/Progress\/Jett\/Find and fulfil my destiny.md|Find
 GEAR
 
 Black iron ring on a chain around his neck
+Full-face rebreather mask
