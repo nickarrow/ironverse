@@ -1,7 +1,3 @@
-```iron-vault-mechanics
-oracle-group name="NPC: New NPC"
-```
-
 | Name                      | Epathus-Barabas Serrato         |
 | ------------------------- | ------------------------------- |
 | Given Name                | Epathus                         |
