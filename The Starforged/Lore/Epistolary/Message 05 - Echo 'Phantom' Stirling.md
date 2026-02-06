@@ -29,7 +29,7 @@ RECORDING STOPPED
 NEW ENCRYPTED VIDEO FILE ATTACHED: Be cautious
 ___ 
 
-*On a less formal note... I explored this vault because a spirit from my Ironhome tasked me with it, but the Library is sure to be interested in my findings. The spirit said that there was a connection to the attack on Ackriss-2, and since then I had the time to search for a few informations: seeing the reports that are coming out of there, and the rumors about the Ascendancy of Awakened Worlds that I'm hearing... I think this might be serious. Especially because this relic I have it's apparently also connected to a splinter group of the Risen Union, and that bothers me: they're friendly, but so mysterious...*
+*On a less formal note... I explored this vault because a spirit from my Ironhome tasked me with it, but the Library is sure to be interested in my findings. The spirit said that there was a connection to the attack on Ackriss-2, and since then I had the time to search for information: seeing the reports that are coming out of there, and the rumors about the Ascendancy of Awakened Worlds that I'm hearing... I think this might be serious. Especially because this relic I have it's apparently also connected to a splinter group of the Risen Union, and that bothers me: they're friendly, but so mysterious...*
 
 *I'm coming there as quickly as I can. Find me all the information the Library has on them, and on this kind of relic, won't you?*
 
