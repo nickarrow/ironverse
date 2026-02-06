@@ -221,6 +221,6 @@ Sable barrel rolled and pushed her thruster to the limit, being the one to pull 
 
 ```
 Post Session Notes:
-	So Sable totally missed out on a relatioship with Dal-Kurus. Which, she was right, he did knock her teeth in for—well, not 'no reason', but he could have nicer about it.
+	So Sable totally missed out on a relationship with Dal-Kurus. Which, she was right, he did knock her teeth in for—well, not 'no reason', but he could have nicer about it.
 	Her first combat! Though she has no guns, so it's just her moving around to avoid getting hit. Which is what she's good at. Next session I hope to figure out where this package is going and let her rest up a little.
 ```

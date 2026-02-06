@@ -1,7 +1,7 @@
 ---
 name: "Courier Job: Glimmer Outpost"
 rank: dangerous
-progress: 16
+progress: 24
 tags:
   - incomplete
 track-type: Vow

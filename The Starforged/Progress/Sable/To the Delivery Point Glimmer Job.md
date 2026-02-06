@@ -1,9 +1,9 @@
 ---
 name: "To the Delivery Point: Glimmer Job"
 rank: dangerous
-progress: 24
+progress: 32
 tags:
-  - incomplete
+  - complete
 track-type: Expedition
 character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
