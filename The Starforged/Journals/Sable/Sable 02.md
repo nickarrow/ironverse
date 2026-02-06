@@ -1,4 +1,3 @@
-`iv-move:Heal|Iron|5|2|0|6|1|move:starforged/recover/heal` 
 
 ```
 Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.
