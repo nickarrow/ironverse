@@ -34,7 +34,7 @@ Sable stopped in her tracks as she was met with a wall of personal and at the ce
 
 “Glad to see I’m safe too—if you’ll excuse me.” She disembarked and moved to retract the ramp.
 
-She felt the can rest firmly on her shoulder, “I appreciate your diligence, I’m Merrick Arden, you have my package.”
+She felt the cane rest firmly on her shoulder, “I appreciate your diligence, I’m Merrick Arden, you have my package.”
 
 Sable turned back and forced a painful smile. “I have to confirm—you understand.”
 
@@ -49,7 +49,7 @@ His cane clacked on the ground as he walked closer to her.
 “How did—“
 
 “Of course there was surveillance attached to the package. What kind of curator would I be if I didn’t keep a close eye on what I acquire. 
-“Yes, I know about the Serrato man that was on your ship. You were careful and I’m understanding so all of forgiving, but best not to be so careless again.” He squeezed her jaw just enough to shoot pain through her skull due to her broken tooth, but she did her best not to wince too hard.
+“Yes, I know about the Serrato man that was on your ship. You were careful and I’m understanding so all of forgiven, but best not to be so careless again.” He squeezed her jaw just enough to shoot pain through her skull, but she did her best not to wince too hard.
 
 “The Courier Guild appreciates your understanding,” Sable shifted and worked to turn over the package.
 
