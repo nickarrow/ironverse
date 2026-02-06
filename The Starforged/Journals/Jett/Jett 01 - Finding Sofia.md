@@ -51,11 +51,11 @@ In contrast to the environment, the people are friendly and welcoming.  The trad
 
 "Trust the process" says Jett.
 
-They enter the small diner.  There's only one server, and presumably a cook in the back, and Jett and Bones are the only two customers.  Jett takes a seat on one of the high stools at the counter and Bones follows suit. 
+They enter the small diner.  There's only one server, presumably a cook in the back, and Jett and Bones are the only two customers.  Jett takes a seat on one of the high stools at the counter and Bones follows suit. 
 
 "Hi fellas, I'm Darlene and I'll be taking care of you today.  What can I get you?"
 
-"Any local speciaties?" asks Jett.  
+"Any local specialties?" asks Jett.  
 
 Darlene laughs.  "I don't know if vat-grown soy counts as a specialty"
 

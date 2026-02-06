@@ -1,5 +1,5 @@
 ---
-name: "Connection: Machete"
+name: "Connection: Eris"
 rank: formidable
 progress: 4
 tags:

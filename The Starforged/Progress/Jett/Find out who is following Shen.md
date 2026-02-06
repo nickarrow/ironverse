@@ -1,13 +1,12 @@
 ---
 name: Find out who is following Shen
 rank: troublesome
-progress: 0
+progress: 12
 tags:
-  - incomplete
+  - complete
 track-type: Vow
 character: "[[The Starforged/Characters/Jett Foley/Jett Foley.md]]"
 iron-vault-kind: progress
-
 ---
 
 
