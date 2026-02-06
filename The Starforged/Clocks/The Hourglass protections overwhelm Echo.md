@@ -1,10 +1,10 @@
 ---
 name: The Hourglass protections overwhelm Echo
 segments: 4
-progress: 1
+progress: 4
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

@@ -149,7 +149,7 @@ It's not really how this usually works, we'll just have to force it out, won't w
 She brought the rush of the spiritual wind forward, the eerie tones that had guided her forward becoming louder, more dissonant, until the sound itself coagulated midair in front of her, on the other side of the Hourglass, in an humanoid mass. 
 ```
 ECHO
-I followed you here upon your prompting. It is me, Phantom. You must answer now, as the ancient contract says. How do I take this Relic?
+I followed you here upon your prompting. It is me, Phantom. You must answer now, as the contract says. How do I take this Relic?
 ```
 
 `iv-move:Face Danger (Scene Challenge)|Heart|4|2|0|10|2|move:starforged/scene_challenge/face_danger` 
@@ -186,11 +186,86 @@ As Echo shook out of her memories she noticed that she was now standing in the c
 ELIZE
 Yes, my darling Echo, give the Hourglass your power, maybe you'll like its plans better than mine. But how can you be sure of that?
 ```
-
 `iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md|0|1|1|4` 
+Echo felt her words dry out, the fear of *back then* striking a place deep in her soul. She felt exactly what would happen, as if it were reality: her power stripped from her, her autonomy taken, trapped in a body with another soul shoved in it, taking advantage. What would that even feel like with something as alien as a relic?
+And as Elize had said, what would its plans be? 
 
+Then she remembered that exact wording.
 
->[!SPOILER]- The idea for the challenge, don't read if you don't want spoilers!
->So essentially, Echo REACHED the hourglass, but has to TAKE it first, and since we got a weak hit, something has to happen here. With the oracle rolls I got, I'm thinking of a psyco-something manifestation of her fears of some day misusing her gift rising out of the 'winds' of the afterlife. She probably fears something taking control of her, or removing her agency somehow (blackmail? lobotomy? magic?) to essentially use her negromancy and the tech of the First Light to bring people back from the dead endlessly, maybe even in the 'body snatcher' kinda way. Who wouldn't want to rob the body of a very rich, healthy, clan leader? 
->She's going to be doing either a battle or as scene challenge, I'm leaning more towards the latter, where essentially she's confronted with what her power could be used for, and has to claw back to 'reality', maybe losing some amount of sanity in the middle there.
->This whole thing is probably connected to the 'something's watching' feeling she had in the corridor.
+```
+ECHO
+You are not Elize, are you? She and I never talked when she was alive, and any necromancer worth their salt knows that you can't use your real name with those gone beyond. So, what is it you want? Who are you?
+```
+Echo saw Elize open her mouth and brought on the pressure, feeling something in her head seize up dangerously, though this was dangerous either way. So she pressed on, eyebrows creasing in concentration: if this was indeed a spirit it was bound to answer truthfully to her demand. 
+`iv-move:Secure an Advantage (Scene Challenge)|Heart|5|2|0|7|2|move:starforged/scene_challenge/secure_an_advantage`   `iv-meter:Momentum|9|10` 
+ `iv-ooc:I'm treating this as if it were a GI move from Echo's Necromancer asset, because I say so lol`
+
+The spirit melted, losing its semblance of anything but a dark vortex of shadow moving erratically in the currents of the winds beyond, but the menacing feeling of being watched didn't go away. Whatever it was, it clearly wasn't Elize - or the spirit of anyone dead, really.
+
+`iv-move:Face Danger (Scene Challenge)|Wits|6|3|1|6|1|move:starforged/scene_challenge/face_danger|adds=1` 
+`iv-track-advance:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md|8|16|dangerous|1` 
+
+Echo could feel the indecision freezing her, as the vortex of shadows stretched towards her. It was shadow, impossible to understand, difficult to see even... That clicked in her brain.
+> Almost like the protections on the Hourglass... 
+
+The shadow had communicated with her in the form of Elize, but it wasn't. There must have been a reason for it. Echo would very rarely do what Elize wanted at all, and what if that was exactly the point?
+`iv-ooc:Does Echo trust her intuition?`  `iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+It was a gamble, more than dangerous, but she had little option now. She screamed, loud, as she began to pour her power into the Hourglass itself, beyond its protections, and felt pieces of her soul start to tear. 
+
+`iv-move:Face Danger|Heart|1|2|0|9|3|move:starforged/adventure/face_danger|burn=10:2` 
+`iv-track-advance:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md|16|24|dangerous|1` 
+
+When she found herself again, the world had morphed once more. Mutated bone shards floated in a field of rotating stars, without gravity and atmosphere, spinning in outer space. Looking around wildly, none of the stars were even recognizable to her eye, changing position as fast as they were. The only fixed point was the object in front of her, an incomprehensible black hole.
+Awake.
+The Hourglass.
+```
+THE HOURGLASS
+WHY DO YOU WAKE ME?
+```
+
+`iv-move:Face Danger (Scene Challenge)|Heart|1|2|0|10|8|move:starforged/scene_challenge/face_danger` 
+
+Before she could even start to speak and explain, she felt her own power reach to her from the relic and tear the answers out her soul. The universe spun around and inside, dying and coming back to life a thousand of times, every time just a little different as time spooled out of from a thread into too many possibilities, too much to bear for Echo as the sentient relic examined her motivations. 
+
+`iv-noroll:Pay the Price|move:starforged/fate/pay_the_price`  `iv-meter:Spirit|4|3` 
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md|1|2|1|4` 
+
+Echo saw the conversation with Vesper and Roman Savela again, from the outside. Her memories of Elize and the cloning chambers, her fear of being taken over, used without consent as an empty vessel... was this the Hourglass' way to communicate? Could it think?
+Following this wild hunch, she brought to the forefront of her mind her freshest memories: the droid, telling her of the splinter faction of the Risen Union that was searching the Hourglass for its own gains, Roman insisting that she'd take the relic before someone else did and keep it safe, her vow to the bone statues of the Mausefort. She wasn't in this for herself.
+`iv-move:Secure an Advantage (Scene Challenge)|Heart|2|2|0|2|5|move:starforged/scene_challenge/secure_an_advantage`  `iv-meter:Momentum|2|3` 
+
+Echo felt the Hourglass latch on that last thought and was overwhelmed again as her own necromantic gift flowed back inside her, the winds fading back into her supernatural hearing and crashing on her like a storm, but suddenly the shadow was opening. Echo reached up, fighting against an impossible pressure, and grasped at the relic.
+
+`iv-move:Face Danger|Heart|6|2|0|10|5|move:starforged/adventure/face_danger` 
+
+Her hands closed on the relic and, eyes closed against the tornado of shadows that was now buffeting both of them from the outside, she wrenched it out of its pedestal and to her, her head ringing with her own conviction. 
+```
+ECHO
+ I will not let you here to be taken by just anyone. I have made a vow to protect you, and I'll take it to the end!
+```
+
+`iv-track-advance:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md|24|32|dangerous|1` 
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md|2|3|1|4` 
+`iv-progress:Finish the Scene|Overcome the Hourglass' Protections|8|5|4|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md|move:starforged/scene_challenge/finish_the_scene` 
+`iv-clock-resolve:The Hourglass protections overwhelm Echo|The Starforged/Clocks/The Hourglass protections overwhelm Echo.md`  `iv-track-complete:Overcome the Hourglass' Protections|The Starforged/Progress/Echo/Overcome the Hourglass' Protections.md` 
+
+Echo staggered to her feet an unknown amount of time later, blinking in the sudden grey light. Her arms were empty but for her normal gear and she was standing in front of the Ilex-zed, her ship.
+```
+ECHO
+The relic! Where...?
+```
+Before she could descend into a panic a cold sense of certainty came to her: the Hourglass was here, awake and watching.
+> Well. This makes keeping it out of sight easier, if nothing else.
+
+As she climbed back inside the ship, exhausted, she looked back at the corridors: most of them were still here, unexplored bone, but the one that she'd taken first was gone. 
+For a moment she was tempted to go and see what else was hidden in there, then she shook her head and closed the airlock behind her.
+> No thank you, someone else will have to take a crack at it.
+
+She inserted the coordinates to a peaceful-looking part of space and laid back on her pilot chair, ready for a nap.
+
+`iv-track-advance:Take the Hourglass relic and keep it safe|The Starforged/Progress/Echo/Take the Hourglass relic and keep it safe.md|8|12|formidable|1`  `iv-meter:Momentum|3|5`  
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+> I'm thinking less necromancy next for Echo, mainly because I want a bit of a rest on the spooky stuff - and talking to more people that are alive can't but be helpful for Echo's mental health... but we'll see what comes up: she still has her 'keep the hourglass safe' part, that and "stopping those that want it", that splinter group of the RU, so that's probably what she'll go and poke her nose into next.
+>  `iv-meter:Momentum|5|6` 

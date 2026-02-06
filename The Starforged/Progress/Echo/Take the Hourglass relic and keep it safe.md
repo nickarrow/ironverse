@@ -1,7 +1,7 @@
 ---
 name: Take the Hourglass relic and keep it safe
 rank: formidable
-progress: 8
+progress: 12
 tags:
   - incomplete
 track-type: ""
