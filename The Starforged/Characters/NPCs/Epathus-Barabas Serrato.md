@@ -1,4 +1,4 @@
-| fName                     | Epathus-Barabas Serrato         |
+| Name                      | Epathus-Barabas Serrato         |
 | ------------------------- | ------------------------------- |
 | Given Name                | Epathus                         |
 | Callsign                  | Mimic                           |
