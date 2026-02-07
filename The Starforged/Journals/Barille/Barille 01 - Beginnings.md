@@ -5,7 +5,7 @@
 
 INT. LONG-RANGE TRANSPORT SHIP, RENTED CABIN
 
-[[Starforged Root/Barille Black/Barille Black]] is sleeping on a stiff bed, wearing his dark blue suit, loosened at the neck. He has dark curly hair, and the stubble of a beard. `iv-oracle:Character Goal|91|Gain Riches, Seek Power|oracle_rollable:starforged/character/goal` 
+[[Barille Black]] is sleeping on a stiff bed, wearing his dark blue suit, loosened at the neck. He has dark curly hair, and the stubble of a beard. `iv-oracle:Character Goal|91|Gain Riches, Seek Power|oracle_rollable:starforged/character/goal` 
 
 > Growing up within the domain of a founder clan, the [[Circle of the Elder Stars]], Barille's childhood was difficult. Not being of notable bloodline meant that he was relegated to the lower ranks of the Circle's caste system. However, his ability to fight, endure, and complete jobs earned him a reputation that helped elevate his status. Working jobs meant that he was able to grow his reputation, which provided access to bigger and better jobs. Barille has since left the Circle, for reasons unknown, and is currently adrift in the sector [[Devil's Chain]], moving from job to job. 
 

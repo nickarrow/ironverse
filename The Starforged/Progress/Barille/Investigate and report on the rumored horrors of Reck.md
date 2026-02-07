@@ -5,7 +5,7 @@ progress: 12
 tags:
   - incomplete
 track-type: Vow
-character: "[[Starforged Root/Barille Black/Barille Black]]"
+character: "[[Barille Black]]"
 iron-vault-kind: progress
 ---
 

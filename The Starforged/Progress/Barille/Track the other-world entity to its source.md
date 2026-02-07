@@ -5,7 +5,7 @@ progress: 8
 tags:
   - incomplete
 track-type: Expedition
-character: "[[The Starforged/Characters/Barille Black/Barille Black.md]]"
+character: "[[Barille Black]]"
 iron-vault-kind: progress
 ---
 

@@ -1,6 +1,6 @@
 # Encoded Wideband Broadcast
 
-**From:** [[Starforged Root/Barille Black/Barille Black]]
+**From:** [[Barille Black]]
 **To:** Anyone With Code Clearance
 
 ---
