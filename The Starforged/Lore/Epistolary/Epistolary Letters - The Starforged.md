@@ -33,4 +33,4 @@ Focus on the narrative, not the dice. See [[Letter Template]] for a starting poi
 
 - [[Epistolary Guide]] — Full rules and guidelines
 - [[The Starforged]] — Campaign overview
-- [[Truths]] — Setting truths for this campaign
+- [[Starforged Root/Barille Black/Truths]] — Setting truths for this campaign

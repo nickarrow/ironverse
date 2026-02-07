@@ -22,7 +22,7 @@ This campaign is setup to be played in the standard Starforged setting, except i
 
 I've also set this campaign up to be an [[Epistolary Guide|Epistolary]] game with a shared vow of [[Expose the darkness behind the attacks across the sector and stop it from spreading]]. Barille has sent his first message marking progress on the vow ([[Message 01 - Barille Black]]) - feel free to join in on the fun and help complete this shared vow!
 
-We currently have several players in this campaign, [[Echo 'Phantom' Stirling]], [[Tybalt-Yhen Serrato]], [[Sable Rowe]], and [[Barille Black]]. Feel free to read along on their respective journals!
+We currently have several players in this campaign, [[Echo 'Phantom' Stirling]], [[Tybalt-Yhen Serrato]], [[Sable Rowe]], and [[The Starforged/Characters/Barille Black/Barille Black]]. Feel free to read along on their respective journals!
 
 ```dataview
 TABLE WITHOUT ID file.link as "Journals", file.mtime as "Last Updated"

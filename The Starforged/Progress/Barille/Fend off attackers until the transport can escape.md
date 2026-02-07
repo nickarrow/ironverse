@@ -5,7 +5,7 @@ progress: 32
 tags:
   - complete
 track-type: Combat
-character: "[[Barille Black]]"
+character: "[[Starforged Root/Barille Black/Barille Black]]"
 iron-vault-kind: progress
 ---
 
