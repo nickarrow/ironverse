@@ -8,7 +8,7 @@
 | Authority           | Unyielding                                            |
 | Settlement Projects | Spirituality, Secrecy                                 |
 | Settlement Trouble  | Ghostly Visitations, Social Strife                    |
-| NPCS                | [[Vesper Savela]] has some authority here             |
+| NPCS                | [[The Starforged/Characters/NPCs/Vesper Savela]] has some authority here             |
 | Sector              | [[Devil's Chain]]                                     |
 
 The First Light is the erstwhile home of [[Echo 'Phantom' Stirling]]. The settlement is built in a ironhome as keeps a slow but constant movement throughout the sector, keeping away from well-travelled routes and planets.
