@@ -1,7 +1,7 @@
 ---
 name: Find Sofia's missing ship
 rank: dangerous
-progress: 16
+progress: 32
 tags:
   - incomplete
 track-type: Vow
