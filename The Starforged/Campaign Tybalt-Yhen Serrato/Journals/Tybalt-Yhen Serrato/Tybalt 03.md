@@ -11,3 +11,7 @@ He would most certainly dispense harsh punishments for this betrayal, because he
 
 But there yet remained the matter of their prisoner, whom he and Paxel were dragging back to their
 `iv-move:Compel|Iron|6|3|0|6|7|move:starforged/adventure/compel`  `iv-oracle:Likely|6|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
+
+
+
+hell world?
