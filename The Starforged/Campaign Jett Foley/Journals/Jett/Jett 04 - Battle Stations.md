@@ -21,7 +21,7 @@ Sofia and Bones rush over and pick him up.  He has a nasty wound in his chest - 
 
 "Two seconds." says Jett.
 
-`iv-progress:Fulfill Your Vow|Find Sofia's missing ship|8|4|5|The Starforged/Progress/Jett/Find Sofia's missing ship.md|move:starforged/quest/fulfill_your_vow` 
+`iv-progress:Fulfill Your Vow|Find Sofia's missing ship|8|4|5|The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia's missing ship.md|move:starforged/quest/fulfill_your_vow` 
 
 "There.  Docking bay four.  Let's move before the guards show up"
 
@@ -57,7 +57,7 @@ Then, the frigate seems to notice them.  Its engines power up and it starts turn
 
 "All will fall before the [[Ascendancy of the Awakened Worlds]]" comes the reply.
 
-`iv-track-advance:Find and fulfil my destiny|The Starforged/Progress/Jett/Find and fulfil my destiny.md|0|1|epic|1` 
+`iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|0|1|epic|1` 
 
 "Battle stations!" yells Bones across the comms.  Sofia and Failsafe fly out to meet the snub fighters.
 
@@ -71,15 +71,15 @@ Jett flips the autopilot switch and looks at the tactical display.  "Eris, Sofia
 
 `iv-move:Enter the Fray|Wits|6|3|0|4|7|move:starforged/combat/enter_the_fray`  `iv-meter:Momentum|3|5`  `iv-initiative:Position|out of combat|in control` 
 
-`iv-track-create:Jett 04-a Repel the Ascendancy|The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md` 
+`iv-track-create:Jett 04-a Repel the Ascendancy|The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md` 
 
 Nobody argues with Jett taking control; there isn't time and it's a sound plan.  The ships start tearing towards their assigned targets.
 
-`iv-move:Gain Ground|Wits|2|3|0|4|10|move:starforged/combat/gain_ground`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md|0|8|dangerous|1` 
+`iv-move:Gain Ground|Wits|2|3|0|4|10|move:starforged/combat/gain_ground`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md|0|8|dangerous|1` 
 
 Eris and Sofia manage to goad the snub fighters into splitting up; they each now have two snub fighters in pursuit.  Failsafe punches through the hole this creates in the middle of the enemy formation and moves directly towards the frigate, which is still slowly wheeling around to bring its guns to bear.
 
-`iv-move:Strike|Edge|5|2|0|8|5|move:starforged/combat/strike`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md|8|24|dangerous|2`  `iv-initiative:Position|in control|in a bad spot` 
+`iv-move:Strike|Edge|5|2|0|8|5|move:starforged/combat/strike`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md|8|24|dangerous|2`  `iv-initiative:Position|in control|in a bad spot` 
 
 Bones uses the turret gun to fire wildly at the fighters behind *The Irony*.  He destroys one and clips the other - a trail of smoke fans out behind it as it maneuvers in a desperate attempt to avoid any further shots.  Sofia does a zero-G maneuver, and ends up flying backwards at full speed while facing the two pursuers.  She uses her front-facing cannons to blast both of the snub fighters, they  disintegrate in the hail of lead she unleashes. 
 
@@ -121,19 +121,19 @@ Jett notices blood slowly starting to stain his shirt.  It seems like the strain
 
 Sofia avoids getting in the firing arc of the two turret guns, and lines up a shot on the frigate's bridge.  The main cannons are almost in position; they start powering up.
 
-`iv-move:Clash|Edge|6|2|0|4|1|move:starforged/combat/clash`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md|24|40|dangerous|2`  `iv-initiative:Position|in a bad spot|in control` 
+`iv-move:Clash|Edge|6|2|0|4|1|move:starforged/combat/clash`  `iv-track-advance:Jett 04-a Repel the Ascendancy|The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md|24|40|dangerous|2`  `iv-initiative:Position|in a bad spot|in control` 
 
 Sofia lets rip before the cannons can fire a shot, sending round after round into the bridge.  The viewport is blown open - everyone and everything not bolted to the floor is sucked out into the cold abyss of space.
 
 Jett, Sofia and Failsafe start whooping and hollering over comms, while Bones finishes off the last snub fighter with the turret gun.
 
-`iv-progress:Take Decisive Action|Jett 04-a Repel the Ascendancy|10|10|5|The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md|move:starforged/combat/take_decisive_action` 
+`iv-progress:Take Decisive Action|Jett 04-a Repel the Ascendancy|10|10|5|The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md|move:starforged/combat/take_decisive_action` 
 
 `iv-initiative:Position|in control|out of combat` 
 
-`iv-track-advance:Find and fulfil my destiny|The Starforged/Progress/Jett/Find and fulfil my destiny.md|1|2|epic|1` 
+`iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|1|2|epic|1` 
 
-`iv-track-advance:Connection: Eris|The Starforged/Progress/Jett/Connection Eris.md|4|8|formidable|1` 
+`iv-track-advance:Connection: Eris|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md|4|8|formidable|1` 
 
 `iv-oracle:Take Decisive Action|72|Others pay the price: Someone else suffers the cost|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action` 
 
