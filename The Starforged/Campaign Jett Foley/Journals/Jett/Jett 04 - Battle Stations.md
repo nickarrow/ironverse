@@ -146,4 +146,3 @@ After a few moments, Jett pipes up.  "What now?" he asks simply.
 Sofia replies first.  "Now we head back to The Snakepit.  I face my father.  We honor the dead.  Then we prepare for war with the Ascendancy."
 
 
-Test Nickarrow
