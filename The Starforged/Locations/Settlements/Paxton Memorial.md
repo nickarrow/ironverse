@@ -1,5 +1,5 @@
 
->After recent events, my character can never go back to Paxton Memorial again so feel free to use it as you like - visit it, attack it, blow it up for dramatic effect, it's all good.
+>After recent events, my character can never go back to Paxton Memorial again so feel free to use it as you like - visit it, attack it, blow it up in a cutscene, it's all good.
 
 | Name                | Paxton Memorial      |
 | ------------------- | -------------------- |
