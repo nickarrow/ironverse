@@ -6,8 +6,9 @@ I've also set this campaign up to be an [[Epistolary Guide|Epistolary]] game wit
 
 ## Here are the messages sent to date:
 ```dataview
-TABLE WITHOUT ID file.link as "Epistoary Messages", file.mtime as "Last Updated"
+TABLE WITHOUT ID file.link as "Epistoary Messages", file.ctime as "Created"
 WHERE contains(file.name, "Message")
+SORT file.ctime
 ```
 
 Feel free to join in on the fun and help complete this shared vow!
