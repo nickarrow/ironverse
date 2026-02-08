@@ -1,7 +1,7 @@
 ---
 name: Find and fulfil my destiny
 rank: epic
-progress: 2
+progress: 3
 tags:
   - incomplete
 track-type: Vow

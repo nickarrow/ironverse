@@ -3,7 +3,7 @@
 
 | Name                | Paxton Memorial      |
 | ------------------- | -------------------- |
-| Sector              | Devil's Chain        |
+| Sector              | [[Devil's Chain]]    |
 | Location            | Orbital              |
 | Population          | Hundreds             |
 | First Look          | Dispersed structures |
