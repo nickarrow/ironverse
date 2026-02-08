@@ -14,7 +14,7 @@ SORT file.ctime
 Feel free to join in on the fun and help complete this shared vow!
 
 ## Current Players and Journals
-We currently have several players in this univers, [[Echo 'Phantom' Stirling]], [[Tybalt-Yhen Serrato]], [[Sable Rowe]], [[Jett Foley]], and [[Barille Black]]. Feel free to read along on their respective journals! 
+We currently have several players in this universe, [[Echo 'Phantom' Stirling]], [[Tybalt-Yhen Serrato]], [[Sable Rowe]], [[Jett Foley]], and [[Barille Black]]. Feel free to read along on their respective journals! 
 
 ```dataview
 TABLE WITHOUT ID file.link as "Journals", file.mtime as "Last Updated"
