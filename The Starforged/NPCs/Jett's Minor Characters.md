@@ -9,7 +9,7 @@ Bones
 | Role                | Pirate             |
 | Character Goal      |                    |
 | Revealed Aspect     |                    |
-| Location            | Paxton Memorial    |
+| Location            | The Snakepit       |
 
 Sofia Legrand
 
@@ -21,7 +21,7 @@ Sofia Legrand
 | Role                | Pirate                         |
 | Character Goal      | Live up to her father's legacy |
 | Revealed Aspect     |                                |
-| Location            | Paxton Memorial                |
+| Location            | The Snakepit                   |
 
 Darlene
 
@@ -44,7 +44,7 @@ Shen
 | Initial Disposition | Unfriendly         |
 | Role                | Vendor, Gang front |
 | Character Goal      |                    |
-| Revealed Aspect     | Paxton Memorial    |
+| Location            | Paxton Memorial    |
 
 Failsafe
 
@@ -55,4 +55,5 @@ Failsafe
 | Initial Disposition | Threatening                             |
 | Role                | Pirate                                  |
 | Character Goal      | Discover the fate of his missing sister |
-| Revealed Aspect     | Paxton Memorial                         |
+| Revealed Aspect     |                                         |
+| Location            | Deceased                                |

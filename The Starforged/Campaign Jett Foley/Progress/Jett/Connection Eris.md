@@ -1,7 +1,7 @@
 ---
 name: "Connection: Eris"
 rank: formidable
-progress: 4
+progress: 8
 tags:
   - incomplete
 track-type: Connection

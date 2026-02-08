@@ -8,7 +8,7 @@ heart: 2
 iron: 1
 shadow: 1
 wits: 3
-health: 5
+health: 3
 spirit: 5
 supply: 4
 Bonds_Progress: 0
