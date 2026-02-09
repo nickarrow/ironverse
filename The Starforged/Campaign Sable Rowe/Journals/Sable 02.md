@@ -1,9 +1,6 @@
 
-```
-Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.
-
-Let's begin
-```
+> *Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.*
+>  *Let's begin*
 
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-meter:Momentum|3|4` 
 
@@ -13,7 +10,7 @@ Let's begin
 
 Sable spat into the sink in the lavatory and another piece of her tooth fell into the basic. Tears were running down her face as she dug at her gums trying to relieve herself of the pieces of bones that had become dislodged from her jaw. She spate again and held her mouth while she whined.
 
-The pain had been getting worse over the day, only to wake her in a cold sweat and the most unimaginable pain she had ever remembered being in. He hadn't just chipped the tooth. She would have to get the thing worked on before infection settled in.
+The ache had been getting worse over the day, only to wake her in a cold sweat and the most unimaginable pain she had ever remembered being in. He hadn't just chipped the tooth. She would have to get the thing worked on before infection settled in.
 
 "I hate the fucking dentist..." she commiserated with the sad, disheveled, bloody image of her in the mirror.
 
@@ -54,3 +51,25 @@ His cane clacked on the ground as he walked closer to her.
 “The Courier Guild appreciates your understanding,” Sable shifted and worked to turn over the package.
 
 `iv-ooc:I'm adding +2 to the Sojourn move due to the hit with a match from the journey move. `  `iv-move:Sojourn|Heart|3|1|2|5|3|move:starforged/recover/sojourn|adds=2(Strong Hit with a Match)`   `iv-move:Heal|Iron|4|2|0|8|2|move:starforged/recover/heal`  `iv-meter:Health|1|4`   `iv-move:Hearten|Heart|4|1|0|4|4|move:starforged/recover/hearten` 
+
+"Walk with me," his demand was soft, warm, almost sounding like a suggestion, but it was anything but. Merrick didn't seem like the kind of person to be refused. "You are an impressive pilot Sable."
+
+"Thank you." Sable waited in anticipation for whatever that compliment was going to cost her. She might well be a warm biscuit for how he was buttering her up.
+
+"You were attacked were you not?"
+
+"I was. I evaded the situation." She replied.
+
+"Very well, but even I can see that this frontier can be—demanding." He was choosing his words carefully.
+
+They wound through the crowded streets and Merrick talked with Sable about her ship. How he had noticed the damage done to it and how apologetic he was for how hard fought the journey was. It wasn't. He knew that, and so did Sable. This was an act. He ingratiated himself to her, offering all sorts of services in exchange for how well she done on the job. He didn't need to do that, he paid her the compensation that was required, he didn't need to pay her anything else, but the kindness she received today would come at a great cost.
+
+But she fell for it. At the time she blamed it on the pain her tooth was giving her. At some point, you're in so much pain that a deal with hell itself seemed like a good idea. The surgeon was quick, the meds were... well, they were worth it. When Sable awoke her clothes were cleaned, her tooth restored, and she was washed, scrubbed, de-blemished, and slathered in skin treatments until she shown like a pearl.
+
+Then Merrick let her walk wherever she wished. She got to learn about where he was currently stationed.
+
+`iv-oracle:Planetary Class|81|Rocky World|oracle_rollable:starforged/planet/class`  `iv-entity-create:Planet Oracles > Rocky World|Ory|The Starforged/Locations/Planets/Ory.md`  `iv-entity-create:Settlement|Meridian|The Starforged/Locations/Settlements/Meridian.md` 
+
+
+
+Especially when it came in the form a rave filled party with every freeform delight she could forget herself with. The music pounded in her ears and crushed her body with force of the oppressive soundwaves resonating through her body. 

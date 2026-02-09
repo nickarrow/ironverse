@@ -38,7 +38,7 @@ assets:
       - false
       - false
     controls:
-      safety: 3
+      safety: 5
     options: {}
   - id: asset:starforged/module/engine_upgrade
     abilities:
