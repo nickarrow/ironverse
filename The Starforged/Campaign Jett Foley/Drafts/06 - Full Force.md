@@ -5,7 +5,7 @@
 `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|2|4|epic|2`  `iv-track-complete:05b - Investigate the damaged Ascendancy ship|The Starforged/Campaign Jett Foley/Progress/Jett/05b - Investigate the damaged Ascendancy ship.md`  `iv-track-advance:Connection: Machete|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Machete.md|16|20|formidable|1` 
 
 ---
-The Snakepit was abuzz with activity.  Everyone was preparing for the evacuation.  Jett had made a desperate dash for *The Irony* and he and the pirate fleet had managed to jump away before the fleet of Ascendancy ships with its colossal flagship had managed to get in weapons range.  As soon as he saw the evidence Jett had gathered, Machete had ordered The Snakepit to be evacuated.
+The Snakepit was abuzz with activity.  Everyone was preparing for the evacuation.  Jett had made a desperate dash for *The Irony* and he and the pirate fleet had managed to jump away before the fleet of Ascendancy ships with its colossal flagship had managed to get in weapons range.  As soon as he heard the word 'dreadnought', Machete had ordered The Snakepit to be evacuated.  They didn't have the firepower to stand and fight.
 
 >Is The Snakepit capable of FTL flight?  `iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
@@ -15,7 +15,7 @@ The station's e-drive, itself scavenged from a derelict dreadnought, was being p
 
 >Does Machete know what the relic is?  `iv-oracle:50/50|57|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-"No idea.  We have all kinds of weird and wonderful junk that our raiders brought back and we couldn't find a buyer for.  Go talk to the quartermaster, I'll tell her to let you take a look."
+"No idea.  We have all kinds of weird junk that our raiders brought back and we couldn't find a buyer for.  Go talk to the quartermaster."
 
 ---
 
@@ -31,7 +31,7 @@ Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around h
 
 "Some of the junk is magical.  The vault keeps the energy trapped inside.  Made from a special material."
 
-Jett, unsure whether she's serious or joking, follows Jackal to the vault.  Jackal lets him inside.  The vault is a large room filled with various items of various sizes.  A lot of the items are works of art - the Cobras clearly don't have an art fence; some of the pieces here look like they're worth a fair bit.
+Jett, unable to tell if she's serious or joking, follows Jackal to the vault.  Jackal lets him inside.  The vault is a large room filled with various items of various sizes.  A lot of the items are works of art - the Cobras clearly don't have an art fence; some of the pieces here look like they're worth a fair bit.
 
 "Weird stuff's over in that corner" says Jackal.  "The bot's gonna follow you and make a note if you take anything."
 
@@ -57,7 +57,7 @@ It's cold to the touch.  Jett picks it up.  It's light, but it makes Jett feel t
 
 Two weeks later, The Snakepit has jumped halfway across the sector with no sign of pursuit.  Machete decides they've run far enough and it's time to start raiding again - supplies are getting low.  He sends out scouts to find out about nearby shipping lanes and lightly-guarded settlements.
 
-Jett spends the trip thinking about the pyramid.  He tracks down the pirate who originally found it; it had been in a  `iv-oracle:Expanse|59|Debris field: Mineral asteroids|oracle_rollable:starforged/space/sighting/expanse` debris field somewhere in the Devil's Chain.  The debris field had originally been a moon, but something had destroyed it millennia ago.  The pyramid was floating in the wreckage.  Jett asked for the details of the planet the moon was in orbit around.
+Jett spent the trip thinking about the pyramid.  He tracked down the pirate who originally found it; it had been in a  `iv-oracle:Expanse|59|Debris field: Mineral asteroids|oracle_rollable:starforged/space/sighting/expanse` debris field somewhere in the Devil's Chain.  The debris field had originally been a moon, but something had destroyed it millennia ago.  The pyramid was floating in the wreckage.  Jett asked for the details of the planet the moon was in orbit around.
 
 `iv-oracle:Planetary Class|3|Desert World|oracle_rollable:starforged/planet/class`  `iv-oracle:Sample Names|13|Pyla|oracle_rollable:starforged/planet/desert/name`  `iv-oracle:Observed From Space|79|Vibrant terrain colors|oracle_rollable:starforged/planet/desert/observed_from_space` 
 
@@ -69,11 +69,11 @@ Jett discusses how to proceed with Eris.  He has to go to Pyla to investigate th
 
 Jett leaves The Snakepit and plots a random course.
 
+---
+
 `iv-move:Undertake an Expedition|Wits|4|3|0|10|5|move:starforged/exploration/undertake_an_expedition`  `iv-track-create:06a - Expedition to find medical supplies|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/06a - Expedition to find medical supplies.md`  `iv-track-advance:06a - Expedition to find medical supplies|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/06a - Expedition to find medical supplies.md|0|12|troublesome|1` 
 
 `iv-oracle:Spaceborne Peril|77|Shockwave or gravity wave approaches|oracle_rollable:starforged/space/peril` 
-
-___
 
 "Jett, we have a problem" says Eris.
 
@@ -103,4 +103,4 @@ ___
 
 `iv-move:Face Danger|Wits|5|3|0|10|9|move:starforged/adventure/face_danger` 
 
-The guns don't work.  The ship is hit full-force by the gravity wave.
+The guns don't work.  The ship gets hit full-force by the gravity wave.
