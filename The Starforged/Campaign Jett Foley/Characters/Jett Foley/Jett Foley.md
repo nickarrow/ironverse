@@ -1,8 +1,8 @@
 ---
 name: Jett Foley
-xp_spent: 0
+xp_spent: 2
 xp_added: 0
-momentum: 6
+momentum: 7
 edge: 2
 heart: 2
 iron: 1
@@ -15,7 +15,7 @@ Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
-Quests_Progress: 4
+Quests_Progress: 5
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
@@ -28,7 +28,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 5
+      integrity: 4
       integrity/battered: false
       integrity/cursed: false
     options:
@@ -51,7 +51,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls: {}
     options: {}
 description: A youthful, scruffy man.  He wears simple spacer clothes.  He is curious and inquisitive.

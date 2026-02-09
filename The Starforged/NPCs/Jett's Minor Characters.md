@@ -57,3 +57,25 @@ Failsafe
 | Character Goal      | Discover the fate of his missing sister |
 | Revealed Aspect     |                                         |
 | Location            | Deceased                                |
+
+Jackal
+
+| Name                | Unknown                              |
+| ------------------- | ------------------------------------ |
+| Callsign            | Jackal                               |
+| First Look          | Accompanied (utility bot), Eccentric |
+| Initial Disposition | Desperate                            |
+| Role                | Quartermaster                        |
+| Character Goal      |                                      |
+| Revealed Aspect     |                                      |
+| Location            | [[The Snakepit]]                     |
+
+| Name                |     |
+| ------------------- | --- |
+| Callsign            |     |
+| First Look          |     |
+| Initial Disposition |     |
+| Role                |     |
+| Character Goal      |     |
+| Revealed Aspect     |     |
+| Location            |     |
