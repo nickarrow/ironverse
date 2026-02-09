@@ -9,14 +9,14 @@ iron: 1
 shadow: 1
 wits: 3
 health: 5
-spirit: 3
+spirit: 2
 supply: 4
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
-Quests_Progress: 2
-Quests_XPEarned: 0
+Quests_Progress: 4
+Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
