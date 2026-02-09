@@ -88,3 +88,8 @@ GEAR
 
 Black iron ring on a chain around his neck
 Full-face rebreather mask
+Memoryform multipurpose sidearm
+
+NOTES
+
+OOC Although Jett has the Looper ability, he doesn't actually possess the ability to time travel - mechanically he uses the looper ability but in the fiction he acts instinctively on impulse sometimes and it often ends up saving him from harm; he believes it is fate guiding his hand but it's still unclear if he actually is destined to do anything or just the result of a malfunctioning machine.
