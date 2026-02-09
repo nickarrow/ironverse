@@ -186,7 +186,7 @@ As Echo shook out of her memories she noticed that she was now standing in the c
 ELIZE
 Yes, my darling Echo, give the Hourglass your power, maybe you'll like its plans better than mine. But how can you be sure of that?
 ```
-`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/The Hourglass protections overwhelm Echo.md|0|1|1|4` 
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo|0|1|1|4` 
 Echo felt her words dry out, the fear of *back then* striking a place deep in her soul. She felt exactly what would happen, as if it were reality: her power stripped from her, her autonomy taken, trapped in a body with another soul shoved in it, taking advantage. What would that even feel like with something as alien as a relic?
 And as Elize had said, what would its plans be? 
 
@@ -229,7 +229,7 @@ WHY DO YOU WAKE ME?
 Before she could even start to speak and explain, she felt her own power reach to her from the relic and tear the answers out her soul. The universe spun around and inside, dying and coming back to life a thousand of times, every time just a little different as time spooled out of from a thread into too many possibilities, too much to bear for Echo as the sentient relic examined her motivations. 
 
 `iv-noroll:Pay the Price|move:starforged/fate/pay_the_price`  `iv-meter:Spirit|4|3` 
-`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/The Hourglass protections overwhelm Echo.md|1|2|1|4` 
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo|1|2|1|4` 
 
 Echo saw the conversation with Vesper and Roman Savela again, from the outside. Her memories of Elize and the cloning chambers, her fear of being taken over, used without consent as an empty vessel... was this the Hourglass' way to communicate? Could it think?
 Following this wild hunch, she brought to the forefront of her mind her freshest memories: the droid, telling her of the splinter faction of the Risen Union that was searching the Hourglass for its own gains, Roman insisting that she'd take the relic before someone else did and keep it safe, her vow to the bone statues of the Mausefort. She wasn't in this for herself.
@@ -246,9 +246,9 @@ ECHO
 ```
 
 `iv-track-advance:Overcome the Hourglass' Protections|The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Overcome the Hourglass' Protections.md|24|32|dangerous|1` 
-`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/The Hourglass protections overwhelm Echo.md|2|3|1|4` 
+`iv-clock-advance:The Hourglass protections overwhelm Echo|The Starforged/The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo|2|3|1|4` 
 `iv-progress:Finish the Scene|Overcome the Hourglass' Protections|8|5|4|The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Overcome the Hourglass' Protections.md|move:starforged/scene_challenge/finish_the_scene` 
-`iv-clock-resolve:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/The Hourglass protections overwhelm Echo.md`  `iv-track-complete:Overcome the Hourglass' Protections|The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Overcome the Hourglass' Protections.md` 
+`iv-clock-resolve:The Hourglass protections overwhelm Echo|The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo`  `iv-track-complete:Overcome the Hourglass' Protections|The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Overcome the Hourglass' Protections.md` 
 
 Echo staggered to her feet an unknown amount of time later, blinking in the sudden grey light. Her arms were empty but for her normal gear and she was standing in front of the Ilex-zed, her ship.
 ```
