@@ -95,7 +95,7 @@ ___
 
 "Oh.  What are our other options?"
 
-"Get hit by the wave full-force."
+"Get hit full-force by the gravity wave."
 
 "Let's try the guns."
 
@@ -103,4 +103,4 @@ ___
 
 `iv-move:Face Danger|Wits|5|3|0|10|9|move:starforged/adventure/face_danger` 
 
-The guns don't work.  The ship is hit by the wave full-force.
+The guns don't work.  The ship is hit full-force by the gravity wave.
