@@ -22,7 +22,7 @@ The station's e-drive, itself scavenged from a derelict dreadnought, was being p
 
 `iv-oracle:Callsign|49|Jackal|oracle_rollable:starforged/character/name/callsign`  `iv-oracle:First Look|5|Accompanied|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|32|Eccentric|oracle_rollable:starforged/character/first_look`  `iv-oracle:Initial Disposition|67|Desperate|oracle_rollable:starforged/character/initial_disposition` 
 
-Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around her.  Her hair is wild and unkempt and she looks a little bewildered.  "You Jett?  Machete called me"
+Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around her.  Her hair is wild and unkempt and she looks a little bewildered.  "You Jett?  Machete called me."
 
 "Yeah, that's me.  I'm looking for something, but I don't know what it is.  He said you have a collection of oddities I can take a look at?"
 
@@ -34,13 +34,11 @@ Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around h
 
 Jett, unsure whether she's serious or joking, follows Jackal to the vault.  Jackal lets him inside.  The vault is a large room filled with various items of various sizes.  A lot of the items are works of art - the Cobras clearly don't have any contacts in the art world; some of the pieces here look like they're worth a fair bit.
 
-"Weird stuff's over in that corner" says Jackal.  "The bot's gonna follow you.  Make a note if you take anything."
+"Weird stuff's over in that corner" says Jackal.  "The bot's gonna follow you and make a note if you take anything."
 
 "It's okay to take stuff from the vault?"
 
-"It's okay to take junk from the junk corner.  I still have to make a note of what you took.  Take anything else and you'll lose a hand."  Jackal walks off, and her utility bot floats over to Jett.
-
-Jet rereads the captain's log.  It just says 'relic', no description or clues.  He starts looking through the junk corner.
+"It's okay to take junk from the junk corner.  Take anything else and you'll lose a hand."  Jackal walks off, and her utility bot floats over to Jett.  Jett starts looking through the junk corner.
 
 `iv-move:Gather Information|Wits|6|3|0|2|2|move:starforged/adventure/gather_information`  `iv-meter:Momentum|6|8` 
 
@@ -159,7 +157,7 @@ The conversation is interrupted by an incoming hail.
 
 "*Irony*, this is Sagan.  If you want to swing by for a bite to eat while your e-drive recharges you're more than welcome to dock.  Or are you here to join us?"
 
-"Actually, we're on a bit of a mercy mission, trying to find some crucial supplies for a new settlement not far from here." Jett says
+"Actually, we're on a bit of a mercy mission, trying to find some crucial supplies for a new settlement not far from here." Jett says, neglecting to mention the nature of the 'new settlement'.
 
 "Well, come on by then, I sure hope you can find what you're looking for at our little outpost."
 
