@@ -1,7 +1,7 @@
 ---
 name: "Connection: Machete"
 rank: formidable
-progress: 16
+progress: 20
 tags:
   - incomplete
 track-type: Connection

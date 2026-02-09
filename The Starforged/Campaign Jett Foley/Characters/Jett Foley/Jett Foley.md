@@ -9,7 +9,7 @@ iron: 1
 shadow: 1
 wits: 3
 health: 5
-spirit: 2
+spirit: 3
 supply: 4
 Bonds_Progress: 0
 Bonds_XPEarned: 0
