@@ -70,6 +70,10 @@ Then Merrick let her walk wherever she wished. She got to learn about where he w
 
 `iv-oracle:Planetary Class|81|Rocky World|oracle_rollable:starforged/planet/class`  `iv-entity-create:Planet Oracles > Rocky World|Ory|The Starforged/Locations/Planets/Ory.md`  `iv-entity-create:Settlement|Meridian|The Starforged/Locations/Settlements/Meridian.md` 
 
+Meridian was a busy industrial settlement on a large lifeless planet called Ory. Merrick said whatever life had lived here long ago was far gone. It’s been theorized that
+
+
+
 
 
 Especially when it came in the form a rave filled party with every freeform delight she could forget herself with. The music pounded in her ears and crushed her body with force of the oppressive soundwaves resonating through her body. 
