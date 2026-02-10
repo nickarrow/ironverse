@@ -11,7 +11,7 @@
 - 🤝 **Collaborate organically** — Add your character to someone else's campaign, write journal entries that interweave with theirs
 - 🌍 **Build shared worlds** — Watch the universe grow as players contribute to each other's stories
 
-We have one [[The Starforged|Starforged campaign]] running, and new players are always welcome to join the Ironverse. Feel free to join in the current campaign, or if you want to start your own (Ironsworn, and Sundered Isles also supported) go for it!
+We currently have one [[The Starforged README|Starforged Campaign]] running, and new players are always welcome to join the Ironverse. Feel free to join in the current campaign, or if you want to start your own campaigns, (Ironsworn, and Sundered Isles are supported) go for it!
 
 ## How Ownership Works
 Every file has exactly one owner — whoever created it. Simple.
