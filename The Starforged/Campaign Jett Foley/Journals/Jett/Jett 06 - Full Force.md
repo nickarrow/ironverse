@@ -1,11 +1,10 @@
->This is an unfinished draft, synced so I can work on it on multiple devices.  Everything you see is subject to change!
 
 `iv-progress:Fulfill Your Vow|05b - Investigate the damaged Ascendancy ship|6|3|1|The Starforged/Campaign Jett Foley/Progress/Jett/05b - Investigate the damaged Ascendancy ship.md|move:starforged/quest/fulfill_your_vow` 
 
 `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|2|4|epic|2`  `iv-track-complete:05b - Investigate the damaged Ascendancy ship|The Starforged/Campaign Jett Foley/Progress/Jett/05b - Investigate the damaged Ascendancy ship.md`  `iv-track-advance:Connection: Machete|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Machete.md|16|20|formidable|1` 
 
 ---
-The Snakepit was abuzz with activity.  Everyone was preparing for the evacuation.  Jett had made a desperate dash for *The Irony* and he and the pirate fleet had managed to jump away before the fleet of Ascendancy ships with its colossal flagship had managed to get in weapons range.  As soon as he heard the word 'dreadnought', Machete had ordered The Snakepit to be evacuated.  They didn't have the firepower to stand and fight.
+The Snakepit was abuzz with activity.  Everyone was preparing for the evacuation.  Jett had made a desperate dash for *The Irony* and he and the pirate fleet had managed to jump away before the fleet of Ascendancy ships with its colossal flagship got into weapons range.  As soon as he heard the word 'dreadnought', Machete had ordered The Snakepit to be evacuated.  They didn't have the firepower to stand and fight.
 
 >Is The Snakepit capable of FTL flight?  `iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
@@ -21,15 +20,15 @@ The station's e-drive, itself scavenged from a derelict dreadnought, was being p
 
 `iv-oracle:Callsign|49|Jackal|oracle_rollable:starforged/character/name/callsign`  `iv-oracle:First Look|5|Accompanied|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|32|Eccentric|oracle_rollable:starforged/character/first_look`  `iv-oracle:Initial Disposition|67|Desperate|oracle_rollable:starforged/character/initial_disposition` 
 
-Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around her.  Her hair is wild and unkempt and she looks a little bewildered.  "You Jett?  Machete called me."
+Jackal is a middle-aged, tough-looking woman with a utility bot buzzing around her.  Her hair is wild and unkempt and she looks a little bewildered.  "You Jett?  Machete just called about you."
 
 "Yeah, that's me.  I'm looking for something, but I don't know what it is.  He said you have a collection of oddities I can take a look at?"
 
-"Oddities, junk, same difference.  We have a bunch of stuff we should have voided a long time ago.  It's in the vault."
+"We have a bunch of junk we should have voided a long time ago, if that's what you mean.  It's in the vault."
 
 "Why keep it in a vault if it's junk?"
 
-"Some of the junk is magical.  The vault keeps the energy trapped inside.  Made from a special material."
+"Some of it is magical.  The vault keeps the energy trapped inside.  Made from a special material."
 
 Jett, unable to tell if she's serious or joking, follows Jackal to the vault.  Jackal lets him inside.  The vault is a large room filled with various items of various sizes.  A lot of the items are works of art - the Cobras clearly don't have an art fence; some of the pieces here look like they're worth a fair bit.
 
