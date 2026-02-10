@@ -1,5 +1,5 @@
 ---
-name: Campaign Jett Foley
+name: Campaign Sable Rowe
 ironvault:
   playset:
     type: globs

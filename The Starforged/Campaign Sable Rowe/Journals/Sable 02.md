@@ -70,10 +70,49 @@ Then Merrick let her walk wherever she wished. She got to learn about where he w
 
 `iv-oracle:Planetary Class|81|Rocky World|oracle_rollable:starforged/planet/class`  `iv-entity-create:Planet Oracles > Rocky World|Ory|The Starforged/Locations/Planets/Ory.md`  `iv-entity-create:Settlement|Meridian|The Starforged/Locations/Settlements/Meridian.md` 
 
-Meridian was a busy industrial settlement on a large lifeless planet called Ory. Merrick said whatever life had lived here long ago was far gone. It’s been theorized that
+Meridian was a busy industrial settlement on a large lifeless planet called Ory. Merrick said whatever life had lived here long ago was far gone. It’s been theorized that their corpses reacted to chemical storm causing the crystalline structures along the planets surface and their biomaterial rotted into a highly volatile fuel source. Though the stability of it is still being tested and hasn't been incorporated into a marketable fuel blend yet, the industry around it has already created a lively local economy.
 
+Those who lived here were a mix of wealthy merchants and highly paid workers who were both collecting the raw material and refining here planetside in Meridian. Then there was the engineers, scientists, and biologists who had taken residence up either working for the refinery or studying the planets phenomenon. 
 
+Merrick seemed to be well connected, but not the manager of this operation. His intrigue stayed with the crystals. Sable felt like there was something more he kept his ears perked for, but he was keeping that close to his chest.
 
+Sable knew at this point she should have left. Thanked him for all he had done and proceeded on her way. When they got back to her ship he had it half taken apart. New panels for the ones that had been torn off, he had the targeting computer replaced with something more automated and easier to use, and a whole service was being perform. She tried to refuse, using every excuse she could, but Merrick had an excuse for every single one.
 
+Merrick wasn't paying for anything, he just had a technician contact the Courier Guild and negotiate maintenance requests Sable had been neglecting. With the proper form filled out and an outside contractor handling the repairs she was in a even harder position to say no.
 
-Especially when it came in the form a rave filled party with every freeform delight she could forget herself with. The music pounded in her ears and crushed her body with force of the oppressive soundwaves resonating through her body. 
+She was trapped and the fall came even harder when he released her to the wild of Meridian's night life. The music pounded in her ears and crushed her body with force of the oppressive soundwaves resonating through her body. The antigrav dancefloor let her lose herself to the motions of the music until she was wasted and forgetting anything important.
+
+Sable woke the next morning entangled with some forgotten name still bundled in the sheets. She gathered her things and made her way bleary eyed to the closest place to get food then off to find her ship, can of steaming noodles in hand.
+
+---
+
+**INT. COURIER-479 CARGO HOLD**
+
+"Ganden," Sable addressed the casual intruder, "what brings you aboard my ship?"
+
+"I have a package for you to deliver." He was a quiet man with a low resonating tone.
+
+"I'll check my datapad." Sable unclicked it from the wall and sure enough there was an official request. "Merrick sending something else out?"
+
+"This is personal. Merrick has nothing to do with this." He said softly, his eyes shifting almost shamefully.
+
+"I understand." Sable clicked her courier tag to the datapad and accepted the job.
+
+`iv-move:Swear an Iron Vow|Heart|2|1|0|9|8|move:starforged/quest/swear_an_iron_vow`  `iv-ooc:Does it have to do with Merrick?`  `iv-oracle:Likely|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-ooc:Has he done something to her ship she has to take care of?`  `iv-oracle:50/50|27|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+**INT. CR-479 COCKPIT**
+
+The little device lit up with all sorts of lights and warning as she swept her ship. She got to a panel inside the cockpit and her scanner flashed a warning. She reached up under the panel and pulled out a box, inside was another scanner of some kind and a holonote.
+
+```
+Sable,
+
+I'm glad to see you are taking notable precautions. However your scanner is out of date, thusly I have provided one for you to use if you so wish.
+
+Regards,
+Merrick
+```
+
+How deep would this relationship go?  `iv-move:Make a Connection|Heart|3|1|0|10|1|move:starforged/connection/make_a_connection`  `iv-track-create:Merrick Arden|The Starforged/Campaign Sable Rowe/Progress/Sable/Merrick Arden.md` 
+
+Sable groaned and shut the device back in the box and hid it in the deepest cubby hole she could find in her ship. She charted a course out and left Ory and Meridian behind. She would have to find someone trustworthy 
