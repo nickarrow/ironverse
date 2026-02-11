@@ -13,9 +13,9 @@
 
 "It was.  The base is unmanned, but the equipment is still operational."
 
-"Very well.  Prepare a strike team.  Have them find the agent and tail him at a distance.  They're to protect him from any and all threats."
+"Very well.  Prepare a strike team.  Have them find the agent and tail him at a distance.  They're to protect them at all costs, but only reveal themselves in truly dire situations."
 
-"Understood.  It will take some time for them to reach him, of course."
+"Understood.  It will take some time for the team to reach them, of course."
 
 "Of course.  No time to waste, then."
 
@@ -25,4 +25,4 @@ Chapter 8
 
 "Technically, the terms of our contract were 'just investigate Deck 7 and see what shows up', not 'find the actual ghost'." says Jett.
 
-"And technically your reward was 'information on how to find Pyla', which you have already recieved."
+"And technically your reward was 'information on how to find Pyla', which you have already recieved." counters the captain.
