@@ -27,7 +27,7 @@ But once they were within the ship, Paxel (who was the one dragging the body, le
 
 Just as Tybalt was about to turn and do so, he sees Paxel jump away from the body he was setting down to try and resuscitate. And before the two men the assassin rights himself in all the wrong ways. Straightening not like a man trying to regain his footing, but a marionette on strings, twisting and turning in ways that human muscles do not enable lest they damage themselves in the exertion, all without even a single breath save for a death rattle. For example, by the time Paxel levels his mag-rifle at the body, it elicits sickening cracks from its own spine from trying to far quicker than its lower half could keep up.
 
-And right then, Tybalt puts a hand on the barrel and forces it down, and the lizard mutant realises that his bloodthirsty superior wasn’t raising his gun.
+And right then, Tybalt puts a hand on the barrel and forces it down, and the lizard mutant realises that his bloodthirsty superior somehow wasn’t flying off the handle at it.
 
 “Tybalt, what are doing?! Axe this thing, it’s-“
 
