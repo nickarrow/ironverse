@@ -1,7 +1,9 @@
 
-> *Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.*
->  *Let's begin*
+```
+Remembering where girly pop is here. Looks like we need to finish up this journey and get to wherever she's going.
 
+Let's begin
+```
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-meter:Momentum|3|4` 
 
 **INT. COCKPIT CR-497**
@@ -100,6 +102,12 @@ Sable woke the next morning entangled with some forgotten name still bundled in 
 
 `iv-move:Swear an Iron Vow|Heart|2|1|0|9|8|move:starforged/quest/swear_an_iron_vow`  `iv-ooc:Does it have to do with Merrick?`  `iv-oracle:Likely|19|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-ooc:Has he done something to her ship she has to take care of?`  `iv-oracle:50/50|27|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
+```iron-vault-mechanics
+track name="[[The Starforged\/Campaign Sable Rowe\/Progress\/Ganden's Courier Job.md|Ganden's Courier Job]]" status="added"
+```
+
+---
+
 **INT. CR-479 COCKPIT**
 
 The little device lit up with all sorts of lights and warning as she swept her ship. She got to a panel inside the cockpit and her scanner flashed a warning. She reached up under the panel and pulled out a box, inside was another scanner of some kind and a holonote.
@@ -115,4 +123,11 @@ Merrick
 
 How deep would this relationship go?  `iv-move:Make a Connection|Heart|3|1|0|10|1|move:starforged/connection/make_a_connection`  `iv-track-create:Merrick Arden|The Starforged/Campaign Sable Rowe/Progress/Sable/Merrick Arden.md` 
 
-Sable groaned and shut the device back in the box and hid it in the deepest cubby hole she could find in her ship. She charted a course out and left Ory and Meridian behind. She would have to find someone trustworthy 
+Sable groaned and shut the device back in the box and hid it in the deepest cubby hole she could find in her ship. She then charted a course out and left Ory and Meridian behind. She would have to find someone trustworthy to look through her ship and see if all is safe, she consulted her navmaps.
+
+`iv-move:Gather Information|Wits|3|2|0|6|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|2|3` 
+
+There wasn’t much in this area of the sector, but she would make do.  `iv-track-create:Find Someone to Check Her Ship|The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md` 
+![[Find Someone to Check Her Ship]]
+
+`iv-move:Undertake an Expedition|Edge|2|3|1|10|8|move:starforged/exploration/undertake_an_expedition|adds=1(Engine Upgrade)`  `iv-oracle:Pay the Price|13|You face a tough choice|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
