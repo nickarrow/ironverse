@@ -1,13 +1,13 @@
 
-| Metadata            | Data Type                                | Descritption                       |
-| ------------------- | ---------------------------------------- | ---------------------------------- |
-| **File type**       | Audio-Video Deep Space Transmission      | Primary communication type         |
-| **Method**          | Asynchronous recording                   | Primary method of communication    |
-| **Encryption**      | R9Hlz14                                  | File encryption type               |
-| **Caller ID**       | Echo Stirling                            | Name of owner                      |
-| **Transmitter ID**  | Ilex-zed Ship, Class: modified Reclaimer | ID of transmitting station or ship |
-| **Receiver ID**     | Protected Lore Library - Devil's Chain   | ID of receiver                     |
-| **Clearance level** | A-3                                      | Clearance level of owner           |
+| Metadata            | Data Type                                 | Descritption                       |
+| ------------------- | ----------------------------------------- | ---------------------------------- |
+| **File type**       | Audio-Video Deep Space Transmission       | Primary communication type         |
+| **Method**          | Asynchronous recording                    | Primary method of communication    |
+| **Encryption**      | R9Hlz14                                   | File encryption type               |
+| **Caller ID**       | Echo Stirling                             | Name of owner                      |
+| **Transmitter ID**  | Ilex-zed Ship, Class: modified Reclaimer  | ID of transmitting station or ship |
+| **Receiver ID**     | Library of Protected Lore - Devil's Chain | ID of receiver                     |
+| **Clearance level** | A-3                                       | Clearance level of owner           |
 
 ---
 RECORDING STARTING... NOW

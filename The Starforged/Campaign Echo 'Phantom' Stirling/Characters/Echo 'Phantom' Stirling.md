@@ -2,14 +2,14 @@
 name: Echo 'Phantom' Stirling
 xp_spent: 0
 xp_added: 0
-momentum: 6
+momentum: 2
 edge: 2
 heart: 2
 iron: 1
 shadow: 1
 wits: 3
 health: 4
-spirit: 3
+spirit: 5
 supply: 4
 Quests_Progress: 0
 Quests_XPEarned: 0

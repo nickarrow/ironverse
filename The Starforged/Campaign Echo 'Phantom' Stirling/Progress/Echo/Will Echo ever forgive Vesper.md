@@ -1,7 +1,7 @@
 ---
 name: Will Echo ever forgive Vesper?
 rank: formidable
-progress: 0
+progress: 4
 tags:
   - incomplete
 track-type: Connection
