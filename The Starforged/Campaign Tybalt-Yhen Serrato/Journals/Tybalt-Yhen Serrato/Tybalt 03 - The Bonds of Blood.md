@@ -29,11 +29,36 @@ Just as Tybalt was about to turn and do so, he sees Paxel jump away from the bod
 
 And right then, Tybalt puts a hand on the barrel and forces it down, and the lizard mutant realises that his bloodthirsty superior somehow wasn’t flying off the handle at it.
 
-“Tybalt, what are doing?! Axe this thing, it’s-“
+“Tybalt, what are doing?! Rip this thing apart, it’s-“
 
-“A medium of communication.” Tybalt interrupts, even if his voice is rich with discomfort, before turning to the risen corpse. “What do you seek from Household Serrato, that you would call upon the services of a [First Light](obsidian://open?vault=Ironverse&file=The%20Starforged%2FLocations%2FSettlements%2FFirst%20Light) corpse-witch?”
+“A medium of communication, at present.” Tybalt interrupts, even if his voice is rich with discomfort, before turning to the risen corpse. “What do you seek from Household Serrato, that you would call upon the services of a [First Light](obsidian://open?vault=Ironverse&file=The%20Starforged%2FLocations%2FSettlements%2FFirst%20Light) corpse-witch?”
 
+`iv-oracle:Descriptor|131|Exotic|oracle_rollable:starsmith/core/descriptor` The jerkiness begins to recede, and the corpse more readily assumes the straight-backed posture of a Terminus socialite as it removed its mask, to show that the dead man’s dusky features wore another person’s smile.
+
+“Only to help, Tybalt-Yhen.” Said the stranger with all the glee of a shameless liar “We have a common enemy at the moment, who has taken umbrage with your questions.” As if to clarify, they gestures loosely at the body they had puppeted.
+
+> Is it part of the Risen Union?  `iv-oracle:50/50|43|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+`iv-oracle:Character Goal|197|Action + Theme, Establish reputation|oracle_rollable:starsmith/characters/goal`  `iv-oracle:Action + Theme|41|Journey Debt|oracle_rollable:starforgedsupp/templates/actiontheme` `iv-oracle:Type|250|▶Data Harvesters - Keepers of knowledge|oracle_rollable:starsmith/factions/type`  `iv-oracle:Data Harvesters Role|86|Surveillance experts|oracle_rollable:starsmith/factions/role` 
+
+
+“You see, 
+
+“And…I should care?
+
+> Has the Risen Union done anythingthat affected Household Serrato?  `iv-oracle:50/50|50|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+
+The corpse makes Tybalt want to bisect it by dramatically feignIng shock for its puppeteer. “Oh my Stars! And here I thought the Serrato prized family?”
+
+In the blink of an eye, the persona of an irritating trust-fundee gives way to the cold glare of a blood-drenched spymaster, as he coldly dispels Tybalt’s confusion.
+
+“Where do you think your father’s body is?”
+
+A minute of stunned silence passes before
+
+“Bullshit.” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
+
+“They confirm his *warplate* was near the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?”
 
 `iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
 
-> Does `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+> Does `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
