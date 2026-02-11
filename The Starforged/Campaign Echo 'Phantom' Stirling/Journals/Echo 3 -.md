@@ -7,10 +7,10 @@ Echo smiled as she sipped it, remembering quite well when one of said old-galaxy
 In the end the spirits awoken had been many, five new variations of the recipe had been created, and a few of the already rare Necromancers, Echo included, had been called to settle the spirits after.
 It had been one of the first jobs she'd done for her Ironhome after fleeing it, and all-in-all it had been surprisingly fun.
 
-She hummed and sent a text message to Veper on the wave of that nostalgia, giving him a brief update about the Hourglass situation, as Roman had gone back to being completely dead.
+She hummed and sent a text message to Veper on the wave of that nostalgia, giving him a brief update about the Hourglass situation, as Roman had gone back to being completely dead after their brief information, trusting his descendant to handle it.
 `iv-track-advance:Will Echo ever forgive Vesper?|The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Will Echo ever forgive Vesper.md|0|4|formidable|1` 
 
-She then melted back, relaxed for the moment, right in the tiny makeshift kitchen, reclined in the squished chaise-longue (bolted to the floor) that often replaced her bed, eating area, research space... and anything else. Her eyes slipped closed before she could even notice.
+She then melted back, relaxed for the moment, right in the tiny makeshift kitchen, reclined in the squished chaise-longue (bolted to the floor) that often replaced her bed, eating area, research space... and anything else. Her eyes slipped closed before she could even notice her tiredness catching up to her.
 
 `iv-meter:Spirit|3|5` 
 
