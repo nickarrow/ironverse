@@ -13,9 +13,9 @@
 
 "It was.  The base is unmanned, but the equipment is still operational."
 
-"Very well.  Prepare a strike team.  Have them find the agent and tail him at a distance.  They're to protect them at all costs, but only reveal themselves in truly dire situations."
+"Very well.  Prepare a strike team.  Have them find the agent and tail them at a distance.  They're to protect them at all costs, but only reveal themselves in truly dire situations."
 
-"Understood.  It will take some time for the team to reach them, of course."
+"Understood.  It will take some time for the team to reach Devil's Chain, of course."
 
 "Of course.  No time to waste, then."
 
