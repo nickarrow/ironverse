@@ -14,7 +14,7 @@ She then melted back, relaxed for the moment, right in the tiny makeshift kitche
 
 `iv-meter:Spirit|3|5` 
 
-Her comm beeping woke her with a start. She almost got drenched with the now-cold tea that had miraculously remained in her hand the whole time, but she managed to keep it balanced as she blearily looked first at the scanner, checking for any changes arond the Ilex-zed, and then to the messages.
+Her comm beeping woke her with a start. She almost got drenched with the now-cold tea that had miraculously remained in her hand the whole time, but she managed to keep it balanced as she blearily looked first at the scanner, checking for any changes around the Ilex-zed, and then to the messages.
 
 `iv-entity-create:NPC|Aparna Santos|The Starforged/NPCs/Aparna Santos.md` 
 
