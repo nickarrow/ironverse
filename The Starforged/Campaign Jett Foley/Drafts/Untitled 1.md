@@ -1,4 +1,6 @@
 
+>This is a rough draft uploaded so I can work on it on multiple devices.  Everything you see is subject to change!
+
 `iv-oracle:Begin a Session|92|Unforeseen aid is on the way or within reach|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
 
 "Sir, one of the precognition machines activated."
