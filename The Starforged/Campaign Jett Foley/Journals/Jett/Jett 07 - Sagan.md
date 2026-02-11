@@ -1,6 +1,4 @@
 
->This is an unfinished draft, synced so I can work on it on multiple devices.  Everything you see is subject to change!
-
 CHAPTER 7
 
 `iv-meter:Starship / Integrity|5|3`  `iv-move:Withstand Damage|Starship / Integrity|6|3|0|3|10|move:starforged/suffer/withstand_damage`  `iv-meter:Momentum|8|7`  `iv-meter:Starship / Integrity|3|4` 
@@ -122,7 +120,7 @@ Jett follows the Snakepit's course back the way it came.
 
 `iv-move:Set a Course|Supply|5|4|1|3|6|move:starforged/exploration/set_a_course|adds=1` 
 
-Two weeks later, Jett is back where he started.  He avoids *The Snakepit's* original location in case there are Ascendancy ships observing the area, but by chance comes out of warp in the vicinity of...
+Two weeks later, Jett is back where his adventure started.  He avoids *The Snakepit's* original location in case there are Ascendancy ships observing the area, but by chance comes out of warp in the vicinity of...
 
 >Yes = settlement, no = ship  `iv-oracle:50/50|52|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
@@ -136,7 +134,7 @@ Jett hails the massive ship.  "This is *The Irony* to *Valora's Comet*.  I'm loo
 
 "*The Irony?*" comes back the reply.  "The guy that can find anything?"
 
-"That's what they say, but you know how it is with rumours." replies Jett.
+"That's what they say, but you know how it is with rumors." replies Jett.
 
 "What kind of information are you looking for?" asks *Valora's Comet*.
 
