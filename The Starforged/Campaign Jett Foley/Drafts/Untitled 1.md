@@ -78,11 +78,11 @@ Jett and Bri hear echoey, ethereal voices.
 
 `iv-move:Gather Information|Wits|5|3|0|4|5|move:starforged/adventure/gather_information`  `iv-meter:Momentum|6|8` 
 
-About an hour later, Jett senses something moving in his pack.  He opens it to take a look and sees the pyramid.  "That's strange, I thought I kept it locked up on board the ship." he says.
+About an hour later, Jett senses something moving in his pack.  He opens it to take a look and sees the pyramid.  "That's strange, I thought I locked it up on *The Irony*." he says.
 
 "What is it?" asks Bri.
 
-"It's the reason for my whole adventure to Pyla.  I have no idea what it is, only where it came from."
+"It's a long story."
 
 "Does it usually shake like that?"
 
