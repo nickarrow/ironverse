@@ -36,7 +36,7 @@ Jett, unable to tell if she's serious or joking, follows Jackal to the vault.  J
 
 "It's okay to take stuff from the vault?"
 
-"It's okay to take junk from the junk corner.  Take anything else and you'll lose a hand."  Jackal walks off, and her utility bot floats over to Jett, watching him.  Jett starts looking through the junk corner.
+"It's okay to take junk from the junk corner.  Touch anything else and you'll lose a hand."  Jackal walks off, and her utility bot floats over to Jett, watching him.  Jett starts looking through the junk corner.
 
 `iv-move:Gather Information|Wits|6|3|0|2|2|move:starforged/adventure/gather_information`  `iv-meter:Momentum|6|8` 
 

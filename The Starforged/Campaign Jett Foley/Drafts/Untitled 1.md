@@ -21,8 +21,8 @@
 
 `iv-meter:Momentum|3|4` 
 
-Chapter 8
+---
 
-"Technically, the terms of our contract were 'just investigate Deck 7 and see what shows up', not 'find the actual ghost'." says Jett.
 
-"And technically your reward was 'information on how to find Pyla', which you have already recieved." counters the captain.
+
+

@@ -3,7 +3,7 @@
 
 `iv-oracle:Begin a Session|31|Seemingly unrelated situations are shown to be connected|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
 
-"Hello there, hon.  I'm Darlene, I'll be your server today.  What can I get you?"
+"Hi hon, I'm Darlene and I'll be taking care of you today.  What can I get you?"
 
 "Anything cheap and filling.  I'm on a budget."
 
@@ -21,7 +21,7 @@
 
 "There's one due in a couple of days.  The captain usually comes in here for a bite to eat when he arrives, I can put in a good word for you."
 
-"I'd really appreciare it, thanks.  The name's  Dal-Karus.  Say, there are a lot of guards about.  More than you'd expect for a station this size."
+"I'd really appreciate it, thanks.  The name's  Dal-Karus.  Say, there are a lot of guards about.  More than you'd expect for a station this size."
 
 "Oh, there was a shootout a couple of weeks ago.  Some pirates came aboard the station and got into a fight with a local gang.  The guards have been doing double shifts ever since."
 
@@ -31,7 +31,7 @@
 
 "Is there a bounty on them?"
 
-"No, they were small-time, not worth calling in bounty hunters over.  Two of them came in here though.  I spoke to them for quite a while.  To be honest, one of them didn't seem like a pirate at all..."
+"No, they were small-time, not worth calling in bounty hunters over.  Two of them came in here though, before the shooting.  I spoke to them for a while.  To be honest, one of them didn't seem like a pirate at all..."
 
 `iv-meter:Momentum|6|7` 
 
@@ -43,11 +43,11 @@
 
 "You're taking the piss." says Jett over comms.
 
-"I'm serious.  They're starting to refuse assignments on Deck 7, things are getting out of hand."
+"I'm serious.  The crew are starting to refuse assignments on Deck 7, things are getting out of hand."
 
 "Well I can't prove there *isn't* a ghost - what if there *is* one but I just don't see it?"
 
-"Ok, fine, just investigate Deck 7 and see what shows up.  Then I'll give you information on how to find Pyla."
+"There's no such thing as ghosts!  Ok, fine, just investigate Deck 7 and see what shows up.  When you turn up empty-handed I'll give you information on how to find Pyla."
 
 "Ok, I'm coming over to dock."
 
@@ -69,7 +69,7 @@
 
 "I saw a woman.  She was staring right at me, stood completely still.  I looked down to turn on my communicator, and when I looked up she was gone."
 
-Unable to check the scene, Jett is conducting witness interviews in the ship's canteen.
+Unable to check the scene of the supposed haunting, Jett is conducting witness interviews in the ship's canteen.
 
 "Ok, and what makes you think she was a ghost?" asks Jett.
 
@@ -81,11 +81,11 @@ Deck 7 is home to the living quarters and medical bay, and several people had re
 
 Jett really needs to take a look around in person.  He heads back to the stairwell where Ogre is standing guard.
 
-"Look, I understand that you don't want me going in your cabin, so why don't you accompany me while I take a look around?  That way, you can see for yourself that I"m not taking your stuff."
+"Look, I understand that you don't want me going in your cabin, so why don't you accompany me while I take a look around?  That way, you can see for yourself that I"m not touching your stuff."
 
 `iv-move:Compel|Heart|1|2|0|4|1|move:starforged/adventure/compel|burn=7:2`  `iv-meter:Momentum|2|3` 
 
-"That sounds fair.  Lead the way, detective."
+"Fine.  Lead the way, detective."
 
 ---
 
@@ -199,13 +199,13 @@ Jett studies Ogre's body language.
 
 Ogre looks at Jett for a long moment, weighing up whether he can trust him or not.  Finally, his shoulders drop and he opens the cabin door.
 
-Inside there's a girl sitting at the desk.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "I thought you weren't going to tell?" she says. 
+Inside there's a girl sitting at the desk eating cereal.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "I thought you weren't going to tell?" she says. 
 
 "He figured it out." says Ogre.  "Don't worry, he's a good person, he's going to help you"
 
 "So, what's the story?" asks Jett.
 
-"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough for a couple of years, so I started working on fixing up the ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I hid.  I stowed aboard and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
+"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough in storage for a couple of years, so I started working on fixing up the ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I hid.  I stowed aboard their ship and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
 
 "And Ogre's been helping you?" asks Jett.
 
@@ -231,7 +231,7 @@ Inside there's a girl sitting at the desk.  She's maybe in her early twenties.  
 
 "You can take it out of my cut." says Ogre.
 
-"Going soft, Ogre?" says the captain.
+"You going soft, Ogre?" says the captain.
 
 "She's just a kid.  And she technically, according to the scavengers code, we did steal her find."  says Ogre.
 
@@ -241,7 +241,7 @@ Inside there's a girl sitting at the desk.  She's maybe in her early twenties.  
 
 `iv-progress:Fulfill Your Vow|08a - Ghost Hunt|9|8|9|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:08a - Ghost Hunt|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md` 
 
-"Well, about that.  You see, the sightings all revolved around a tall older woman with long black hair.  Our stowaway here is a short young womwn with cropped blonde hair.  I don't think this is going to satisfy the crew."  
+"Well, about that.  You see, the sightings all revolved around a tall older woman with long black hair.  Our stowaway here is a short young woman with cropped blonde hair.  I don't think this is going to satisfy the crew."  
 
 "You know how rumors spread around these ships.  They'll go away when the sightings stop." says Jett.
 
@@ -252,4 +252,3 @@ Inside there's a girl sitting at the desk.  She's maybe in her early twenties.  
 "I can, but you need to finish the job I hired you for first.  Get to the bottom of this woman with long black hair.  Otherwise, you can find your own way there."
 
 NOTES: Don't forget to take your Quests Legacy reward if you decide to investigate the mysterious woman
-

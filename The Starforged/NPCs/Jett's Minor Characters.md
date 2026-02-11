@@ -1,50 +1,53 @@
 
 Bones
 
-| Name                | Unknown            |
-| ------------------- | ------------------ |
-| Callsign            | Bones              |
-| First Look          | Youthful, Tattooed |
-| Initial Disposition | Unfriendly         |
-| Role                | Pirate             |
-| Character Goal      |                    |
-| Revealed Aspect     |                    |
-| Location            | The Snakepit       |
+| Name                | Unknown                                     |
+| ------------------- | ------------------------------------------- |
+| Callsign            | Bones                                       |
+| First Look          | Youthful, Tattooed                          |
+| Initial Disposition | Unfriendly                                  |
+| Role                | Pirate                                      |
+| Character Goal      |                                             |
+| Revealed Aspect     |                                             |
+| Location            | [[The Snakepit]]                            |
+| Notes               | Has a wife and children aboard The Snakepit |
 
 Sofia Legrand
 
-| Name                | Sofia Legrand                  |
-| ------------------- | ------------------------------ |
-| Callsign            |                                |
-| First Look          | Graceful, Swaggering           |
-| Initial Disposition | Suspicious                     |
-| Role                | Pirate                         |
-| Character Goal      | Live up to her father's legacy |
-| Revealed Aspect     |                                |
-| Location            | The Snakepit                   |
+| Name                | Sofia Legrand                   |
+| ------------------- | ------------------------------- |
+| Callsign            |                                 |
+| First Look          | Graceful, Swaggering            |
+| Initial Disposition | Suspicious                      |
+| Role                | Pirate                          |
+| Character Goal      | Live up to her father's legacy  |
+| Revealed Aspect     |                                 |
+| Location            | [[The Snakepit]]                |
+| Notes               | Has a ship called *The Revenge* |
 
 Darlene
 
-| Name                | Darlene         |
-| ------------------- | --------------- |
-| Callsign            |                 |
-| First Look          | Plump           |
-| Initial Disposition | Friendly        |
-| Role                | Server          |
-| Character Goal      |                 |
-| Revealed Aspect     |                 |
-| Location            | Paxton Memorial |
+| Name                | Darlene             |
+| ------------------- | ------------------- |
+| Callsign            |                     |
+| First Look          | Plump               |
+| Initial Disposition | Friendly            |
+| Role                | Server              |
+| Character Goal      |                     |
+| Revealed Aspect     |                     |
+| Location            | [[Paxton Memorial]] |
+| Notes               |                     |
 
 Shen
 
-| Name                | Unknown            |
-| ------------------- | ------------------ |
-| Callsign            | Shen               |
-| First Look          | Athletic           |
-| Initial Disposition | Unfriendly         |
-| Role                | Vendor, Gang front |
-| Character Goal      |                    |
-| Location            | Paxton Memorial    |
+| Name                | Unknown             |
+| ------------------- | ------------------- |
+| Callsign            | Shen                |
+| First Look          | Athletic            |
+| Initial Disposition | Unfriendly          |
+| Role                | Vendor, Gang front  |
+| Character Goal      |                     |
+| Location            | [[Paxton Memorial]] |
 
 Failsafe
 
@@ -69,6 +72,18 @@ Jackal
 | Character Goal      |                                      |
 | Revealed Aspect     |                                      |
 | Location            | [[The Snakepit]]                     |
+
+Rokuro O'Brien
+
+| Name                | Rokuro O'Brien            |
+| ------------------- | ------------------------- |
+| Callsign            |                           |
+| First Look          | Well-equipped             |
+| Initial Disposition | Friendly                  |
+| Role                | Station manager, engineer |
+| Character Goal      |                           |
+| Revealed Aspect     |                           |
+| Location            | [[Sagan]]                 |
 
 | Name                |     |
 | ------------------- | --- |
