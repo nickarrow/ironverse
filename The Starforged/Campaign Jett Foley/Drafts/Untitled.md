@@ -13,19 +13,15 @@
 
 "You're with those Serrato people?  Did a ship just dock?  Usually there's a bit of fuss when a new ship arrives."
 
-"I didn't come in my own ship.  I was kidnapped and marooned, I'm working my way back to Port Koshiba to reunite with my unit.  Know anyone who's heading out that way?"
+"I didn't come in my own ship.  I was kidnapped and marooned, I'm working my way back to Port Koshiba to reunite with my unit.  Do you know anyone who's heading out that way?"
 
-"We get merchants from Koshiba quite regularly, they buy ship parts and refurbished ships.  I'm sure you could find work with one of them."
-
-"The name's Dal-Karus, will you put in a good word for me?
-
-"Sure, you seem like a good kid."
+"We get merchants from Koshiba quite regularly, they buy ship parts and refurbished ships here.  I'm sure you could find work with one of them in exchange for passage."
 
 "Are there any on the station right now?"
 
-"You'd have to check the ship's registry, there's a public access data terminal near the market you can use."
+"There's one due in a couple of days.  The captain usually comes in here for a bite to eat when he arrives, I can put in a good word for you."
 
-"Ok, thanks,  Hey, there are a lot of guards about.  More than you'd expect for a station this size."
+"I'd really appreciare it, thanks.  The name's  Dal-Karus.  Say, there are a lot of guards about.  More than you'd expect for a station this size."
 
 "Oh, there was a shootout a couple of weeks ago.  Some pirates came aboard the station and got into a fight with a local gang.  The guards have been doing double shifts ever since."
 
@@ -49,7 +45,7 @@
 
 "I'm serious.  They're starting to refuse assignments on Deck 7, things are getting out of hand."
 
-"Well I can't prove there *isn't* a ghost - what if there's one there but I just don't see it?"
+"Well I can't prove there *isn't* a ghost - what if there *is* one but I just don't see it?"
 
 "Ok, fine, just investigate Deck 7 and see what shows up.  Then I'll give you information on how to find Pyla."
 
@@ -199,21 +195,21 @@ Jett studies Ogre's body language.
 
 "Look, I know I can't hide it forever.  But if the captain finds out, there's going to be trouble, maybe even blood.  You have to help"
 
-"I'll do what I can to avoid any bloodshed."
+"I'll do what I can to avoid any bloodshed, I promise."
 
 Ogre looks at Jett for a long moment, weighing up whether he can trust him or not.  Finally, his shoulders drop and he opens the cabin door.
 
-Inside there's a girl sitting on the bed.  She's maybe in her late teens.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "I thought you weren't going to tell?" she says. 
+Inside there's a girl sitting at the desk.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "I thought you weren't going to tell?" she says. 
 
 "He figured it out." says Ogre.  "Don't worry, he's a good person, he's going to help you"
 
 "So, what's the story?" asks Jett.
 
-"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough for a couple of years, so I started working on fixing up my ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I stowed aboard and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
+"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough for a couple of years, so I started working on fixing up the ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I hid.  I stowed aboard and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
 
 "And Ogre's been helping you?" asks Jett.
 
-"She reminds me of my sister.  I couldn't turn her in." says Ogre.  "You have to help her, Jett, you promised."
+"She reminds me of my sister.  I couldn't just turn her in." says Ogre.  "You have to help her, Jett, you promised."
 
 `iv-track-advance:08a - Ghost Hunt|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md|24|36|troublesome|1` 
 
@@ -239,13 +235,13 @@ Inside there's a girl sitting on the bed.  She's maybe in her late teens.   `iv-
 
 "She's just a kid.  And she technically, according to the scavengers code, we did steal her find."  says Ogre.
 
-"Fine, take her." says the captain to Jett. "Ogre, you're going to account for every penny that went missing."
+"Fine, take her." says the captain to Jett. "Ogre, you're going to account for every penny's worth of stuff that went missing."
 
 "There's also the matter of Pyla." says Jett.
 
 `iv-progress:Fulfill Your Vow|08a - Ghost Hunt|9|8|9|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:08a - Ghost Hunt|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md` 
 
-"Well, about that.  You see, the sightings all revolved around a tall older woman with long black hair.  Our stowaway here is a short teenage girl with cropped brown hair.  I don't think this is going to satisfy the crew."  
+"Well, about that.  You see, the sightings all revolved around a tall older woman with long black hair.  Our stowaway here is a short young womwn with cropped blonde hair.  I don't think this is going to satisfy the crew."  
 
 "You know how rumors spread around these ships.  They'll go away when the sightings stop." says Jett.
 
