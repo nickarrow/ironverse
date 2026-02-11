@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 4
+momentum: 8
 edge: 2
 heart: 2
 iron: 1
@@ -15,7 +15,7 @@ Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
-Quests_Progress: 5
+Quests_Progress: 6
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
@@ -93,3 +93,4 @@ Memoryform multipurpose sidearm
 NOTES
 
 OOC Although Jett has the Looper ability, he doesn't actually possess the ability to time travel - mechanically he uses the looper ability but in the fiction he acts instinctively on impulse sometimes and it often ends up saving him from harm; he believes it is fate guiding his hand but it's still unclear if he actually is destined to do anything or just the result of a malfunctioning machine.
+

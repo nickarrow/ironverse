@@ -250,5 +250,3 @@ Inside there's a girl sitting at the desk eating cereal.  She's maybe in her ear
 "Can you give me a course to Koshiba so I can find it?"
 
 "I can, but you need to finish the job I hired you for first.  Get to the bottom of this woman with long black hair.  Otherwise, you can find your own way there."
-
-NOTES: Don't forget to take your Quests Legacy reward if you decide to investigate the mysterious woman
