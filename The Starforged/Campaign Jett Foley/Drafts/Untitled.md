@@ -21,7 +21,7 @@
 
 "There's one due in a couple of days.  The captain usually comes in here for a bite to eat when he arrives, I can put in a good word for you."
 
-"I'd really appreciate it, thanks.  The name's  Dal-Karus.  Say, there are a lot of guards about.  More than you'd expect for a station this size."
+"I'd really appreciate it, thanks.  The name's Dal-Karus.  Say, there are a lot of guards about.  More than you'd expect for a station this size."
 
 "Oh, there was a shootout a couple of weeks ago.  Some pirates came aboard the station and got into a fight with a local gang.  The guards have been doing double shifts ever since."
 
@@ -31,7 +31,7 @@
 
 "Is there a bounty on them?"
 
-"No, they were small-time, not worth calling in bounty hunters over.  Two of them came in here though, before the shooting.  I spoke to them for a while.  To be honest, one of them didn't seem like a pirate at all..."
+"No, they were small-time, not worth calling in bounty hunters over.  Two of them came in here though, before the shooting I mean.  I spoke to them for a while.  To be honest, one of them didn't seem like a pirate at all..."
 
 `iv-meter:Momentum|6|7` 
 
@@ -133,7 +133,7 @@ Jett notices that the crawlspace seems recently used - there is hardly any of th
 
 "Voices plural?"
 
-"Yeah.  It sounds like a man and a woman whispering, but I've never been able to make out what they're saying."
+"Yeah.  It sounds like people whispering, but I've never been able to make out what they're saying."
 
 "You ever try to follow the sound?"
 
@@ -149,7 +149,7 @@ Jett heads back to Ogre.
 
 "Find anything?" Ogre asks.
 
-"I'm starting to get the picture." says Jett.  "Let's go to another spot where a sighting took place."
+"Maybe." says Jett.  "Let's go to another spot where a sighting took place."
 
 ---
 
@@ -199,7 +199,7 @@ Jett studies Ogre's body language.
 
 Ogre looks at Jett for a long moment, weighing up whether he can trust him or not.  Finally, his shoulders drop and he opens the cabin door.
 
-Inside there's a girl sitting at the desk eating cereal.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "I thought you weren't going to tell?" she says. 
+Inside there's a girl sitting at the desk eating cereal.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "You told?" she says. 
 
 "He figured it out." says Ogre.  "Don't worry, he's a good person, he's going to help you"
 
@@ -233,9 +233,9 @@ Inside there's a girl sitting at the desk eating cereal.  She's maybe in her ear
 
 "You going soft, Ogre?" says the captain.
 
-"She's just a kid.  And she technically, according to the scavengers code, we did steal her find."  says Ogre.
+"She's just a kid.  And technically, according to the scavengers code, we did steal her salvage."  says Ogre.
 
-"Fine, take her." says the captain to Jett. "Ogre, you're going to account for every penny's worth of stuff that went missing."
+"Fine, you can take her." says the captain to Jett. "Ogre, you're going to account for every penny's worth of stuff that went missing."
 
 "There's also the matter of Pyla." says Jett.
 

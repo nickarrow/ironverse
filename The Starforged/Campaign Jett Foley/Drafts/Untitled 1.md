@@ -106,3 +106,15 @@ The pyramid stops shaking and emits a faint glow.
 
 `iv-oracle:Action|45|Find|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|92|Truth|oracle_rollable:starforged/core/theme` 
 
+
+
+
+
+
+
+`iv-track-advance:09a - Prove or disprove the ghost sightings|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md|12|24|troublesome|1` 
+
+---
+
+
+
