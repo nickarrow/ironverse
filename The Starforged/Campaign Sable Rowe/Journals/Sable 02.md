@@ -39,7 +39,7 @@ Sable turned back and forced a painful smile. “I have to confirm—you underst
 
 “Of course, of course, Ganden—“ The rest went unsaid but entirely understood. A man with a datapad walked forward and showed Sable the face of it. Sable scanned the code and the confirmation popped up—this was Merrick Arden.
 
-`iv-progress:Fulfill Your Vow|Courier Job: Glimmer Outpost|6|9|2|The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md|move:starforged/quest/fulfill_your_vow`  `iv-ooc:I will make an iron bow a bit later. Makes sense this situation is complicated.` 
+`iv-progress:Fulfill Your Vow|Courier Job: Glimmer Outpost|6|9|2|The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md|move:starforged/quest/fulfill_your_vow`  `iv-ooc:I will make an iron vow a bit later. Makes sense this situation is complicated.` 
 
 His cane clacked on the ground as he walked closer to her.
 
@@ -52,7 +52,7 @@ His cane clacked on the ground as he walked closer to her.
 
 “The Courier Guild appreciates your understanding,” Sable shifted and worked to turn over the package.
 
-`iv-ooc:I'm adding +2 to the Sojourn move due to the hit with a match from the journey move. `  `iv-move:Sojourn|Heart|3|1|2|5|3|move:starforged/recover/sojourn|adds=2(Strong Hit with a Match)`   `iv-move:Heal|Iron|4|2|0|8|2|move:starforged/recover/heal`  `iv-meter:Health|1|4`   `iv-move:Hearten|Heart|4|1|0|4|4|move:starforged/recover/hearten` 
+`iv-ooc:I'm adding +2 to the Sojourn move due to the hit with a match from the journey move. `  `iv-move:Sojourn|Heart|3|1|2|4|4|move:starforged/recover/sojourn|adds=2(Strong Hit with a Match)` `iv-meter:Health|1|4`  `iv-meter:Spirit|3|5` 
 
 "Walk with me," his demand was soft, warm, almost sounding like a suggestion, but it was anything but. Merrick didn't seem like the kind of person to be refused. "You are an impressive pilot Sable."
 
@@ -136,7 +136,7 @@ CR-497 slipped out of FTL and came to a terrible sight when she settled into the
 
 It moaned a deep resonance that shook Sable to her core. She couldn't leave it here like this, but she also couldn't help it. Her heart twisted as she made the choice to put it out of it's misery.
 
-"Let's see if these things work?" She turned on the screen to her targeting computer and lined up a shot at the base of the creature skull—*that's how they put down livestock right?* She fired and the shots bounced off the creature thick armor and it reeled towards her flicking a tentacle hard at her ship.  `iv-meter:Starship / Integrity|4|2`  `iv-move:Withstand Damage|Starship / Integrity|5|2|0|4|4|move:starforged/suffer/withstand_damage`  `iv-meter:Starship / Integrity|2|3` 
+"Let's see if these things work?" She turned on the screen to her targeting computer and lined up a shot at the base of the creature skull—*that's how they put down livestock right?* She fired and the shots bounced off the creature thick armor and it reeled towards her flicking a tentacle hard at her ship.  `iv-meter:Starship / Integrity|4|2`  `iv-move:Withstand Damage|Starship / Integrity|5|2|0|4|4|move:starforged/suffer/withstand_damage`  `iv-meter:Starship / Integrity|2|3`  `iv-meter:Momentum|2|3` 
 
 It's tentacle wrapped around her ship, creaking the metal threatening to crush the hull. Sable clambered in her chair as the dying creature brought her close to it's face, glossy eye glaring through the glass at her. Her console was blaring in alarm, red lights reflecting through it's deep cosmic pupil that dilated largely into sable scared little gaze. she felt insignificant as the creatures single eye spanned the entirety of her viewport.
 
@@ -144,8 +144,23 @@ It's tentacle wrapped around her ship, creaking the metal threatening to crush t
 
 "Oh... I'm awful, I'm so sorry." Sable breathes. The Branta shifted back to her, gazing into her. "I don't think I can save her—or him—it?, my ship—well actually for an infant, my ship is big enough for it follow me, but I don't even know where to take it."
   
-`iv-move:Make a Connection|Heart|3|1|1|4|4|move:starforged/connection/make_a_connection|adds=1(Strong Hit With a Match (It Knows She's Trying to Help))`  `iv-track-create:Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md` 
+`iv-move:Make a Connection|Heart|3|1|1|4|4|move:starforged/connection/make_a_connection|adds=1(Strong Hit With a Match (It Knows She's Trying to Help))`  `iv-track-create:Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md` **Role: Just a baby**
 
-The next hour was spent trying to figure out how to communicate with an animal, granted a seemingly pretty intelligent animal, but it was incapable of reading Sable's nav maps. She took to referring to the mother Branta as Sana and the baby as Tiny Sana, ranting out loud in her cabin about how in the universe she was going to help a baby Banta that was undoubtedly very large and would get very hungry. That's when the Branta shifted again and spit some sort secretion from a gland all over Sable's ship, Tiny Sana then moved away from it's mother and thumped into Sable's ship. The mother Branta died and now Sable was stuck with it's baby.
+The next hour was spent trying to figure out how to communicate with an animal, granted a seemingly pretty intelligent animal, but it was incapable of reading Sable's nav maps. She took to referring to the mother Branta as Sana and the baby as Tiny Sana, ranting out loud in her cabin about how in the universe she was going to help a baby Banta that was undoubtedly very large and would get very hungry. That's when the Branta shifted again and spit some sort secretion from a gland all over Sable's ship, Tiny Sana then moved away from it's mother and thumped into Sable's ship. The mother Branta died and now Sable was stuck with it's baby she held her courier tags and softly promised to find the Branta pod.   `iv-move:Swear an Iron Vow|Heart|3|1|1|2|1|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Find the Branta Pod|The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md`  `iv-meter:Momentum|3|6`
 
-"Fuck!" Sable shouted, pushed off her feet as the baby bumped her ship again jostling it.
+"Fuck!" Sable shouted into the air and as though responding she was pushed off her feet as the baby bumped her ship again jostling it and throwing Sable to the ground. 
+
+---
+
+`iv-move:Undertake an Expedition|Edge|4|3|0|2|7|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:(Ex) Find Someone to Check Her Ship|The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md|0|8|dangerous|1` 
+
+
+Sable comes out of FTL and Tiny Sana slams into the ship again, sprawling through space clumsily. The Branta scurries back to CR-497 and bumps into it happily.
+
+"I need to check on that thing." Sable set the e-drive to charge and suited up to go on a space walk to check on Tiny Sana. She connected herself to the ship and carried a small medkit—not that it would do any good. The airlock opened with a hiss and Sable found Tiny Sana bumping and nuzzling the hull of her ship. Sable activated her magnetic boots and walked out to the Branta, who seemed confused, but curious.
+
+"It's ok Tiny Sana, it's just me... your human auntie." The Branta make a squeaky trill and Sable gave it back a thumbs up. She walked closer and saw one of it's eyes was cloudy like it's mother's. "Ah shit, was she sick." Her boot clunked on the metal ship as she got closer to look at it's eye only to see something wriggling in the corner. "Oh! Gross, a parasite?!"
+
+Tiny Sana trilled and bumped the ship again. "Ok, ok, hold on, this is gonna suck for the both of us. I think is need something more sturdy."
+
+`iv-noroll:Begin the Scene|move:starforged/scene_challenge/begin_the_scene` 

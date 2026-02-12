@@ -1,5 +1,5 @@
 ---
-name: Tiny Sana
+name: (C) Tiny Sana
 rank: troublesome
 progress: 0
 tags:
@@ -7,7 +7,6 @@ tags:
 track-type: Connection
 character: "[[The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
-
 ---
 
 

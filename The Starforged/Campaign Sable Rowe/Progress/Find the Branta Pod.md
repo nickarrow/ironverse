@@ -1,10 +1,10 @@
 ---
-name: (Ex) Find Someone to Check Her Ship
+name: (Vow) Find the Branta Pod
 rank: dangerous
-progress: 8
+progress: 0
 tags:
   - incomplete
-track-type: Expedition
+track-type: Vow
 character: "[[The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
 ---

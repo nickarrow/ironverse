@@ -1,5 +1,5 @@
 ---
-name: Leela Asper
+name: (C) Leela Asper
 rank: formidable
 progress: 4
 tags:

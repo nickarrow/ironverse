@@ -1,5 +1,5 @@
 ---
-name: Ganden's Courier Job
+name: (Vow) Ganden's Courier Job
 rank: formidable
 progress: 0
 tags:
@@ -7,7 +7,6 @@ tags:
 track-type: Vow
 character: "[[The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
-
 ---
 
 

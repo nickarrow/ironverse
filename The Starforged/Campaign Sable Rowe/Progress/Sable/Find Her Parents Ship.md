@@ -1,5 +1,5 @@
 ---
-name: Find Her Parents Ship
+name: (V) Find Her Parents Ship
 rank: extreme
 progress: 0
 tags:
@@ -7,7 +7,6 @@ tags:
 track-type: Vow
 character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
-
 ---
 
 

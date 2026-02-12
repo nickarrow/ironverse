@@ -2,14 +2,14 @@
 name: Sable Rowe
 xp_spent: 0
 xp_added: 0
-momentum: 3
+momentum: 5
 edge: 3
 heart: 1
 iron: 2
 shadow: 1
 wits: 2
 health: 4
-spirit: 3
+spirit: 5
 supply: 4
 Bonds_Progress: 0
 Bonds_XPEarned: 0
