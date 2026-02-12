@@ -36,4 +36,9 @@ ATTACHMENT: coordinates.fpd
 
 `iv-ooc:does Echo already know Santos?`  `iv-oracle:Likely|74|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-ooc:I'm thinking they're basically first contact for the freelancers. What's their relationship like?`  `iv-oracle:Initial Disposition|178|Commanding|oracle_rollable:starsmith/character/initial_disposition`  `iv-ooc:why thank you, who would have guessed. Let's add to it`  `iv-oracle:Initial Disposition|117|Tit for tat|oracle_rollable:starsmith/character/initial_disposition`   `iv-ooc:Pronouns? 1-2: he/him, 3-4 they/them, 5-6 she/her, 7-8 variations (eg: he/they)`  `iv-dice:1d8|1`  
 
-Echo sighed at her contact's name and downed the rest of her cold tea with a grimace, then 
+Echo sighed at her contact's name and downed the rest of her cold tea with a grimace, then went to te cockpit and plugged the coordinates in the Ilex-zed interface, leaving the ship's computer to search for any known passages to Celadon-2 from here even as she thought about something to bargain with the man: Aparna was a good man of course, but always managed to plug his own self-interest in his dealings.
+
+`iv-ooc:Is there a known passage in the Ilex-zed navcomputer?`  `iv-move:Gather Information|Wits|2|3|0|6|9|move:starforged/adventure/gather_information` 
+`iv-ooc:Now, I would roll Pay the Price here, but honestly this was a little low stakes as it was, I only did it this way because travel around the forge is fairly difficult, even with coordinates... so I'm ruling that I'll have Echo do an expedition to get there, instead of setting a course. It's still going to be fairly easy.` 
+
+
