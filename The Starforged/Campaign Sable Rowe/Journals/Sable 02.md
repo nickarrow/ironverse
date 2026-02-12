@@ -136,4 +136,16 @@ CR-497 slipped out of FTL and came to a terrible sight when she settled into the
 
 It moaned a deep resonance that shook Sable to her core. She couldn't leave it here like this, but she also couldn't help it. Her heart twisted as she made the choice to put it out of it's misery.
 
-"Let's see if these things work?" She turned on the screen to her targeting computer and lined up a shot at the base of the creature skull—*that's how they put down livestock right?* She fired and the shots bounced off the creature thick armor and it reeled towards her flicking a tentacle hard at her ship.
+"Let's see if these things work?" She turned on the screen to her targeting computer and lined up a shot at the base of the creature skull—*that's how they put down livestock right?* She fired and the shots bounced off the creature thick armor and it reeled towards her flicking a tentacle hard at her ship.  `iv-meter:Starship / Integrity|4|2`  `iv-move:Withstand Damage|Starship / Integrity|5|2|0|4|4|move:starforged/suffer/withstand_damage`  `iv-meter:Starship / Integrity|2|3` 
+
+It's tentacle wrapped around her ship, creaking the metal threatening to crush the hull. Sable clambered in her chair as the dying creature brought her close to it's face, glossy eye glaring through the glass at her. Her console was blaring in alarm, red lights reflecting through it's deep cosmic pupil that dilated largely into sable scared little gaze. she felt insignificant as the creatures single eye spanned the entirety of her viewport.
+
+"I was trying to help. I'm sorry for whatever did this to you." She felt silly talking to a Branta. It's not like the thing could understand her—yet it let her go and shifted with a great pained groan and Sable felt awful at the sight. A tiny baby Branta was nestled closely to it's mother, suckling on a dying teat.
+
+"Oh... I'm awful, I'm so sorry." Sable breathes. The Branta shifted back to her, gazing into her. "I don't think I can save her—or him—it?, my ship—well actually for an infant, my ship is big enough for it follow me, but I don't even know where to take it."
+
+The next hour was spent trying to figure out how to communicate with an animal, granted a seemingly pretty intelligent animal, but it was incapable of reading Sable's nav maps. She took to referring to the mother Branta as Sana and the baby as Tiny Sana, ranting out loud in her cabin about how in the universe she was going to help a baby Banta that was undoubtedly very large and would get very hungry. That's when the Branta shifted again and spit some sort secretion from a gland all over Sable's ship, Tiny Sana then moved away from it's mother and thumped into Sable's ship. The mother Branta died and now Sable was stuck with it's baby.
+
+"Fuck!" Sable shouted, pushed off her feet as the baby bumped her ship again jostling it.
+  
+`iv-move:Make a Connection|Heart|3|1|1|4|4|move:starforged/connection/make_a_connection|adds=1(Strong Hit With a Match (It Knows She's Trying to Help))`  `iv-track-create:Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md` 

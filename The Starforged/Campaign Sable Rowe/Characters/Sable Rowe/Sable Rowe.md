@@ -27,7 +27,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 4
+      integrity: 3
       integrity/battered: false
       integrity/cursed: false
     options:
