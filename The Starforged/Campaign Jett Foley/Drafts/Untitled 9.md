@@ -120,7 +120,7 @@ The pryamid's glow fades, and the ghost disappears.
 
 ---
 
-You may assume that a scavenger crew wouldn't keep records of its personnel, but nothing could be further from the truth.  Every member of the crew wanted every penny they were owed from each score, so meticulous records are kept showing who did what and when.  Ships with sloppy record keeping frequently suffer from mutinies over payouts; a successful ship has a good bookkeeper.
+You may assume that a scavenger crew wouldn't keep records of its personnel, but nothing could be further from the truth.  Every member of the crew wanted every penny they were owed from each score, so meticulous records are kept showing who did what and when.  Ships with sloppy record keeping frequently suffer from mutinies over payouts; every successful ship has a good bookkeeper.
 
   `iv-oracle:Given Name|55|Kimora|oracle_rollable:starforged/character/name/given_name`  `iv-oracle:Family Name|65|Hammond|oracle_rollable:starforged/character/name/family_name`  `iv-oracle:First Look|72|Sickly|oracle_rollable:starforged/character/first_look`  `iv-oracle:Initial Disposition|74|Demanding|oracle_rollable:starforged/character/initial_disposition` 
 
@@ -136,7 +136,7 @@ You may assume that a scavenger crew wouldn't keep records of its personnel, but
 
 "We'll be very discreet." Jett reassures her.  
 
-Jett and Bri spend about an hour looking through dozens of crew files, before Bri says "Jett, it's her!"  Jett looks over and the picture on the screen is the same woman they saw in the corridor.
+Jett and Bri spend about an hour looking through dozens of crew files, before Bri says "Jett, it's her!".  Jett looks over and the picture on the screen is the same woman they saw in the corridor.
 
 "Let's take a look at the file." says Jett.
 
