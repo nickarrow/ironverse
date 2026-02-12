@@ -132,3 +132,8 @@ There wasn’t much in this area of the sector, but she would make do.  `iv-trac
 
 `iv-move:Undertake an Expedition|Edge|2|3|1|10|8|move:starforged/exploration/undertake_an_expedition|adds=1(Engine Upgrade)`  `iv-oracle:Pay the Price|13|You face a tough choice|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`  `iv-oracle:Descriptor|10|Biological|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|48|Lifeform|oracle_rollable:starforged/core/focus`  `iv-oracle:Action|75|Reject|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|97|Weakness|oracle_rollable:starforged/core/theme`.
 
+CR-497 slipped out of FTL and came to a terrible sight when she settled into the anchorage. A Branta floated in destress with debris tangled in its flesh. The massive creatures usually traveled in a pod, following the current of drifts especially just after large ships have carved the passage. It large eyes glossy with pain and it's flesh rotting and flaking away.
+
+It moaned a deep resonance that shook Sable to her core. She couldn't leave it here like this, but she also couldn't help it. Her heart twisted as she made the choice to put it out of it's misery.
+
+"Let's see if these things work?" She turned on the screen to her targeting computer and lined up a shot at the base of the creature skull—*that's how they put down livestock right?* She fired and the shots bounced off the creature thick armor and it reeled towards her flicking a tentacle hard at her ship.

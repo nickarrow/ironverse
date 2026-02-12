@@ -46,7 +46,7 @@ oracle-group name="NPC: [[Leela Asper]]" {
 
 Leela whipped her gaze up and glared into the screen. Sable averted her gaze and her lips went into a flat line. Sable was missing something—or probably more likely completely forgot something. Sable let the silence hang as heavy as a lead weight.
 
-Her ship spooled up, stirring through the startup process as listless as she was. Getting started in Devil's Chain was slow. It would take time before the services of a courier became well established. Until then she would be begging to take any low-tier run the guild forwarded her way.
+Her ship spooled up, stirring through the startup process as listless as she was. Getting started in the Devil's Chain was going to be slow. It would take time before the services of a courier became well established. Until then she would be begging to take any low-tier run the guild forwarded her way.
 
 "Alright, where am I going?" Sable finally asked.
 ```iron-vault-mechanics
