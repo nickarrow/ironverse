@@ -1,7 +1,7 @@
 ---
 name: 05a - Get medical supplies for The Snakepit
 rank: troublesome
-progress: 12
+progress: 24
 tags:
   - incomplete
 track-type: Vow

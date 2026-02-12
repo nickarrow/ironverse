@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 8
+momentum: 10
 edge: 2
 heart: 2
 iron: 1
@@ -10,12 +10,12 @@ shadow: 1
 wits: 3
 health: 5
 spirit: 3
-supply: 4
+supply: 3
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
-Quests_Progress: 6
+Quests_Progress: 7
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
@@ -86,9 +86,10 @@ track name="[[The Starforged\/Progress\/Jett\/Find and fulfil my destiny.md|Find
 
 GEAR
 
-Black iron ring on a chain around his neck
-Full-face rebreather mask
-Memoryform multipurpose sidearm
+- Black iron ring on a chain around his neck
+- Full-face rebreather mask
+- Memoryform multipurpose sidearm (Securely stored on the ship)
+- Medical supplies for The Snakepit (On the ship)
 
 NOTES
 
