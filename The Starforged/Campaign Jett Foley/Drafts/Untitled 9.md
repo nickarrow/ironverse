@@ -154,7 +154,7 @@ A short while later, the pair are back in the corridor where they had seen the g
 
 "You came back." says the spirit.
 
-"Your name is Tanya McDuff". Says Jett.
+"Your name was Tanya McDuff". Says Jett.
 
 `iv-progress:Fulfill Your Vow|09a - Prove or disprove the ghost sightings|9|8|1|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|6|7|epic|1`  `iv-track-complete:09a - Prove or disprove the ghost sightings|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md` 
 
@@ -170,11 +170,11 @@ Tanya vanishes and Jett and Bri are alone in the corridor.
 
 "What now?" asks Bri.
 
-"We go and get our navigation data and set a course."
+"We go and get our navigation data, then we get out of here."
 
 ---
 
-"So the ghost was Tanya McDuff all along?  Why was she haunting the ship?"  The captain is looking at Tanya's personnel file.  Several witnesses had confirmed that her picture matched the ghost they saw in the corridors.
+"So the ghost was Tanya McDuff of all people?  Why was she haunting the ship?"  The captain is looking at Tanya's personnel file.  Several witnesses had confirmed that her picture matched the ghost they saw in the corridors.
 
 "I'm not a ghost hunter, captain.  Just a guy with a knack for finding things." says Jett.
 
