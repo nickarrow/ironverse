@@ -143,9 +143,9 @@ It's tentacle wrapped around her ship, creaking the metal threatening to crush t
 "I was trying to help. I'm sorry for whatever did this to you." She felt silly talking to a Branta. It's not like the thing could understand her—yet it let her go and shifted with a great pained groan and Sable felt awful at the sight. A tiny baby Branta was nestled closely to it's mother, suckling on a dying teat.
 
 "Oh... I'm awful, I'm so sorry." Sable breathes. The Branta shifted back to her, gazing into her. "I don't think I can save her—or him—it?, my ship—well actually for an infant, my ship is big enough for it follow me, but I don't even know where to take it."
+  
+`iv-move:Make a Connection|Heart|3|1|1|4|4|move:starforged/connection/make_a_connection|adds=1(Strong Hit With a Match (It Knows She's Trying to Help))`  `iv-track-create:Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md` 
 
 The next hour was spent trying to figure out how to communicate with an animal, granted a seemingly pretty intelligent animal, but it was incapable of reading Sable's nav maps. She took to referring to the mother Branta as Sana and the baby as Tiny Sana, ranting out loud in her cabin about how in the universe she was going to help a baby Banta that was undoubtedly very large and would get very hungry. That's when the Branta shifted again and spit some sort secretion from a gland all over Sable's ship, Tiny Sana then moved away from it's mother and thumped into Sable's ship. The mother Branta died and now Sable was stuck with it's baby.
 
 "Fuck!" Sable shouted, pushed off her feet as the baby bumped her ship again jostling it.
-  
-`iv-move:Make a Connection|Heart|3|1|1|4|4|move:starforged/connection/make_a_connection|adds=1(Strong Hit With a Match (It Knows She's Trying to Help))`  `iv-track-create:Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md` 
