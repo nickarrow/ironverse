@@ -130,4 +130,5 @@ Sable groaned and shut the device back in the box and hid it in the deepest cubb
 There wasn’t much in this area of the sector, but she would make do.  `iv-track-create:Find Someone to Check Her Ship|The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md` 
 ![[Find Someone to Check Her Ship]]
 
-`iv-move:Undertake an Expedition|Edge|2|3|1|10|8|move:starforged/exploration/undertake_an_expedition|adds=1(Engine Upgrade)`  `iv-oracle:Pay the Price|13|You face a tough choice|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
+`iv-move:Undertake an Expedition|Edge|2|3|1|10|8|move:starforged/exploration/undertake_an_expedition|adds=1(Engine Upgrade)`  `iv-oracle:Pay the Price|13|You face a tough choice|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`  `iv-oracle:Descriptor|10|Biological|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|48|Lifeform|oracle_rollable:starforged/core/focus`  `iv-oracle:Action|75|Reject|oracle_rollable:starforged/core/action`  `iv-oracle:Theme|97|Weakness|oracle_rollable:starforged/core/theme`.
+
