@@ -1,5 +1,4 @@
 
->This is a rough draft uploaded so I can work on it on multiple devices.  Everything you see is subject to change!
 
 `iv-oracle:Begin a Session|31|Seemingly unrelated situations are shown to be connected|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
 
@@ -55,7 +54,7 @@
 
 ---
 
-"You're not going down to Deck 7." said  `iv-oracle:Callsign|61|Ogre|oracle_rollable:starforged/character/name/callsign` Ogre.  The behemoth of a man was blocking Jett's path.
+"You're not going down to Deck 7." says  `iv-oracle:Callsign|61|Ogre|oracle_rollable:starforged/character/name/callsign` Ogre.  The behemoth of a man blocks Jett's path.
 
 "Look, the captain has asked me to look into the ghost.  Don't you want me to get to the bottom of it?"
 
@@ -77,7 +76,7 @@ Unable to check the scene of the supposed haunting, Jett is conducting witness i
 
 "Ok, that's all, thank you."
 
-Deck 7 is home to the living quarters and medical bay, and several people had reported seeing a strange woman walking around at 'night' (as designated by the ship's artificial day/night cycle), things being moved, things going missing, and a variety of other small mysteries that all got attributed to the ghost.
+Deck 7 is home to the living quarters, and several people had reported seeing a strange woman walking around at 'night' (as designated by the ship's artificial day/night cycle), things being moved, things going missing, and a variety of other small mysteries that all got attributed to the ghost.
 
 Jett really needs to take a look around in person.  He heads back to the stairwell where Ogre is standing guard.
 
@@ -193,19 +192,19 @@ Jett studies Ogre's body language.
 
 `iv-move:Compel|Heart|3|2|0|5|10|move:starforged/adventure/compel` 
 
-"Look, I know I can't hide it forever.  But if the captain finds out, there's going to be trouble, maybe even blood.  You have to help"
+"Look, I know I can't hide it forever.  But if the captain finds out, there's going to be trouble, maybe even blood.  You have to help."
 
-"I'll do what I can to avoid any bloodshed, I promise."
+"I'll help you, I promise."
 
 Ogre looks at Jett for a long moment, weighing up whether he can trust him or not.  Finally, his shoulders drop and he opens the cabin door.
 
-Inside there's a girl sitting at the desk eating cereal.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition` She's small and thin, but looks in good shape.  "You told?" she says. 
+Inside there's a girl sitting at the desk eating cereal.  She's maybe in her early twenties.   `iv-oracle:First Look|76|Slight|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|18|Athletic|oracle_rollable:starforged/character/first_look`   `iv-oracle:Initial Disposition|7|Friendly|oracle_rollable:starforged/character/initial_disposition`  "You told?" she says. 
 
 "He figured it out." says Ogre.  "Don't worry, he's a good person, he's going to help you"
 
 "So, what's the story?" asks Jett.
 
-"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough in storage for a couple of years, so I started working on fixing up the ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I hid.  I stowed aboard their ship and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
+"I got marooned by my crew on a derelict.  I got the power working so I had life support, but the e-drive was busted.  There was food enough in the derelict's storage for a couple of years, so I started working on fixing up the ship.  Six months later, the scavengers showed up.  I didn't know if they'd kill me or not so I hid.  I stowed aboard their ship and started living in the walls.  I've been waiting for them to make dock ever since so I can escape."
 
 "And Ogre's been helping you?" asks Jett.
 
@@ -227,7 +226,7 @@ Inside there's a girl sitting at the desk eating cereal.  She's maybe in her ear
 
 "There's no need for that, captain.  I'll take her off your hands." says Jett hastily.
 
-"It's a matter of principal.  Someone has to pay for the food and other items she stole."
+"It's a matter of principle.  Someone has to pay for the food and other items she stole."
 
 "You can take it out of my cut." says Ogre.
 
