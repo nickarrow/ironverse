@@ -1,0 +1,8 @@
+`iv-oracle:Stellar Object|44|Glowing orange star|oracle_rollable:ancient_wonders/alien_megastructures/stellar_object`  `iv-dice:1d6|2` (hot)  `iv-oracle:Planetary Class (Expanded) - Hot|49|Jungle World|oracle_rollable:ancient_wonders/planets_expanded/planetary_class_expanded_hot`  `iv-oracle:Space Sightings (Expanse)|49|Debris Field: Crystalline Asteroids|oracle_rollable:ancient_wonders/other/space_sightings_expanse`  `iv-oracle:Jungle World Biome Diversity - Large, huge, giant, enormous|3|Mono (one biome)|oracle_rollable:ancient_wonders/planets_expanded/jungle_world/biome_diversity_large_huge_giant_enor`  `iv-oracle:Jungle World Biome|50|Petrified forest|oracle_rollable:ancient_wonders/planets_expanded/jungle_world/biome`  `iv-oracle:Jungle World Biome Feature - Petrified Forest|79|Vivid mineral coloration|oracle_rollable:ancient_wonders/planets_expanded/jungle_world/biome_feature_petrified_forest`  `iv-oracle:Jungle World Atmosphere|98|Ideal|oracle_rollable:ancient_wonders/planets_expanded/jungle_world/atmosphere`  
+
+The second planet orbiting the orange star "Celadon", house to the settlement of [[Tethys]], base for the [[Library of Protected Lore]] in the [[Devil's Chain]] sector.
+
+It's home to a singularly beautiful petrified forest, colorful and still looking almost alive, in the right light.
+Most of what lives here is fungi and small animals, aside from the humans here, and the atmosphere is positively pristine.
+
+(owner: Echo)
