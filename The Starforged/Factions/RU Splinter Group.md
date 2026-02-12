@@ -1,0 +1,1 @@
+A splinter group from the [[Risen Union]] that has separated decades ago and has [[Echo 02 - The Bones of Giants#INT. MAUSEFORT - RUINED CORRIDOR|now]] apparently infiltrated the main faction again, in search of the Hourglass, and other relics.

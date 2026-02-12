@@ -34,6 +34,4 @@ ATTACHMENT: coordinates.fpd
 
 `iv-entity-create:Faction|Library of Protected Lore|The Starforged/Factions/Library of Protected Lore.md` 
 
->[!note] For next time
->Reminder: before going on I need to remember to go to the faction page and also create the location! Do they have headquarters here? On a ship? A settlement? A space-station? How hidden is it? etc.
-
+`iv-ooc:does Echo already know Santos?`  `iv-oracle:Likely|74|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-ooc:I'm thinking she's basically first contact for the freelancers. What's their relationship like?`  `iv-oracle:Initial Disposition|178|Commanding|oracle_rollable:starsmith/character/initial_disposition`  `iv-ooc:why thank you, who would have guessed. Let's add to it`  `iv-oracle:Initial Disposition|117|Tit for tat|oracle_rollable:starsmith/character/initial_disposition`   `iv-ooc:Pronouns? 1-2: he/him, 3-4 they/them, 5-6 she/her, 7-8 variations (eg: he/they)`  `iv-dice:1d8|1`  
