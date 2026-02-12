@@ -156,7 +156,7 @@ A short while later, the pair are back in the corridor where they had seen the g
 
 "Your name is Tanya McDuff". Says Jett.
 
-`iv-progress:Fulfill Your Vow|09a - Prove or disprove the ghost sightings|9|8|1|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|6|7|epic|1` 
+`iv-progress:Fulfill Your Vow|09a - Prove or disprove the ghost sightings|9|8|1|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|6|7|epic|1`  `iv-track-complete:09a - Prove or disprove the ghost sightings|The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md` 
 
 "Tanya...McDuff.  Yes.  Tanya McDuff.  I know who I am now.  I know where I need to go."
 
@@ -180,7 +180,9 @@ Tanya vanishes and Jett and Bri are alone in the corridor.
 
 "Well, you've certainly earned the data I promised you.  I'll have it sent over to your ship."
 
-"While we're here, do you have any medical supplies that you're looking to trade?"
+`iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|0|8|dangerous|1` 
+
+"While we're here, do you have any medical supplies that you're looking to trade?" asks Jett hopefully.
 
 >Do the scavengers have medical supplies?  `iv-oracle:50/50|28|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
