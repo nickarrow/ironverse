@@ -89,7 +89,7 @@ Jett shows him his nav data.
 
 "Bring in more nav data to trade.  Between you and me, by the time you've gathered enough data you could probably find Pyla by yourself with the coordinates."
 
-"Okay, I'll take the coordinates." says Jett.
+"Okay then, I'll take the coordinates." says Jett.
 
 "Excellent" says Lucas.  "I'll make the transfer now."
 
@@ -101,9 +101,9 @@ Jett feels exhausted after his recent adventures, and the expedition to Pyla is 
 
 `iv-move:Sojourn|Heart|3|2|0|6|3|move:starforged/recover/sojourn`  `iv-meter:Spirit|2|4` 
 
-Jett heads to the market, but is unable to get the supplies he needs for his ship - apparently there are two House Serrato ships docked in town and prices are sky high as the merchants adjust their prices for their wealthy guests.
+Jett heads to the market, but is unable to get the supplies he needs for his ship - apparently there are two House Serrato ships docked in town and prices are sky high as the merchants adjust their prices for their presumably wealthy guests.
 
-Jett goes to a bar and gets talking to the locals.  Everybody is talking about the House Serrato ships.  They are looking for information on the Ascendancy of the Awakened Worlds.  Jett sees Tybalt-Yhen's proclamation, as well as the footage of the parking lot brawl.  He toys with the idea of going to the Serratos with what he knows about the Ascendancy, but in the end decides against it - his connections to the Void Cobras are bound to get him in trouble if they come out, and there's no mention of a reward, only a pledge to return what was stolen.  The only thing that Jett lost to the Ascendancy was Failsafe, and not even the Serratos could bring him back.  He spends the evening drinking with the locals, swapping stories and sharing gossip and rumors. He leaves the bar feeling ready for the road ahead.
+Jett goes to a bar and gets talking to the locals.  Everybody is talking about the House Serrato ships.  They are looking for information on the Ascendancy of the Awakened Worlds.  Jett sees Tybalt-Yhen's proclamation, as well as the footage of the parking lot brawl.  He toys with the idea of going to the Serratos with what he knows about the Ascendancy, but in the end decides against it - his connections to the Void Cobras are bound to get him in trouble if he does, and there's no mention of a reward - only a pledge to return what was stolen.  The only thing that Jett lost to the Ascendancy was Failsafe, and not even the Serratos could bring him back.  He spends the evening drinking with the locals, swapping stories and sharing gossip and rumors. He leaves the bar feeling ready for the road ahead.
 
 Awaking in the morning, Jett decides to start looking for Pyla right away.  He preps his ship, and takes off.
 
