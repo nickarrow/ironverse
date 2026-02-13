@@ -65,7 +65,7 @@ This is what I get when I go too much off the beaten path, damn you Roman!
 
 Echo's arm twisted, jarred out of position by the sudden sling-shotting of the ship out of the Drift as she tried to control the Ilex-zed vector. She felt something in her shoulder pop as the pull of the artificial gravity became suddenly heavier and grit her teeth: she'd have to assess the damage later.
 `iv-meter:Health|4|3`   `iv-move:Endure Harm|Health|2|3|0|3|9|move:starforged/suffer/endure_harm` 
-She spat the voice-activated codes quickly and the ship spun around its axis as the computer went from assisted mode to completely manual. Echo ignored her pain and grabbed the controls, swerving around the debris.
+She spat the voice-activated codes quickly and the ship spun wildy around its axis as the computer went from assisted mode to completely manual. Echo ignored her pain and grabbed the controls, swerving around the debris.
 `iv-oracle:Space Sightings (Expanse)|73|Fiery energy storm|oracle_rollable:ancient_wonders/other/space_sightings_expanse` 
 It was on fire, a chemical burn that had been probably triggered by her own exit from the Drift current, or maybe the gravitational wave itself. Echo twisted the Ilex-zed up, relative to the ship, and quickly spun out of the way of a mineral-heavy asteroid on fire - feeling something screech in the engine room and then a deafening thump, as the magnet slot back into place with a thunderous noise due to the centripetal force.  `iv-move:Withstand Damage|Starship / Integrity|6|4|0|9|7|move:starforged/suffer/withstand_damage` 
 
