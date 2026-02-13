@@ -21,7 +21,7 @@
 
 "Life support has been switched off.  What the hell is going on?"
 
-"Oh god, the cabins are being vented, all the air is being sucked out of the ship.  What do we do?"
+"Oh god, the cabins are being vented; all the air is being sucked out of the ship.  What do we do?"
 
 Neither man notices the small blinking light on the experimental AI core in their last, desperate moments.
 
