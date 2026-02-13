@@ -270,4 +270,4 @@ She inserted the coordinates to a peaceful-looking part of space and laid back o
 > I'm thinking less necromancy next for Echo, mainly because I want a bit of a rest on the spooky stuff - and talking to more people that are alive can't but be helpful for Echo's mental health... but we'll see what comes up: she still has her 'keep the hourglass safe' part, that and "stopping those that want it", that splinter group of the RU, so that's probably what she'll go and poke her nose into next.
 >  `iv-meter:Momentum|5|6` 
 
-[[Echo 3 -]]
+[[Echo 3 - Echo's Trail of Misfortunes]]

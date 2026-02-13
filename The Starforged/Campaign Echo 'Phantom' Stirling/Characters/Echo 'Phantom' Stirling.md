@@ -8,7 +8,7 @@ heart: 2
 iron: 1
 shadow: 1
 wits: 3
-health: 4
+health: 3
 spirit: 5
 supply: 4
 Quests_Progress: 0
@@ -48,7 +48,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 5
+      integrity: 4
       integrity/battered: false
       integrity/cursed: false
     options:
