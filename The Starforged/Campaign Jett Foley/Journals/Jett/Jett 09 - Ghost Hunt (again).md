@@ -1,6 +1,4 @@
 
->This is a rough draft uploaded so I can work on it on multiple devices.  Everything you see is subject to change!
-
 `iv-oracle:Begin a Session|92|Unforeseen aid is on the way or within reach|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
 
 "Sir, one of the precognition machines has activated."
@@ -120,7 +118,7 @@ The pryamid's glow fades, and the ghost disappears.
 
 ---
 
-You may assume that a scavenger crew wouldn't keep records of its personnel, but nothing could be further from the truth.  Every member of the crew wanted every penny they were owed from each score, so meticulous records are kept showing who did what and when.  Ships with sloppy record keeping frequently suffer from mutinies over payouts; every successful ship has a good bookkeeper.
+You may assume that a scavenger crew wouldn't keep records of its personnel, but nothing could be further from the truth.  Every member of the crew wanted every penny they were owed from each score, so meticulous records are kept showing who did what and when.  Ships with sloppy record keeping are usually the ones that suffer from mutinies over payouts; every successful ship has a good bookkeeper.
 
   `iv-oracle:Given Name|55|Kimora|oracle_rollable:starforged/character/name/given_name`  `iv-oracle:Family Name|65|Hammond|oracle_rollable:starforged/character/name/family_name`  `iv-oracle:First Look|72|Sickly|oracle_rollable:starforged/character/first_look`  `iv-oracle:Initial Disposition|74|Demanding|oracle_rollable:starforged/character/initial_disposition` 
 
@@ -132,7 +130,7 @@ You may assume that a scavenger crew wouldn't keep records of its personnel, but
 
 `iv-move:Gather Information|Wits|6|3|0|1|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|8|10` 
 
-"You must be the detective.  I'll give you archive access." says Kimora.  "Just look for the files you need, don't go poking around in the crew's files.  And don't change any information.  And don't make too much noise."
+"You must be the detective.  I'll give you archive access." says Kimora.  "Just look for the files you need, don't go poking around.  And don't change any information.  And don't make too much noise."
 
 "We'll be very discreet." Jett reassures her.  
 
@@ -164,7 +162,7 @@ A short while later, the pair are back in the corridor where they had seen the g
 
 >Does Tanya know what it means?  `iv-oracle:50/50|87|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-"I told you, I don't know how this works." says Tanya.  She is already dematerializing.  "It just seemed like the right thing to say when I saw you."
+"I told you, I don't know how this works." says Tanya.  She is already dematerializing.  "It just came to me when I saw you."
 
 Tanya vanishes and Jett and Bri are alone in the corridor.
 
@@ -174,7 +172,7 @@ Tanya vanishes and Jett and Bri are alone in the corridor.
 
 ---
 
-"So the ghost was Tanya McDuff of all people?  Why was she haunting the ship?"  The captain is looking at Tanya's personnel file.  Several witnesses had confirmed that her picture matched the ghost they saw in the corridors.
+"So the ghost was Tanya McDuff, of all people?  Why was she haunting the ship?"  The captain is looking at Tanya's personnel file.  Several witnesses had confirmed that her picture matched the ghost they saw in the corridors.
 
 "I'm not a ghost hunter, captain.  Just a guy with a knack for finding things." says Jett.
 
@@ -196,4 +194,4 @@ Tanya vanishes and Jett and Bri are alone in the corridor.
 
 Their business concluded, Jett and Bri head back to *The Irony* and undock from the scavenger dreadnought.
 
-"Next stop, Koshiba!" says Jett as he punches in the route.
+"Next stop, Port Koshiba!" says Jett as he punches in the route.  *The Irony* blinks into FTL.
