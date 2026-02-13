@@ -67,7 +67,7 @@ Echo's arm twisted, jarred out of position by the sudden sling-shotting of the s
 `iv-meter:Health|4|3`   `iv-move:Endure Harm|Health|2|3|0|3|9|move:starforged/suffer/endure_harm` 
 She spat the voice-activated codes quickly and the ship spun wildy around its axis as the computer went from assisted mode to completely manual. Echo ignored her pain and grabbed the controls, swerving around the debris.
 `iv-oracle:Space Sightings (Expanse)|73|Fiery energy storm|oracle_rollable:ancient_wonders/other/space_sightings_expanse` 
-It was on fire, a chemical burn that had been probably triggered by her own exit from the Drift current, or maybe the gravitational wave itself. Echo twisted the Ilex-zed up, relative to the ship, and quickly spun out of the way of a mineral-heavy asteroid on fire - feeling something screech in the engine room and then a deafening thump, as the magnet slot back into place with a thunderous noise due to the centripetal force.  `iv-move:Withstand Damage|Starship / Integrity|6|4|0|9|7|move:starforged/suffer/withstand_damage` 
+It was on fire, a chemical burn that had been probably triggered by her own exit from the Drift current, or maybe the gravitational wave itself. Echo twisted the Ilex-zed up, relative to the ship, and quickly spun out of the way of a mineral-heavy asteroid on fire - feeling something screech in the engine room and then a deafening thump. 
 
 She managed to adjust the vector of the ship with some quick maneuvers that, had she been less in pian, she would have been proud of, and avoided the energy storm entirely, then laid back on her seat panting heavily, checking the ship readouts with a critical eye.
 
@@ -75,6 +75,8 @@ She managed to adjust the vector of the ship with some quick maneuvers that, had
 ECHO
 Well, at least the manget is back in place, now if that'd worked for the arm too that'd be swell.
 ```
+
+ `iv-move:Withstand Damage|Starship / Integrity|6|4|0|9|7|move:starforged/suffer/withstand_damage` 
 
 >[!Notes] Next up on Echo's Misfortune Trail...
 >I need to remember: Echo wants to go and find someplace to get patched up by someone, not do it herself. Maybe see if there's one of the automated waystations Sable has introduced? 
