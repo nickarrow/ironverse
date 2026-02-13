@@ -41,9 +41,7 @@ Jett and Bri arrive at Audun and dock at Port Koshiba.  "I've never been on a pl
 
 ---
 
-They ride the train into town.  Bri is amazed by the size of the aquifiers they speed past, as a spacer she's used to water being worth more than gold so seeing so much of it just lying there unguarded is like something out of a dream.
-
-Eventually, they reach the outskirts of the city and disembark.
+They ride the train into town.  Bri is amazed by the size of the aquifiers they speed past, as a spacer she's used to water being worth more than gold so seeing so much of it just lying there unguarded is like something out of a dream.  Eventually, they reach the outskirts of the city and disembark.
 
 "So...you're going to find a ship and join the crew as an engineer?" asks Jett.
 
@@ -77,7 +75,7 @@ Jett asks around for directions, and eventually makes his way to the Cartographe
 
 "Pyla."
 
-"Ok, let me see here..."  The man types away on a keyboard for a few minutes. "Yes, Pyla, here it is.  What exactly do you have to trade?"
+"Ok, let me see here..."  The man types away on a keyboard for a few seconds. "Yes, Pyla, here it is.  What exactly do you have to trade?"
 
 `iv-move:Compel|Heart|1|2|0|2|4|move:starforged/adventure/compel` 
 
@@ -124,7 +122,7 @@ Awaking in the morning, Jett decides to start looking for Pyla right away.  He p
 
 "No, sounds.  I'll patch it through to the speakers."
 
-A strange sounds starts coming through the speakers - it sounds almost like singing; an etherial, wispy melody.  Jett sits listening to the sound for a few minutes, transfixed, before Eris interrupts him. "Jett?  Are you ok?"
+A strange sounds starts coming through the speakers - it sounds almost like singing; an ethereal, wispy melody.  Jett sits listening to the sound for a few minutes, transfixed, before Eris interrupts him. "Jett?  Are you ok?"
 
 "Shut it off" says Jett.  Eris cuts the sound coming out of the speakers.  "That sound - it wanted me to follow it."
 
@@ -154,17 +152,17 @@ Jett soon spots the problem - an energy leech has made its way aboard the ship a
 
 "I tried!  I didn't want to damage the e-drive is all."
 
-"Well, now it's loose on the ship, who knows what it's going to feed on next.  Or when.  Let"s just hope it doesn't lay eggs."
+"Well, now it's loose on the ship, who knows what it's going to feed on next.  Or when.  Let's just hope it doesn't lay eggs."
 
 "I'll get an exterminator in at the next port." says Jett.
 
-"We're not heading for a port, we're heading for an unihabited desert.  Go and find it."
+"We're not heading for a port, we're heading for an uninhabited desert.  Go and find it."
 
 Jett takes his flashlight and tries to follow the trail left by the leech.
 
 `iv-move:Gather Information|Wits|5|3|0|6|10|move:starforged/adventure/gather_information` 
 
-Jett crawls through the maintenence tunnel the leech escaped into.  He doesn't find the leech, but the tunnel only leads to non-essential systems like lights and the coffee machine, so Jett heads back to the cockpit.
+Jett crawls through the maintenance tunnel the leech escaped into.  He doesn't find the leech, but the tunnel only leads to non-essential systems like lights and the coffee machine, so Jett heads back to the cockpit.
 
 "It's gone.  I'll never find it." he says.  "Let me know if we drop power anywhere and I'll take care of it.  How's the e-drive?"
 
@@ -194,7 +192,7 @@ They come out of warp in a dense asteroid field, bathed in the blue glow of the 
 
 "Oh.  Can our shields take a hit from one of them?"
 
-"Again, we don't have shields.  And to anwer your next question, no our hull most certainly cannot take a hit from one of them."
+"We still don't have shields.  And to answer your next question, no, our hull most certainly cannot take a hit from one of them."
 
 "So what do we do?"
 
