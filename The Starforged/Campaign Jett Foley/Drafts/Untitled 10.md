@@ -250,4 +250,3 @@ They come out of warp in deep space - the completely featureless void stretches 
 `iv-progress:Finish an Expedition|07b - Expedition to Pyla|10|5|10|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:07b - Expedition to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|0|1|epic|1`  `iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|16|24|dangerous|1` 
 
 "Well." says Eris when they drop out of warp at Pyla.  "That's not good."
-
