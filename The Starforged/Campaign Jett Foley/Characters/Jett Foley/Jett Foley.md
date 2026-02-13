@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 10
+momentum: 7
 edge: 2
 heart: 2
 iron: 1
@@ -13,7 +13,7 @@ spirit: 4
 supply: 3
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 0
+Discoveries_Progress: 1
 Discoveries_XPEarned: 0
 Quests_Progress: 7
 Quests_XPEarned: 2

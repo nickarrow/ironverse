@@ -1,7 +1,7 @@
 ---
 name: 07a - Get to Pyla
 rank: dangerous
-progress: 16
+progress: 24
 tags:
   - incomplete
 track-type: Vow
