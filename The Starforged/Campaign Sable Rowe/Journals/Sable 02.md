@@ -159,8 +159,26 @@ Sable comes out of FTL and Tiny Sana slams into the ship again, sprawling throug
 
 "I need to check on that thing." Sable set the e-drive to charge and suited up to go on a space walk to check on Tiny Sana. She connected herself to the ship and carried a small medkit—not that it would do any good. The airlock opened with a hiss and Sable found Tiny Sana bumping and nuzzling the hull of her ship. Sable activated her magnetic boots and walked out to the Branta, who seemed confused, but curious.
 
-"It's ok Tiny Sana, it's just me... your human auntie." The Branta make a squeaky trill and Sable gave it back a thumbs up. She walked closer and saw one of it's eyes was cloudy like it's mother's. "Ah shit, was she sick." Her boot clunked on the metal ship as she got closer to look at it's eye only to see something wriggling in the corner. "Oh! Gross, a parasite?!"
+"It's ok Tiny Sana, it's just me... your human auntie— I guess." The Branta make a squeaky trill and Sable gave it back a thumbs up. She walked closer and saw one of it's eyes was cloudy like it's mother's. "Ah shit, was she sick?" Her boot clunked on the metal ship as she got closer to look at it's eye, only to see something wriggling in the corner. "Oh! Gross, a parasite?!"
 
 Tiny Sana trilled and bumped the ship again. "Ok, ok, hold on, this is gonna suck for the both of us. I think is need something more sturdy."
 
-`iv-noroll:Begin the Scene|move:starforged/scene_challenge/begin_the_scene` 
+`iv-noroll:Begin the Scene|move:starforged/scene_challenge/begin_the_scene`  `iv-track-create:Remove Tiny Sana's Parasite|The Starforged/Campaign Sable Rowe/Progress/Remove Tiny Sana's Parasite.md`  `iv-clock-create:Tiny Sana's Anxiety|The Starforged/Campaign Sable Rowe/Clocks/Tiny Sana's Anxiety.md` 
+
+Sable, against the better judgment of anyone sane and with sensible medical knowledge, grabbed a pair of pliers and decided should indeed remove the parasite herself. `iv-move:Secure an Advantage (Scene Challenge)|Wits|1|2|0|2|4|move:starforged/scene_challenge/secure_an_advantage` 
+
+Sable examines the situation, too her time to be around Tiny Sana so she was comfortable. She then found the bump where the parasite was behind the eyelid, and she pushed on it until the thing poked out.  `iv-move:Face Danger (Scene Challenge)|Edge|6|3|1|9|4|move:starforged/scene_challenge/face_danger|adds=1(SaA)`  `iv-track-advance:Remove Tiny Sana's Parasite|The Starforged/Campaign Sable Rowe/Progress/Remove Tiny Sana's Parasite.md|0|12|troublesome|1` She carefully and quickly shoved her locking pliers onto the parasite and got a good secure hold on the thing, it squelched disgustingly. Tiny Sana was still calm at the moment, but Sable knew she wouldn't be for long, she began wriggling the parasite back and forth to pull it out.
+
+`iv-move:Face Danger (Scene Challenge)|Iron|4|2|0|5|6|move:starforged/scene_challenge/face_danger`  `iv-track-advance:Remove Tiny Sana's Parasite|The Starforged/Campaign Sable Rowe/Progress/Remove Tiny Sana's Parasite.md|12|24|troublesome|1`  `iv-clock-advance:Tiny Sana's Anxiety|The Starforged/Campaign Sable Rowe/Clocks/Tiny Sana's Anxiety.md|0|1|1|4` Tiny Sana whined and pushed on Sable causing her lose her good grip.
+
+`iv-move:Secure an Advantage (Scene Challenge)|Iron|1|2|0|6|2|move:starforged/scene_challenge/secure_an_advantage`  `iv-meter:Momentum|5|7` The locking clamps held and Sable quickly grabbed them again, she let go of her magnetic boots and braced herself against Tiny Sana.
+
+`iv-move:Face Danger (Scene Challenge)|Iron|2|2|0|9|7|move:starforged/scene_challenge/face_danger`  `iv-clock-advance:Tiny Sana's Anxiety|The Starforged/Campaign Sable Rowe/Clocks/Tiny Sana's Anxiety.md|1|2|1|4`  `iv-oracle:Pay the Price|72|You waste resources|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`  `iv-meter:Supply|4|3`  `iv-noroll:Sacrifice Resources|move:starforged/suffer/sacrifice_resources` Tiny Sana jerks and the only thing holding Sable close is her cable and her grip on the pliers holding onto the parasite. 
+
+She tries to yank again  `iv-move:Face Danger (Scene Challenge)|Iron|5|2|0|9|1|move:starforged/scene_challenge/face_danger`  `iv-track-advance:Remove Tiny Sana's Parasite|The Starforged/Campaign Sable Rowe/Progress/Remove Tiny Sana's Parasite.md|24|36|troublesome|1`  `iv-clock-advance:Tiny Sana's Anxiety|The Starforged/Campaign Sable Rowe/Clocks/Tiny Sana's Anxiety.md|2|3|1|4`. The Branta squeals and jerks away from Sable, she attempts to use the momentum to finish yanking out the parasite `iv-progress:Finish the Scene|Remove Tiny Sana's Parasite|9|7|6|The Starforged/Campaign Sable Rowe/Progress/Remove Tiny Sana's Parasite.md|move:starforged/scene_challenge/finish_the_scene`.
+
+The disgusting wriggling thing slicked out of the socket it had burrowed into. Sable held her gag as it writhed in the locking pliers. "Gah, that's disgusting." She wedged it into her exhaust exit and fired up the afterburners and incinerated it.
+
+---
+
+`iv-move:Undertake an Expedition|Edge|1|3|0|6|1|move:starforged/exploration/undertake_an_expedition|burn=7:2`  `iv-meter:Momentum|2|3`  `iv-track-advance:(Ex) Find Someone to Check Her Ship|The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md|8|16|dangerous|1`  `iv-move:Explore a Waypoint|Wits|1|2|0|7|2|move:starforged/exploration/explore_a_waypoint`  `iv-meter:Momentum|3|4` 
