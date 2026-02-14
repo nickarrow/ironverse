@@ -3,7 +3,7 @@
 ### [[Sable 00 - The Black Service Package|Session 0 -Black Service Package]]
 - [[The Starforged/Progress/Sable/Leela Asper|Introduced Leela Asper - Courier Handler]]
 - [[Courier Guild|Introduced the Courier Guild]]
-- [[Courier Job Glimmer Outpost|Started Courier Job ✅]]
+- [[Courier Job Glimmer Outpost|Started Courier Job]]
 - [[Glimmer Outpost|Introduced Glimmer Outpost]]
 
 ### [[Sable 01 - Boy Trouble & Close Encounters|Session 01 - Boy Trouble & Close Encounters]]
@@ -14,9 +14,9 @@
 - [[Dustcloud Battle|Sable Was Attacked by Two Pirate Ships - Unrelated to The Black Crate]]
 
 ### [[Sable 02 - Meeting Merrick and Tracking Branta’s|Session 2 - Meeting Merrick and Tracking Branta’s]]
-- [[The Starforged/Campaign Sable Rowe/Progress/Sable/To the Delivery Point Glimmer Job|To the Delivery Point Glimmer Job|Sable Made it To Where She Was Delivering The Package]] [[Meridian|a Place Called Meridian]] [[Ory|On Ory]]
-- [[The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost|Courier Job Glimmer Outpost|Sable Completed the Deliver To Merrick Arden]]
+- [[To the Delivery Point Glimmer Job|Sable Made it To Where She Was Delivering The Package]] [[Meridian|a Place Called Meridian]] [[Ory|On Ory]]
+- [[Courier Job Glimmer Outpost|Sable Completed the Deliver To Merrick Arden]]
 - [[Ganden's Courier Job|Ganden had a courier job for Sable, but with a weak hit she has to figure out]] [[Find Someone to Check Her Ship|what Merrick did to her ship.]]
-- [[The Starforged/Campaign Sable Rowe/Progress/Sable/Merrick Arden|Merrick Arden|Merrick has cemented himself into Sable’s life.]]
+- [[Merrick Arden|Merrick has cemented himself into Sable’s life.]]
 - [[Tiny Sana|On her journey she found a dying branta and ended up being tasked with helping it’s infant]] [[Find the Branta Pod|to find a new place to call home.]]
 
