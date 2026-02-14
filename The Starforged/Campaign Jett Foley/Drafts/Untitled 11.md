@@ -114,6 +114,6 @@ He gets back without incident, stows the supplies and the utility bots, and undo
 
 `iv-move:Gather Information|Wits|3|3|0|2|8|move:starforged/adventure/gather_information`  `iv-meter:Momentum|8|9` 
 
-The ship graveyard is not confined to orbit - there are derelicts on the surface, too.
+The ship graveyard is not confined to orbit - there are wrecks and derelicts on the surface, too.
 
 
