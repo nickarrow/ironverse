@@ -183,3 +183,4 @@ The disgusting wriggling thing slicked out of the socket it had burrowed into. S
 
 `iv-move:Undertake an Expedition|Edge|1|3|0|6|1|move:starforged/exploration/undertake_an_expedition|burn=7:2`  `iv-meter:Momentum|2|3`  `iv-track-advance:(Ex) Find Someone to Check Her Ship|The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md|8|16|dangerous|1`  `iv-move:Explore a Waypoint|Wits|1|2|0|7|2|move:starforged/exploration/explore_a_waypoint`  `iv-meter:Momentum|3|4` 
 
+Sable spent the better part of her piloting through the drift reading anything she could find on Branta's in
