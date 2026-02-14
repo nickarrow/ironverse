@@ -19,7 +19,7 @@ He started taking off his equipment.  "How was your first day?" he shouted over 
 
 "Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over.  They were all like level 5 by the time they got to me."
 
-"We all have days like that." laughed Alan.  "Just wait until you get to be a boss fight, then the real fun begins."
+"We all have days like that." laughed Alan.  "Just wait until you get to be a boss in a boss fight, that's when the real fun begins."
 
 Tranquilo was the name of the city, and Tranquilo was the name of the planet.  The planet was a vast, unending desert, but the city was a shining jewel.  It was a pleasure city, where people with money to spare came to gamble, visit illicit dens of narcotics and other vices, watch spectacular live performances, see the gladiator arena, and of course take part in The Array.
 
@@ -29,9 +29,9 @@ The entire backend was located in an underground complex - customer terminals we
 
 Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until you earn your way back to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
 
-Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they lived in the virtual world for their entire sentence without rest or sleep.
+Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they were trapped in the virtual world for their entire sentence without rest or sleep.
 
-Levels 9+...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have wound up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's missing sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
+Level 9...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have ended up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's missing sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
 
 `iv-meter:Momentum|9|10` 
 
@@ -116,4 +116,12 @@ He gets back without incident, stows the supplies and the utility bots, and undo
 
 The ship graveyard is not confined to orbit - there are wrecks and derelicts on the surface, too.  As Jett looks at the crash sites he starts to notice something odd.  The ships are laid out in intricate patterns of loops and whorls, visible only from orbit.  It's as if something is using spacecraft to make an enormous art piece, half the size of a planet.
 
+"Do you see it, Eris?" Jett says.
 
+"See what?" Eris replies.
+
+"The shapes.  The shapes in the ships.  They're laid out like this deliberately."
+
+"Did you hit your head on that derelict?  They're just crashed ships."
+
+"You can't see it, but it's there.  There's a pattern.  And the center is right...here."  Jett points to one specific derelict ship on the surface.  "That's where I need to go."
