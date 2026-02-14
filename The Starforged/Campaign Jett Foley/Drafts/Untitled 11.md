@@ -13,25 +13,25 @@ A stranger rode into town.  He rode up to the saloon, hitched his horse to the h
 
 Both men drew their revolvers, but the stranger fired first.  Alan slumped back in his chair, bleeding out.  As his vision began to fade to black, he saw that three other outlaws had joined the fray and the stranger was blasting them all.
 
-12 hours had passed.  The words 'Shift Complete' flashed up in Alan's field of view.  The virtual world slowly faded away as reality came flooding back in.
+Finally, 12 hours had passed.  The words 'Shift Complete' flashed up in Alan's field of view.  The virtual world slowly faded away as reality came flooding back in.
 
 He started taking off his equipment.  "How was your first day?" he shouted over to the young man in the next cot over.
 
-"Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over.  They were like level 5 by the time they got to me."
+"Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over.  They were all like level 5 by the time they got to me."
 
 "We all have days like that." laughed Alan.  "Just wait until you get to be a boss fight, then the real fun begins."
 
 Tranquilo was the name of the city, and Tranquilo was the name of the planet.  The planet was a vast, unending desert, but the city was a shining jewel.  It was a pleasure city, where people with money to spare came to gamble, visit illicit dens of narcotics and other vices, watch spectacular live performances, see the gladiator arena, and of course take part in The Array.
 
-Other VR games boasted incredibly advanced AI, but they still couldn't compete with real human interaction - The Array boasted just that.  By linking people's brains directly to the mainframe, The Array was able to boast real human NPCs - the only facility in the galaxy to do so.
+Other VR games boasted incredibly advanced AI, but they still couldn't compete with real human interaction - The Array boasted just that.  By linking people's brains directly to the mainframe, The Array was able to feature real human NPCs - the only facility in the galaxy to do so.
 
-The entire backend complex was located underground - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
+The entire backend was located in an underground complex - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
 
-Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until your balance returns to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
+Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until you earn your way back to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
 
-Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's generously flexible laws ended up here.  They didn't get to clock out at the end of a shift; they lived in the virtual world for their entire sentence without rest or sleep.
+Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they lived in the virtual world for their entire sentence without rest or sleep.
 
-Levels 9+...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have wound up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
+Levels 9+...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have wound up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's missing sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
 
 `iv-meter:Momentum|9|10` 
 
@@ -53,7 +53,7 @@ They are looking out over a huge ship graveyard.  Hundreds of dead ships are in 
 
 "I thought you wanted to go down to Pyla?"
 
-"That was when I thought the pyramid was found in an asteroid field left behind by a destroyed moon.  But now we're here, it could have come from any one of these ships."
+"That was when I thought the pyramid was found in the asteroid field.  But now we're here, it could have come from any one of these ships."
 
 "We don't have time to search every single one of these ships for clues, Jett."
 
@@ -114,6 +114,6 @@ He gets back without incident, stows the supplies and the utility bots, and undo
 
 `iv-move:Gather Information|Wits|3|3|0|2|8|move:starforged/adventure/gather_information`  `iv-meter:Momentum|8|9` 
 
-The ship graveyard is not confined to orbit - there are wrecks and derelicts on the surface, too.
+The ship graveyard is not confined to orbit - there are wrecks and derelicts on the surface, too.  As Jett looks at the crash sites he starts to notice something odd.  The ships are laid out in intricate patterns of loops and whorls, visible only from orbit.  It's as if something is using spacecraft to make an enormous art piece, half the size of a planet.
 
 
