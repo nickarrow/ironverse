@@ -86,7 +86,7 @@ Jett finds himself in the Engineering section of the ship.  Everything seems nor
 
 `iv-move:Resupply|Wits|1|3|0|2|2|move:starforged/recover/resupply`  `iv-meter:Supply|3|5` 
 
-Jett finds plenty of equipment that his ship needs - this is exactly what he was looking for.  He even manages to deactivate the utility droids - they'll be useful for barter later, or perhaps he can repair them down the line.  Maybe even give Eris a little body so she can join him on his adventures.
+Jett finds plenty of equipment that his ship needs - this is exactly what he was looking for.  He even manages to deactivate the utility bots - they'll be useful for barter later, or perhaps he can repair them down the line.  Maybe even give Eris a little body so she can join him on his adventures.
 
 Jett decides to keep searching the ship - he wants to see if he can find any information on what this ship graveyard is.
 
