@@ -50,3 +50,48 @@ They are looking out over a huge ship graveyard.  Hundreds, if not thousands, of
 "I'm more concerned with why there are so many destroyed and abandoned ships here." says Eris. "I don't want *The Irony* to end up as the latest one."
 
 "We should do a bit of scavenging" says Jett.  "We're getting low on supplies and maybe we can get some answers too."
+
+"I thought you wanted to go down to Pyla?"
+
+"That was when I thought the pyramid was found in an asteroid field left behind by a destroyed moon.  But now we're here, it could have come from any one of these ships."
+
+"We don't have time to search every single one of these ships for clues, Jett."
+
+"Well, we need some supplies.  We weren't able to resupply on Port Koshiba.  I'll pick one small ship and get what we need, then we can run some scans and figure out what to do next."
+
+"Fine, but be careful - we don't know what's going on here."
+
+"It'll be fine, you'll see."
+
+---
+
+`iv-oracle:Starship Name|18|Eclipse|oracle_rollable:starforged/starship/name` 
+`iv-oracle:First Look|22|Heavy armor|oracle_rollable:starforged/starship/first_look` 
+Ship type: Multipurpose
+
+`iv-track-create:11a - Get Supplies from The Eclipse|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md` 
+
+Jett selects a ship that is the same type as his own under the assumption that a similar craft would have similar needs for supplies.  The ship, *The Eclipse*, is heavily armored but otherwise unremarkable.  Jett docks with the ship, puts on his EVA suit, and prepares to go aboard.
+
+`iv-move:Secure an Advantage|Wits|3|3|0|4|6|move:starforged/adventure/secure_an_advantage` 
+
+He cycles the airlock, and steps into *The Eclipse*. 
+
+`iv-move:Undertake an Expedition|Wits|6|3|1|2|10|move:starforged/exploration/undertake_an_expedition|adds=1`  `iv-track-advance:11a - Get Supplies from The Eclipse|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md|0|12|troublesome|1` 
+
+`iv-oracle:Starship|29|Engineering|oracle_rollable:starforged/derelict/zone/starship` 
+`iv-oracle:Peril|12|Erratic utility bots|oracle_rollable:starforged/derelict/engineering/peril` 
+
+Jett finds himself in the Engineering section of the ship.  Everything seems normal, except for a couple of utility bots which are flying in strange patterns and coming within inches of hitting each other but never actually colliding.  They don't appear hostile or dangerous, but Jett keeps his distance from them anyhow.  He looks around the engineering section for anything he can scavenge.
+
+`iv-move:Resupply|Wits|1|3|0|2|2|move:starforged/recover/resupply`  `iv-meter:Supply|3|5` 
+
+Jett finds plenty of equipment that his ship needs - this is exactly what he was looking for.  He even manages to deactivate the utility droids - they'll be useful for barter later, or perhaps he can repair them down the line.  Maybe even give Eris a little body so she can join him on his adventures.
+
+Jett decides to keep searching the ship - he wants to see if he can find any information on what this ship graveyard is.
+
+`iv-move:Undertake an Expedition|Wits|4|3|0|10|6|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:11a - Get Supplies from The Eclipse|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md|12|24|troublesome|1`  `iv-meter:Momentum|10|8` 
+
+Jett is weighed down by the equipment he is carrying, he is forced to move slowly as he explores the ship.
+
+`iv-oracle:Starship|77|Operations|oracle_rollable:starforged/derelict/zone/starship` 
