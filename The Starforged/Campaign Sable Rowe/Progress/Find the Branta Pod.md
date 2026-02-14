@@ -1,7 +1,7 @@
 ---
 name: (Vow) Find the Branta Pod
 rank: dangerous
-progress: 0
+progress: 8
 tags:
   - incomplete
 track-type: Vow

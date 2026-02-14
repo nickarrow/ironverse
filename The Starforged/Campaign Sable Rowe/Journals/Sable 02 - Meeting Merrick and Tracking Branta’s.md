@@ -189,3 +189,15 @@ Tiny Sana seemed to be doing fine after her impromptu surgery. Sable kept checki
 
 `iv-move:Secure an Advantage|Edge|5|3|0|7|3|move:starforged/adventure/secure_an_advantage`  `iv-meter:Momentum|5|7`  `iv-move:Face Danger|Edge|6|3|1|1|1|move:starforged/adventure/face_danger`  `iv-meter:Momentum|7|8`  `iv-noroll:Develop Your Relationship|move:starforged/connection/develop_your_relationship`  `iv-track-advance:(C) Tiny Sana|The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md|12|24|troublesome|1` 
 
+Sable spent as much time as she could studying the little information she had about branta feeding patterns, but Tiny Sana was becoming more insistent by the minute. Her incessant bumping of the ship was giving Sable a permanent twitch. She would have to figure out how to teach Tiny Sana to open her mouth as the went through the cluster of placknet.
+
+It took several passes, the baby branta confused and clumsy as Sable flew backwards and opened the cargo hatch to simulate opening her “mouth”. The tiny organisms flew into the opening and splattered all over the inside of the cargo bay. Then she did it. Tiny Sana swooped in along side Sable’s ship and opened her mouth to consume food. Sable almost jumped out of her chair in excitement as she finally got the branta to eat.
+
+She spent the next while flying with Tiny Sana, playing and swooping through obstacles, disturbing the placknet until the branta was exhausted and nestled herself on Sable’s ship to sleep.
+
+Sable settled in to rest and she realized just before she slipped into sleep that she could track branta pods by following the food.  `iv-track-advance:(Vow) Find the Branta Pod|The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md|0|8|dangerous|1`.
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+---
+
