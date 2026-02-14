@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 9
+momentum: 10
 edge: 2
 heart: 2
 iron: 1
