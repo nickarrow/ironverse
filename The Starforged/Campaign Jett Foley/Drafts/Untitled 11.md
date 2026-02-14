@@ -139,3 +139,5 @@ The ship graveyard is not confined to orbit - there are wrecks and derelicts on 
 
 "I want to get you to that damned planet and stop those damned pirates." says Eris.  "Let's go back to Port Koshiba, do whatever jobs we can pick up, and save up enough to get you an exosuit."
 
+`iv-track-advance:Connection: Eris|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md|8|12|formidable|1` 
+
