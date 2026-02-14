@@ -27,7 +27,7 @@ Other VR games boasted incredibly advanced AI, but they still couldn't compete w
 
 The entire backend was located in an underground complex - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
 
-Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until you earn your way back to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
+Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until you earn your way back up to zero.  Debtors were kept in cells on-site to make sure they didn't try to leave town and skip out on their debt.
 
 Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they were trapped in the virtual world for their entire sentence without rest or sleep.
 
@@ -102,7 +102,7 @@ Jett makes it to the cockpit of the ship.  He stops to take a look around and se
 
 `iv-oracle:Descriptor|16|Chaotic|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|48|Lifeform|oracle_rollable:starforged/core/focus` 
 
-Jett finds some ships logs.  Most of them are garbled, but he does see multiple references to some kind of 'chaotic lifeform', presumably on the surface of Pyla.  Jett gets that strange feeling, like deja vu, once again.  Jett is an agent of order fated to oppose the forces of chaos.  If there's something on the surface that's responsible for all these derelict ships, he has to investigate and do what he can to stop it.
+Jett finds some ships logs.  Most of them are garbled, but he does see multiple references to some kind of 'chaotic lifeform', presumably on the surface of Pyla.  Jett gets that strange feeling, like deja vu, once again.  He is an agent of order fated to oppose the forces of chaos.  If there's something on the surface that's responsible for all these derelict ships, he has to investigate and do what he can to stop it.
 
 `iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|5|6|epic|1` 
 
