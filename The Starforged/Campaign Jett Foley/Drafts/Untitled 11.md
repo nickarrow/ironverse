@@ -1,7 +1,7 @@
 
 `iv-oracle:Begin a Session|15|Flashback reveals an aspect of another character, place, or faction|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` 
 
-Alan had been playing poker for almost 12 hours.  He was neither winning nor losing, it seemed like he and his companions were simply shuffling chips around.  He looked out of the window of the saloon.  People rode by on horseback or covered wagons.  In the distance he heard the horn of a steam train.  Across the dirt track that comprised the main road he saw the bank and the doctor's office.  Same as it had been for the last 11 hours and 45 minutes.
+Alan had been playing poker for almost 12 hours.  He was neither winning nor losing, it seemed like he and his companions were simply shuffling chips around.  He looked out of the window of the saloon.  People rode by on horseback or covered wagons.  In the distance he heard the whistle of a steam train.  Across the dirt track that passed for a main road he saw the bank and the doctor's office.  Same as it had been for the last 11 hours and 45 minutes.
 
 A stranger rode into town.  He rode up to the saloon, hitched his horse to the hitching post, and stepped inside.  He swaggered up to the poker table.  "Jim Jones?" said the stranger.
 
@@ -11,15 +11,15 @@ A stranger rode into town.  He rode up to the saloon, hitched his horse to the h
 
 "Why don't you try it?" said Alan.
 
-Both men drew their revolvers, but the stranger fired first.  Alan slumped back in his chair, bleeding out.  As his vision began to fade to black, he saw that three other outlaws had joined the fray and the stranger was blasting them all.
+Both men drew their revolvers, but the stranger fired first.  Alan slumped back in his chair, bleeding out.  As his vision began to fade to black, he saw that three other outlaws had joined the fray and the stranger was gleefully blasting them all.
 
 Finally, 12 hours had passed.  The words 'Shift Complete' flashed up in Alan's field of view.  The virtual world slowly faded away as reality came flooding back in.
 
 He started taking off his equipment.  "How was your first day?" he shouted over to the young man in the next cot over.
 
-"Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over.  They were all like level 5 by the time they got to me."
+"Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over."
 
-"We all have days like that." laughed Alan.  "Just wait until you get to be a boss in a boss fight, that's when the real fun begins."
+"We all have days like that." laughed Alan.  "Just wait until you get to be the boss in a boss fight, that's when the real fun begins."
 
 Tranquilo was the name of the city, and Tranquilo was the name of the planet.  The planet was a vast, unending desert, but the city was a shining jewel.  It was a pleasure city, where people with money to spare came to gamble, visit illicit dens of narcotics and other vices, watch spectacular live performances, see the gladiator arena, and of course take part in The Array.
 
@@ -125,3 +125,17 @@ The ship graveyard is not confined to orbit - there are wrecks and derelicts on 
 "Did you hit your head on that derelict?  They're just crashed ships."
 
 "You can't see it, but it's there.  There's a pattern.  And the center is right...here."  Jett points to one specific derelict ship on the surface.  "That's where I need to go."
+
+"I'm afraid that's not going to be possible." says Eris.  "The atmosphere on that planet is corrosive.  You'll need an exosuit to walk around down there.  I'm not sure you could even land the ship for extended periods of time without sustaining damage."
+
+"Then how are the wrecked ships not dissolving?" says Jett.
+
+"I don't know.  One of the many mysteries of this strange planet, I suppose." replies Eris.
+
+"So, what do we do now?" asks Jett.  "Is there anything *you* want to do?"
+
+`iv-oracle:Character Goal|31|Fight injustice|oracle_rollable:starforged/character/goal` 
+`iv-oracle:Revealed Character Aspect|31|Determined|oracle_rollable:starforged/character/revealed_aspect` 
+
+"I want to get you to that damned planet and stop those damned pirates." says Eris.  "Let's go back to Port Koshiba, do whatever jobs we can pick up, and save up enough to get you an exosuit."
+
