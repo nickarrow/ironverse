@@ -23,7 +23,7 @@
 
 "Oh god, the cabins are being vented; all the air is being sucked out of the ship.  What do we do?"
 
-Neither man notices the small blinking light on the experimental AI core in their last, desperate moments.
+Neither man notices the small blinking light on the experimental AI core in their final, desperate moments.
 
 ---
 
@@ -35,7 +35,7 @@ Jett and Bri arrive at Audun and dock at Port Koshiba.  "I've never been on a pl
 
 "Plants?  That's so weird.  It's so hot here - don't they have air conditioning?"
 
-"That's called 'nature', Bri.  No air conditioning, I'm afraid.  The weather just does what it wants.  On Audun, it's always hot.  Too hot for anything to grow here, that's why the people have to live in a bubble.  Come on, let's get to the city.  I've never ridden on a train before."
+"That's called 'nature', Bri.  No air conditioning, I'm afraid.  The weather just does what it wants.  On Audun, it's always hot.  Too hot for anything to grow here, that's why the people have to live in a bubble.  Come on, let's get to the city, I've never ridden on a train before."
 
 "We're going to ride on a train?  I've seen those before on holo-shows."
 
@@ -101,7 +101,7 @@ Jett feels exhausted after his recent adventures, and the expedition to Pyla is 
 
 Jett heads to the market, but is unable to get the supplies he needs for his ship - apparently there are two House Serrato ships docked in town and rates are sky high as the merchants adjust their prices for their presumably wealthy guests.
 
-Jett goes to a bar and gets talking to the locals.  Everybody is talking about the House Serrato ships.  They are looking for information on the Ascendancy of the Awakened Worlds.  Jett sees Tybalt-Yhen's proclamation, as well as the footage of the parking lot brawl.  He toys with the idea of going to the Serratos with what he knows about the Ascendancy, but in the end decides against it - his connections to the Void Cobras are bound to get him in trouble if he does, and there's no mention of a reward - only a pledge to return what was stolen.  The only thing that Jett lost to the Ascendancy was Failsafe, and not even the Serratos can bring him back.  He spends the evening drinking with the locals, swapping stories and sharing gossip and rumors. He leaves the bar feeling ready for the road ahead.
+Jett goes to a bar and gets talking to the locals.  Everybody is talking about the House Serrato ships.  They are looking for information on the Ascendancy of the Awakened Worlds.  Jett sees Tybalt-Yhen's proclamation, as well as the footage of the parking lot brawl.  He toys with the idea of going to the Serratos with what he knows about the Ascendancy, but in the end decides against it - his connections to the Void Cobras are bound to get him in trouble if he does, and there's no mention of a reward - only a pledge to return what was stolen.  The only thing that Jett lost to the Ascendancy was Failsafe, and not even the Serratos can bring him back.  He spends the evening drinking with the locals, swapping stories and sharing gossip and rumors. He leaves the bar feeling refreshed and ready for the road ahead.
 
 Awaking in the morning, Jett decides to start looking for Pyla right away.  He preps *The Irony*, and takes off.  He doesn't notice Eris discreetly sending a message to the Serrato ships.
 
@@ -192,7 +192,7 @@ They come out of warp in a dense asteroid field, bathed in the blue glow of the 
 
 "Oh.  Can our shields take a hit from one of them?"
 
-"We still don't have shields.  And to answer your next question, no, our hull most certainly cannot take a hit from one of them."
+"Again, we don't have shields.  And to answer your next question, no, our hull most certainly cannot take a hit from one of them."
 
 "So what do we do?"
 
@@ -223,9 +223,9 @@ After a tense few hours glued to the scanners, the e-drive is recharged and Jett
 
 >Can they avoid it easily?  `iv-oracle:50/50|69|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-"We're right in the middle of it." Eris continues
+"We're right in the middle of it." Eris continues.
 
-"I see it, I'll try and avoid taking any hits."
+"I see it, I'll try and avoid taking any hits." says Jett.
 
 `iv-move:Face Danger|Edge|5|2|0|8|4|move:starforged/adventure/face_danger` 
 
@@ -247,6 +247,6 @@ They come out of warp in deep space - the completely featureless void stretches 
 
 ---
 
-`iv-progress:Finish an Expedition|07b - Expedition to Pyla|10|5|10|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:07b - Expedition to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|0|1|epic|1`  `iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|16|24|dangerous|1` 
+`iv-progress:Finish an Expedition|07b - Expedition to Pyla|10|5|10|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:07b - Expedition to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|0|1|epic|1`  `iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|16|24|dangerous|1`  `iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|4|5|epic|1` 
 
 "Well." says Eris when they drop out of warp at Pyla.  "That's not good."
