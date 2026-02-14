@@ -50,10 +50,11 @@ Jett takes out his black iron ring and holds it between his fingers.  "I vow, on
 
 "That really isn't necessary."
 
-"-that I, Jett Foley, will deliver to you, Lucas of the Cartographers Guild, the navigational data between Port Koshiba and Burrow"
+"-that I, Jett Foley, will deliver to you, Lucas of the Cartographers Guild, the navigational data between Port Koshiba and Burrow."
 
-"Ok, that's great.  I'll await your return with bated breath."
+"Ok, that's great.  I'll stay here and read my datapad while you do that."
 
-
+`iv-move:Swear an Iron Vow|Heart|1|2|0|5|2|move:starforged/quest/swear_an_iron_vow|burn=8:2`  `iv-meter:Momentum|2|4`  `iv-track-create:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md`  `iv-track-create:12 - Expedition to Burrow|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md` 
 
 ---
+
