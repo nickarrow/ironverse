@@ -5,33 +5,33 @@ Alan had been playing poker for almost 12 hours.  He was neither winning nor los
 
 A stranger rode into town.  He rode up to the saloon, hitched his horse to the hitching post, and stepped inside.  He swaggered up to the poker table.  "Jim Jones?" said the stranger.
 
-"Who's askin'?" said Alan.  The saloon went deathly quiet - the pianist stopped playing his song and everyone's attention was on the scene at the bar.
+"Who's askin'?" said Alan.  The saloon went deathly quiet - the pianist stopped playing his song and everyone's attention was on the scene at the poker table.
 
 "You got a price on your head, boy.  I'm here to collect."
 
 "Why don't you try it?" said Alan.
 
-Both men drew their revolvers, but the stranger fired the first shot.  Alan slumped back against the bar, bleeding out.  As his vision began to fade to black, he saw that three other outlaws had joined the fray and the stranger was blasting them all.
+Both men drew their revolvers, but the stranger fired first.  Alan slumped back in his chair, bleeding out.  As his vision began to fade to black, he saw that three other outlaws had joined the fray and the stranger was blasting them all.
 
-12 hours.  The words 'Shift Complete' flashed up in Alan's field of view.  The virtual world slowly faded away as reality came flooding back in.
+12 hours had passed.  The words 'Shift Complete' flashed up in Alan's field of view.  The virtual world slowly faded away as reality came flooding back in.
 
 He started taking off his equipment.  "How was your first day?" he shouted over to the young man in the next cot over.
 
 "Terrible.  I was a level 2 skeleton guarding a chest in a dungeon.  I had to just stand there in the dark until someone came along, and then they'd hit me in the head with a sword and I'd die and have to start over.  They were like level 5 by the time they got to me."
 
-"We all have days like that." laughed Alan.  "Just wait until you get to do a boss fight, then the real fun begins."
+"We all have days like that." laughed Alan.  "Just wait until you get to be a boss fight, then the real fun begins."
 
 Tranquilo was the name of the city, and Tranquilo was the name of the planet.  The planet was a vast, unending desert, but the city was a shining jewel.  It was a pleasure city, where people with money to spare came to gamble, visit illicit dens of narcotics and other vices, watch spectacular live performances, see the gladiator arena, and of course take part in The Array.
 
 Other VR games boasted incredibly advanced AI, but they still couldn't compete with real human interaction - The Array boasted just that.  By linking people's brains directly to the mainframe, The Array was able to boast real human NPCs - the only facility in the galaxy to do so.
 
-The entire complex was located underground.  Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
+The entire backend complex was located underground - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
 
-Levels 4 and 5 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until your balance returns to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
+Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until your balance returns to zero.  They were kept in cells on-site to make sure they didn't try to run or skip out on their debt.
 
-Levels 6-8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's generously flexible laws ended up here.  They didn't get to clock out at the end of the shift, they just lived in the virtual world for their entire sentence without rest or sleep.
+Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's generously flexible laws ended up here.  They didn't get to clock out at the end of a shift; they lived in the virtual world for their entire sentence without rest or sleep.
 
-Levels 9+...well you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have wound up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
+Levels 9+...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have wound up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
 
 `iv-meter:Momentum|9|10` 
 
@@ -41,7 +41,7 @@ Levels 9+...well you learn pretty quickly not to ask what happens there.  Level 
 
 "Don't be so pessimistic, Eris.  This could be a great find.  They'll pay a bundle for this location at Paxton Memorial."
 
-They are looking out over a huge ship graveyard.  Hundreds, if not thousands, of dead ships are in orbit around Pyla.
+They are looking out over a huge ship graveyard.  Hundreds of dead ships are in orbit around Pyla.
 
 "You do remember that you're wanted in connection with two murders on Paxton Memorial, right?" says Eris.
 
@@ -95,3 +95,25 @@ Jett decides to keep searching the ship - he wants to see if he can find any inf
 Jett is weighed down by the equipment he is carrying, he is forced to move slowly as he explores the ship.
 
 `iv-oracle:Starship|77|Operations|oracle_rollable:starforged/derelict/zone/starship` 
+
+Jett makes it to the cockpit of the ship.  He stops to take a look around and see if there are any clues as to what happened here.
+
+`iv-move:Explore a Waypoint|Wits|3|3|0|4|2|move:starforged/exploration/explore_a_waypoint`  `iv-track-advance:11a - Get Supplies from The Eclipse|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md|24|36|troublesome|1` 
+
+`iv-oracle:Descriptor|16|Chaotic|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|48|Lifeform|oracle_rollable:starforged/core/focus` 
+
+Jett finds some ships logs.  Most of them are garbled, but he does see multiple references to some kind of 'chaotic lifeform', presumably on the surface of Pyla.  Jett gets that strange feeling, like deja vu, once again.  Jett is an agent of order fated to oppose the forces of chaos.  If there's something on the surface that's responsible for all these derelict ships, he has to investigate and do what he can to stop it.
+
+`iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|5|6|epic|1` 
+
+Jett heads back to *The Irony*.
+
+`iv-progress:Finish an Expedition|11a - Get Supplies from The Eclipse|9|4|3|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|1|2|epic|1`  `iv-track-complete:11a - Get Supplies from The Eclipse|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md` 
+
+He gets back without incident, stows the supplies and the utility bots, and undocks from *The Eclipse*.  He runs a detailed scan on Pyla.
+
+`iv-move:Gather Information|Wits|3|3|0|2|8|move:starforged/adventure/gather_information`  `iv-meter:Momentum|8|9` 
+
+The ship graveyard is not confined to orbit - there are derelicts on the surface, too.
+
+

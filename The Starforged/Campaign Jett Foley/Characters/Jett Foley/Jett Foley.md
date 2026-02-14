@@ -2,7 +2,7 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 8
+momentum: 9
 edge: 2
 heart: 2
 iron: 1
@@ -13,7 +13,7 @@ spirit: 4
 supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 1
+Discoveries_Progress: 2
 Discoveries_XPEarned: 0
 Quests_Progress: 7
 Quests_XPEarned: 2
@@ -90,6 +90,7 @@ GEAR
 - Full-face rebreather mask
 - Memoryform multipurpose sidearm (Securely stored on the ship)
 - Medical supplies for The Snakepit (On the ship)
+- Two deactivated utility bots (erratic behavior, need repairs) (On the ship)
 
 NOTES
 
