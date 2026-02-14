@@ -44,3 +44,5 @@ Lucas looks at his screen for a moment and taps on his keyboard.
 >Is it orbital?  `iv-oracle:50/50|53|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 `iv-oracle:Settlement Name|14|Burrow|oracle_rollable:starforged/settlement/name` 
 
+"There's a new settlement named Burrow on the planet of Dusk.  If you can map a route there, you'll get a decent amout for the data."
+
