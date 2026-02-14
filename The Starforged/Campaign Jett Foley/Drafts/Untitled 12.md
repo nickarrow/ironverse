@@ -31,7 +31,7 @@ Then he tries to find someone who's hiring.
 
 He finds out the hard way that looking for work by word of mouth is considered illegal in Port Koshiba - income tax is taken very seriously there and the kind of easy, cash-in-hand arrangements that Jett was looking for are strictly forbidden.  After one quite educational night in the cells, Jett is back on the streets.
 
-The only person Jett knows in Port Koshiba is the guy from the Cartographer's Guild, so he heads there.  He enters the room, and sees the man in the same tired stance looking at the same datapad.  "Peter!" Jett calls out.
+The only person Jett knows in Port Koshiba is the guy from the Cartographer's Guild, so he heads there.  He enters the room, and sees the man in the same tired stance looking at the same old datapad.  "Peter!" Jett calls out.
 
 "It's Lucas, actually" says Lucas.
 
@@ -44,5 +44,16 @@ Lucas looks at his screen for a moment and taps on his keyboard.
 >Is it orbital?  `iv-oracle:50/50|53|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 `iv-oracle:Settlement Name|14|Burrow|oracle_rollable:starforged/settlement/name` 
 
-"There's a new settlement named Burrow on the planet of Dusk.  If you can map a route there, you'll get a decent amout for the data."
+"There's a new settlement named Burrow on the planet of Dusk.  If you can map a route there, you'll get a decent amount for the data."
 
+Jett takes out his black iron ring and holds it between his fingers.  "I vow, on this black iron ring-"
+
+"That really isn't necessary."
+
+"-that I, Jett Foley, will deliver to you, Lucas of the Cartographers Guild, the navigational data between Port Koshiba and Burrow"
+
+"Ok, that's great.  I'll await your return with bated breath."
+
+
+
+---
