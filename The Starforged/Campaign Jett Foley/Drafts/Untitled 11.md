@@ -126,6 +126,8 @@ The ship graveyard is not confined to orbit - there are wrecks and derelicts on 
 
 "You can't see it, but it's there.  There's a pattern.  And the center is right...here."  Jett points to one specific derelict ship on the surface.  "That's where I need to go."
 
+`iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|6|7|epic|1` 
+
 "I'm afraid that's not going to be possible." says Eris.  "The atmosphere on that planet is corrosive.  You'll need an exosuit to walk around down there.  I'm not sure you could even land the ship for extended periods of time without sustaining damage."
 
 "Then how are the wrecked ships not dissolving?" says Jett.
