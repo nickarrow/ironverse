@@ -1,7 +1,7 @@
 ---
 name: (C) Tiny Sana
 rank: troublesome
-progress: 0
+progress: 24
 tags:
   - incomplete
 track-type: Connection

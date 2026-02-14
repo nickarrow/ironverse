@@ -2,7 +2,7 @@
 name: Sable Rowe
 xp_spent: 0
 xp_added: 0
-momentum: 4
+momentum: 8
 edge: 3
 heart: 1
 iron: 2
