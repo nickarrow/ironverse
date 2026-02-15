@@ -25,11 +25,11 @@ Tranquilo was the name of the city, and Tranquilo was the name of the planet.  T
 
 Other VR games boasted incredibly advanced AI, but they still couldn't compete with real human interaction - The Array boasted just that.  By linking people's brains directly to the mainframe, The Array was able to feature real human NPCs - the only facility in the galaxy to do so.
 
-The entire backend was located in an underground complex - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day in exchange for relatively average wages.  People like Alan.
+The entire backend was located in an underground complex - customer terminals were of course located in arcades throughout Tranquilo.  Basement Levels 2 and 3 were for regular workers - people who entered The Array in exchange for a paycheck.  People who were okay with being stabbed, beaten, and shot for 12 hours a day for other people's amusement.  People like Alan.
 
 Levels 4-6 were for debtors.  In the casino city of Tranquilo debt is a crime, and the punishment is working in The Array until you earn your way back up to zero.  Debtors were kept in cells on-site to make sure they didn't try to leave town and skip out on their debt.
 
-Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they were trapped in the virtual world for their entire sentence without rest or sleep.
+Levels 7 and 8 were for regular criminals.  Murderers, thieves, card counters - anyone who broke Tranquilo's flexible laws ended up here.  They didn't get to clock out at the end of a shift; they were trapped in the virtual world for their entire sentence without rest or sleep.  Behavior-modifying compliance chips were implanted in their brains to ensure they stayed in character at all times.
 
 Level 9...well, you learn pretty quickly not to ask what happens there.  Level 9 is where Sofia Legrand would have ended up if the gang on Paxton Memorial hadn't recognized her tattoos.  Maybe she'd have been on the shelf next to Failsafe's missing sister.  But Failsafe is dead, so I guess we'll never find out which shelf that is.
 
@@ -128,7 +128,7 @@ The ship graveyard is not confined to orbit - there are wrecks and derelicts on 
 
 `iv-track-advance:Find and fulfil my destiny|The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md|6|7|epic|1` 
 
-"I'm afraid that's not going to be possible." says Eris.  "The atmosphere on that planet is corrosive.  You'll need an exosuit to walk around down there.  I'm not sure you could even land the ship for extended periods of time without sustaining damage."
+"I'm afraid that's not going to be possible." says Eris.  "Look at the scans - the atmosphere on that planet is corrosive.  You'll need an exosuit to walk around down there.  I'm not sure you could even land the ship for extended periods of time without sustaining damage."
 
 "Then how are the wrecked ships not dissolving?" says Jett.
 
