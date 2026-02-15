@@ -9,3 +9,5 @@
 `iv-oracle:Expanse|28|Dozens|oracle_rollable:starforged/settlement/population/expanse` 
 
 Burrow is a settlement on [[Dusk]].  It's a very niche black market for stolen artworks.
+
+The settlement is members-only; they won't let you land without an invitation.

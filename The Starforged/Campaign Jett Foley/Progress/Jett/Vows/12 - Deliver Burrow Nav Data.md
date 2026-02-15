@@ -1,7 +1,7 @@
 ---
 name: 12 - Deliver Burrow Nav Data
 rank: troublesome
-progress: 12
+progress: 24
 tags:
   - incomplete
 track-type: Vow

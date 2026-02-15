@@ -21,7 +21,9 @@ There were four members of the strike team; the pilot, the gunner, the brawler, 
 
 Jett heads back to Port Koshiba.  He is delayed by a plasma storm, but no damage is done to the ship.
 
-Once he arrives and gets back into town, he hires the Couriers Guild to take the medical supplies to The Snakepit.  He doesn't have time to do the four-week round trip just to drop off a box.  He's not sure if the Guild usually delivers to top-secret pirate dens, but he figures it will be okay just this once.
+At the starport, he hires an exterminator to take care of the Power Leech and make sure there's not an infestation.
+
+Once he gets back into town, he hires the Couriers Guild to take the medical supplies to The Snakepit.  He doesn't have time to do the four-week round trip just to drop off a box.  He's not sure if the Guild usually delivers to top-secret pirate dens, but he figures it will be okay just this once.
 
 `iv-track-advance:05a - Get medical supplies for The Snakepit|The Starforged/Campaign Jett Foley/Progress/Jett/05a - Get medical supplies for The Snakepit.md|24|36|troublesome|1` `iv-progress:Fulfill Your Vow|05a - Get medical supplies for The Snakepit|9|8|7|The Starforged/Campaign Jett Foley/Progress/Jett/05a - Get medical supplies for The Snakepit.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:05a - Get medical supplies for The Snakepit|The Starforged/Campaign Jett Foley/Progress/Jett/05a - Get medical supplies for The Snakepit.md`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|7|8|epic|1`  `iv-track-advance:Connection: Machete|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Machete.md|20|24|formidable|1` 
 
@@ -122,7 +124,7 @@ The fighter manages to close into weapons range and fires a couple of shots at *
 
 "Fine," says Jett "But I'm just going to try to take out their engines so we can get away."
 
-Jett yanks on the flight stick and *The Irony* turns to face the enemy fighter.  Jett pays attention to the tactical display and notices that most of the ship's damage is on its right side, he tries to focus his fire on that side of the ship instead of its stronger left flank.
+Jett yanks on the flight stick and *The Irony* turns to face the enemy fighter.  Jett pays attention to the tactical display and notices that most of the ship's damage is on its right side; he tries to focus his fire there instead of its stronger left flank.
 
 `iv-move:Battle|Wits|4|3|0|8|3|move:starforged/combat/battle` 
 
@@ -130,13 +132,13 @@ The ship fires on *The Irony*.  The hits don't damage the hull, but the tactical
 
 Jett tries to shoot out the fighter's engines, but the enemy ship disintegrates in a huge fireball.
 
-"Damn.  I didn't want to kill them." says Jett.  
+"Damn.  I didn't mean to kill them." says Jett.  
 
-"This isn't that kind of universe, Jett." says Eris softly.  "They didn't give you any choice."
+"That's just the way it goes sometimes, Jett." says Eris softly.  "They didn't give you any choice."
 
 "I never killed anyone before.  I think I want to be alone for a while." Jett says.  "I'm going to my cabin.  Let me know when we're ready to jump."
 
-`iv-track-advance:Connection: Eris|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md|12|16|formidable|1` 
+`iv-track-advance:Connection: Eris|The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md|12|16|formidable|1`  `iv-track-advance:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md|0|12|troublesome|1` 
 
 ---
 
@@ -180,6 +182,27 @@ They come out once again in the cold blackness of deep space.
 
 A few hours later, they make the final jump.
 
-`iv-progress:Finish an Expedition|12 - Expedition to Burrow|10|10|2|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|2|3|epic|1`  `iv-track-advance:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md|0|12|troublesome|1`  `iv-track-complete:12 - Expedition to Burrow|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md` 
+`iv-progress:Finish an Expedition|12 - Expedition to Burrow|10|10|2|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|2|3|epic|1`  `iv-track-advance:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md|12|24|troublesome|1` `iv-track-complete:12 - Expedition to Burrow|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md` 
 
-When they arrive at Dusk, they scan the planet, but can't see any signs of a settlement.
+"Hey there, *Irony*, we haven't seen you here before.  What did you need?" says a voice over comms.
+
+"We got into a bit of a scrap with a pirate, we'd appreciate some repairs and a resupply." says Jett.
+
+"Sorry about this, but this is a members-only facility.  I'm afraid you can't land without an invitation."
+
+"How would I get an invitation?"
+
+"If you have something to trade, we'll have an appraiser fly up and take a look.  If you know what you're doing, we'll let you in."
+
+"What are you looking to trade?"
+
+"If you have to ask, you don't have what we need."
+
+"Ok, but I need to recharge my e-drive so I'm gonna have to sit here in orbit for a few hours."
+
+"Go right ahead.  Just don't try to land."
+
+---
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+`iv-meter:Momentum|0|1` 
