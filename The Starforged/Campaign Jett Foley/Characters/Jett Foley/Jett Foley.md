@@ -2,18 +2,18 @@
 name: Jett Foley
 xp_spent: 2
 xp_added: 0
-momentum: 4
+momentum: 0
 edge: 2
 heart: 2
 iron: 1
 shadow: 1
 wits: 3
-health: 5
-spirit: 4
+health: 4
+spirit: 3
 supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 2
+Discoveries_Progress: 3
 Discoveries_XPEarned: 0
 Quests_Progress: 8
 Quests_XPEarned: 4
@@ -28,7 +28,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 4
+      integrity: 3
       integrity/battered: false
       integrity/cursed: false
     options:
@@ -89,7 +89,6 @@ GEAR
 - Black iron ring on a chain around his neck
 - Full-face rebreather mask
 - Memoryform multipurpose sidearm (Securely stored on the ship)
-- Medical supplies for The Snakepit (On the ship)
 - Two deactivated utility bots (erratic behavior, need repairs) (On the ship)
 
 NOTES

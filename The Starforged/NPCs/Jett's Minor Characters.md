@@ -85,6 +85,19 @@ Rokuro O'Brien
 | Revealed Aspect     |                           |
 | Location            | [[Sagan]]                 |
 
+Lucas
+
+| Name                | Lucas Dykstra                                                      |
+| ------------------- | ------------------------------------------------------------------ |
+| Callsign            |                                                                    |
+| First Look          | Haggard                                                            |
+| Initial Disposition | Helpful                                                            |
+| Role                | Clerk                                                              |
+| Character Goal      |                                                                    |
+| Revealed Aspect     |                                                                    |
+| Location            | [[Port Koshiba]]                                                   |
+| Notes:              | Lucas works at the [[Cartographers Guild]] office at Port Koshiba. |
+
 | Name                |     |
 | ------------------- | --- |
 | Callsign            |     |
