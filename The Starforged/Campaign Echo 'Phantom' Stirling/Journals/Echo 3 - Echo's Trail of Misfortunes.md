@@ -69,6 +69,8 @@ She spat the voice-activated codes quickly and the ship spun wildy around its ax
 `iv-oracle:Space Sightings (Expanse)|73|Fiery energy storm|oracle_rollable:ancient_wonders/other/space_sightings_expanse` 
 It was on fire, a chemical burn that had been probably triggered by her own exit from the Drift current, or maybe the gravitational wave itself. Echo twisted the Ilex-zed up, relative to the ship, and quickly spun out of the way of a mineral-heavy asteroid on fire - feeling something screech in the engine room and then a deafening thump. 
 
+ `iv-move:Withstand Damage|Starship / Integrity|6|4|0|9|7|move:starforged/suffer/withstand_damage` 
+
 She managed to adjust the vector of the ship with some quick maneuvers that, had she been less in pian, she would have been proud of, and avoided the energy storm entirely, then laid back on her seat panting heavily, checking the ship readouts with a critical eye.
 
 ```
@@ -76,8 +78,36 @@ ECHO
 Well, at least the manget is back in place, now if that'd worked for the arm too that'd be swell.
 ```
 
- `iv-move:Withstand Damage|Starship / Integrity|6|4|0|9|7|move:starforged/suffer/withstand_damage` 
+Echo caught her breath looking at the firestorm for a while, then sighed and activated the vocal interface of the Ilex-zed, trying to avoiding using her arm as much as possible. It answered her with its dry voice, completely personality-free, since Echo hadn't installed any personality modules whatsoever, and in fact used the feature only in emergencies: she heard too many disembodied voices as it was.
+She instructed the ship to find their coordinates and search their database, to see if they knew of somewhere populated close-by.
 
->[!Notes] Next up on Echo's Misfortune Trail...
->I need to remember: Echo wants to go and find someplace to get patched up by someone, not do it herself. Maybe see if there's one of the automated waystations Sable has introduced? 
+`iv-move:Secure an Advantage|Wits|3|3|0|6|4|move:starforged/adventure/secure_an_advantage` 
 
+The ship projected a 3D sphere in front of her, turning it around to show her the surrounding space in all directions.  `iv-ooc:How many is that? Is there just one settlement-or-similar close-by?`  `iv-oracle:Likely|67|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`
+One single dot was lit up in green, the path to get there was already highlighted and it was close enough that it would only require her realspace propulsion to get there, her Eidolon drive would have time to recharge.
+
+```
+ECHO
+Autopilot, activate. Stop the engines before we enter LiDAR range so that we can get a closer look at what we're landing into. Got it?
+```
+
+`iv-move:Explore a Waypoint|Wits|1|3|1|9|4|move:starforged/exploration/explore_a_waypoint|adds=1(Echo already knows that something with people is there, so she's more cautios)`  `iv-meter:Momentum|2|3` 
+`iv-ooc:is it a settlement already known?`  `iv-oracle:50/50|72|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`   `iv-oracle:Location|209|Asteroid|oracle_rollable:starsmith/settlement/location`  `iv-oracle:First Look|297|Restricted, Ring World|oracle_rollable:starsmith/settlement/first_look`  `iv-oracle:Name|129|Eos|oracle_rollable:starsmith/settlement/name` 
+`iv-oracle:Descriptor|259|Haphazard|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|100|Wreckage|oracle_rollable:starsmith/core/focus`   `iv-ooc:And what does Echo encounter here, what's the problem?`  `iv-oracle:Type|91|[Sacred](starforged/oracles/location_theme/sacred)|oracle_rollable:starsmith/location_theme/type`  `iv-oracle:Peril|49|Prophecies portend a dire threat|oracle_rollable:starforged/location_theme/sacred/peril` 
+
+The Ilex-zed drifted close enough to the settlement to give a look to the place, but not enough to be scanned, and a second later another 3D projection made itself known in front of Echo's eyes: the settlement was... well, she had seen stranger, but not by much: it was built on a mixture of enormous pieces of what had once clearly been a planet, and the wreckage of very old starships, all held together by walkways and, apparently, gravitational magnets. 
+Looking back at what Echo had encountered before, it became immediately obvious that there had been a huge battle of some kind, here, and the vast asteroid field she'd seen before had been planets, once.
+
+```
+GROUND CONTROL
+May the grace of the Ones illuminate your spirit. Ilex-zed, our systems warned us of your scan: state your intentions with our Holy Ground.  
+```
+
+
+>[!Note] About the settlement project
+>Putting this here because I'm falling asleep and I want to remember!
+>
+>I'm imagining that in this settlement when they say "holy ground" they mean it literally, so....
+>they're trying to slowly reassemble the pieces of the planet, because it's sacred to them! Cool!
+>
+>Also! Notes for the next few moves: they managed to spot the ilex-zed because of the weak hit, they're now going to be asking questions, and I'm imagining that in a place like this they might not be happy about necromancy, due to their religion.
