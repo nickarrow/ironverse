@@ -122,7 +122,7 @@ Jett has enough data to barter for an exosuit, so he heads back to *The Irony*. 
 
 "I don't want to find out."
 
-`iv-progress:Finish an Expedition|13 - Expedition on Hope|4|3|5|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|5|6|epic|1` 
+`iv-progress:Finish an Expedition|13 - Expedition on Hope|4|3|5|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|5|6|epic|1`  `iv-track-complete:13 - Expedition on Hope|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md` 
 
 Once in orbit, Jett takes a rest and calms down, then reviews his sensor readings from his expedition.  A lot of the recording is corrupted - perhaps it was the background radiation, perhaps it was something more sinister in that bizarre site interfering with his equipment, but either way he was going to have less data than he hoped to trade.  It should still be enough to get the exosuit, but there would be less left over than he would have liked.  He sets a course for Port Koshiba.
 
