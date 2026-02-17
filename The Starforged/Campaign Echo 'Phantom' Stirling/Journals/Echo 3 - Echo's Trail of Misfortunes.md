@@ -95,14 +95,31 @@ Autopilot, activate. Stop the engines before we enter LiDAR range so that we can
 `iv-ooc:is it a settlement already known?`  `iv-oracle:50/50|72|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`   `iv-oracle:Location|209|Asteroid|oracle_rollable:starsmith/settlement/location`  `iv-oracle:First Look|297|Restricted, Ring World|oracle_rollable:starsmith/settlement/first_look`  `iv-oracle:Name|129|Eos|oracle_rollable:starsmith/settlement/name` 
 `iv-oracle:Descriptor|259|Haphazard|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|100|Wreckage|oracle_rollable:starsmith/core/focus`   `iv-ooc:And what does Echo encounter here, what's the problem?`  `iv-oracle:Type|91|[Sacred](starforged/oracles/location_theme/sacred)|oracle_rollable:starsmith/location_theme/type`  `iv-oracle:Peril|49|Prophecies portend a dire threat|oracle_rollable:starforged/location_theme/sacred/peril` 
 
-The Ilex-zed drifted close enough to the settlement to give a look to the place, but not enough to be scanned, and a second later another 3D projection made itself known in front of Echo's eyes: the settlement was... well, she had seen stranger, but not by much: it was built on a mixture of enormous pieces of what had once clearly been a planet, and the wreckage of very old starships, all held together by walkways and, apparently, gravitational magnets. 
+The Ilex-zed drifted close enough to the settlement to give a look to the place, but not enough to be scanned, and a second later another 3D projection made itself known in front of Echo's eyes: the settlement was... well, she had seen stranger, but not by much: it was built on a mixture of enormous pieces of what had once clearly been a planet, and the wreckage of very old starships, all held together by walkways and, apparently, gravitational magnets, in a loosely-shaped ring. 
 Looking back at what Echo had encountered before, it became immediately obvious that there had been a huge battle of some kind, here, and the vast asteroid field she'd seen before had been planets, once.
 
 ```
 GROUND CONTROL
-May the grace of the Ones illuminate your spirit. Ilex-zed, our systems warned us of your scan: state your intentions with our Holy Ground.  
+May the grace of the Ones illuminate your spirit. Ilex-zed, our systems warned us of your scan: state your intentions with our Holy Ground or be ready for retailation.
 ```
 
+`iv-ooc:does Echo know of this place?`  `iv-oracle:Unlikely|79|No|move.oracle_rollable:starforged/fate/ask_the_oracle.unlikely` 
+
+Echo signalled the ship to immediately stop scanning and promptly opened the channel two-ways. She didn't know a thing about Eos, if not that it was in the ship's database, so she'd have to proceed with caution.
+
+```
+ECHO
+Ilex-zed here, Echo speaking. I turned the LiDAR off! I'm here in need of medical assistance.
+
+GROUND CONTROL
+And scanning our community seemed a good idea to you... why?
+
+ECHO
+There have been pirate attacks all over the place, recently, so I've been more cautious, that's all there is to it. Now, I'm requesting permission to land, is that possible?
+```
+`iv-move:Secure an Advantage|Heart|5|2|0|4|8|move:starforged/adventure/secure_an_advantage` 
+
+The voice from Ground Control didn't seem too enthused about her request and she received a list of things not-to-do on their sacred land (which included necromancy, so she'd have to thread carefully and hope to avoid attracting the attention of any spirit), but her explanation was accepted without any fuss and soon she received the landing bay number and a secure vector of approach.
 
 >[!Note] About the settlement project
 >Putting this here because I'm falling asleep and I want to remember!
