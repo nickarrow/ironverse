@@ -1,20 +1,20 @@
 ---
 name: Jett Foley
-xp_spent: 2
+xp_spent: 5
 xp_added: 0
-momentum: 1
+momentum: 3
 edge: 2
 heart: 2
 iron: 1
 shadow: 1
 wits: 3
 health: 4
-spirit: 3
+spirit: 4
 supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 3
-Discoveries_XPEarned: 0
+Discoveries_Progress: 6
+Discoveries_XPEarned: 2
 Quests_Progress: 8
 Quests_XPEarned: 4
 FailureTrack_Progress: 0
@@ -28,7 +28,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 3
+      integrity: 5
       integrity/battered: false
       integrity/cursed: false
     options:
@@ -54,6 +54,16 @@ assets:
       - true
     controls: {}
     options: {}
+  - id: asset:starforged/support_vehicle/exosuit
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      integrity: 6
+      integrity/battered: false
+    options:
+      name: Exosuit
 description: A youthful, scruffy man.  He wears simple spacer clothes.  He is curious and inquisitive.
 ---
 
