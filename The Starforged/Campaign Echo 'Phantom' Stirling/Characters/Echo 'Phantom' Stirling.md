@@ -76,7 +76,9 @@ FailureTrack_XPEarned: 0
 
 ```iron-vault-character-impacts
 ```
-
+(Depicted: The moment where Echo goes "I am Phantom, you must listen to me")
+Credit: Nepturnal_art on IG/Nepturnal on bsky - aka Echo's player!
+![[Echo_recolor.png]]
 ```iron-vault-character-assets
 ```
 >[!CONNECTIONS]- CONNECTIONS
