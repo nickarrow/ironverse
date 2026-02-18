@@ -154,8 +154,6 @@ When he wakes up on the ship the next morning, feeling a little worse for wear, 
 
 Before long, it's as good as new.  Jett is in good spirits and ready to begin his expedition to Pyla.
 
-
-
 `iv-noroll:End a Session|move:starforged/session/end_a_session` 
 
 `iv-meter:Momentum|2|3` 
