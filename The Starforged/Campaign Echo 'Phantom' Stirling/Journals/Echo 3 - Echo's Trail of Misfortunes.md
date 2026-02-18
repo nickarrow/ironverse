@@ -95,7 +95,7 @@ Autopilot, activate. Stop the engines before we enter LiDAR range so that we can
 `iv-ooc:is it a settlement already known?`  `iv-oracle:50/50|72|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`   `iv-oracle:Location|209|Asteroid|oracle_rollable:starsmith/settlement/location`  `iv-oracle:First Look|297|Restricted, Ring World|oracle_rollable:starsmith/settlement/first_look`  `iv-oracle:Name|129|Eos|oracle_rollable:starsmith/settlement/name` 
 `iv-oracle:Descriptor|259|Haphazard|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Focus|100|Wreckage|oracle_rollable:starsmith/core/focus`   `iv-ooc:And what does Echo encounter here, what's the problem?`  `iv-oracle:Type|91|[Sacred](starforged/oracles/location_theme/sacred)|oracle_rollable:starsmith/location_theme/type`  `iv-oracle:Peril|49|Prophecies portend a dire threat|oracle_rollable:starforged/location_theme/sacred/peril` 
 
-The Ilex-zed drifted close enough to the settlement to give a look to the place, but not enough to be scanned, and a second later another 3D projection made itself known in front of Echo's eyes: the settlement was... well, she had seen stranger, but not by much: it was built on a mixture of enormous pieces of what had once clearly been a planet, and the wreckage of very old starships, all held together by walkways and, apparently, gravitational magnets, in a loosely-shaped ring. 
+The Ilex-zed drifted close enough to the settlement to give a look to the place, but not enough to be scanned, and a second later another 3D projection made itself known in front of Echo's eyes. The settlement was... well, she had seen stranger, but not by much: it was built on a mixture of enormous pieces of what had once clearly been a planet, and the wreckage of very old star-ships, all held together by walkways and, apparently, gravitational magnets, in a loosely-shaped ring. 
 Looking back at what Echo had encountered before, it became immediately obvious that there had been a huge battle of some kind, here, and the vast asteroid field she'd seen before had been planets, once.
 
 ```
@@ -112,14 +112,36 @@ ECHO
 Ilex-zed here, Echo speaking. I turned the LiDAR off! I'm here in need of medical assistance.
 
 GROUND CONTROL
-And scanning our community seemed a good idea to you... why?
+And an invasive scan of our community seemed a good idea to you... why?
 
 ECHO
 There have been pirate attacks all over the place, recently, so I've been more cautious, that's all there is to it. Now, I'm requesting permission to land, is that possible?
 ```
 `iv-move:Secure an Advantage|Heart|5|2|0|4|8|move:starforged/adventure/secure_an_advantage` 
 
-The voice from Ground Control didn't seem too enthused about her request and she received a list of things not-to-do on their sacred land (which included necromancy, so she'd have to thread carefully and hope to avoid attracting the attention of any spirit), but her explanation was accepted without any fuss and soon she received the landing bay number and a secure vector of approach.
+The voice from Ground Control didn't seem too enthused about her request and she received a list of things forbidden on their sacred land (which included something about spirits and desecration, so she'd have to thread carefully with her powers and hope to avoid attracting attention), but her explanation was accepted without any fuss and soon she received the landing bay number and a secure vector of approach.
+
+`iv-meter:Momentum|3|5` 
+##### INT. EOS SPACEPORT 
+
+`iv-ooc:Is there an information desk of any kind at the spaceport?`  `iv-oracle:50/50|27|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+`iv-oracle:Expanse|39|Dozens|oracle_rollable:starforged/settlement/population/expanse` 
+
+Echo followed the signage to the information desk, surprised enough to find one in a settlement as sparsely populated as this.
+Of course, when she opened the door to the small cubicle, it became clear that this was a mix between a tourist shop and a temple library of some kind, more than a real information desk.
+Her eyes caught on a few of the book (real, paper books, even) titles present, the most prominent one being about an apparently new, prophesied threat.
+
+```
+DESK ATTENDANT
+May the Ones bring you peace! Are you here for the prophecy?
+
+ECHO
+What? Oh, you too! No, I'm just passing by, can you tell me where the medics are?  
+```
+
+`iv-ooc:Are there any advanced facilities?` `iv-oracle:50/50|39|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+
 
 >[!Note] About the settlement project
 >Putting this here because I'm falling asleep and I want to remember!
