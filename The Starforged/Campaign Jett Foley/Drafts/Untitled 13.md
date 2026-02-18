@@ -120,7 +120,7 @@ Jett has enough data to barter for an exosuit, so he heads back to *The Irony*. 
 
 "What happens when it gets dark?"
 
-"I don't want to find out."
+"I don't want to be here to find out."
 
 `iv-progress:Finish an Expedition|13 - Expedition on Hope|4|3|5|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|5|6|epic|1`  `iv-track-complete:13 - Expedition on Hope|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md` 
 
@@ -152,7 +152,7 @@ When he wakes up on the ship the next morning, feeling a little worse for wear, 
 
 `iv-move:Repair|Supply|2|5|0|9|6|move:starforged/recover/repair`  `iv-meter:Starship / Integrity|3|5` 
 
-Before long, it's as good as new.  Jett is in good spirits and ready to begin his expedition to Pyla.
+Before long, it's as good as new.  Jett is in good spirits and ready to begin his journey to Pyla.
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session` 
 
