@@ -40,13 +40,15 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 > Is it part of the Risen Union?  `iv-oracle:50/50|43|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 `iv-oracle:Character Goal|197|Action + Theme, Establish reputation|oracle_rollable:starsmith/characters/goal`  `iv-oracle:Action + Theme|41|Journey Debt|oracle_rollable:starforgedsupp/templates/actiontheme` `iv-oracle:Type|250|▶Data Harvesters - Keepers of knowledge|oracle_rollable:starsmith/factions/type`  `iv-oracle:Data Harvesters Role|86|Surveillance experts|oracle_rollable:starsmith/factions/role` 
 
-“Have you been seeing the Risen Union
+"Have you noticed the Risen Union showing up more and more lately? There's nothing special at first glance, just another conglomerate charging whole limbs for their goods, in their case mass-produced goods. Even having whole production lines of *gunpowder munitions* fit only for hardscrabble colonist militias.
 
-“And…I should care?
+This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond."
 
-> Has the Risen Union done anythingthat affected Household Serrato?  `iv-oracle:50/50|50|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+“And we're suposed 
 
-The corpse makes Tybalt want to bisect it by dramatically feignIng shock for its puppeteer. “Oh my Stars! And here I thought the Serrato prized family?”
+> Has the Risen Union done anything that affected Household Serrato?  `iv-oracle:50/50|50|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
+
+The corpse makes Tybalt want to bisect it by dramatically feigning shock for its puppeteer. “Oh my Stars! And here I thought the Serrato prized family?”
 
 In the blink of an eye, the persona of an irritating trust-fundee gives way to the cold glare of a blood-drenched spymaster, as he coldly dispels Tybalt’s confusion.
 
