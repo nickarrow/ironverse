@@ -40,8 +40,7 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 > Is it part of the Risen Union?  `iv-oracle:50/50|43|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 `iv-oracle:Character Goal|197|Action + Theme, Establish reputation|oracle_rollable:starsmith/characters/goal`  `iv-oracle:Action + Theme|41|Journey Debt|oracle_rollable:starforgedsupp/templates/actiontheme` `iv-oracle:Type|250|▶Data Harvesters - Keepers of knowledge|oracle_rollable:starsmith/factions/type`  `iv-oracle:Data Harvesters Role|86|Surveillance experts|oracle_rollable:starsmith/factions/role` 
 
-
-“You see, 
+“Have you been seeing the Risen Union
 
 “And…I should care?
 
@@ -53,12 +52,11 @@ In the blink of an eye, the persona of an irritating trust-fundee gives way to t
 
 “Where do you think your father’s body is?”
 
-A minute of stunned silence passes before
-
-“Bullshit.” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
+A minute of stunned silence passes before either responds. “Bullshit” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
 
 “They confirm his *warplate* was near the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?”
 
 `iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
 
-> Does `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+>  `iv-move:Make a Connection|Heart|3|2|0|1|1|move:starforged/connection/make_a_connection`  Does the new contact reside on Reck? `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-oracle:Callsign|126|Darkwing|oracle_rollable:starsmith/characters/name/callsign`  `iv-oracle:Role|98|Scientist, Action + Theme|oracle_rollable:starsmith/characters/role`  `iv-oracle:Action|233|Expose|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|49|Knowledge|oracle_rollable:starsmith/core/theme`  `iv-oracle:Revealed Character Aspect|131|Dynamic|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Rank|84|Extreme|oracle_rollable:sundered_isles/misc/magnitude/rank` 
