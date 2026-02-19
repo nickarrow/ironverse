@@ -44,7 +44,9 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 
 This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond."
 
-“And we're suposed 
+“And we're supposed to just believe you?" Paxel interjects, waving his gun at the reanimated corpse in flagrant violation of gun safety, and Tybalt nods in the scavenger's direction
+
+"And that is just the most relevant thing. Why should I care what skeletons the Risen Union keep in their closet? Knowledge is power in the Forge, of course it is hoarded. Why should they distract from my Iron Vow?"
 
 > Has the Risen Union done anything that affected Household Serrato?  `iv-oracle:50/50|50|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
 
@@ -52,13 +54,15 @@ The corpse makes Tybalt want to bisect it by dramatically feigning shock for its
 
 In the blink of an eye, the persona of an irritating trust-fundee gives way to the cold glare of a blood-drenched spymaster, as he coldly dispels Tybalt’s confusion.
 
-“Where do you think your father’s body is?”
+“What if your father's corpse was in that closet?”
 
 A minute of stunned silence passes before either responds. “Bullshit” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
 
-“They confirm his *warplate* was near the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?”
+“They confirm his *warplate* was near the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?” The corpse suggests, and the almost knowing tone has Tybalt wanting to punch his throat out to vent the building maelstrom of emotion.
+
+"So what?"
 
 `iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
 
 
->  `iv-move:Make a Connection|Heart|3|2|0|1|1|move:starforged/connection/make_a_connection`  Does the new contact reside on Reck? `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-oracle:Callsign|126|Darkwing|oracle_rollable:starsmith/characters/name/callsign`  `iv-oracle:Role|98|Scientist, Action + Theme|oracle_rollable:starsmith/characters/role`  `iv-oracle:Action|233|Expose|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|49|Knowledge|oracle_rollable:starsmith/core/theme`  `iv-oracle:Revealed Character Aspect|131|Dynamic|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Rank|84|Extreme|oracle_rollable:sundered_isles/misc/magnitude/rank` 
+>  `iv-move:Make a Connection|Heart|3|2|0|1|1|move:starforged/connection/make_a_connection`  Does the new contact reside on Reck? `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-oracle:Callsign|126|Darkwing|oracle_rollable:starsmith/characters/name/callsign`  `iv-oracle:Role|98|Scientist, Action + Theme|oracle_rollable:starsmith/characters/role`  `iv-oracle:Action|233|Expose|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|49|Knowledge|oracle_rollable:starsmith/core/theme`  `iv-oracle:Revealed Character Aspect|131|Dynamic|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Rank|84|Extreme|oracle_rollable:sundered_isles/misc/magnitude/rank`  `iv-entity-create:NPC|Telrai Telemachon|The Starforged/NPCs/Telrai Telemachon.md`  `iv-oracle:First Look|176|Prim|oracle_rollable:starsmith/characters/first_look`  `iv-track-create:Dr. Telrai's Bizarre Company|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Bizarre Company.md` 
