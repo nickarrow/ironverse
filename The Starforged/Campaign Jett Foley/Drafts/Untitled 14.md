@@ -82,7 +82,7 @@ The e-drive is completely irreparable.  "There's nothing I can do," says Jett, "
 
 ---
 
-Jett continues on to Pyla, and arrives without further incident.  He brings *The Irony* down next to the ship he wants to examine.  It's a multipurpose ship like his own, and looks to be in perfect condition despite sitting in the corrosive atmosphere of Pyla for an untold amount of time.  He puts on his exosuit and steps outside.
+Jett continues on to Pyla, and arrives without further incident.  He brings *The Irony* down next to the ship he wants to examine.  It's a multipurpose ship like his own, but has clearly been sitting in the corrosive atmosphere of Pyla for some time.  He puts on his exosuit and steps outside.
 
 >Is there any reaction from the other ship?  `iv-oracle:50/50|66|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
@@ -92,10 +92,75 @@ Jett makes his way over to the ship and uses the manual override to open the air
 
 `iv-oracle:Descriptor|4|Advanced|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|84|Symbol|oracle_rollable:starforged/core/focus` 
 
-The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  But Jett is drawn to a recurring symbol - a shield with a fractal inside, its curves showing infinite complexity, limited only by the tools used to create the symbol.
+The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  Jett is drawn to a recurring symbol - a white nucleus being orbited by three electrons, one red, one blue, one yellow.
 
 >Does Jett recognize the symbol?  `iv-oracle:50/50|21|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Is it from an already introduced faction?  `iv-oracle:50/50|98|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Does Jett know where he's seen the symbol before?  `iv-oracle:50/50|39|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-Jett recognises the symbol immediately - it was the symbol of the organization that created him; he'd seen it on the walls of the facility where he was 'born'.  But that facility had been abandoned for decades, this ship was much newer than that - there must be another base somewhere, one that's still operational.  
+Jett recognises the symbol immediately - the Xinxi Institute.  He was working for them when he was kidnapped by the Void Cobras, this must be one of their ships.  But what happened to the pilot?  Jett inspects the escape pods, and one is missing.  They'd made it out; no way of finding them now.  The ship has no power so Jett can't interrogate the data banks to find out what happened here.  He heads back to *The Irony*.
+
+"Did you find any clues?" asks Eris.
+
+"It's a Xinxi Institute ship.  The pilot ejected."
+
+"So what now?"
+
+"It's far too much of a coincidence to ignore, it has to be related to my mission.  We're going back to Xinxi."
+
+"Let me guess, you're going to keep your word to the woman who wanted to shoot you before you leave."
+
+"I swore a vow.  Let's check the derelicts in orbit for a working e-drive, I don't want to have to buy one out of pocket."
+
+---
+
+Jett is in his EVA suit approaching the derelict ship.  He uses the manual override and opens the airlock.
+
+`iv-track-create:14 - Expedition on derelict|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md` 
+
+`iv-move:Undertake an Expedition|Wits|1|3|0|5|5|move:starforged/exploration/undertake_an_expedition` 
+
+>Using Navigator to make this an automatic Strong Hit.
+
+`iv-track-advance:14 - Expedition on derelict|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md|0|12|troublesome|1` 
+
+Jett makes his way to the engineering section.  He checks to see if the e-drive is salvagable.
+
+>Not sure what to roll for this but Resupply seems closest since it talks about scavenging
+
+`iv-move:Resupply|Wits|6|3|0|2|3|move:starforged/recover/resupply` 
+
+Jett finds the e-drive is intact and scans show it's in working order, just unpowered.  He detaches it and transfers it over to *The Irony*, a maneuver that would be impossible on the surface but is doable in zero-gravity.
+
+`iv-track-advance:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|0|12|troublesome|1` 
+
+Since he's already docked, he decides to take a look around the ship to see if there's anything else useful aboard.
+
+`iv-move:Undertake an Expedition|Wits|4|3|0|6|7|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:14 - Expedition on derelict|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md|12|24|troublesome|1` 
+
+`iv-oracle:Starship|85|Operations|oracle_rollable:starforged/derelict/zone/starship` 
+
+`iv-oracle:Peril|4|Automated defenses target you|oracle_rollable:starforged/derelict/operations/peril` 
+
+There's an autoturret still active in the cockpit - it must have its own power source.  It targets Jett, who ducks out of its line of sight.
+
+`iv-move:Face Danger|Edge|2|2|0|9|6|move:starforged/adventure/face_danger`  `iv-meter:Health|4|2`  `iv-move:Endure Harm|Health|2|2|0|9|2|move:starforged/suffer/endure_harm`  `iv-meter:Momentum|4|3`  `iv-meter:Health|2|3` 
+
+He doesn't move fast enough, and a bullet grazes his upper arm.  He quickly heads back to his own ship, not wanting to risk encountering any further defenses.
+
+`iv-progress:Finish an Expedition|14 - Expedition on derelict|6|10|2|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:14 - Expedition on derelict|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md`  `iv-track-advance:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|12|24|troublesome|1` 
+
+The ship's automated defenses spring to life as Jett sprints back to his own ship and undocks.  He quickly sets a course for Port Koshiba.
+
+---
+
+`iv-move:Set a Course|Supply|5|5|0|6|7|move:starforged/exploration/set_a_course` 
+
+Once at Koshiba, he tries to find a tech who's willing to go and help a stranded ship in trouble.
+
+`iv-move:Compel|Heart|3|2|0|4|9|move:starforged/adventure/compel` 
+
+He finds someone who's willing to go, but not for free - he has to give them the two broken utility droids in trade.
+
+`iv-track-advance:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|24|36|troublesome|1`  `iv-progress:Fulfill Your Vow|14 - Send a tech with an e-drive to help Sage|9|3|3|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|8|9|epic|1`  `iv-track-complete:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md` 
+

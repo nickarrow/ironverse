@@ -1,10 +1,10 @@
 ---
-name: 14 - Send a tech with an e-drive to help Sage
+name: 14 - Expedition on derelict
 rank: troublesome
-progress: 36
+progress: 24
 tags:
   - complete
-track-type: Vow
+track-type: Expedition
 character: "[[The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md]]"
 iron-vault-kind: progress
 ---
