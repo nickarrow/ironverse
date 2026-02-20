@@ -2,7 +2,7 @@
 name: Tybalt-Yhen Serrato
 xp_spent: 12
 xp_added: 0
-momentum: 10
+momentum: 4
 edge: 1
 heart: 2
 iron: 3
@@ -13,7 +13,7 @@ spirit: 5
 supply: 3
 Quests_Progress: 12
 Quests_XPEarned: 6
-Bonds_Progress: 6
+Bonds_Progress: 7
 Bonds_XPEarned: 2
 Discoveries_Progress: 10
 Discoveries_XPEarned: 4

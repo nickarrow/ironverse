@@ -42,7 +42,7 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 
 "Have you noticed the Risen Union showing up more and more lately? There's nothing special at first glance, just another conglomerate charging whole limbs for their goods, in their case mass-produced goods. Even having whole production lines of *gunpowder munitions* fit only for hardscrabble colonist militias.
 
-This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond."
+This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond. This one was merely a chess piece moved by their hand, who got his ambitions stoked by a sizeable payout and the potential fame of taking the head of a Serrato captain.”
 
 “And we're supposed to just believe you?" Paxel interjects, waving his gun at the reanimated corpse in flagrant violation of gun safety, and Tybalt nods in the scavenger's direction
 
@@ -54,15 +54,39 @@ The corpse makes Tybalt want to bisect it by dramatically feigning shock for its
 
 In the blink of an eye, the persona of an irritating trust-fundee gives way to the cold glare of a blood-drenched spymaster, as he coldly dispels Tybalt’s confusion.
 
-“What if your father's corpse was in that closet?”
+“What if your father's corpse was in that closet? Literally, not merely in metaphor.”
 
 A minute of stunned silence passes before either responds. “Bullshit” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
 
-“They confirm his *warplate* was near the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?” The corpse suggests, and the almost knowing tone has Tybalt wanting to punch his throat out to vent the building maelstrom of emotion.
+“They confirm his *warplate* was detected the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?” The corpse suggests.
 
-"So what?"
+“But to what end?” Tybalt asks in a low growl, confusion fermenting into blood-red fury in his breast as the concept took root in his mind.
 
-`iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1` 
+The corpse shrugs. “That remains to be discovered. This isn’t a holodrama, Tybalt-Yhen, I do not inexplicably have all the answers for you. What I can tell you is that the trail leads to the Risen Union’s planetary holdings on Audun.”
 
+“How convenient.” Paxel comments dryly, his obvious disbelief pulling Tybalt out of his singular train of thought. “*”OooOh, there’s good stuff right here, just over this ledge, go on take a look.”* You think I haven’t pulled that trick on someone? Maybe put something on the line that actually means something, if you’re not just trying to get us to wipe out your competition free of charge.”
+
+`iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1`  `iv-move:Swear an Iron Vow|Heart|1|2|0|3|9|move:starforged/quest/swear_an_iron_vow|burn=10:2`  `iv-track-advance:bonds|The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt-Yhen Serrato.md|6|7|epic|1`  `iv-meter:Momentum|2|4` 
+
+Annoyance was writ clear upon the stolen face of their guest, but he ultimately sighs and gestures to *Shattersky*. Understanding the implication, Tybalt holds out the axe to him, black iron head first, which he lays a stolen hand on.
+
+“Though it serves my purposes that you follow my suggestion, I swear to you, On Iron, that what I have said about your father’s fate, and the involvement of the Risen Union, is true. Let this axe taste my lifesblood if I have spoken false.”
+
+Through all this, Tybalt and Paxel search for any trace of falsehood in the vow…and finds none.
+`iv-track-create:Raze the RU Offices in Port Koshiba to the ground|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Raze the RU Offices in Port Koshiba to the ground.md` 
+
+“How much is there to kill?” Tybalt says at last. `iv-move:Gather Information|Wits|1|2|0|5|5|move:starforged/adventure/gather_information` 
+
+Without prompting, data filters onto his HUD, and though he expects little will come of it Tybalt makes a mental note to overhaul his armor’s digital defences “They’ve a factory in the underground sections, but leaving that intact to be taken over by their rivals will make it easier for you to leave Port Koshiba unchallenged. 
+
+No, the greater issue for you is that the administrative centre of the RU is in the Oldtown district: The original settlement before they had to expand. Luxurious apartments, garden-domes, regular patrols of law enforcement, it is Audun’s little slice of Sirona. Which is to say, barging in with mag-cannons firing will alienate all those who matter in Port Koshiba.”
+
+As if sensing that Tybalt’s current solution to this conundrum was “Not Caring”, he then adds “And to cause the havoc that comes with a full assault would be disruptive to Port Koshiba, and would harm the interests of the Circle of the Elder Stars. And the Serrato *are* loyal to the Circle and Conclave, are they not?“
+
+Many commanders from other houses (and in fact many from House Serrato as well) would rage and rail at the insinuation, whether true or otherwise. Tybalt recoiled as if physically struck.
+
+“You do not need to lecture me like some unruly cargo-loader. If the Conclave wishes the indolence of Port Koshiba’s highest undisturbed, then none will note my passage. Will we meet again, after they are dealt with?”
 
 >  `iv-move:Make a Connection|Heart|3|2|0|1|1|move:starforged/connection/make_a_connection`  Does the new contact reside on Reck? `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-oracle:Callsign|126|Darkwing|oracle_rollable:starsmith/characters/name/callsign`  `iv-oracle:Role|98|Scientist, Action + Theme|oracle_rollable:starsmith/characters/role`  `iv-oracle:Action|233|Expose|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|49|Knowledge|oracle_rollable:starsmith/core/theme`  `iv-oracle:Revealed Character Aspect|131|Dynamic|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Rank|84|Extreme|oracle_rollable:sundered_isles/misc/magnitude/rank`  `iv-entity-create:NPC|Telrai Telemachon|The Starforged/NPCs/Telrai Telemachon.md`  `iv-oracle:First Look|176|Prim|oracle_rollable:starsmith/characters/first_look`  `iv-track-create:Dr. Telrai's Bizarre Company|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Bizarre Company.md` 
+
+“No.” He says with the surety of one saying that water is wet. “But now that I have your measure…I think there is someone you should meet.”
