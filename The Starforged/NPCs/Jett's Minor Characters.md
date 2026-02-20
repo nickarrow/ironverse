@@ -97,6 +97,16 @@ Lucas
 | Revealed Aspect     |                                                                    |
 | Location            | [[Port Koshiba]]                                                   |
 | Notes:              | Lucas works at the [[Cartographers Guild]] office at Port Koshiba. |
+|                     |                                                                    |
+
+Sage Archer
+
+`iv-oracle:Given Name|83|Sage|oracle_rollable:starforged/character/name/given_name`  `iv-oracle:Family Name|66|Archer|oracle_rollable:starforged/character/name/family_name`  
+`iv-oracle:First Look|81|Tattooed|oracle_rollable:starforged/character/first_look`  `iv-oracle:First Look|25|Augmented|oracle_rollable:starforged/character/first_look` 
+`iv-oracle:Initial Disposition|32|Indifferent|oracle_rollable:starforged/character/initial_disposition` 
+Character Role: Smuggler
+`iv-oracle:Character Goal|79|Undermine a relationship|oracle_rollable:starforged/character/goal` 
+NOTES: Jett found Sage aboard a starship (the Elara Five) giving off a distress signal.
 
 | Name                |     |
 | ------------------- | --- |
