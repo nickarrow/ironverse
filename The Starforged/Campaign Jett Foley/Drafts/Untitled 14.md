@@ -92,25 +92,25 @@ Jett makes his way over to the ship and uses the manual override to open the air
 
 `iv-oracle:Descriptor|4|Advanced|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|84|Symbol|oracle_rollable:starforged/core/focus` 
 
-The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  Jett is drawn to a recurring symbol - a white nucleus being orbited by three electrons, one red, one blue, one yellow.
+The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  Jett is drawn to a recurring symbol - a circle with a fiery corona.
 
 >Does Jett recognize the symbol?  `iv-oracle:50/50|21|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Is it from an already introduced faction?  `iv-oracle:50/50|98|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Does Jett know where he's seen the symbol before?  `iv-oracle:50/50|39|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-Jett recognises the symbol immediately - the Xinxi Institute.  He was working for them when he was kidnapped by the Void Cobras, this must be one of their ships.  But what happened to the pilot?  Jett inspects the escape pods, and one is missing.  They'd made it out; no way of finding them now.  The ship has no power so Jett can't interrogate the data banks to find out what happened here.  He heads back to *The Irony*.
+Jett recognizes the symbol immediately - the Polestar Institute.  He was working for them when he was kidnapped by the Void Cobras, this must be one of their ships.  But what happened to the pilot?  Jett inspects the escape pod, it is missing.  They'd made it out; no way of finding them now.  The ship has no power so Jett can't interrogate the data banks to find out what happened here.  He heads back to *The Irony*.
 
 `iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|24|32|dangerous|1` 
 
 "Did you find any clues?" asks Eris.
 
-"It's a Xinxi Institute ship.  The pilot ejected."
+"It's a Polestar Institute ship.  The pilot ejected."
 
 "So what now?"
 
-"It's far too much of a coincidence to ignore, it has to be related to my mission.  We're going back to Xinxi."
+"It's far too much of a coincidence to ignore, it has to be related to my mission.  We're going back to Polestar."
 
-"Let me guess, you're going to keep your word to the woman who wanted to shoot you before you leave."
+"Let me guess, you want to to keep your word to that woman who wanted to shoot you before you leave?"
 
 "I swore a vow.  Let's check the derelicts in orbit for a working e-drive, I don't want to have to buy one out of pocket."
 
@@ -172,5 +172,60 @@ He finds someone who's willing to go, but not for free - he has to give them the
 >  `iv-progress:Fulfill Your Vow|12 - Deliver Burrow Nav Data|6|6|2|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md|move:starforged/quest/fulfill_your_vow` 
 >   `iv-track-complete:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md`  `iv-track-complete:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md` 
 
+---
 
+A few days later, Jett arrives at the Apollo Center, home of the Polestar Institute.  He is cleared for landing and immediately makes his way to the Director's office.
 
+`iv-move:Make a Connection|Heart|3|2|0|2|3|move:starforged/connection/make_a_connection`  `iv-track-create:Connection - Althea Taylan|The Starforged/Campaign Jett Foley/Progress/Jett/Connections/Connection - Althea Taylan.md` 
+
+"Jett, I'm glad to see you.  You just up and vanished, we thought the worst."
+
+"I was captured by pirates, and then things kind of spiraled out of control after that."
+
+"Oh dear.  And you managed to escape?"
+
+"They wanted me to work a case for them, they let me go once I'd cracked it."
+
+"Well, that's good to hear."
+
+"What about here?  I noticed some rather obvious structural damage as I came in - were you attacked?"
+
+"Nothing so dramatic; an experiment went wrong and took a chunk out of the exterior wall.  Fortunately we were able to seal the area with no loss of life; rebuilding efforts are underway.  So.  You're back.  Do you want to go back to work right away or did you need some time to recuperate?"
+
+"There's more to the story," says Jett, "It's kind of a long story, but the reason I came back is I found an Institute ship in a ship graveyard.  I was drawn to it, I think it has something to do with my destiny.  The escape pod was missing, I don't know what happened to the pilot."
+
+"Well, if you give us the route we'll send a team to investigate it thoroughly.  Maybe the pilot is still out there."
+
+"I will.  Have you heard of the Ascendancy of the Awakened Worlds?  I've had a few run-ins with them."
+
+The Director pauses for a moment.  "We...we'd better talk about that another time, Jett.  You've had a long journey; you should rest."
+
+"But..."
+
+"I insist.  You look exhausted.  Your old room is still free, we kept it as it was in the hope you'd be back one day.  Go and take a rest, get settled back in, then we'll talk about the Ascendancy and missions and things like that."
+
+"Ok, Althea.  Thanks."
+
+---
+
+`iv-move:Sojourn|Heart|1|2|0|9|9|move:starforged/recover/sojourn` 
+
+Jett goes for a walk around the station to clear his head.  He runs into a junior researcher with a new invention - it's supposedly a new kind of sensor that records battle data passively in unprecedented levels of detail.  He wants to use it to train a new kind of AI for starship battles, but nobody on the station is willing to try it out - they're researchers and avoid battles wherever possible.  After Eris scans the device to make sure it's safe, Jett vows to use the device until its memory banks are full, then return it to the man.
+
+`iv-track-create:14 - Record Space Battle Data and Return It To Apollo|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Record Space Battle Data and Return It To Apollo.md` 
+
+He goes to the medstation and has his wounds taken care of. 
+
+`iv-meter:Health|3|5` 
+
+He goes to the bar and catches up with old acquaintances. 
+
+`iv-meter:Spirit|4|5` 
+
+Feeling refreshed, Jett is ready to return to the Director's office to discuss his next move.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+`iv-meter:Momentum|3|4` 
