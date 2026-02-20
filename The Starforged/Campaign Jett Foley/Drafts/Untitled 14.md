@@ -92,9 +92,10 @@ Jett makes his way over to the ship and uses the manual override to open the air
 
 `iv-oracle:Descriptor|4|Advanced|oracle_rollable:starforged/core/descriptor`  `iv-oracle:Focus|84|Symbol|oracle_rollable:starforged/core/focus` 
 
-The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  But Jett is drawn to a recurring symbol - a horizontal line with an arrow pointing up and a semicircle over the top.
+The interior of the ship is much like you'd expect a ship to be - there's a cargo area, an engineering area, a cockpit and a crew area.  But Jett is drawn to a recurring symbol - a shield with a fractal inside, its curves showing infinite complexity, limited only by the tools used to create the symbol.
 
 >Does Jett recognize the symbol?  `iv-oracle:50/50|21|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Is it from an already introduced faction?  `iv-oracle:50/50|98|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 >Does Jett know where he's seen the symbol before?  `iv-oracle:50/50|39|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
+Jett recognises the symbol immediately - it was the symbol of the organization that created him; he'd seen it on the walls of the facility where he was 'born'.  But that facility had been abandoned for decades, this ship was much newer than that - there must be another base somewhere, one that's still operational.  
