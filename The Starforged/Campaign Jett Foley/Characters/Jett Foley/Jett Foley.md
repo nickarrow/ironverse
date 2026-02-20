@@ -15,7 +15,7 @@ Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 6
 Discoveries_XPEarned: 2
-Quests_Progress: 9
+Quests_Progress: 11
 Quests_XPEarned: 4
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0

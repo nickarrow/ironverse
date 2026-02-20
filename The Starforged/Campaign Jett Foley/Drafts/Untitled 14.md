@@ -100,6 +100,8 @@ The interior of the ship is much like you'd expect a ship to be - there's a carg
 
 Jett recognises the symbol immediately - the Xinxi Institute.  He was working for them when he was kidnapped by the Void Cobras, this must be one of their ships.  But what happened to the pilot?  Jett inspects the escape pods, and one is missing.  They'd made it out; no way of finding them now.  The ship has no power so Jett can't interrogate the data banks to find out what happened here.  He heads back to *The Irony*.
 
+`iv-track-advance:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|24|32|dangerous|1` 
+
 "Did you find any clues?" asks Eris.
 
 "It's a Xinxi Institute ship.  The pilot ejected."
@@ -163,4 +165,12 @@ Once at Koshiba, he tries to find a tech who's willing to go and help a stranded
 He finds someone who's willing to go, but not for free - he has to give them the two broken utility droids in trade.
 
 `iv-track-advance:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|24|36|troublesome|1`  `iv-progress:Fulfill Your Vow|14 - Send a tech with an e-drive to help Sage|9|3|3|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|8|9|epic|1`  `iv-track-complete:14 - Send a tech with an e-drive to help Sage|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md` 
+
+>Just realized I forgot to fulfil my vow to get to Pyla so I'll do that now
+> `iv-progress:Fulfill Your Vow|07a - Get to Pyla|8|2|6|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|9|11|epic|2` 
+> Also delivering the nav data from Burrow which I did last update
+>  `iv-progress:Fulfill Your Vow|12 - Deliver Burrow Nav Data|6|6|2|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md|move:starforged/quest/fulfill_your_vow` 
+>   `iv-track-complete:12 - Deliver Burrow Nav Data|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md`  `iv-track-complete:07a - Get to Pyla|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md` 
+
+
 
