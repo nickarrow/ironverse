@@ -15,7 +15,7 @@
 
 ### [[Sable 02 - Meeting Merrick and Tracking Branta’s|Session 2 - Meeting Merrick and Tracking Branta’s]]
 - [[To the Delivery Point Glimmer Job|Sable Made it To Where She Was Delivering The Package]] [[Meridian|a Place Called Meridian]] [[Ory|On Ory]]
-- [[Courier Job Glimmer Outpost|Sable Completed the Deliver To Merrick Arden]]
+- [[Courier Job Glimmer Outpost|Sable Completed the Delivery To Merrick Arden]]
 - [[Ganden's Courier Job|Ganden had a courier job for Sable, but with a weak hit she has to figure out]] [[Find Someone to Check Her Ship|what Merrick did to her ship.]]
 - [[Merrick Arden|Merrick has cemented himself into Sable’s life.]]
 - [[Tiny Sana|On her journey she found a dying branta and ended up being tasked with helping it’s infant]] [[Find the Branta Pod|to find a new place to call home.]]
