@@ -5,7 +5,7 @@ progress: 36
 tags:
   - incomplete
 track-type: Scene Challenge
-character: "[[Sable Rowe]]"
+character: "[[The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
 ---
 

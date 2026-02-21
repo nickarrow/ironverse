@@ -5,7 +5,7 @@ progress: 32
 tags:
   - complete
 track-type: Expedition
-character: "[[Sable Rowe]]"
+character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
 iron-vault-kind: progress
 ---
 
