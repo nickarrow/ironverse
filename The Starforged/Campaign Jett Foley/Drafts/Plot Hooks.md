@@ -12,7 +12,7 @@
 - What happened to Valora's Comet (updates 7-9)
 - The strike team sent to help Jett
 - What happened to Bri
-- What happened with the experimental AI on Bri's ship
+- What happened with the experimental AI on Bri's old ship
 - What was the deal with the 'chaotic lifeform' on Pyla?
 - Did Jett meet anyone in prison on Koshiba
 - What happened to Sage Archer
