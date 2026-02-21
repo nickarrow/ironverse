@@ -5,7 +5,7 @@ progress: 40
 tags:
   - complete
 track-type: Combat
-character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
+character: "[[Sable Rowe]]"
 iron-vault-kind: progress
 ---
 

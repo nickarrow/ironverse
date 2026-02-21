@@ -5,7 +5,7 @@ progress: 4
 tags:
   - incomplete
 track-type: Connection
-character: "[[The Starforged/Characters/Sable Rowe/Sable Rowe.md]]"
+character: "[[Sable Rowe]]"
 iron-vault-kind: progress
 ---
 

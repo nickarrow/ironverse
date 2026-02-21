@@ -5,7 +5,7 @@ progress: 8
 tags:
   - incomplete
 track-type: Vow
-character: "[[The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md]]"
+character: "[[Sable Rowe]]"
 iron-vault-kind: progress
 ---
 
