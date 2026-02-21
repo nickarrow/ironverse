@@ -1,0 +1,19 @@
+
+- What's happening with Sofia
+- What's happening with Bones
+- What's happening with Machete
+- What's happening with the Snakepit
+- What happened to Shen and the gang
+- Will Jett visit Tranquilo
+- Will Jett look into The Array
+- What happened to Failsafe's sister
+- Ascendancy attacks
+- Ascendancy dreadnought
+- What happened to Valora's Comet (updates 7-9)
+- The strike team sent to help Jett
+- What happened to Bri
+- What happened with the experimental AI on Bri's ship
+- What was the deal with the 'chaotic lifeform' on Pyla?
+- Did Jett meet anyone in prison on Koshiba
+- What happened to Sage Archer
+- What happened to the pilot of the Polestar ship on Pyla

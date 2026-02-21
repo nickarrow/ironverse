@@ -99,6 +99,7 @@ GEAR
 - Black iron ring on a chain around his neck
 - Full-face rebreather mask
 - Memoryform multipurpose sidearm (Securely stored on the ship)
+- Strange pyramid with mystical properties
 
 NOTES
 

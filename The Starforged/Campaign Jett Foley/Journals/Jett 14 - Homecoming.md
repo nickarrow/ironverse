@@ -192,7 +192,7 @@ A few days later, Jett arrives at the Apollo Center, home of the Polestar Instit
 
 "Nothing so dramatic; an experiment went wrong and took a chunk out of the exterior wall.  Fortunately we were able to seal the area with no loss of life; rebuilding efforts are underway.  So.  You're back.  Do you want to go back to work right away or did you need some time to recuperate?"
 
-"There's more to the story," says Jett, "It's kind of a long story, but the reason I came back is I found an Institute ship in a ship graveyard.  I was drawn to it, I think it has something to do with my destiny.  The escape pod was missing, I don't know what happened to the pilot."
+"There's more to the story," says Jett, "It's kind of a long story, but the reason I came back is I found an Institute ship in a ship graveyard on a planet called Pyla.  I was drawn to it, I think it has something to do with my destiny.  The escape pod was missing, I don't know what happened to the pilot."
 
 "Well, if you give us the route we'll send a team to investigate it thoroughly.  Maybe the pilot is still out there."
 
@@ -218,11 +218,11 @@ He goes to the medstation and has his wounds taken care of.
 
 `iv-meter:Health|3|5` 
 
-He goes to the bar and catches up with old acquaintances. 
+He goes to the bar and catches up with old acquaintances.  He gets all the latest gossip from the station, and tells everybody about his adventures - the pirates, the space battles, the ghost, jail, the giant man in the underground city, Pyla.  Recounting it all again makes Jett appreciate how much he's gone through in a short space of time.
 
 `iv-meter:Spirit|4|5` 
 
-Feeling refreshed, Jett is ready to return to the Director's office to discuss his next move.
+Jett goes back to his room.  It's exactly as he remembers it.  He gets into bed and falls into a long, deep sleep.
 
 ---
 
