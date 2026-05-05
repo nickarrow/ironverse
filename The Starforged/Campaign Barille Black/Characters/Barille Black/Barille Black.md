@@ -52,28 +52,22 @@ pronouns: He/Him
 player: NickArrow
 description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
 ---
-![[barille black profile.png|center|100]] 
-
-```iron-vault-character-stats
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
-```
+![[barille black profile.png|100]]
 
 ```iron-vault-character-meters
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
-> [!assets]- ASSETS
+> [!info]- ASSETS
 > ```iron-vault-character-assets
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!gear]- GEAR
+> [!tldr]- GEAR
 > - A compact multitool capable of 'light' matter manipulation
 > - Hand terminal
 > - Kinetic pistol
 > - A leather bound journal and pen
 > - A coin of black iron, embossed with an insignia
 
-> [!in-progress]- TRACKS IN-PROGRESS
+> [!example]- TRACKS IN-PROGRESS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
@@ -92,7 +86,7 @@ The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > SORT file.mtime DESC
 > ```
 
-> [!bonds]- BONDS
+> [!hint]- BONDS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Bonds"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
@@ -101,17 +95,15 @@ The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > SORT file.mtime DESC
 > ```
 
-> [!impacts]- IMPACTS
+> [!warning]- IMPACTS
 > ```iron-vault-character-impacts
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!legacies]- LEGACIES
+> [!error]- LEGACIES
 > ```iron-vault-character-special-tracks
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!complete]- TRACKS COMPLETED
+> [!success]- TRACKS COMPLETED
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
