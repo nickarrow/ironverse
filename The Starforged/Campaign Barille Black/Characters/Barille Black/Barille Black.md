@@ -23,7 +23,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls: {}
     options: {}
   - id: asset:starforged/path/bounty_hunter
@@ -52,24 +52,21 @@ pronouns: He/Him
 player: NickArrow
 description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
 ---
-![[barille black profile.png|center|100]] 
+# ![[barille black profile.png|25]] Barille Black
 
 ```iron-vault-character-meters
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
-> [!assets]- ASSETS
+> [!tip]- ASSETS
 > ```iron-vault-character-assets
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!gear]- GEAR
-> - A compact multitool capable of 'light' matter manipulation
-> - Hand terminal
-> - Kinetic pistol
-> - A leather bound journal and pen
-> - A coin of black iron, embossed with an insignia
+> [!abstract]- NOTES
+> [[Barille 01 - Beginnings]]
+> [[Barille 02 - Reck]]
+> [[Barille 03 - Searching Through Reck]]
+> [[Barille 04 - Name TBD]]
 
-> [!in-progress]- TRACKS IN-PROGRESS
+> [!example]- TRACKS IN-PROGRESS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
@@ -88,7 +85,7 @@ The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > SORT file.mtime DESC
 > ```
 
-> [!bonds]- BONDS
+> [!info]- BONDS
 > ```dataview
 > TABLE WITHOUT ID file.link as "Bonds"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
@@ -97,17 +94,15 @@ The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > SORT file.mtime DESC
 > ```
 
-> [!impacts]- IMPACTS
+> [!warning]- IMPACTS
 > ```iron-vault-character-impacts
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!legacies]- LEGACIES
+> [!error]- LEGACIES
 > ```iron-vault-character-special-tracks
-> The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 > ```
 
-> [!complete]- TRACKS COMPLETED
+> [!success]- TRACKS COMPLETED
 > ```dataview
 > TABLE WITHOUT ID file.link as "Vows"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
