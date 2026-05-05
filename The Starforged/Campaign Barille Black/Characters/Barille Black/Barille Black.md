@@ -54,10 +54,6 @@ description: "Often wearing his dark blue suit, loosened at the neck. Barille ha
 ---
 ![[barille black profile.png|center|100]] 
 
-```iron-vault-character-stats
-The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
-```
-
 ```iron-vault-character-meters
 The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black
 ```
