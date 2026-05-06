@@ -22,10 +22,5 @@
 		-  `iv-noroll:Take a Break|move:starforged/session/take_a_break`  `iv-ooc:Barille is going to come out swinging when I get back. ` 
 - Picking this back up
 
-This is just like having a writing keyboard except I am drawing out the patterns of words instead of the words themselves. How is this feels. 
-
-![[Braille 04- Name TBD.png]]
-
-![[Braille 04- Name TBD 2.png]]
-
-![[Image.png]]
+![[Braille.png]]
+￼
