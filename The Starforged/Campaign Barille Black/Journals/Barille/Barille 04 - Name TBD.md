@@ -21,3 +21,4 @@
 		-  `iv-meter:Health|3|1`  `iv-move:Endure Harm|Iron|5|2|0|8|10|move:starforged/suffer/endure_harm`  `iv-meter:Momentum|3|1` 
 		-  `iv-noroll:Take a Break|move:starforged/session/take_a_break`  `iv-ooc:Barille is going to come out swinging when I get back. ` 
 - Picking this back up
+`iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
