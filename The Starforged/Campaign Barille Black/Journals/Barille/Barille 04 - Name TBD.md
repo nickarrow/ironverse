@@ -21,3 +21,10 @@
 		-  `iv-meter:Health|3|1`  `iv-move:Endure Harm|Iron|5|2|0|8|10|move:starforged/suffer/endure_harm`  `iv-meter:Momentum|3|1` 
 		-  `iv-noroll:Take a Break|move:starforged/session/take_a_break`  `iv-ooc:Barille is going to come out swinging when I get back. ` 
 - Picking this back up
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "The Starforged/Campaign Barille Black/Journals/Barille/Ink/Writing/2026.5.12 - 22.28pm.writing"
+}
+```
