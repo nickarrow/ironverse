@@ -1,5 +1,5 @@
 ---
-name: Campaign Eris "Chimera" Argyris
+name: Campaign Eris 'Chimera' Argyris
 ironvault:
   playset:
     type: globs
