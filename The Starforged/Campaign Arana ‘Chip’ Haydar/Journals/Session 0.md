@@ -5,7 +5,6 @@ oracle name="[Templates \/ Action + Theme](datasworn:oracle_rollable:starforgeds
     oracle name="[Core Oracles \/ Theme](datasworn:oracle_rollable:starforged\/core\/theme)" result="Sanctuary" roll=78
 }
 track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Establish the Ethereal Outpost in the devil's chain as a proper presence for order..md|Establish the Ethereal Outpost in the devil's chain as a proper presence for order.]]" status="added"
-
 ```
 
 The Congregation of Ethereal Paladins (commonly known as the Ethereals) has has started an outpost 
