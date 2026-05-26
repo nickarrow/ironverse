@@ -169,9 +169,9 @@ Pinching the bridge of his nose, Tybalt shelves the idea of asking for his count
 
 “*You won’t come with me?*”
 
-“Do you want me to see you have to deal whith whatever humiliation Dal-Karus has brought upon your warband?”
+“Do you want me to see you have to deal with whatever humiliation Dal-Karus has brought upon the *Clarion Call*?”
 
-`iv-track-advance:Find where he stands with Epathus|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|14|16|extreme|1` “*Point*.”
+`iv-track-advance:Find where he stands with Epathus|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|14|16|extreme|1` “*Fair point*.”
 
 “Who knows, perhaps you will have the sole glory of taking a pirate dreadnought by yourself?” Tybalt offers, in reference to an anonymous message he had received ([[Message 06 - Jett Foley]])
 
@@ -181,6 +181,18 @@ Pinching the bridge of his nose, Tybalt shelves the idea of asking for his count
 
 By now, Tybalt’s armour was repaired and he moved now to address his Bannersworn that had assembled in the nearby hangar bay, and he asked Paxel a question as he made his way there.  `iv-move:Secure an Advantage|Wits|6|2|0|10|5|move:starforged/adventure/secure_an_advantage` 
 
-“Paxel, have your people had the time to
+“Paxel, have your people had the time to find suitable firing positions?"
+
+"Yeah, it'll help deal with the roadblock being set up on the main road to the RU offices. With deflector barricades, turrets, even a armored troop carrier." Paxel reports, before laconically adding "I think they saw the news."
+
+"Still a sign that we must take the offices now, lest they destroy what clues there are to find. " Tybalt grunts, "The loss of their cover before the main assault is worth charging"
 
 `iv-move:Compel|Iron|6|3|1|2|2|move:starforged/adventure/compel|adds=1(Secure Advantage)`  `iv-meter:Momentum|4|5` 
+
+"Boss, Kellod's telling me he sees two robed sorts through his scope." Paxel chimed in, a quarter-hour into their march upon the RU offices in Port Koshiba, as he relayed a report from one of their rooftop snipers "Not so much as a shiv between them, but somehow they're not being beaten down by rifle butts for pestering the roadblock...scratch that, they've got something hanging on their belts, both of them. But too slim and short to be shock batons."
+
+"The knights of the Congregation are here?" Tybalt asks in surprise, before military discipline asserts itself "Kellod and the other scouts are to provide fire support from the roofs if they are attacked."
+
+"Is another history lesson coming up, because I don't know why you'd stick the necks of my folk out for them." Paxel drawls, clearly displeased at the idea of risking his people for two apparent strangers.
+
+"I will give one when we resume the journey to Reck. But their involvement here will help our goals, trust me."
