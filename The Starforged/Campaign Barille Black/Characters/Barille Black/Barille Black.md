@@ -52,7 +52,9 @@ pronouns: He/Him
 player: NickArrow
 description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
 ---
-# ![[barille black profile.png|25]] Barille Black
+ ![[barille black profile.png|150]]
+
+<div style="align: center;"><img src="The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png"> </div>
 
 ```iron-vault-character-meters
 ```
