@@ -191,7 +191,7 @@ By now, Tybalt’s armour was repaired and he moved now to address his Bannerswo
 
 "Boss, Kellod's telling me he sees two robed sorts through his scope." Paxel chimed in, a quarter-hour into their march upon the RU offices in Port Koshiba, as he relayed a report from one of their rooftop snipers "Not so much as a shiv between them, but somehow they're not being beaten down by rifle butts for pestering the roadblock...scratch that, they've got something hanging on their belts, both of them. But too slim and short to be shock batons."
 
-"The knights of the Congregation are here?" Tybalt asks in surprise, before military discipline asserts itself "Kellod and the other scouts are to provide fire support from the roofs if they are attacked."
+"The knights of the Congregation are here?" Tybalt asks in surprise, before discipline reasserts itself "Kellod and the other scouts are to provide fire support from the roofs if they are attacked."
 
 "Is another history lesson coming up, because I don't know why you'd stick the necks of my folk out for them." Paxel drawls, clearly displeased at the idea of risking his people for two apparent strangers.
 
