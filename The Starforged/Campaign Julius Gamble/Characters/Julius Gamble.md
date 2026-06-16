@@ -2,7 +2,7 @@
 name: Julius Gamble
 xp_spent: 0
 xp_added: 0
-momentum: 4
+momentum: 5
 edge: 2
 heart: 3
 iron: 1
