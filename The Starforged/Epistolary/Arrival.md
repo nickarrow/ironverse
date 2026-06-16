@@ -2,7 +2,7 @@
 # On Audun
 
 **From:** Apprentice Arana Haydar  
-**To:** Paladin Renette Haydar  
+**To:** Knight Renette Haydar  
 **Date:** xx:xx xx/xx/xxx
 
 ---
