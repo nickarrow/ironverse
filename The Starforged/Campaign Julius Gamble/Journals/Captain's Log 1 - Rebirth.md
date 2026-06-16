@@ -132,3 +132,5 @@ Julius thought for a moment, then tapped his wrist computer a few times.
 The orb blinked out again as the playback began. Ancient instruments began playing to a rising crescendo as the title "*The Legend of the Silver Rose*" faded in on screen in front of a beautiful sunrise.
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Secure A New Hull ID|The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md|0|12|troublesome|1` 
+
+[[Captain's Log 2 - Heavy Metal]]
