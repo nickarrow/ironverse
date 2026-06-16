@@ -46,4 +46,25 @@ Julius took a moment to consider his options, then withdrew a small blade from w
 `iv-move:Swear an Iron Vow|Heart|2|3|0|2|5|move:starforged/quest/swear_an_iron_vow` 
 `iv-clock-create:Underworld Retribution|The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md` 
 
-Tucking the blade away again, he opens up the comms menu and keys in a private communicator number he had long since memorized.
+Tucking the blade away again, he opened up the comms menu and keyed in a private communicator number he had long since memorized.
+
+```iron-vault-mechanics
+oracle-group name="NPC: New NPC" {
+    oracle name="[Character Oracles \/ Character Name \/ Callsign](datasworn:oracle_rollable:starforged\/character\/name\/callsign)" result="Mimic" roll=56
+    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Wiry" roll=93
+    oracle name="[Character Oracles \/ Initial Disposition](datasworn:oracle_rollable:starforged\/character\/initial_disposition)" result="Desperate" roll=67
+}
+```
+
+Vega "Mimic" Khan, his old boss. Well, *oldest* old boss. She was an information broker, a hardass old lady, and fairer boss than most on Taraxus.
+
+The holo sphere winked out, then the holo blinked to life again, showing the face of a wiry woman in her late 50's to early 60's, with greying hair and an expression of annoyance that quickly turned to surprise.
+
+"Julius? Why are you calling from Nix's pleasure ship?"
+
+Julius grinned as he replied "Good to see you too Vega. There's been a bit of a change in management around here. I'm actually calling about this beauty of a ship. You see, she needs a new hull ID and I knew you'd be the one to solve that."
+
+Vega's expression shifted from surprise to one of practiced cynicism. "And what exactly makes you think I know someone who could help with that? Much less that I'd stick my neck out for you where stealing from Nix *freaking* Cargor is involved?"
+
+`iv-move:Compel|Heart|1|3|0|4|6|move:starforged/adventure/compel` 
+((Review how adrenaline works and see if you can use it here))
