@@ -74,6 +74,6 @@ move "[Pay the Price](datasworn:move:starforged\/fate\/pay_the_price)"
 ```
 Lose two momentum.
 
-"Be that as it may," the age Paladin says darkly, "I will not take any lip from the headstrong daughter of the Haydars. You are not even a knight yet, and therefore have no place to give judgment."
+"Be that as it may," the aged Paladin says darkly, "I will not take any lip from the headstrong daughter of the Haydars. You are not even a knight yet, and therefore have no place to give judgment."
 
 Arana bows her head
