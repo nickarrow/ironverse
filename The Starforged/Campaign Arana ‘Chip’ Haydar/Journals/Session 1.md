@@ -62,9 +62,9 @@ As they walked through the Halls toward paladin's office, Arana noticed that the
 
 "We serve at the pleasure of the Archon," said Master Luna bowing slightly to the older Paladin.
 
-"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates foreigners above their station we'll have more trouble with the traditionalist faction within the congregation."
+"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station will have more trouble with the traditionalists."
 
-"Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood," said Arana. "The Archon has done more to further the influence of the congregation then any Archon before him."
+"Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood," said Arana, letting her temper get the better of her. "The Archon has done more to further the influence of the congregation then any Archon before him."
 
 ```iron-vault-mechanics
 move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
@@ -76,5 +76,13 @@ Lose two momentum.
 
 "Be that as it may," the aged Paladin said darkly, "I will not take any lip from the headstrong daughter of the Haydars. You are not even a knight yet, and therefore have no place to give judgment."
 
-Arana bowed her head, showing outward humility.
+Arana Brooke her gaze, and bowed her head.
+
+"Yes Master Bridger"
+
+"My own feelings on the matter aside, I too serve at the pleasure of the Archon," Bridger looks back at Luna. "I want nothing more than to send you two away, but you are the resources I have. We will see if I am right to distrust you, after you have (or failed to), completed a few missions."
+
+Luna bowed her head. "We shall complete the tasks that you ask of us."
+
+"Very well," the older Paladin said while sitting down at the desk. "While we do not have any local requests at the moment, we receive many requests from the [[Devil's Chain]]. We do currently have a request to apprehend two fugitives that were last seen at the [[Reck]] settlement on [[Ackriss-2]]. Examine the situation, and bring them back here for further investigation."
 
