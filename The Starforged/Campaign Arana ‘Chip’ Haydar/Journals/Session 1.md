@@ -36,4 +36,23 @@ Brodin glanced back toward the frost-covered window, out into the vast, icy expa
 *Present day*
 
 Arana Haydar and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
-As they exited the Dawn Runner, an Ethereal Knight walks up to greet them. 
+As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
+"Master Palmer, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
+
+```iron-vault-mechanics
+oracle-group name="NPC: [[Paladin Janya Bridger|Janya Bridger]]" {
+    oracle name="[Character Oracles \/ Character Name \/ Given Name](datasworn:oracle_rollable:starforged\/character\/name\/given_name)" result="Janya" roll=43
+    oracle name="[Character Oracles \/ Character Name \/ Family Name](datasworn:oracle_rollable:starforged\/character\/name\/family_name)" result="Bridger" roll=42
+    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Aged" roll=9
+    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Graceful" roll=39
+    oracle name="[Character Oracles \/ Initial Disposition](datasworn:oracle_rollable:starforged\/character\/initial_disposition)" result="Unfriendly" roll=82
+    oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="[Action](datasworn:oracle_rollable:starforged\/core\/action) + [Theme](datasworn:oracle_rollable:starforged\/core\/theme)" roll=87 {
+        oracle name="[Core Oracles \/ Action](datasworn:oracle_rollable:starforged\/core\/action)" result="Leave" roll=61
+        oracle name="[Core Oracles \/ Theme](datasworn:oracle_rollable:starforged\/core\/theme)" result="Weakness" roll=97
+    }
+    oracle name="[Character Oracles \/ Revealed Character Aspect](datasworn:oracle_rollable:starforged\/character\/revealed_aspect)" result="Obsessed" roll=65
+    oracle name="[Character Oracles \/ Revealed Character Aspect](datasworn:oracle_rollable:starforged\/character\/revealed_aspect)" result="Powerful" roll=68
+}
+```
+
+As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums, but for ice. 
