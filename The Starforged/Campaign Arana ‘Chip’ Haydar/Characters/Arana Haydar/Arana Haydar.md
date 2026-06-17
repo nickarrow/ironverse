@@ -23,7 +23,7 @@ iron-vault-kind: character
 pronouns: Female
 callsign: Chip
 description: |-
-  Arana Haydar was born on the planet Rosston within the repurposed Vault functioning as the central temple for the [[The Congregation of Ethereal Paladins]]. As the child of an Ethereal Knight and an Ethereal Paladin, Arana Haydar was raised within the strict traditions and disciplines of the Aether from childhood. She is now following in her parents footsteps, and is apprenticed to the Paladin, [[Luna Palmer]].
+  Arana Haydar was born on the planet Rosston within the repurposed Vault functioning as the central temple for the The Congregation of Ethereal Paladins. As the child of an Ethereal Knight and an Ethereal Paladin, Arana Haydar was raised within the strict traditions and disciplines of the Aether from childhood. She is now following in her parents footsteps, and is apprenticed to the Paladin, Luna Palmer.
 
   For now, she is seventeen. I may change this, but I'm not sure of the timeline the story will take.
 assets:

@@ -1,2 +1,3 @@
 Paladin Luna Palmer
 Currently in her early thirties, Luna Palmer is a rare exception within the highest echelons of the Congregation, being one of the few outsiders to master the Aether and achieve the rank of Paladin. She hails from a small colony in the expanse. Luna is notably soft-spoken, rarely raising her voice even in high-stress situations. Despite her quiet and serene demeanor, she possesses a subtle, playful wit and a fondness for practical jokes, a trait she occasionally uses to keep her apprentice on her toes.
+She training [[The Starforged/Campaign Arana ‘Chip’ Haydar/Characters/Arana Haydar/Arana Haydar|Arana Haydar]] to be an ethereal knight, it was specifically chosen to do so by the Archon of [[The Congregation of Ethereal Paladins]].
