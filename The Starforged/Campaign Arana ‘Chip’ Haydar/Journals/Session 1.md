@@ -35,3 +35,5 @@ Brodin glanced back toward the frost-covered window, out into the vast, icy expa
 
 *Present day*
 
+Arana Haydar and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
+As they exited the 
