@@ -35,10 +35,10 @@ Brodin glanced back toward the frost-covered window, out into the vast, icy expa
 
 *Present day*
 
-Arana Haydar and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
+[[_fit/The Starforged/Campaign Arana ‘Chip’ Haydar/Characters/Arana Haydar|Arana Haydar]] and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
 As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
 
-"Master Palmer, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
+"Master Palmer, Apprentice Haydar, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
 
 ```iron-vault-mechanics
 oracle-group name="NPC: [[Paladin Janya Bridger|Janya Bridger]]" {
@@ -58,11 +58,11 @@ oracle-group name="NPC: [[Paladin Janya Bridger|Janya Bridger]]" {
 
 As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums for ice. As they entered the office, a stern voice called out to them.
 
-"I asked for assistance, and this is who they send? A foreigner and a child?" [[Paladin Janya Bridger]] didn't even turn to look at them from where she stood gracefully at the window overlooking the Eastern part of the city. "Preposterous."
+"I asked for assistance, and this is who they send? An outsider and a child?" [[Paladin Janya Bridger]] didn't even turn to look at them from where she stood gracefully at the window overlooking the Eastern part of the city. "Preposterous."
 
 "We serve at the pleasure of the Archon," said Master Luna bowing slightly to the older Paladin.
 
-"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station will have more trouble with the traditionalists."
+"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station is going to run into trouble with the traditionalists."
 
 "Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood," said Arana, letting her temper get the better of her. "The Archon has done more to further the influence of the congregation then any Archon before him."
 
@@ -80,7 +80,7 @@ Arana Brooke her gaze, and bowed her head.
 
 "Yes Master Bridger"
 
-"My own feelings on the matter aside, I too serve at the pleasure of the Archon," Bridger looks back at Luna. "I want nothing more than to send you two away, but you are the resources I have. We will see if I am right to distrust you, after you have (or failed to), completed a few missions."
+"My own feelings on the matter aside, I too serve at the pleasure of the Archon," Bridger looks back at Luna. "I want nothing more than to send you two away, but you are the resources I have. We will see if I am right to distrust you, after you have completed (or failed to) a few missions."
 
 Luna bowed her head. "We shall complete the tasks that you ask of us."
 
