@@ -35,7 +35,7 @@ Brodin glanced back toward the frost-covered window, out into the vast, icy expa
 
 *Present day*
 
-[[_fit/The Starforged/Campaign Arana ‘Chip’ Haydar/Characters/Arana Haydar|Arana Haydar]] and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
+[[Arana Haydar]] and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
 As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
 
 "Master Palmer, Apprentice Haydar, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
