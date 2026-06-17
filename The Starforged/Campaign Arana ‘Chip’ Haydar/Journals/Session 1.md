@@ -37,6 +37,7 @@ Brodin glanced back toward the frost-covered window, out into the vast, icy expa
 
 Arana Haydar and her master arrived at the planet [[Audun]] without much incident, and landed at the compound the Ethereals that served as the outpost within [[Port Koshiba]].
 As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
+
 "Master Palmer, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
 
 ```iron-vault-mechanics
@@ -55,4 +56,24 @@ oracle-group name="NPC: [[Paladin Janya Bridger|Janya Bridger]]" {
 }
 ```
 
-As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums, but for ice. 
+As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums for ice. As they entered the office, a stern voice called out to them.
+
+"I asked for assistance, and this is who they send? A foreigner and a child?" [[Paladin Janya Bridger]] didn't even turn to look at them from where she stood gracefully at the window overlooking the Eastern part of the city. "Preposterous."
+
+"We serve at the pleasure of the Archon," said Master Luna bowing slightly to the older Paladin.
+
+"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates foreigners above their station we'll have more trouble with the traditionalist faction within the congregation."
+
+"Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood," said Arana. "The Archon has done more to further the influence of the congregation then any Archon before him."
+
+```iron-vault-mechanics
+move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
+    roll "Heart" action=2 adds=0 stat=3 vs1=10 vs2=8
+}
+move "[Pay the Price](datasworn:move:starforged\/fate\/pay_the_price)"
+```
+Lose two momentum.
+
+"Be that as it may," the age Paladin says darkly, "I will not take any lip from the headstrong daughter of the Haydars. You are not even a knight yet, and therefore have no place to give judgment."
+
+Arana bows her head
