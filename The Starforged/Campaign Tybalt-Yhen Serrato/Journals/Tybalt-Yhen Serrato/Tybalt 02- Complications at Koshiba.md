@@ -60,7 +60,6 @@ actor name="[[The Starforged\/Campaign Tybalt-Yhen Serrato\/Characters\/Tybalt-Y
 }
 progress from=0 name="[[The Starforged\/Progress\/Tybalt-Yhen Serrato\/Complaint Compiling.md|Complaint Compiling]]" rank="dangerous" steps=1
 clock from=0 name="[[The Starforged\/Clocks\/Tybalt-Yhen Serrato\/Meet & Greet concluded.md|Meet & Greet concluded]]" out-of=4 to=1
-
 ```
 
 Though he knew well enough that the people petitioning him could very well be trying to swindle him with false woes, they had yet to actually attempt it yet and even the Serrato were disinclined to lash out for no reason at all, and so he listened with as much patience as he could muster. But after the first two dozen, he was already feeling the strain. Wondering if his second's abilities extended to sniffing out lies, he attempted to contact the man (wherever he was)
