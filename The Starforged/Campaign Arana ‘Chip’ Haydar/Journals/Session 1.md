@@ -4,7 +4,7 @@ oracle name="[Begin a Session \/ Begin a Session](datasworn:move.oracle_rollable
 
 *6 years ago:* 
 
-The howling gales of Rosston beat against the ceramic window panes, casting intricate icy webs across the surface. None of the freezing cold was felt in the room, as a giant of a man dress nobly in a fur lined tunic and cloak paced back and forth between the window and the fireplace in agitation.
+The howling gales of [[Rosston]] beat against the ceramic window panes, casting intricate icy webs across the surface. None of the freezing cold was felt in the room, as a giant of a man dress nobly in a fur lined tunic and cloak paced back and forth between the window and the fireplace in agitation.
 
 "Twenty-five, she's only twenty-five!" His low, gravelly voice rumbled over the sounds of the ice storm outside.
 
@@ -40,22 +40,6 @@ As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
 
 "Master Palmer, Apprentice Haydar, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
 
-```iron-vault-mechanics
-oracle-group name="NPC: [[Paladin Janya Bridger|Janya Bridger]]" {
-    oracle name="[Character Oracles \/ Character Name \/ Given Name](datasworn:oracle_rollable:starforged\/character\/name\/given_name)" result="Janya" roll=43
-    oracle name="[Character Oracles \/ Character Name \/ Family Name](datasworn:oracle_rollable:starforged\/character\/name\/family_name)" result="Bridger" roll=42
-    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Aged" roll=9
-    oracle name="[Character Oracles \/ First Look](datasworn:oracle_rollable:starforged\/character\/first_look)" result="Graceful" roll=39
-    oracle name="[Character Oracles \/ Initial Disposition](datasworn:oracle_rollable:starforged\/character\/initial_disposition)" result="Unfriendly" roll=82
-    oracle name="[Character Oracles \/ Character Goal](datasworn:oracle_rollable:starforged\/character\/goal)" result="[Action](datasworn:oracle_rollable:starforged\/core\/action) + [Theme](datasworn:oracle_rollable:starforged\/core\/theme)" roll=87 {
-        oracle name="[Core Oracles \/ Action](datasworn:oracle_rollable:starforged\/core\/action)" result="Leave" roll=61
-        oracle name="[Core Oracles \/ Theme](datasworn:oracle_rollable:starforged\/core\/theme)" result="Weakness" roll=97
-    }
-    oracle name="[Character Oracles \/ Revealed Character Aspect](datasworn:oracle_rollable:starforged\/character\/revealed_aspect)" result="Obsessed" roll=65
-    oracle name="[Character Oracles \/ Revealed Character Aspect](datasworn:oracle_rollable:starforged\/character\/revealed_aspect)" result="Powerful" roll=68
-}
-```
-
 As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums for ice. As they entered the office, a stern voice called out to them.
 
 "I asked for assistance, and this is who they send? An outsider and a child?" [[Paladin Janya Bridger]] didn't even turn to look at them from where she stood gracefully at the window overlooking the Eastern part of the city. "Preposterous."
@@ -64,7 +48,7 @@ As they walked through the Halls toward paladin's office, Arana noticed that the
 
 "The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station is going to run into trouble with the traditionalists."
 
-"Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood," said Arana, letting her temper get the better of her. "The Archon has done more to further the influence of the congregation then any Archon before him."
+"Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood!" said Arana, letting her temper get the better of her. "And the Archon has done more to further the influence of the congregation then any Archon before him!"
 
 ```iron-vault-mechanics
 move "[Compel](datasworn:move:starforged\/adventure\/compel)" {
@@ -78,11 +62,46 @@ Lose two momentum.
 
 Arana Brooke her gaze, and bowed her head.
 
-"Yes Master Bridger"
+"Yes Master Bridger."
 
 "My own feelings on the matter aside, I too serve at the pleasure of the Archon," Bridger looks back at Luna. "I want nothing more than to send you two away, but you are the resources I have. We will see if I am right to distrust you, after you have completed (or failed to) a few missions."
 
 Luna bowed her head. "We shall complete the tasks that you ask of us."
 
-"Very well," the older Paladin said while sitting down at the desk. "While we do not have any local requests at the moment, we receive many requests from the [[Devil's Chain]]. We do currently have a request to apprehend two fugitives that were last seen at the [[Reck]] settlement on [[Ackriss-2]]. Examine the situation, and bring them back here for further investigation."
+"Very well," the older Paladin said while sitting down at the desk. "While we do not have any local requests at the moment, we receive many requests from the [[Devil's Chain]]. We do currently have a request to apprehend two fugitives that were last seen at the [[Reck]] settlement on [[Ackriss-2]]. Examine the situation, and bring them back here for further investigation. [[Knight Jasher]] will give you the details."
+
+"It will be done Master Bridger."
+
+Arana and Luna both bowed, and turned to exit the room. 
+They found Knight Jasher sitting at a desk near the front of the main building.
+
+"Master Bridger told us to come see you about the fugitives," said Luna.
+
+"Ah yes, [[Tomiko Easton]] and [[Gavin Norbid]]," murmured the knight. "Tap your datapad here to transfer the data."
+
+Master Luna motioned Arana forward, who then put her data pad on the data transfer tap. The mission data and course information pop up on the datapad's surface.
+
+Ariana and Luna both took out their hilts, ignited their swords they held them up in front of their faces with the blades straight up, they then swore on the black iron hilts.
+
+"Upon our iron, we swear that we will investigates the fugitives, and bring them back to Port Koshiba to be examined."
+
+```iron-vault-mechanics
+move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
+    roll "Heart" action=1 adds=0 stat=3 vs1=6 vs2=10
+    track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Capture the fugitives.md|Capture the fugitives]]" status="added"
+}
+
+```
+
+Dangerous vow to [[Capture the fugitives]].
+
+As soon as they finished speaking, an explosion knocks the gates to the courtyard down. An alarm started blaring across the facility. Three knights ran past them and out into the courtyard.
+
+"We're under attack!" exclaimed Knight Jasher.
+
+
+
+```iron-vault-mechanics
+move "[End a Session](datasworn:move:starforged\/session\/end_a_session)"
+```
 
