@@ -1,5 +1,4 @@
 
-Cracking his neck, Tybalt inelegantly jabbed and prodded the screen of the data-pad to access the station's navigational charts to look up the na
 ```iron-vault-mechanics
 actor name="[[The Starforged\/Campaign Tybalt-Yhen Serrato\/Characters\/Tybalt-Yhen Serrato.md|Tybalt-Yhen Serrato]]" {
     move "[Begin a Session](datasworn:move:starforged\/session\/begin_a_session)" {
@@ -37,7 +36,8 @@ Paxel: And if this "Barille" guy's lying?
 
 Tybalt: Then I beat the tar out of him.
 ```
-mes of the places mentioned in the [[Message 01 - Barille Black|broadcast transcript]], already dreading the answer he would receive based on his unfamiliarity with the terms. 
+
+Cracking his neck, Tybalt inelegantly jabbed and prodded the screen of the data-pad to access the station's navigational charts to look up the names of the places mentioned in the [[Message 01 - Barille Black|broadcast transcript]], already dreading the answer he would receive based on his unfamiliarity with the terms. 
 
 (Does the navigational data still exist? 7 vs 75: Yes) Fortunately, as all the mineral wealth the thousands-strong labor force of Helia-36 extracted (Including it's harvests of precious, precious black iron) would be useless if they needed to re-learn their shipping routes every time, the physical medium where the data is held is enclosed within the Warlord's Palace upon the station, meant to be their residence whenever they visit for inspections that can span months owing to the sheer scale of the operation. And as is to be expected for the estate of a ruling [[Circle of the Elder Stars|lord of a Founder Clan]], it's defenses were beyond the abilities of the pirates to breach, even if the latest one was a raid of rare magnitude.
 
