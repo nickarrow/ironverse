@@ -11,4 +11,17 @@
 
 ---
 
-The credits rolled across the viewscreen as a 
+The credits rolled across the viewscreen in the captain's quarters just as a ping sounded out. A small blue holo orb appeared on the nightside table as Meg's pleasant voice emanated from speakers unseen.
+
+"I hope you enjoyed the trip, our destination will be in view soon."
+
+Julius stretched and suppressed a yawn, swinging his legs over the side of the generously proportioned bed and hauling himself to his feet. "Be right up, thanks Meg."
+
+`iv-oracle:First Look|25|Built within terrain or asteroid|oracle_rollable:starforged/settlement/first_look` 
+
+Entering the bridge and finding a seat in the captain's chair, Julius watched the small spec in the starfield in front of him grow to gradually become an asteroid of significant size. Bigger still was the station built into it. From the main structure snaked out dozens of struts and corridors, connecting to landing pads, other large structures, and even just observation platforms aimed to view the planet below. The station was lively, with smaller ships zipping about bringing cargo to massive haulers that hung imposingly in the station's orbit.
+
+`iv-oracle:Initial Contact|202|Informative|oracle_rollable:starsmith/settlement/contact`
+
+As they approached the station, Julius took note of a couple holo-banners out on space displaying adverts for products, services, and locations. One that stood out to him was for a fixer on the station by the name of Mia Hobbs, or The Whisper.
+
