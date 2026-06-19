@@ -1,7 +1,7 @@
 
 | Name                | Mia Hobbes        |
 | ------------------- | ----------------- |
-| Callsign            | Whisper           |
+| Callsign            | The Whisper       |
 | First Look          | Elegant, Alluring |
 | Initial Disposition | Anxious           |
 | Role                | Fixer             |

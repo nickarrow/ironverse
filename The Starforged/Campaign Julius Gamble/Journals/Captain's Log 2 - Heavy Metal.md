@@ -19,10 +19,24 @@ Julius stretched and suppressed a yawn, swinging his legs over the side of the g
 
 `iv-oracle:First Look|25|Built within terrain or asteroid|oracle_rollable:starforged/settlement/first_look` 
 
-Entering the bridge and finding a seat in the captain's chair, Julius watched the small spec in the starfield in front of him grow to gradually become an asteroid of significant size. Bigger still was the station built into it. From the main structure snaked out dozens of struts and corridors, connecting to landing pads, other large structures, and even just observation platforms aimed to view the planet below. The station was lively, with smaller ships zipping about bringing cargo to massive haulers that hung imposingly in the station's orbit.
+Entering the bridge and finding a seat in the captain's chair, Julius watched the small spec in the starfield in front of him grow to gradually become an asteroid of significant size. Bigger still was the station built into it. From the main structure snaked out dozens of struts and corridors, connecting to landing pads, other large structures, and even just observation platforms aimed to view the planet below. From the main structure, a large tower stood tall, connected to but visually distinct in style from the rest of the station. Overall the station was lively, with smaller ships zipping about bringing cargo to massive haulers that hung imposingly in the station's orbit.
 
 `iv-oracle:Initial Contact|202|Informative|oracle_rollable:starsmith/settlement/contact`
 
 As they approached the station, Julius took note of a couple holo-banners out on space displaying adverts for products, services, and locations. One that stood out to him was for a fixer on the station by the name of Mia Hobbs, or The Whisper.
 
-Even in a vacuum, The Whisper was a breath of fresh air. It was almost certainly touched up, but she was a stunner.
+Even in a vacuum, The Whisper was a breath of fresh air. She had an refined look, with class. Clearly she was a higher class kind of fixer, the kind of fixer who would have been kept on retainer by the wealthy elites on Taraxus over a more budget option like Vega Khan in the low city.
+
+Shaking himself from his contemplative mood, Julius pulled up the comms console and sent a request to dock. A short while later a ping alerted him he had been assigned a landing pad, which he set about heading to. As he did so he asked "Hey Meg, what can you tell me about this place?"
+
+The telltale blue holo-orb appeared on the console as she replied
+"Cyrus Station: Population 5118. Orbits the planet dubbed Iron Mesa, so named for its deep ore deposits and rocky, lifeless surface. The station is a major resource extraction and refinery hub thanks to mining on Iron Mesa. "
+
+Her holo flashed a couple of metals and elements found on the planet below as she continued
+
+"The station was originally created by a religious group known as the Serene Order as an abbey or cloister of sorts, but grew over time until the non-religious population far outweighed the initial occupants. Interestingly, the reclusive descendants of those original religious founders still technically own the station, though they appear to be relatively hands off based off of the information I have available. They prefer to stay in a monastery dubbed The Spire and let intermediaries run things."
+
+She projected the symbol of their order: A hammer with a corona of flame around its head.
+
+
+
