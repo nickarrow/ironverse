@@ -25,3 +25,4 @@ Entering the bridge and finding a seat in the captain's chair, Julius watched th
 
 As they approached the station, Julius took note of a couple holo-banners out on space displaying adverts for products, services, and locations. One that stood out to him was for a fixer on the station by the name of Mia Hobbs, or The Whisper.
 
+Even in a vacuum, The Whisper was a breath of fresh air. It was almost certainly touched up, but she was a stunner.
