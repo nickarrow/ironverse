@@ -2,7 +2,7 @@
 name: Arana Haydar
 xp_spent: 0
 xp_added: 0
-momentum: 0
+momentum: 1
 edge: 2
 heart: 3
 iron: 2

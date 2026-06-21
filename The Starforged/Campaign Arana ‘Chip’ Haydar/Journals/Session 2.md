@@ -3,5 +3,70 @@ oracle name="[Begin a Session \/ Begin a Session](datasworn:move.oracle_rollable
 ```
 
 
-Possibly assassins are going after paladin Bridger
-As [[Arana Haydar]] and [[Luna Palmer]] started to head for the front
+Could Arana sense the Assassins were going after [[Paladin Janya Bridger]]?
+
+```iron-vault-mechanics
+oracle name="[Ask the Oracle \/ Likely](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.likely)" result="Yes" roll=7
+
+```
+
+As [[Arana Haydar]] and [[Luna Palmer]] started to head for the front, Arana stopped and shuddered.
+
+"Master, the Paladin! Someone is about to attack her!"
+
+Luna looked at [[Knight Jasher]] "Does she have any bodyguards?"
+
+```iron-vault-mechanics
+oracle name="[Ask the Oracle \/ Unlikely](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.unlikely)" result="No" roll=65
+```
+
+The knight's face showed concern "We're spread too thin, we don't have enough for a guard detail."
+
+"Apprentice, we need to go and remove any threats to Paladin Bridger," she looked back at the knight. "send assistance when it is possible, we will do what we can."
+
+Arana pulled out her hilt and made a quick vow.
+
+"I swear we will protect the Paladin from the danger."
+
+```iron-vault-mechanics
+move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
+    roll "Heart" action=1 adds=0 stat=3 vs1=4 vs2=1
+}
+```
+```iron-vault-mechanics
+track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" status="added"
+```
+The knight saluted with his green sword, "I hear your vow, and acknowledge it. For justice and peace!"
+
+Master and apprentice saluted with their own sabers, "For Justice and peace!"
+
+They split up, ans Arana followed her master across the courtyard into the admin building.
+
+Has the fighting started in the office yet?
+
+```iron-vault-mechanics
+- "Has the fighting started in the office yet?" {
+oracle name="[Ask the Oracle \/ Almost Certain](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.almost_certain)" result="Yes" roll=85
+}
+```
+```iron-vault-mechanics
+- "Is Paladin Bridger able to defend herself?" {
+    oracle name="[Ask the Oracle \/ Almost Certain](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.almost_certain)" result="No" roll=91
+}
+```
+```iron-vault-mechanics
+- "Is she killed?" {
+    oracle name="[Ask the Oracle \/ Small Chance](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.small_chance)" result="No" roll=68
+}
+
+```
+
+They come up on the room, and kick the door in.
+
+```iron-vault-mechanics
+move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
+    roll "Edge" action=1 adds=0 stat=2 vs1=2 vs2=9
+}
+```
+In Control.
+
