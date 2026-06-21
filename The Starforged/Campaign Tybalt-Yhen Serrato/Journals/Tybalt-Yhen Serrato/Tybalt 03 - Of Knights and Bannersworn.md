@@ -203,3 +203,11 @@ Sure enough he saw about three dozen of the local toughs blocking the road, arme
 
 But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia of a cracked weighing scale that marked an ordained knight of the Ethereals. Supposedly meant to mark how they understood the principles of their order (which are ostensibly what shall bring true justice to the domains of humanity in the Forge, when they finally reach some nebulous end-point), even if it remained imperfect compared to the Paladins. Of course, only the Archon of the Ethereals could wear a fully intact scale, backed by the sigil of the Circle of the Elder Stars to mark his peerage within the high Conclave.
 
+
+“Could you…*not* kill everyone you see, Tybalt? As vile as what was done to your clan is, the people at the R.U. Offices  cannot all be involved in the plot”
+
+`iv-move:Face Danger|Heart|1|2|0|7|9|move:starforged/adventure/face_danger`  `iv-meter:Spirit|5|3` 
+
+The very *suggestion* that he take half-measures in exacting his revenge for the murder of his father makes Tybalt’s blood boil.
+
+“…I do this *solely* for the services previously rendered by the Ethereals to my clan.” He spits out bitterly.
