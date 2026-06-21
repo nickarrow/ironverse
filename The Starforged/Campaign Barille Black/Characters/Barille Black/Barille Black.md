@@ -69,7 +69,7 @@ description: "Often wearing his dark blue suit, loosened at the neck. Barille ha
 
 > [!example]- TRACKS IN-PROGRESS
 > ```dataview
-> TABLE WITHOUT ID file.link as "Vows"
+> TABLE WITHOUT ID file.link as "Vows", floor(progress/4) as "Progress"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
 > WHERE track-type = "Vow"
 > WHERE character = [[Barille Black]]
@@ -77,7 +77,7 @@ description: "Often wearing his dark blue suit, loosened at the neck. Barille ha
 > ```
 > 
 > ```dataview
-> TABLE WITHOUT ID file.link as "Tracks"
+> TABLE WITHOUT ID file.link as "Tracks", floor(progress/4) as "Progress"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #incomplete
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
@@ -105,7 +105,7 @@ description: "Often wearing his dark blue suit, loosened at the neck. Barille ha
 
 > [!success]- TRACKS COMPLETED
 > ```dataview
-> TABLE WITHOUT ID file.link as "Vows"
+> TABLE WITHOUT ID file.link as "Vows", floor(progress/4) as "Progress"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
 > WHERE track-type = "Vow"
 > WHERE character = [[Barille Black]]
@@ -113,7 +113,7 @@ description: "Often wearing his dark blue suit, loosened at the neck. Barille ha
 > ```
 > 
 > ```dataview
-> TABLE WITHOUT ID file.link as "Tracks"
+> TABLE WITHOUT ID file.link as "Tracks", floor(progress/4) as "Progress"
 > FROM "The Starforged/Campaign Barille Black/Progress/Barille" and #complete
 > WHERE track-type != "Vow"
 > WHERE track-type != "Connection"
