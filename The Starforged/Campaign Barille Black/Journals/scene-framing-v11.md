@@ -380,11 +380,10 @@ Common pairings:
 ### Slug Format
 
 ```
-INT. or EXT. LOCATION — SUBLOCATION — TIME — MOOD
-
-Two or three lines. Present tense. What's here, what's happening, 
-what the pressure is. Want and obstacle embedded in the physical 
-space, not stated as abstractions.
+INT. PUBIC SHOWERS OUTSIDE RESIDENTIAL AREA — EVENING — DESPERATE 
+SITUATION:    WANT:    OBSTACLE: 
+Set the scene with two or three lines. Present tense. What's here, what's happening, 
+what the pressure is. Want and obstacle embedded in the physical space, not stated as abstractions.
 ```
 
 **Shorthand:** Character — location — want — obstacle — stake *(one line)*

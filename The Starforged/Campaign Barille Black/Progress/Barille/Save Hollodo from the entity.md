@@ -1,7 +1,7 @@
 ---
 name: Save Hollodo from the entity
 rank: formidable
-progress: 8
+progress: 24
 tags:
   - incomplete
 track-type: Combat

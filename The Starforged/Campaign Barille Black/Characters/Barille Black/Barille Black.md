@@ -2,13 +2,13 @@
 name: Barille Black
 xp_spent: 0
 xp_added: 0
-momentum: 1
+momentum: 3
 edge: 1
 heart: 3
 iron: 2
 shadow: 1
 wits: 2
-health: 1
+health: 0
 spirit: 3
 supply: 5
 Quests_Progress: 0
@@ -23,7 +23,7 @@ assets:
     abilities:
       - true
       - false
-      - true
+      - false
     controls: {}
     options: {}
   - id: asset:starforged/path/bounty_hunter
@@ -51,6 +51,7 @@ callsign: Black
 pronouns: He/Him
 player: NickArrow
 description: "Often wearing his dark blue suit, loosened at the neck. Barille has dark curly hair, and the stubble of a beard. Character goal: Gain Riches, Seek Power."
+wounded: true
 ---
 # Barille Black
 <center><img width=150 src="The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png"> </center>
