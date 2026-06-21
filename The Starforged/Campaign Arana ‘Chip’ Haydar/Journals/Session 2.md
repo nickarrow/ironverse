@@ -40,7 +40,7 @@ The knight saluted with his green sword, "I hear your vow, and acknowledge it. F
 
 Master and apprentice saluted with their own sabers, "For Justice and peace!"
 
-They split up, ans Arana followed her master across the courtyard into the admin building.
+They split up, and Arana followed her master across the courtyard into the admin building.
 
 Has the fighting started in the office yet?
 

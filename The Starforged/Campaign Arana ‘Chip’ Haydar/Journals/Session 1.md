@@ -14,7 +14,7 @@ A woman dressed in similar noble garb sat gracefully in a high back chair next t
 
 Brodin sighed as he stopped his pacing and turned to his wife. "It is not merely her youth Renette, it is also the fact that she is not native to Rosston and our ways. And now the Archon has entrusted the training of *our daughter* to her. She is barely out of her youth herself, and has barely wiped the oil of her anointment as Paladin from her brow. How will she have at the maturity and know how to properly mold a child's spirit, our child's spirit."
 
-Renette finally looked up from her sewing to match her husband's intense gaze. "Luna is exceptional with the Aether, you know that as well as I. Her rise was necessary, because she merited it. None of those knights present at the Gamort would be alive, if not for her leadership in the absence of a true Paladin. Maybe a foreigner by birth, but she did is and Ethereal Paladin by right."
+Renette finally looked up from her sewing to match her husband's intense gaze. "Luna is exceptional with the Aether, you know that as well as I. Her rise was necessary, because she merited it. None of those knights present at the Gamort would be alive, if not for her leadership in the absence of a true Paladin. She may be a foreigner by birth, but she is Ethereal Paladin by right."
 
 "Skill in combat does not equate to wisdom in instruction," Brodin argued, leaning his broad shoulders against the heavy wooden mantle. "To be an Ethereal Knight is to walk a path of strict discipline and profound maturity. Arana is willful. She is gifted, yes, but her spirit is a tempest. Can a newly made Paladin instill the solemnity and maturity our daughter requires?"
 
@@ -24,7 +24,7 @@ Renette stood, and finally set aside the now repaired gambeson, she closed the d
 
 "He is taking a big risk pairing someone as headstrong as our daughter, with someone who is inexperienced."
 
-"He sees a balance," Renette corrected gently. "Arana needs a master that is not completely given over to the traditions, so that she can have the room to build on the sturdy foundation her father put in place for her. Paladin Luna Palmer needs train a strong student to prove that she is the capable master of the Aether that she is."
+"He sees a balance," Renette corrected gently. "Arana needs a master that is not completely given over to the traditions, so that she can have the room to build on the sturdy foundation her father put in place for her. Paladin Luna Palmer needs to train a strong student to prove that she is the capable master of the Aether that she is."
 
 "I merely wish to see her protected. To see her trained in the righteous path, without faltering."
 
@@ -40,13 +40,13 @@ As they exited the Dawn Runner, an Ethereal Knight was there to greet them.
 
 "Master Palmer, Apprentice Haydar, welcome to Port Koshiba," he bowed to them, and Arana and her master bowed in return. "Paladin Bridger is expecting you, if you'll follow me."
 
-As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of Rosston. They were almost like terrariums for ice. As they entered the office, a stern voice called out to them.
+As they walked through the Halls toward paladin's office, Arana noticed that there were many ice sculptures based on landmarks and even the weather of [[Rosston]]. They were almost like terrariums for ice. As they entered the office, a stern voice called out to them.
 
 "I asked for assistance, and this is who they send? An outsider and a child?" [[Paladin Janya Bridger]] didn't even turn to look at them from where she stood gracefully at the window overlooking the Eastern part of the city. "Preposterous."
 
 "We serve at the pleasure of the Archon," said Master Luna bowing slightly to the older Paladin.
 
-"The Archon," spat Paladin Bridger, as she turns from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station is going to run into trouble with the traditionalists."
+"The Archon," spat Paladin Bridger, as she turned from the transparent ceramic windows. "Mark my words Foreigner, the Archon who elevates outsiders above their station is going to run into trouble with the traditionalists."
 
 "Master Palmer is faithful to the traditions of the Ethereal Paladins, and has taught me well in the ways of knighthood!" said Arana, letting her temper get the better of her. "And the Archon has done more to further the influence of the congregation then any Archon before him!"
 
@@ -60,9 +60,9 @@ Lose two momentum.
 
 "Be that as it may," the aged Paladin said darkly, "I will not take any lip from the headstrong daughter of the Haydars. You are not even a knight yet, and therefore have no place to give judgment."
 
-Arana Brooke her gaze, and bowed her head.
+Arana broke her gaze, and bowed her head.
 
-"Yes Master Bridger."
+"Yes Master Bridger," still seething.
 
 "My own feelings on the matter aside, I too serve at the pleasure of the Archon," Bridger looks back at Luna. "I want nothing more than to send you two away, but you are the resources I have. We will see if I am right to distrust you, after you have completed (or failed to) a few missions."
 
@@ -79,9 +79,9 @@ They found Knight Jasher sitting at a desk near the front of the main building.
 
 "Ah yes, [[Tomiko Easton]] and [[Gavin Norbid]]," murmured the knight. "Tap your datapad here to transfer the data."
 
-Master Luna motioned Arana forward, who then put her data pad on the data transfer tap. The mission data and course information pop up on the datapad's surface.
+Master Luna motioned Arana forward, who then put her data pad on the data transfer tap. The mission data and course information popped up on the datapad's surface.
 
-Ariana and Luna both took out their hilts, ignited their swords they held them up in front of their faces with the blades straight up, they then swore on the black iron hilts.
+Arana and Luna both took out their hilts, ignited their swords they held them up in front of their faces with the blades straight up, they then swore on the black iron hilts.
 
 "Upon our iron, we swear that we will investigates the fugitives, and bring them back to Port Koshiba to be examined."
 
