@@ -70,3 +70,4 @@ move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
 ```
 In Control.
 
+After kicking in the door, Arana things that she also knocked over a man in a dull Gray full body suit
