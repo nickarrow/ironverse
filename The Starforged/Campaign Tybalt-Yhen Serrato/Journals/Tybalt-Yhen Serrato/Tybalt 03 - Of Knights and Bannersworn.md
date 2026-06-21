@@ -196,3 +196,10 @@ By now, Tybalt’s armour was repaired and he moved now to address his Bannerswo
 "Is another history lesson coming up, because I don't know why you'd stick the necks of my folk out for them." Paxel drawls, clearly displeased at the idea of risking his people for two apparent strangers.
 
 "I will give one when we resume the journey to Reck. But their involvement here will help our goals, trust me."
+
+The column of black-clad Serrato continued their march down the main street, letting the civilians either gawk or flee as they advanced towards the roadblock between them and the RU offices.
+
+Sure enough he saw about three dozen of the local toughs blocking the road, armed with enough firepower that even Serrato bannersworn needed to be wary, but not enough to actually survive a fight with them. Tybalt assumed they were sacrificial pawns, meant to delay his vengeance on the RU while their notaries made their escape.
+
+But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia of a cracked weighing scale that marked an ordained knight of the Ethereals. Supposedly meant to mark how they understood the principles of their order, even if it remained imperfect compared to the Paladins. Of course, only the Archon of the Ethereals could wear a fully intact scale, backed by the sigil of the Circle of the Elder Stars to mark his peerage within the high Conclave.
+
