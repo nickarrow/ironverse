@@ -75,3 +75,4 @@ It has seen that trick before. With its other hand it pulls the pistol from Bari
 
 The last thing Barille sees is the creature descending on Hollodo, grabbing him, and then phasing into some sort of otherworldly portal in the side of a building. Then it fades to black. 
 
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
