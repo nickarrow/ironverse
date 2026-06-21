@@ -66,7 +66,7 @@ wounded: true
 > [[Barille 01 - Beginnings]]
 > [[Barille 02 - Reck]]
 > [[Barille 03 - Searching Through Reck]]
-> [[Barille 04 - Name TBD]]
+> [[Barille 04 - Hollodo is taken]]
 
 > [!example]- TRACKS IN-PROGRESS
 > ```dataview

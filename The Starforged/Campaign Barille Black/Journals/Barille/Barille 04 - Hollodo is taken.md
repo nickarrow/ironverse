@@ -1,4 +1,4 @@
-# [[Barille 04 - Name TBD]]
+# [[Barille 04 - Hollodo is taken]]
 
 ## Session Notes
 -  `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
@@ -76,3 +76,5 @@ It has seen that trick before. With its other hand it pulls the pistol from Bari
 The last thing Barille sees is the creature descending on Hollodo, grabbing him, and then phasing into some sort of otherworldly portal in the side of a building. Then it fades to black. 
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+[[Barille 05 - name tbd]] 
