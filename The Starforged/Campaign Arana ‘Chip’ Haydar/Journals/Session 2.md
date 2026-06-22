@@ -74,7 +74,18 @@ After kicking in the door, Arana saw that she also knocked over a man in a dull 
 
 Arana attacks the assassin laying on the ground.
 
-"Apprentice, take the one on the ground, and I will start with those near Bridger."
+```iron-vault-mechanics
+move "[Strike](datasworn:move:starforged\/combat\/strike)" {
+    roll "Iron" action=4 adds=0 stat=2 vs1=7 vs2=5
+}
+```
+
+```iron-vault-mechanics
+progress from=0 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=1
+```
+
+Arana manages to wound the assassin, but the assassin jumps up and locks blades with Arana.
+
+"Apprentice, take this one, and I will start with those near Bridger."
 
 "Yes master."
-
