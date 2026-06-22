@@ -70,4 +70,11 @@ move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
 ```
 In Control.
 
-After kicking in the door, Arana things that she also knocked over a man in a dull Gray full body suit
+After kicking in the door, Arana saw that she also knocked over a man in a dull Gray full body suit with a knife. Three more figures dressed in the same dull Gray outfits were standing over the wounded Paladin Bridger, the Paladin looks to have been stabbed at least twice in the back.
+
+Arana attacks the assassin laying on the ground.
+
+"Apprentice, take the one on the ground, and I will start with those near Bridger."
+
+"Yes master."
+
