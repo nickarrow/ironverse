@@ -1,7 +1,7 @@
 ---
 name: Underworld Retribution
 segments: 6
-progress: 1
+progress: 2
 default-odds: no roll
 tags:
   - incomplete

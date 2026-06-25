@@ -6,7 +6,7 @@
 | Quirk       | All members take a new name upon joining, chosen from a list |
 | Symbol      | A hammer with a corona of flame around its head              |
 | Location(s) | [[Cyrus Station]] - [[Gorrick]]                              |
-An insular order of contemplative folks. Their dogma dictates that inner peace is found through toil and creation. They believe that to create is to find meaning, and that no work is ever truly finished. They personify entropy as their greatest threat, but also appreciate it for giving them a reason to revisit and refine old works.
+An insular order of contemplative craftsmen. Their dogma dictates that inner peace is found through toil and creation. They believe that to create is to find meaning, and that no work is ever truly finished. They personify entropy as their greatest threat, but also appreciate it for giving them a reason to revisit and refine old works.
 
 Upon joining, a member chooses a new name to symbolize beginning their greatest new project: themselves. All members choose from a set list of names in order to better express how even within a single category of thing there can be great variation worth celebrating and cultivating. Once you have chosen your new name you are assigned an outpost or station and given the rank of aspirant.
 
