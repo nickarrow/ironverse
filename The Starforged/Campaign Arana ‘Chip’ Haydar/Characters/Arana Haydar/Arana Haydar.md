@@ -60,6 +60,7 @@ assets:
     controls: {}
     options: {}
 unprepared: false
+player: JannytheSpartan
 ---
 ![[Screenshot_2026-04-19_21-09-11 1.png|290]]
 
