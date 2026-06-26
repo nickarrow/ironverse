@@ -123,7 +123,8 @@ move "[Fulfill Your Vow](datasworn:move:starforged\/quest\/fulfill_your_vow)" {
 
 Paladin Luna saw her apprentice charge in at one of the assailants, and seized the opportunity to incapacitate one of the assassins, while Arana cut the last assassin down. 
 
-"Check on the paladin, I'm going to tie up this criminal," said paladin Luna, seemingly barely winded. 
+"Check on the paladin while I tie up this criminal," said paladin Luna, seemingly barely winded. 
 
 "Yes master."
 
+Paladin is still alive, but how badly she is hurt is unknown.
