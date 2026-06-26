@@ -8,14 +8,14 @@ heart: 3
 iron: 2
 shadow: 1
 wits: 1
-health: 5
+health: 4
 spirit: 5
 supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_XPEarned: 0
-Quests_Progress: 0
+Quests_Progress: 2
 Quests_XPEarned: 0
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
@@ -61,6 +61,7 @@ assets:
     options: {}
 unprepared: false
 player: JannytheSpartan
+initiative: false
 ---
 ![[Screenshot_2026-04-19_21-09-11 1.png|290]]
 

@@ -89,3 +89,41 @@ Arana manages to wound the assassin, but the assassin jumps up and locks blades 
 "Apprentice, take this one, and I will start with those near Bridger."
 
 "Yes master."
+
+The assassin swung at Arana:
+
+```iron-vault-mechanics
+move "[Clash](datasworn:move:starforged\/combat\/clash)" {
+    roll "Iron" action=6 adds=0 stat=2 vs1=10 vs2=5
+    progress from=8 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=1
+    meter "Health" from=5 to=4
+}
+
+```
+
+Arana mostly blocked the assassin's blade, but the assassin's blade cut her arm. The assassin tried stab her:
+
+```iron-vault-mechanics
+move "[Clash](datasworn:move:starforged\/combat\/clash)" {
+    roll "Iron" action=6 adds=0 stat=2 vs1=1 vs2=1
+    progress from=16 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=2
+}
+
+```
+
+With blood dripping down her left arm, Arana parried the blow, and swung down in a diagonal slash that ended the assassin's life. Arana turned to go help her master, and saw that one of the other four assassins had been decapitated, and the other two were ferociously swinging at Luna. Arana charged at one of the assassins to end the fight.
+
+```iron-vault-mechanics
+move "[Fulfill Your Vow](datasworn:move:starforged\/quest\/fulfill_your_vow)" {
+    progress-roll name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" score=8 vs1=3 vs2=4
+    track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" status="completed"
+}
+
+```
+
+Paladin Luna saw her apprentice charge in at one of the assailants, and seized the opportunity to incapacitate one of the assassins, while Arana cut the last assassin down. 
+
+"Check on the paladin, I'm going to tie up this criminal," said paladin Luna, seemingly barely winded. 
+
+"Yes master."
+
