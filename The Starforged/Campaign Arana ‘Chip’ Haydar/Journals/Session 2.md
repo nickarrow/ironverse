@@ -127,4 +127,14 @@ Paladin Luna saw her apprentice charge in at one of the assailants, and seized t
 
 "Yes master."
 
-Paladin is still alive, but how badly she is hurt is unknown.
+```iron-vault-mechanics
+- "The paladin was still alive, but was she mortally wounded?" {
+    oracle name="[Ask the Oracle \/ Unlikely](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.unlikely)" result="Yes" roll=23
+}
+```
+
+Master Bridger was breathing shallowly as Arana checked her wounds, as she rolled her over, she could see that the wounds inflicted to the paladin were fatal. 
+
+"Master! There's a lot of blood, can you do anything to stabilize her?"
+
+Master Luna shoves the now tied up assassin to the side. As she begins 
