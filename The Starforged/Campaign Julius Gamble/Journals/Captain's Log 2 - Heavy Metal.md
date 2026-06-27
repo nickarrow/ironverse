@@ -81,7 +81,7 @@ Julius cleared his throat tentatively "Ah yes, that. Fair enough. What's this go
 Her cool blue eyes locked on his as she made her offer.
 "Normally I'd charge you a credits-based finders fee, but her latest location isn't far from another job I need done. If you're willing to investigate a derelict for me, I think we can both come out ahead. If not, credits are still an option."
 
-Julius weighed the options carefully, cynical about the offer "What kind of derelict? And why hasn't anyone else taken the job before me?"
+Julius weighed the options carefully, skepticism plain to read on his face "What kind of derelict? And why hasn't anyone else taken the job before me?"
 
-Now it was Whisper's turn to be a bit coy. "Well you see it's a personal matter I'm looking into. There was a clan ship from the humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of mines. It's not a journey for the faint of heart, but all I need is a crew manifest from the ship, anything else you find is yours. Think of it as a token of appreciation."
+Now it was Whisper's turn to be a bit coy. "Well you see it's a personal matter I'm looking into. There was a clan ship from the humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of mines so I can't get anything more concrete. It's not a journey for the faint of heart, but all I need is a crew manifest from the ship, anything else you find is yours. Think of it as a token of appreciation for taking on something this big."
 
