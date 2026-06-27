@@ -8,3 +8,4 @@
 |                               | Defend a person                                                                                                       |
 | Revealed Character Aspect     | Obsessed, Powerful                                                                                                    |
 
+She gave [[Arana Haydar]] her first quest in the Devil's Chain.

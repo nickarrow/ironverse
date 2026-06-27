@@ -77,7 +77,7 @@ They found Knight Jasher sitting at a desk near the front of the main building.
 
 "Master Bridger told us to come see you about the fugitives," said Luna.
 
-"Ah yes, [[Tomiko Easton]] and [[Gavin Norbid]]," murmured the knight. "Tap your datapad here to transfer the data."
+"Ah yes, [[Tomiko]], and [[Gavin Norbid]]," murmured the knight. "Tap your datapad here to transfer the data."
 
 Master Luna motioned Arana forward, who then put her data pad on the data transfer tap. The mission data and course information popped up on the datapad's surface.
 

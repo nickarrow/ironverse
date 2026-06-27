@@ -9,7 +9,7 @@ character: "[[The Starforged/Campaign Arana ‘Chip’ Haydar/Characters/Arana H
 iron-vault-kind: progress
 
 ---
-Capture the fugitives [[Tomiko Easton]] and [[Gavin Norbid]].
+Capture the fugitives [[Tomiko]] and [[Gavin Norbid]].
 
 ```iron-vault-track
 ```

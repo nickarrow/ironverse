@@ -70,7 +70,7 @@ move "[Enter the Fray](datasworn:move:starforged\/combat\/enter_the_fray)" {
 ```
 In Control.
 
-After kicking in the door, Arana saw that she also knocked over a man in a dull Gray full body suit with a knife. Three more figures dressed in the same dull Gray outfits were standing over the wounded Paladin Bridger, the Paladin looks to have been stabbed at least twice in the back.
+After kicking in the door, Arana saw that she also knocked over a man in a dull Gray full body suit with a knife. Six more figures dressed in the same dull Gray outfits were near the wounded Paladin Bridger, the Paladin looks to have been stabbed at least twice in the back. Three of those assassins near the Paladin were on the ground with various forms of fatal wounds, obviously dead.
 
 Arana attacks the assassin laying on the ground.
 
@@ -137,4 +137,19 @@ Master Bridger was breathing shallowly as Arana checked her wounds, as she rolle
 
 "Master! There's a lot of blood, can you do anything to stabilize her?"
 
-Master Luna shoves the now tied up assassin to the side. As she begins 
+Master Luna shoves the now tied up assassin to the side. As she begins to try to stabilize the other paladin, bridgers eyes flutter open and looks at Arana 
+
+"Save... her," Bridger said, choking on the blood. "Bring back... my daught... [[Tomiko]]."
+
+She looks at Luna. "I appoint you... as the ranking paladin... to be in... charge of the outpost. I am sorry... for my... hasty words. You... fought well... outsider... I entrust my... assignment to you. For justice... and..."
+
+Her eyes dim, and Luna shuts them. They both kneel over the dead paladin, giving her a respectful moment of silence. Luna looks with venom at the only remaining assassin that is alive. 
+
+"You and I, are going to be really closely acquainted."
+
+The assassin blanches in fear.
+
+```iron-vault-mechanics
+move "[End a Session](datasworn:move:starforged\/session\/end_a_session)"
+```
+
