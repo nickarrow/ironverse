@@ -61,7 +61,6 @@ assets:
     options: {}
 unprepared: false
 player: JannytheSpartan
-initiative: false
 ---
 ![[Screenshot_2026-04-19_21-09-11 1.png|290]]
 

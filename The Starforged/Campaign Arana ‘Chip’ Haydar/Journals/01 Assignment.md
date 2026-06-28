@@ -105,3 +105,4 @@ As soon as they finished speaking, an explosion knocks the gates to the courtyar
 move "[End a Session](datasworn:move:starforged\/session\/end_a_session)"
 ```
 
+[[02 Trust]]

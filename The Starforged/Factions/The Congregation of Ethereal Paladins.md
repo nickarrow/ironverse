@@ -19,3 +19,5 @@ The emblem of the knight rank:
 The emblem of the Paladin rank: 
 ![[Project (20260620091437).jpg]]
 
+
+[[Arana Haydar]] is an apprentice.

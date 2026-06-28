@@ -10,3 +10,5 @@ track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Establ
 
 [[The Congregation of Ethereal Paladins]] (commonly known as the Ethereals) has has started an outpost in the settlement of [[Port Koshiba]], on the planet of [[Audun]]. The ethereals are looking to establish themselves as a force for justice in the [[Devil's Chain]].
 The Ethereals have sent one of their most trusted paladins, [[Luna Palmer]] and her apprentice [[The Starforged/Campaign Arana ‘Chip’ Haydar/Characters/Arana Haydar/Arana Haydar|Arana Haydar]] to the Devil's Chain to help the outpost establish the Ethereal paladins as a strong presence for peace and justice in the sector.
+
+[[01 Assignment|01 Assignment]]
