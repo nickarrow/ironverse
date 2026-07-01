@@ -143,11 +143,13 @@ Master Luna shoves the now tied up assassin to the side. As she begins to try to
 
 She looks at Luna. "I appoint you... as the ranking paladin... to be in... charge of the outpost. I am sorry... for my... hasty words. You... fought well... outsider... I entrust my... assignment to you. For justice... and..."
 
-Her eyes dim, and Luna shuts them. They both kneel over the dead paladin, giving her a respectful moment of silence. Luna looks with venom at the only remaining assassin that is alive. 
+Her eyes dim, and Luna shuts them. They both kneel over the dead paladin, giving her a respectful moment of silence.
 
-"You and I, are going to be really closely acquainted."
+Luna's glare was as icy as the storms of Rosston, causing the immobilized man to blanch in fear.
 
-The assassin blanches in fear.
+"You and I," the paladin promised coldly, "are going to be really closely acquainted."
+
+
 
 ```iron-vault-mechanics
 move "[End a Session](datasworn:move:starforged\/session\/end_a_session)"
