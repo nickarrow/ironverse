@@ -1,5 +1,3 @@
-Secession 0.1
-
 Magnus is an apprentice of the Congregation. While others stand in the front, Magnus and his order stand to the side. They talk, they watch, they listen, and they learn.
 
 I’ve been sent to the edge of what the refugees are calling “The Darkness.”
