@@ -40,7 +40,7 @@ jobs:
       - name: Checkout Guardian repository
         uses: actions/checkout@v4
         with:
-          repository: nickarrow/ironverse-guardian-temp
+          repository: nickarrow/ironverse-guardian
           token: ${{ secrets.IRONVERSE_GUARDIAN_TOKEN }}
           path: guardian-repo
           fetch-depth: 1
