@@ -7,7 +7,7 @@
 
 *Despite the carnage the rest of the ship appeared largely intact and the slow rotation of the wreck revealed a massive hangar door embedded into the bottom of it, flanked by a pair of retracted grappler arms.*
 
-*A large fragment of shattered bulkhead slowly orbits past, revealing the name* KILBY *proudly emblazoned upon it.*
+*A large fragment of shattered bulkhead slowly orbits past, revealing the name* **KILBY** *proudly emblazoned upon it.*
 
 ---
 
@@ -126,6 +126,7 @@ Setting his supplies down in the ship's mess, he made his way to the pilot's cha
 
 The ship rumbled to life, lifting off of the pad and blasting into space. As he piloted, Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight even though it threatened to become commonplace at this rate.
 
-Safely out of the station's orbit, he turned on the autopilot and pulled up the datapacket Whisper had given him once more. This time, he focus was the derelict ship, the Kilby.
+Safely out of the station's orbit, he turned on the autopilot and pulled up the datapacket Whisper had given him once more. This time, he focus was the derelict ship, the *Kilby*.
 
-According to this, the Kilby was a clan ship belonging to the 
+According to this, the *Kilby* was a clan ship belonging to Clan Zarrakmar. Her service record shows she was a mender used in a war against a rival clan. She vanished somewhere in the Gorrick sector and her resting place was only recently rediscovered when half of one of her emergency buoys was found by salvage crew sweeping the outskirts of the Anaxes Minefield.
+
