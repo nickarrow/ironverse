@@ -83,6 +83,49 @@ Her cool blue eyes locked on his as she made her offer.
 
 Julius weighed the options carefully, skepticism was plain to see on his face "What kind of derelict? And why hasn't anyone else taken the job before me?"
 
-Now it was Whisper's turn to be a bit coy. "Well... it's a personal matter I'm looking into. There was a clan ship from the humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of proximity mines so I can't get anything more concrete. It's not a journey for the faint of heart, but all I need is a crew manifest from the ship, anything else you find is yours to keep. Think of it as a token of appreciation for taking on something this big."
+Now it was Whisper's turn to be a bit coy. "Well... it's a personal matter I'm looking into. There was a clan ship from the humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of proximity mines so I can't get anything more concrete."
+
+She quickly continued, not letting him ponder on how vague or dangerous this job was for long. 
+"It's not a journey for the faint of heart, but all I need is a crew manifest from the ship, anything else you find is yours to keep. Think of it as a token of appreciation for taking on something this big."
 
 Julius raised his eyebrows. A ship from the first clan wars was a very rare and potentially valuable find indeed. Anything like that would have been reclaimed quickly by the clans, or stripped by scavengers on account of the high quality clan-made weapons and armor it would likely have aboard. A single powered suit of armor could turn a even a small time ganger into a force to be wary of, so clans were naturally highly possessive of their property too.
+
+Considering that he was largely broke unless he wanted to start pawning off the more over-the-top accents from his ship (which he made a mental note to consider doing as he made it more to his liking), he didn't really have much choice.
+
+He responded more confidently than he felt, aiming to keep his lack of fund a secret so as to secure a better deal.
+"I accept your offer. However, I suspect the services of an engineer may be helpful when working within a minefield. I'm prepared to swear an iron vow as assurance, but I would request Bri's location now so I can make use of her skills in fulfilling the job."
+
+Whisper looked away a moment, considering something privately before responding.
+"Deal. Swear it."
+
+`iv-move:Swear an Iron Vow|Heart|5|3|0|1|1|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Recover the Crew Manifest|The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md` 
+*MATCH: Greatly increased rewards*
+
+Drawing his combat knife from where it was hidden, he held the blackened blade out in front of him pointed upwards.
+"I swear I will see this derelict explored and return to you its crew manifest."
+
+Whisper nodded, pleased. With a swipe across her desktop, a ping notified Julius he had received a new data packet. Tucking his blade away and bringing up his wrist computer, he quickly scrubbed through it to find the details on both Bri's location and the derelict in question.
+
+He stood from his seat, extending a hand to shake.
+"Looks like I'm headed to [[Lotus]]."
+
+Whisper hesitated a moment as if she were unused to physical contact, then shook his hand.
+"Good luck, I'm counting on you."
+
+---
+
+Strolling onto the ship with a couple provisions he acquired on the way back, Julius called out to Meg
+"I'm back."
+
+"Welcome aboard, Julius."
+
+Setting his supplies down in the ship's mess, he made his way to the pilot's chair and sat down.
+"I have a heading on our engineer. Please set course for Lotus."
+
+"As you wish. Setting course."
+
+The ship rumbled to life, lifting off of the pad and blasting into space. Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight, even though it threatened to become commonplace at this rate.
+
+"Before we leave range, could you pull any public records of a clan ship called the Kilby for me?"
+
+"Initiating query to the nearest Info-Hub"

@@ -13,7 +13,7 @@ He startles as a cold female voice emanates around him
 
 Julius quickly scans the area, looking for and quickly spotting the speakers the voice was coming through. He fingers the grip of ones of his pistols as composes himself and demands "Identify yourself."
 
-The reply is calm and measured "I am MEGARA, this vessel's on artificial intelligence. I might ask the same of you, I have no record of a transfer of command."
+The reply is calm and measured "I am MEGARA, this vessel's onboard artificial intelligence. I might ask the same of you, as I have no record of a transfer of command."
 
 A small blue hologram depicting a hollow sphere appeared on the piloting console, it pulsed to the voice as it spoke: "I'm afraid if you are an unauthorized pilot I will be forced to vent the atmosphere, my protocols on this are clear." The holo briefly flashed orange, like a glow cat making a threat display.
 
