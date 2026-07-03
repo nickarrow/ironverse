@@ -27,7 +27,7 @@ Narratively, the Lost Clan and what happened to it isn't meant to be too well de
 | Clan Name                     | Status  | Stucture                 |
 | ----------------------------- | ------- | ------------------------ |
 | [[Circle of the Elder Stars]] | Active  | Dynastic Lineage         |
-| Clan Zarrakmar                | Active  | Oligarchical Triumvirate |
+| [[Clan Zarrakmar]]            | Active  | Oligarchical Triumvirate |
 | Unclaimed                     |         |                          |
 | Unclaimed                     |         |                          |
 | The Lost Clan                 | Defunct | [UNKNOWN]                |
