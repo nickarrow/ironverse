@@ -22,12 +22,12 @@ Many varied groups claim to be the inheritors of the Lost Clan's mantle as a gre
 Narratively, the Lost Clan and what happened to it isn't meant to be too well defined. It exists so that you can create your own great clan claimants if the existing great clans don't suit your purposes.
 
 
-###### FOUNDER CLANS
+#### FOUNDER CLANS
 
 | Clan Name                     | Status  | Stucture  |
 | ----------------------------- | ------- | --------- |
-| [[Circle of the Elder Stars]] | Active  |           |
-| Pending                       |         |           |
-| Pending                       |         |           |
+| [[Circle of the Elder Stars]] | Active  | Dynastic  |
+| WIP                           |         |           |
+| Unclaimed                     |         |           |
 | Unclaimed                     |         |           |
 | The Lost Clan                 | Defunct | [UNKNOWN] |
