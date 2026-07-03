@@ -124,8 +124,8 @@ Setting his supplies down in the ship's mess, he made his way to the pilot's cha
 
 "As you wish. Setting course."
 
-The ship rumbled to life, lifting off of the pad and blasting into space. Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight, even though it threatened to become commonplace at this rate.
+The ship rumbled to life, lifting off of the pad and blasting into space. As he piloted, Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight even though it threatened to become commonplace at this rate.
 
-"Before we leave range, could you pull any public records of a clan ship called the Kilby for me?"
+Safely out of the station's orbit, he turned on the autopilot and pulled up the datapacket Whisper had given him once more. This time, he focus was the derelict ship, the Kilby.
 
-"Initiating query to the nearest Info-Hub"
+According to this, the Kilby was a clan ship belonging to the 
