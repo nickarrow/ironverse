@@ -49,7 +49,7 @@ assets:
       supply: 5
       supply/unequipped: false
     options:
-      name: The De-Escalator
+      name: The Rude Awakening
   - id: asset:starforged/module/heavy_cannons
     abilities:
       - true
