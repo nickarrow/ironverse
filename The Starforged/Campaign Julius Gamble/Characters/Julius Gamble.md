@@ -2,7 +2,7 @@
 name: Julius Gamble
 xp_spent: 0
 xp_added: 0
-momentum: 8
+momentum: 9
 edge: 2
 heart: 3
 iron: 1
@@ -17,7 +17,7 @@ Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_XPEarned: 0
-FailureTrack_Progress: 0
+FailureTrack_Progress: 2
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
 description: |-
@@ -90,6 +90,11 @@ callsign: Captain Gamble
 -Holopad (Loaded with old serials)
 -Black Iron concealed blade
 -Deck of cards (well worn)
+
+### Connections
+`iv-track-create:Connections|The Starforged/Campaign Julius Gamble/Progress/Connections.md` 
+[[Vega Khan]] - Information Broker
+
 ## Backstory
 
 `iv-oracle:Backstory Prompts|26|You are running from a criminal past|oracle_rollable:starsmith/launching_your_campaign/backstory` 

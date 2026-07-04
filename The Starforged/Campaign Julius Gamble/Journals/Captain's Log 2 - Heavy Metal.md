@@ -124,9 +124,21 @@ Setting his supplies down in the ship's mess, he made his way to the pilot's cha
 
 "As you wish. Setting course."
 
+`iv-move:Set a Course|Supply|6|5|0|5|2|move:starforged/exploration/set_a_course` 
+
 The ship rumbled to life, lifting off of the pad and blasting into space. As he piloted, Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight even though it threatened to become commonplace at this rate.
 
 Safely out of the station's orbit, he turned on the autopilot and pulled up the datapacket Whisper had given him once more. This time, he focus was the derelict ship, the *Kilby*.
 
-According to this, the *Kilby* was a clan ship belonging to Clan Zarrakmar. Her service record shows she was a mender used in a war against a rival clan. She vanished somewhere in the Gorrick sector and her resting place was only recently rediscovered when half of one of her emergency buoys was found by salvage crew sweeping the outskirts of the Anaxes Minefield.
+According to the data Whisper provided, the *Kilby* was a large ship belonging to [[Clan Zarrakmar]]. Her service record shows she was a mender used in a war against a rival founder clan. She vanished somewhere in the Gorrick sector and her resting place was only recently rediscovered when half of one of her emergency buoys was found by salvage crew sweeping the outskirts of the Anaxes Minefield. Its unconfirmed but assumed that the minefield is what crippled and doomed the ship. The datapacket didn't specify the vessel's cargo or destination, so Julius could only hope those details didn't add any further complications to what looked to be an already complicated extraction job.
 
+With a deep breath he stood up from the pilot's chair.
+"Meg, you have the controls. Let me know if anything comes up, I'm going to do a little maintenance on my gear in my quarters."
+
+"Understood, I'll remain vigilant." Meg replied coolly.
+
+Settling in at the desk in a captain's quarters he withdrew his pistols from their holsters and began to disassemble them, meticulously cleaning, oiling, and polishing the components as needed. 
+
+The pistols had been a gift from 
+
+Similarly, he disconnected the maneuvering thrusters from his jump-jet rig checking and double checking seals and rotation bearings. 

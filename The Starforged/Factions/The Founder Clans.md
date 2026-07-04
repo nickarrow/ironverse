@@ -1,4 +1,4 @@
-This is a reference document collecting information about the Great Founder Clans for ease of use.
+This is a reference document collecting information about the Founder Clans for ease of use.
 Please contact Julius Gamble on the discord if you'd like to update or correct information.
 
 
@@ -9,7 +9,7 @@ Please contact Julius Gamble on the discord if you'd like to update or correct i
 > We have a tentative foothold in this galaxy. Each of the five Founder Clans honor the name and legacy of a leader who guided their people in the chaotic time after the Exodus. Vast reaches of the settled domains are claimed by the clans, and territorial skirmishes are common.
 
 Just before the Exodus, clans were structured as follows:
-Great Clan < Great House < Minor House
+Great Clan > Great Houses > Minor Houses
 
 In the time since humanity began the Exodus that structure may have changed drastically, so feel free to create corporate, authoritarian, criminal, religious, or any other ideas you might have for structure.
 
