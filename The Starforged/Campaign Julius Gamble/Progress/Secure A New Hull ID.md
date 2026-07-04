@@ -1,7 +1,7 @@
 ---
 name: Secure A New Hull ID
 rank: troublesome
-progress: 12
+progress: 24
 tags:
   - incomplete
 track-type: Vow

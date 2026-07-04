@@ -167,4 +167,4 @@ At this Julius grinned and replied "Perfect. Thank you Meg, I think it's time fo
 
 `iv-move:Secure an Advantage|Heart|5|3|0|6|10|move:starforged/adventure/secure_an_advantage` 
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Secure A New Hull ID|The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md|12|24|troublesome|1` 
