@@ -160,8 +160,8 @@ He added his jump jet rig and holsters to the new outfit, adjusting straps and e
 
 "Hey Meg, I need a second opinion: How do I look?"
 
-A little blue holo orb appeared on his desk.
-"Hmm...Well some might call it a bit much, but personally I find you look rather dashing in red."
+A little blue holo orb appeared on his desk. Julius detected some amusement in her voice as she replied.
+"Hmm... Some might call it a bit much. Personally however, I find you look rather dashing in red."
 
 At this Julius grinned and replied "Perfect. Thank you Meg, I think it's time for Captain Gamble to start living a little."
 
