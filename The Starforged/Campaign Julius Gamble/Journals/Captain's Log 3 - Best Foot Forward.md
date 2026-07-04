@@ -67,7 +67,7 @@ He punctuated his statement with a condescending laugh and pointed off towards a
 Thanking the captain for his time, he wandered over to the scrapper team the captain indicated and waved them down.
 "Hey there, which one of you is Bri?"
 
-After a moments pause, a scrapper holding some kind of stripped electronic box raised her hand. Her voice came clearly through his radio, a young, energetic greeting with a touch of skepticism.
+After a moments pause, a scrapper holding some kind of stripped electronic box raised her hand. Her voice came clearly through his radio, a young, energetic voice with a touch of skepticism.
 "That's me, who are you?"
 
 Raising his hands in a show of peace, Gamble introduces himself.
@@ -75,4 +75,59 @@ Raising his hands in a show of peace, Gamble introduces himself.
 
 Putting down the scrap she was holding in a nearby crate, she wandered over and switched to private comms.
 "Gamble huh? What do you need me for?"
+
+Gamble gestured to his ship behind him
+"As it so happens, I have a new ship that requires a little re-engineering. Specifically, I need a new Hull ID. I know from a fixer on Cyrus Station that you have the skills for something like this even if you haven't gotten a fair shot at being a ship's engineer yet. In exchange, I'm willing to bring you on as my engineer on an ongoing basis. I already cleared it with your captain so it's entirely up to you."
+
+He shot her a grin through his face mask and extended her an open hand.
+"You can stay here stripping rusty wires out of this wreck for another month, or you can get back into the stars and live your dream a little. What do you think?"
+
+`iv-move:Compel|Heart|4|3|0|3|9|move:starforged/adventure/compel` 
+
+Her expression was carefully neutral as she left his offer of a handshake unanswered and probed
+"...do you have tools I can use?"
+
+Gamble smile faltered as strained his memory to recall what he'd seen in the engine room. It wasn't a room he'd spent too much time in before returning to the more luxurious parts of the ship.
+
+`iv-oracle:Likely|75|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely` 
+"Yeah, at least I'm pretty sure I have a standard compliment of tools aboard. Help me out and I can even get you a set of your own in time."
+
+At this the girl's mask broke into a grin of her own and she extended a hand.
+"Deal. when do we leave?"
+
+Shaking the outstretched hand, Gamble's smile returned as he quipped
+"In my head we're already in orbit, let's get going!"
+
+The two walked back to the ship, each with a new spring in their step.
+
+---
+
+"I've got bad news boss."
+Bri's voice called from the entrance to the cockpit.
+
+Swiveling his chair around to face her, Gamble cocked his head.
+"What's up?"
+
+Bri gestured behind her as she elaborated
+"I was just taking an inventory of your tools. You have plenty of tools for everyday needs but this ship is a luxury vessel, which makes it a more attractive target for thieves."
+
+She shot him a pointed look, not quite accusing him but leaving the implication hanging in the air between them before continuing.
+
+"The Hull ID on something like this is more aggressively encoded. Changing it will need a some specialized gear you won't find in stores. We're talking a ship foundry or something, and they don't usually let random nobodies work on third party ships using their tools."
+
+Gamble helpfully offered
+"Something like a founder clan's level of mender ship?"
+
+Bri nodded enthusiastically
+"Yeah, but unless you're in the pocket of a founder clan you can forget using one of those."
+
+Gamble shot her a wry look
+"Yeah...about that. I actually know where we can find one we can use."
+
+Bri stopped in her tracks
+"...say what now?"
+
+Gamble elaborated with a grin
+"Yeah, see, I kinda already took a job to...recover some things from one. It's practically untouched if you don't count the damage it likely sustained from being in a minefield the last century or two."
+
 
