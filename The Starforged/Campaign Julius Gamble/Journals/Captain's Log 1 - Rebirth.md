@@ -97,7 +97,7 @@ The cockpit was silent, aside from the small beeps from Julius tapping on contac
 `iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
 While Julius was pondering an auto mechanic by the name of Mitt Skelti, Meg piped up.
-"I believe I have found a suitable candidate. [[Bri|Brianna Savela]], currently serving as a starship engineer aboard a vessel known as the Work Ethic. Her file indicates a history of salvaging and few allies. She may be easy to poach as a result."
+"I believe I have found a suitable candidate. [[Bri|Brianna Savela]], currently serving as a starship engineer aboard a vessel known as the *Work Ethic*. Her file indicates a history of salvaging and few allies. She may be easy to poach as a result."
 
 Julius heartened at this news. "That sounds like a good start, where do we find her?"
 
@@ -127,7 +127,7 @@ A small blue orb blipped to life on the table beside him.
 "Of course. What would you like displayed instead?"
 
 Julius thought for a moment, then tapped his wrist computer a few times.
-"Run this file for me, I'm in the mood for inspiration."
+"Run this file for me, I'm in the mood for...inspiration."
 
 The orb blinked out again as the playback began. Ancient instruments began playing to a rising crescendo as the title "*The Legend of the Silver Rose*" faded in on screen in front of a beautiful sunrise.
 

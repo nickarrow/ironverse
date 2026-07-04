@@ -44,7 +44,7 @@ Julius nodded to her as he piloted the ship to hover above his assigned landing 
 
 ---
 
-Some time later, Julius found himself in the clean, utilitarian corridor outside of The Whisper's business.  A large gentlemen in rugged outfit stood beside the door, visibly armed.
+Some time later, Julius found himself in the clean, utilitarian corridor outside of The Whisper's parlor.  A large gentlemen in a rugged outfit stood beside the door, visibly armed.
 
 "Hello, my name is Julius Gamble. Would your mistress be in?"
 
@@ -52,24 +52,26 @@ The guard nodded and waved him in.
 
 "Mind your manners." He growled as Julius passed him by.
 
-Inside was much less utilitarian than the outside. He found himself in a large round room, walls decorated with art, plants, paintings, and even a stone bust of someone he didn't recognize.
+Inside was much less utilitarian than the outside. He found himself in a large round room, walls decorated with art, plants, paintings, and even a stone bust of someone he didn't recognize. It was unmistakably a very high class locale, though despite the size of the room and the reputation the that the decor implied the place was completely empty aside from its proprietor.
 
-In the center of the room stood a large circular desk made of a polished white stone. In a tall chair behind it sat The Whisper. Contrary to Gamble's initial assessment, her advert outside the station wasn't touched up, she genuinely was just that stunning. Shoulder length red hair framed a slender face with a carefully neutral expression. Her striking blue eyes fixed on him, assessing him in kind.
+In the center of the room stood a large circular desk made of a polished white stone. In a tall chair behind it sat The Whisper. Contrary to Gamble's initial assessment, her advert outside the station wasn't touched up, she genuinely was just that stunning. Shoulder length red hair framed a slender face with a carefully neutral expression, her dancer's figure was at odds with the broad, grand chair it sat it. Her striking blue eyes fixed on him, assessing him in kind with a calculating intellect. She reminded him of the femme fatales in his old adventure serials in a way he found equally familiar and alarming.
 
 Clearing his throat, he announced himself before approaching her desk. 
-"Greetings, I am Captain Gamble. I'm in the market for an engineer who knows their way around reforging a Hull ID."
+"Greetings, I am Captain Gamble. I'm looking for for someone, I thought you might be able to help. She's an engineer named Brianna Savela, goes by Bri. She's supposed to have passed through here recently. Discretion is appreciated in this matter."
 
-She gestured to a chair opposite her, the perfect facsimile of magnanimous host. She finally spoke, her voice was soft and warm, comforting. A voice that could reassure you even as it told you of your imminent demise. Julius made conscious effort to keep his guard up, even though it would be easy to relax.
+She gestured to a chair opposite her, the perfect facsimile of magnanimous host. She finally spoke, her voice was soft and warm, maybe even sultry. It was a voice that could reassure you even as it told you of your imminent demise. Julius made conscious effort to keep his guard up, even though the atmosphere seemed to encourage you to relax.
 
-"I understand, captain. Those are a bit of a rarity, even around here but I should be able to find someone discreet for your purposes."
+"I understand, captain. I'll see what I can dig up for you."
 
 She pulled up a holo-terminal and began tapping away as Julius took a seat. Now seated across the desk from her, he was able to see flecks of something reflective in the stone slab that served as the desktop. Quartz? Gold? Something else entirely? It was unclear but he was pretty confident by the rest of the decor in the room it was worth a small fortune.
 
-He was taken out of his musings as Whisper announced "I have a likely candidate for you. Callsign [[Bri]], full name Brianna Savela. Former scrapper, highly competent according to the service records I can find of her serving as an engineer aboard the vessel *Work Ethic*."
+He was taken out of his musings as Whisper announced "I have some information for you. Callsign [[Bri]], full name Brianna Savela. Former scrapper, highly competent according to the service records I can find of her serving as an engineer. Is that your target?"
+
+Julius nodded, trying to present a confident and charming persona as he replied.
 
 `iv-move:Make a Connection|Heart|1|3|0|8|7|move:starforged/connection/make_a_connection`   `iv-clock-advance:Underworld Retribution|The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md|1|2|1|6` 
 
-"That's excellent news, if you can just give me the data on her last known location I'll be on my way and out of your really rather excellent hair."
+"That's excellent news, if you can just give me the data on her last known location I'll be on my way and out of your luscious hair."
 
 `iv-move:Compel|Heart|5|3|0|9|3|move:starforged/adventure/compel` 
 
@@ -79,20 +81,21 @@ Whisper smiled slightly but rolled her eyes at his compliment.
 Julius cleared his throat tentatively "Ah yes, that. Fair enough. What's this going to cost me?"
 
 Her cool blue eyes locked on his as she made her offer.
-"Normally I'd charge you a credits-based finders fee, but her latest location isn't far from another job I need done. If you're willing to investigate a derelict for me, I think we can both come out ahead. If not, credits are still an option."
+"Normally I'd charge you a credits-based broker fee, but her latest location isn't far from another job I need done. If you're willing to investigate a derelict for me, I think we can both come out ahead. If not, credits are still an option."
 
 Julius weighed the options carefully, skepticism was plain to see on his face "What kind of derelict? And why hasn't anyone else taken the job before me?"
 
-Now it was Whisper's turn to be a bit coy. "Well... it's a personal matter I'm looking into. There was a clan ship from the humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of proximity mines so I can't get anything more concrete."
+Now it was Whisper's turn to be a bit coy. "It's... a personal matter I'm looking into. There was a clan ship from humanity's early days in the Forge that went missing in action during one of the first clan wars. I have good intel indicating the derelict is within a certain range of coordinates, but the whole area is full of proximity mines so I can't get anything more concrete."
 
 She quickly continued, not letting him ponder on how vague or dangerous this job was for long. 
+
 "It's not a journey for the faint of heart, but all I need is a crew manifest from the ship, anything else you find is yours to keep. Think of it as a token of appreciation for taking on something this big."
 
 Julius raised his eyebrows. A ship from the first clan wars was a very rare and potentially valuable find indeed. Anything like that would have been reclaimed quickly by the clans, or stripped by scavengers on account of the high quality clan-made weapons and armor it would likely have aboard. A single powered suit of armor could turn a even a small time ganger into a force to be wary of, so clans were naturally highly possessive of their property too.
 
-Considering that he was largely broke unless he wanted to start pawning off the more over-the-top accents from his ship (which he made a mental note to consider doing as he made it more to his liking), he didn't really have much choice.
+Considering that he was unlikely to afford the services of such a high end fixer unless he wanted to start pawning off the more over-the-top accents from his ship (which he made a mental note to consider doing as he made it more to his liking), he didn't really have much choice. Inwardly he couldn't help but grumble that this engineer better be worth the trouble.
 
-He responded more confidently than he felt, aiming to keep his lack of fund a secret so as to secure a better deal.
+Returning to the matter at hand, he responded more confidently than he felt, aiming to keep his lack of funding a secret so as to secure a better deal.
 "I accept your offer. However, I suspect the services of an engineer may be helpful when working within a minefield. I'm prepared to swear an iron vow as assurance, but I would request Bri's location now so I can make use of her skills in fulfilling the job."
 
 Whisper looked away a moment, considering something privately before responding.
@@ -137,8 +140,31 @@ With a deep breath he stood up from the pilot's chair.
 
 "Understood, I'll remain vigilant." Meg replied coolly.
 
+---
+
 Settling in at the desk in a captain's quarters he withdrew his pistols from their holsters and began to disassemble them, meticulously cleaning, oiling, and polishing the components as needed. 
 
-The pistols had been a gift from 
+The pistols had been equal parts gift and apology from his old boss Vega when he was essentially trafficked into service with Nix Cargor. They were worn but well maintained, and they'd gotten him out of trouble more than once since leaving Vega's employ. 
 
-Similarly, he disconnected the maneuvering thrusters from his jump-jet rig checking and double checking seals and rotation bearings. 
+![[Blasters.jpg|697]]
+
+Similarly, he disconnected the maneuvering thrust modules from his jump-jet rig checking and double checking seals and rotational bearings. These handy little guys had been picked up relatively early in his career with Cargor. Julius realized his need for a little extra agility after he had his first unwanted close encounter with a blade swinging ganger who passionately disagreed with Julius' habit of flirting with his sister.
+
+![[Manuvering thrust pack.png]]
+
+Finally, he stood up, strode to the wardrobe, and took the time to change out of his ganger clothes into something a bit more...bold.
+
+He settled on a collared black shirt and pants, with a sleeveless red and white coat with long tails, then kicked off his heavily worn grey boots and pulled on a pair of brown leather boots with a single vertical red stripe running the length of them on either side. These clothes would need to be tailored later to add more hidden pockets, sheaths, and flair, but they were significantly more comfortable than his previous outfit.
+
+He added his jump jet rig and holsters to the new outfit, adjusting straps and ensuring a snug fit before holstering his pistols and attaching the thrust modules to the rig with a satisfying click and hiss. Julius closed his eyes and took a moment to center himself, standing in the middle of his cabin. He took a deep breath, the room smelled like oil, leather, and a hint of something floral from his clothing. He smiled to himself and opened his eyes as he called out.
+
+"Hey Meg, I need a second opinion: How do I look?"
+
+A little blue holo orb appeared on his desk.
+"Hmm...Well some might call it a bit much, but personally I find you look rather dashing in red."
+
+At this Julius grinned and replied "Perfect. Thank you Meg, I think it's time for Captain Gamble to start living a little."
+
+`iv-move:Secure an Advantage|Heart|5|3|0|6|10|move:starforged/adventure/secure_an_advantage` 
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` 
