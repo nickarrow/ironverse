@@ -9,6 +9,8 @@
 
 *A large fragment of shattered bulkhead slowly orbits past, revealing the name* **KILBY** *proudly emblazoned upon it.*
 
+`iv-meter:Momentum|5|6`
+
 ---
 
 The credits rolled across the viewscreen in the captain's quarters just as a ping sounded out. A small blue holo orb appeared on the nightside table as Meg's pleasant voice emanated from speakers unseen.
@@ -101,8 +103,7 @@ Returning to the matter at hand, he responded more confidently than he felt, aim
 Whisper looked away a moment, considering something privately before responding.
 "Deal. Swear it."
 
-`iv-move:Swear an Iron Vow|Heart|5|3|0|1|1|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Recover the Crew Manifest|The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md` 
-*MATCH: Greatly increased rewards*
+`iv-move:Swear an Iron Vow|Heart|5|3|0|1|1|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Recover the Crew Manifest|The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md` `iv-meter:Momentum|6|8` *MATCH: Greatly increased rewards*
 
 Drawing his combat knife from where it was hidden, he held the blackened blade out in front of him pointed upwards.
 "I swear I will see this derelict explored and return to you its crew manifest."
@@ -110,7 +111,7 @@ Drawing his combat knife from where it was hidden, he held the blackened blade o
 Whisper nodded, pleased. With a swipe across her desktop, a ping notified Julius he had received a new data packet. Tucking his blade away and bringing up his wrist computer, he quickly scrubbed through it to find the details on both Bri's location and the derelict in question.
 
 He stood from his seat, extending a hand to shake.
-"Looks like I'm headed to [[Lotus]]."
+"Looks like I'm headed to [[Trion]]."
 
 Whisper hesitated a moment as if she were unused to physical contact, then shook his hand.
 "Good luck, I'm counting on you."
@@ -123,11 +124,11 @@ Strolling onto the ship with a couple provisions he acquired on the way back, Ju
 "Welcome aboard, Julius."
 
 Setting his supplies down in the ship's mess, he made his way to the pilot's chair and sat down.
-"I have a heading on our engineer. Please set course for Lotus."
+"I have a heading on our engineer. Please set course for Trion, we don't have much time to waste."
 
 "As you wish. Setting course."
 
-`iv-move:Set a Course|Supply|6|5|0|5|2|move:starforged/exploration/set_a_course` 
+`iv-move:Set a Course|Supply|6|5|0|5|2|move:starforged/exploration/set_a_course` `iv-meter:Momentum|8|9`
 
 The ship rumbled to life, lifting off of the pad and blasting into space. As he piloted, Julius couldn't help but smile and feel a small sense of wonder at the sights and sensations of space flight even though it threatened to become commonplace at this rate.
 
@@ -166,5 +167,6 @@ A little blue holo orb appeared on his desk. Julius detected some amusement in h
 At this Julius grinned and replied "Perfect. Thank you Meg, I think it's time for Captain Gamble to start living a little."
 
 `iv-move:Secure an Advantage|Heart|5|3|0|6|10|move:starforged/adventure/secure_an_advantage` 
+*+1 to next non-progress roll*
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Secure A New Hull ID|The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md|12|24|troublesome|1` 

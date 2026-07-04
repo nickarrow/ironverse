@@ -17,7 +17,7 @@ The reply is calm and measured "I am MEGARA, this vessel's onboard artificial in
 
 A small blue hologram depicting a hollow sphere appeared on the piloting console, it pulsed to the voice as it spoke: "I'm afraid if you are an unauthorized pilot I will be forced to vent the atmosphere, my protocols on this are clear." The holo briefly flashed orange, like a glow cat making a threat display.
 
-`iv-move:Compel|Heart|5|3|0|3|2|move:starforged/adventure/compel` 
+`iv-move:Compel|Heart|5|3|0|3|2|move:starforged/adventure/compel` `iv-meter:Momentum|2|3`
 
 "Now now, let's not be hasty. I happen to have just been in the employ of Nix Cargor and I've been fortunate enough to have this fine vessel of as my parting souvenir." Julius shifts in his seat, not really sure where to look to make some form of eye contact, eventually settling on just treating the little hologram as the AI's face. 
 
@@ -43,7 +43,7 @@ The answer was quickly supplied:
 Julius took a moment to consider his options, then withdrew a small blade from within one sleeve. It despite its polished surface, the sheen was weak as though it was drawing more light into it that a regular blackened blade. He held it tightly, and announced with more confidence than he felt "Very well. For my first act as captain of this vessel, I swear I will see it reborn for the better."
 
 `iv-track-create:Secure A New Hull ID|The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md` 
-`iv-move:Swear an Iron Vow|Heart|2|3|0|2|5|move:starforged/quest/swear_an_iron_vow` 
+`iv-move:Swear an Iron Vow|Heart|2|3|0|2|5|move:starforged/quest/swear_an_iron_vow` `iv-meter:Momentum|3|4`
 `iv-clock-create:Underworld Retribution|The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md` 
 
 Tucking the blade away again, he opened up the comms menu and keyed in a private communicator number he had long since memorized.
@@ -109,7 +109,7 @@ Julius swiped away the comms console holo, turning back towards to controls and 
 
 "Aye aye, captain." The little blue orb chirped, as Meg set the nav computer and locked in the destination.
 
-`iv-move:Set a Course|Supply|6|5|0|9|3|move:starforged/exploration/set_a_course` 
+`iv-move:Set a Course|Supply|6|5|0|9|3|move:starforged/exploration/set_a_course` `iv-meter:Momentum|4|5`
 
 The Yonder Star's engines lurched to life, stars becoming streaks as it sped away from Taraxus.
 Once the initial jump inertia lurch had subsided, Julius left his seat to stretch his legs and explore the ship further.
