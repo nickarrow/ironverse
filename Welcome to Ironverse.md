@@ -1,0 +1,64 @@
+# Welcome to the Ironverse
+
+> A shared narrative universe for **Ironsworn**, **Starforged**, and **Sundered Isles** players
+
+## What is the Ironverse?
+
+**The Ironverse** is a collaborative storytelling repository where players using **Obsidian + Iron Vault** can:
+
+- 📖 **Publish your campaigns** — Share your adventures with the community
+- 🔍 **Explore others' stories** — Read the campaigns, characters, and journals around you
+- 🤝 **Collaborate organically** — Add your character to someone else's campaign, write journal entries that interweave with theirs
+- 🌍 **Build shared worlds** — Watch the universe grow as players contribute to each other's stories
+
+We currently have one [[The Starforged README|Starforged Campaign]] running, and new players are always welcome to join the Ironverse. Feel free to join in the current campaign, or if you want to start your own campaigns, (Ironsworn, and Sundered Isles are supported) go for it!
+
+## How Ownership Works
+Every file has exactly one owner — whoever created it. Simple.
+
+**What you can do:**
+- ✅ Create new files anywhere in the repository
+- ✅ Edit, rename, move, or delete your own files
+- ✅ Read everyone's files
+- ❌ Edit or delete files owned by others
+
+**What happens if you try to edit someone else's file?**
+
+The Ironverse silently restores it. Your next sync pulls the corrected version. No errors, no drama, just clean content.
+
+## Getting Started
+
+**You'll need:**
+- [Obsidian](https://obsidian.md/)
+- [GitHub account](https://github.com/)
+- Repository access - [Join our Discord](https://discord.gg/A3t4mPq2QH)  and contact @nickarrow
+
+For the full setup walkthrough, see [[Getting Started]].
+
+## Community Guidelines
+
+The Ironverse follows the community rules from the [Ironsworn Discord](https://discord.gg/8bRuZwK):
+
+**1. Hateful ideologies are not tolerated.** This includes but is not limited to hate speech based on race, gender, sexuality, religion, disability, or any other attacks on one's personhood.
+
+**2. Be kind.** This is a shared creative space. Respect the input of others. Everyone's contributions, experiences, and approaches are valued (though see rule #1). Threatening behavior, abuse, or harassment of any kind are not tolerated.
+
+**3. Keep it clean.** Avoid NSFW content. When in doubt, mark it as NSFW or use content warnings.
+
+**4. Support creators.** Do not upload commercial PDFs or links to pirated materials, and do not discuss pirated content.
+
+**5. The "Yes, and..." Philosophy** The Ironverse embraces the improv principle of building on others' contributions rather than negating them.
+
+While Ironverse's technical systems prevent you from editing or deleting other players' files, you can still write whatever you want in your *own* files. This is where "Yes, and..." becomes a social contract:
+
+**What this means in practice:**
+- **Don't narratively destroy what others create.** Even in your own journals, avoid writing that another player's character died, their settlement was obliterated, or their faction was wiped out. Their creations are theirs to conclude.
+- **Build on, don't bulldoze.** Reference others' content as inspiration, not as targets. Add to the universe rather than subtracting from it.
+- **Treat others' creations as living stories.** That character, location, or faction might still be in active play. Write as if the original creator might continue their story tomorrow.
+- **When in doubt, go adjacent.** Instead of writing definitive outcomes for others' content, write about rumors, near-misses, or your character's *perception* of events.
+
+---
+
+**Ready to set up?** See [[Getting Started]]
+
+**Already playing?** Check out [[Tips and Best Practices]]
