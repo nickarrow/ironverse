@@ -77,7 +77,7 @@ Putting down the scrap she was holding in a nearby crate, she wandered over and 
 "Gamble huh? What do you need me for?"
 
 Gamble gestured to his ship behind him
-"As it so happens, I have a new ship that requires a little re-engineering. Specifically, I need a new Hull ID. I know from a fixer on Cyrus Station that you have the skills for something like this even if you haven't gotten a fair shot at being a ship's engineer yet. In exchange, I'm willing to bring you on as my engineer on an ongoing basis. I already cleared it with your captain so it's entirely up to you."
+"As it so happens, I have a new ship that requires a little re-engineering. Specifically, I need a new hull ID. I know from a fixer on Cyrus Station that you have the skills for something like this even if you haven't gotten a fair shot at being a ship's engineer yet. In exchange, I'm willing to bring you on as my engineer on an ongoing basis. I already cleared it with your captain so it's entirely up to you."
 
 He shot her a grin through his face mask and extended her an open hand.
 "You can stay here stripping rusty wires out of this wreck for another month, or you can get back into the stars and live your dream a little. What do you think?"
@@ -90,7 +90,7 @@ Her expression was carefully neutral as she left his offer of a handshake unansw
 Gamble smile faltered as strained his memory to recall what he'd seen in the engine room. It wasn't a room he'd spent too much time in before returning to the more luxurious parts of the ship.
 
 `iv-oracle:Likely|75|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely` 
-"Yeah, at least I'm pretty sure I have a standard compliment of tools aboard. Help me out and I can even get you a set of your own in time."
+"Yeah. At least I'm pretty sure I have a standard compliment of tools aboard. Heck, help me out and I can even get you a set of your own in time."
 
 At this the girl's mask broke into a grin of her own and she extended a hand.
 "Deal. when do we leave?"
@@ -113,7 +113,7 @@ Bri gestured behind her as she elaborated
 
 She shot him a pointed look, not quite accusing him but leaving the implication hanging in the air between them before continuing.
 
-"The Hull ID on something like this is more aggressively encoded. Changing it will need a some specialized gear you won't find in stores. We're talking a ship foundry or something, and they don't usually let random nobodies work on third party ships using their tools."
+"The hull ID on something like this is more aggressively encoded. Changing it will need a some specialized gear you won't find in stores. We're talking a ship foundry or something, and they don't usually let random nobodies work on third party ships using their tools."
 
 Gamble helpfully offered
 "Something like a founder clan's level of mender ship?"
@@ -130,4 +130,19 @@ Bri stopped in her tracks
 Gamble elaborated with a grin
 "Yeah, see, I kinda already took a job to...recover some things from one. It's practically untouched if you don't count the damage it likely sustained from being in a minefield the last century or two."
 
+If Bri looked incredulous before, she looked downright alarmed now.
+"What's this about a minefield?"
+
+Gamble pulled up the sector map on holo, pointing to a patch marked in red
+"Yeah, there's this one around Anaxes. Apparently it's from one of the old clan wars way back when. My lead isn't 100% clear on where it is, but we have a search area and high confidence it'll be found within it."
+
+Skepticism replaced alarm as Bri sarcastically commented
+"I see why you didn't lead with this back on the surface..."
+
+Gamble scratched the back of his head
+"Yeeeah, I know it's not exactly gonna be a walk in the park but this should be a great test run for us. Besides, we need the ship to reforge the *Silver Thorn's* hull ID."
+
+`iv-move:Make a Connection|Heart|4|3|0|1|5|move:starforged/connection/make_a_connection`   `iv-track-create:Brianna 'Bri' Savela|The Starforged/Campaign Julius Gamble/Progress/Connections/Brianna 'Bri' Savela.md` 
+
+"Fine, but I expect you to remember this when I need a favor. Got it?"
 

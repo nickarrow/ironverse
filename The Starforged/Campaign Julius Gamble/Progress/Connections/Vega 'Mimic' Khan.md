@@ -15,3 +15,4 @@ iron-vault-kind: progress
 
 More info: [[Vega Khan]]
 Julius' former boss, an information broker on [[Taraxus]] on middling importance but still well liked by her community.
+
