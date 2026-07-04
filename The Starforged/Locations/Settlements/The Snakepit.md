@@ -9,5 +9,5 @@
 | Authority           | Lawless               |
 | Settlement Projects | Raiding, Secrecy      |
 | Settlement Trouble  | Shunned by others     |
-The Snakepit is a large settlement built within an asteroid.  It is home to the pirate clan known as [[Void Cobras, The]].  Despite the fearsome reputation pirates have, The Snakepit is also home to a large number of non-raider crew - engineers, medics, etc. as well as the families of the raiders.
+The Snakepit is a large settlement built within an asteroid.  It is home to the pirate clan known as [[Void Cobras]].  Despite the fearsome reputation pirates have, The Snakepit is also home to a large number of non-raider crew - engineers, medics, etc. as well as the families of the raiders.
 
