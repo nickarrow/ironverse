@@ -5,4 +5,4 @@ Takamaki were impressed by Rushdown and the other Red Suns and being pragmatic r
 
 It is unknown what interest Takamaki have in Ashitaba or the Minami Clan, or what threat the Suns are supposed to be protecting them from.
 
-Rushdown has been given a corvette, a strike team of four special forces soldiers including himself, and a dozen marines as well as the necessary crew to run the ship.
+Rushdown has been given a corvette, as well as the necessary crew to run the ship.
