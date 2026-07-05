@@ -39,7 +39,7 @@ Rushdown turns and leaves the office, and heads back to the ship.
 
 ---
 
-Rushdown decides to head to [[Tranquilo (City)|Tranquilo]] first.  It would make sense to look into Minami seeing as they were already there, but it had been a long journey from HQ and the crew looked about ready for some shore leave.  Rushdown was sure nobody wanted to miss out on a chance to sample the delights of the fames pleasure city for themselves.
+Rushdown decides to head to [[Tranquilo (City)|Tranquilo]] first.  It would make sense to look into Minami seeing as they were already there, but it had been a long journey from HQ and the crew looked about ready for some shore leave.  Rushdown was sure nobody wanted to miss out on a chance to sample the delights of the famed pleasure city for themselves.
 
 `iv-move:Set a Course|Supply|5|5|0|10|2|move:sundered_isles/exploration/set_a_course` 
 
@@ -51,11 +51,11 @@ They arrive safely at Tranquilo and dock, and the crew are in high spirits as th
 
 "Cassidy.  I should have killed you while I had the chance," replies Rushdown.
 
-"Don't kid yourself, you never had the chance.  And besides, that's no way to speak to your new employer."
+"Don't kid yourself; you never had the chance.  And besides, that's no way to speak to your new employer."
 
 "Yeah, yeah.  What are you calling me for?"
 
-"I was the one who recommended the Red Suns to Takamaki.  I'm the reason they requested you by name for this assignment.  Every victory for you makes me look good to my superiors.  You're putting your life on the line just to make me look good.  I just wanted you to know that."
+"I was the one who recommended the Red Suns to Takamaki.  I'm the reason they requested you by name for this assignment.  Every victory for you makes me look good to my superiors.  You're putting your life on the line just to advance my career.  I just wanted you to know that."
 
 "One day, I'll get the opportunity to settle our differences face to face, we'll see how smug you are then."
 
@@ -69,7 +69,7 @@ They arrive safely at Tranquilo and dock, and the crew are in high spirits as th
 
 `iv-move:Gather Information|Wits|4|3|0|4|1|move:starforged/adventure/gather_information`  `iv-meter:Momentum|4|6` 
 
-"It's fun watching you squirm and try to figure out what you're here for, but I suppose it'll reflect better on me if you're productive," replies Cassidy.  "Something's happening a few sectors over, in The Expanse.  Something big.  Might spill over into neighboring or nearby sectors.  It's not our territory so no details yet, but keep an eye out for increased pirate activity.  And they won't play nice with the local pirates, if they do come, so don't expect to find anything out on [[Gallows]]."
+"It's fun watching you squirm and try to figure out what you're here for, but I suppose it'll reflect better on me if you're productive," replies Cassidy.  "Something's happening a few sectors over, in The Expanse.  Something big.  Might spill over into neighboring or nearby sectors.  It's not our territory so no details yet, but keep an eye out for increased pirate activity.  And they won't play nice with the local pirates if they do come, so don't expect to find anything out on [[Gallows]]."
 
 ---
 
