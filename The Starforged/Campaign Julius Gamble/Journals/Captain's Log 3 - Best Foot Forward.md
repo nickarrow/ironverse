@@ -146,3 +146,34 @@ Gamble scratched the back of his head
 
 "Fine, but I expect you to remember this when I need a favor. Got it?"
 
+Gamble chuckled
+"Of course Bri, I know you don't know me that well yet but I promise I'm not gonna leave you hanging. Besides you're the only crew I have other than Meg, and I'm not entirely certain she counts. I'd be a pretty poor captain if I let you down, no?"
+
+Bri stared Gamble in the eyes, sizing up the truth of his words. After a moment she nodded, apparently content with what she found there.
+
+She slid into the copilot's chair.
+"So, what can you tell me about the ship?"
+
+Gamble smiled and addressed the air around him
+"Meg, please forward the data packet on the *Kilby* to Bri here."
+
+The blue holo sphere popped up on the pilot's console.
+"Certainly. I'd also like to extend a warm welcome aboard to you Bri, I appreciate having someone around to take care of the vessel."
+
+Bri replied to Meg in a tone bordering on flattered
+"Of course, I'm glad to have somewhere to hone my skills!"
+
+She addressed Gamble again
+"Speaking of which, I best study up on our target before we arrive. I expect I'll need every edge I can get. I'll be in the mess if you need me."
+She tapped her wrist computer a few times to bring up the dossier on the *Kilby* then walked off, already immersed in the data.
+
+Gamble sat back in his chair, pleased at the progress of the day.
+"Not bad, not bad at all."
+He remarked to himself.
+
+"Meg, set course for the Anaxes Minefield. We have a ship to catch."
+The holo orb bobbed in response.
+"Of course, captain."
+
+---
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Secure A New Hull ID|The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md|24|36|troublesome|1`  `iv-track-advance:Recover the Crew Manifest|The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md|0|8|dangerous|1` 
