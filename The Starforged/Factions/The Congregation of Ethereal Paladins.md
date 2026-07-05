@@ -12,6 +12,10 @@
 
 The Congregation of the Ethereal Paladins is a dedicated order of militant mystics and peacekeepers operating from a massive, repurposed Vault on the planet [[Rosston]]. Functioning as stewards of the Aether—the pervasive, invisible energy flowing through the reaches of the sector—the Congregation intervenes in crises that defy the capabilities of conventional planetary forces. Members undergo rigorous martial and spiritual conditioning to manipulate the Aether for protection, insight, and combat. The order has a hierarchy of members, guiding initiates from the rank of Apprentice to the active duty of a Knight, with the most profound masters achieving the title of Paladin. Directed from the central temple by their supreme leader the Archon, the Ethereals deploy across the stars to confront anomalies, protect the vulnerable, and enforce a specialized mandate that only an organization of Aether-wielding warriors can uphold.
 
+They view themselves as independent of all other factions, and at least outwardly, they accept members from all other factions. Through cultivation of strength being passed down from generation to generation, they have become quite powerful in their own right, however, occasionally someone from somewhere else will be found to have enough power to be a contender, and are thus invited to join and be trained, and to eventually strengthen the bloodline's connection to the Aether. It is generally forbidden to marry outside of the faction, and it is rare that exceptions are made.
+
+They view themselves as neutral to all other factions, intervening in where they believe Justice must be upheld.
+
 The emblem of The Apprentice rank:
 ![[Project (20260620105200).jpg]]
 The emblem of the knight rank:
