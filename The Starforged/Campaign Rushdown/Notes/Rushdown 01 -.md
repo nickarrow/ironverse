@@ -41,7 +41,7 @@ Rushdown turns and leaves the office, and heads back to the ship.
 
 Rushdown decides to head to [[Tranquilo (City)|Tranquilo]] first.  It would make sense to look into Minami seeing as they were already there, but it had been a long journey from HQ and the crew looked about ready for some shore leave.  Rushdown was sure nobody wanted to miss out on a chance to sample the delights of the famed pleasure city for themselves.
 
-`iv-move:Set a Course|Supply|5|5|0|10|2|move:sundered_isles/exploration/set_a_course` 
+`iv-move:Set a Course|Supply|5|5|0|10|2|move:sundered_isles/exploration/set_a_course`  `iv-track-advance:01 - Visit the three key settlements in Ashitaba|The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md|0|8|dangerous|1` 
 
 `iv-oracle:Story Complication|17|Enemy reveals their true agenda or nature|oracle_rollable:sundered_isles/misc/story_complication` 
 
@@ -72,4 +72,26 @@ They arrive safely at Tranquilo and dock, and the crew are in high spirits as th
 "It's fun watching you squirm and try to figure out what you're here for, but I suppose it'll reflect better on me if you're productive," replies Cassidy.  "Something's happening a few sectors over, in The Expanse.  Something big.  Might spill over into neighboring or nearby sectors.  It's not our territory so no details yet, but keep an eye out for increased pirate activity.  And they won't play nice with the local pirates if they do come, so don't expect to find anything out on [[Gallows]]."
 
 ---
+
+Rushdown ends the call, and gets back on the local 'net looking for leads.  He finds out that Tranquilo is run by the Angel Brothers, a gang of half-brothers fathered by the infamous outlaw Papa Angel who terrorized the sector and beyond a couple of decades ago.  Papa Angel hasn't been seen for 25 years, give or take, and his fate is a mystery.  Some say he's dead, some say he left the sector, some say he retired, but nobody knows for sure what became of him.
+
+His sons run a gang that operated in Tranquilo, and over time managed to take control of the city through being more united and organized than the other gangs, and maybe just a little bit meaner too.  
+
+Rushdown requests a meeting with the Angel Brothers using his credentials as ship captain and representative of the Red Suns and to his surprise receives a reply.  A man's face flashes up on the vidscreen.  He looks like he's used to giving orders and having them followed without question.
+
+"I'm [[Florian Angel]].  You're the merc?"
+
+"That's me," replies Rushdown.
+
+"I've never heard of you, if this is some kind of joke you're a dead man for wasting my time."
+
+"We're new in these parts but trust me, we're battle tested."
+
+"We might have work for you, but first I'm going to give you a little test.  A band of Ironsail Raiders are attacking ships a couple of jumps from here."
+
+"Ironsail Raiders?"
+
+"They're a group of tribes from The Expanse, they send raiding parties into Ashitaba from time to time when their various factions aren't warring with each other.  Get rid of them and we can talk about real jobs.  They have a few multipurpose vehicles, enough to overwhelm a civilian ship but no match for a warship like yours.  Let me know when it's done."
+
+The call ends abruptly.
 

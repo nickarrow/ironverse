@@ -2,7 +2,7 @@
 Settlement Name: Tranquilo
 Location: Tranquilo, [[Ashitaba]] Sector
 Settlement Type: Planetside
-Settlement Size: Tens of Thousands
+Settlement Size: Thousands
 First Look:  Obvious Social Stratification
 Initial Contact: Friendly
 Authority: Oppressive
