@@ -11,3 +11,6 @@ Rushdown has been given a corvette, as well as the necessary crew to run the shi
 
 `iv-track-create:00 - Connection Butcher|The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md` 
 
+Next Entry: 
+[[Rushdown 01 - New Beginnings]]
+
