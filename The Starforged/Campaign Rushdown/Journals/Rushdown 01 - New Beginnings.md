@@ -55,7 +55,7 @@ They arrive safely at Tranquilo and dock, and the crew are in high spirits as th
 
 "Yeah, yeah.  What are you calling me for?"
 
-"I was the one who recommended the Red Suns to Takamaki.  I'm the reason they requested you by name for this assignment.  Every victory for you makes me look good to my superiors.  You're putting your life on the line just to advance my career.  I just wanted you to know that."
+"I was the one who recommended the Red Suns to Takamaki.  I'm the reason they requested you by name for this assignment.  Every victory for you makes me look good to my superiors.  You're putting your life on the line just to advance my career.  I wanted you to know that."
 
 "One day, I'll get the opportunity to settle our differences face to face, we'll see how smug you are then."
 
@@ -95,3 +95,56 @@ Rushdown requests a meeting with the Angel Brothers using his credentials as shi
 
 The call ends abruptly.
 
+"I vow to get rid of these Ironsail Raiders" says Rushdown to himself.
+
+`iv-move:Swear an Iron Vow|Heart|6|2|0|10|9|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:01 - Get rid of the Ironsail Raiders|The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md` 
+
+The crew return by the allotted time, but one of the crew comes in covered in blood and immediately goes to the medbay and has a broken nose seen to.  Rushdown goes to find out what happened; it turns out the crewman had taken a shortcut down a backalley and got jumped by a gang who took his credstick and his sidearm.
+
+Rushdown heads to the alley.  His security officer protests that he should take more men, but Rushdown tells them to just prep for departure and makes his way there alone.
+
+Rushdown gets to the alley and sees  `iv-dice:1d6|3` three men standing around, chatting and laughing.  As he approaches them, they notice him coming.  One of the gangers sees his uniform and steps forward.  He says "What, you came back for more?"
+
+"That's not him, it's a different dude," says another.
+
+"Oh, that's even better-"
+
+Rushdown reaches the apparent ringleader, grabs him by the throat, and shoves him against the wall.  "Give me back what you took or they're gonna be scraping you and your friends off the pavement," he says.
+
+`iv-move:Compel|Iron|3|4|0|7|7|move:starforged/adventure/compel` 
+
+"Oh, you mean this?" says one of the other gangers, pointing the missing weapon at Rushdown.  "You want it?"
+
+"Oh, he wants it," says the one pinned to the wall, "give it to him."
+
+`iv-move:Enter the Fray|Iron|2|4|0|6|5|move:sundered_isles/combat/enter_the_fray`  `iv-track-create:01 - Alley Fight|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md` 
+
+Rushdown whips round and lunges at the ganger holding the gun before he has a chance to pull the trigger.  He tries to knock the gun out of the man's hand.
+
+`iv-move:Strike|Iron|2|4|0|2|1|move:starforged/combat/strike`  `iv-track-advance:01 - Alley Fight|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md|0|24|troublesome|2` 
+
+His blow sends the sidearm skittering down the alleyway and the ganger is stunned for a second.  Rushdown doesn't miss the opportunity and pulls his arm back with a huge backfist into the man's face, dropping him to the ground.  He turns his attention back to the man next to the wall.
+
+`iv-move:Strike|Iron|5|4|0|4|10|move:starforged/combat/strike`  `iv-track-advance:01 - Alley Fight|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md|24|40|troublesome|2` 
+
+Rushdown grabs the man and slams his head into the wall and he falls limp to the ground, but the third man is behind Rushdown with an iron pipe and he swings it at the back of Rushdown's head.
+
+>Making a Clash move using Armored to set the Action Dice to 4 giving me a total of 8
+
+> `iv-dice:1d10|5`  `iv-dice:1d10|5` 
+
+>8 vs 5 & 5, Strong Hit with a match
+
+The pipe bounces off Rushdown's power armor and Rushdown turns to face the new attacker.  The man drops the pipe in surprise, his face a mask of fear.
+
+`iv-progress:Take Decisive Action|01 - Alley Fight|10|3|2|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md|move:starforged/combat/take_decisive_action`  `iv-track-complete:01 - Alley Fight|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md` 
+
+"Run," whispers Rushdown, and the man turns and takes off sprinting down the alleyway.  Rushdown retrieves the stolen gun and searches the two unconscious gangers.
+
+>Does he find anything interesting?   `iv-oracle:Small Chance|86|No|move.oracle_rollable:starforged/fate/ask_the_oracle.small_chance` 
+
+He makes his way back to the *Rude Awakening*, where the crew are ready to depart for the showdown with the Ironsail Raiders.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`   `iv-meter:Momentum|6|7` 
