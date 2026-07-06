@@ -45,12 +45,12 @@ Despite the background influence from the planet's unstable magnetosphere, Gambl
 
 Gamble hesitated a moment, considering it probably unwise to convey the original name of the ship he had commandeered.
 
-"Silver Thorn. Communication is unstable from orbit, requesting to land nearby for face to face communication. I need to speak to a member of your crew."
+"Silver Rose. Communication is unstable from orbit, requesting to land nearby for face to face communication. I need to speak to a member of your crew."
 
 A minute passed before his comms crackled to life with a gruff voice.
 "This is first mate Liefield of the *Work Ethic*, acknowledged and confirmed. Set down along our port side, we'll ensure the space is clear."
 
-Doing as instructed, the newly christened Silver Thorn landed without incident. After donning the life support gear required due to the planet's thin atmosphere, Julius descended the boarding ramp to some wary glances from the nearby scrappers who were still working on the nearby wreck.
+Doing as instructed, the newly christened Silver Rose landed without incident. After donning the life support gear required due to the planet's thin atmosphere, Julius descended the boarding ramp to some wary glances from the nearby scrappers who were still working on the nearby wreck.
 
 While adjusting his shortwave comms unit to the appropriate frequency, Gamble was approached by a welcome party of armed men escorting that he presumed to be the captain of the vessel. Gamble waved and broadcast "Greetings, thank you for allowing me to land. I'm looking for Bri. Any idea where she is?"
 
@@ -71,7 +71,7 @@ After a moments pause, a scrapper holding some kind of stripped electronic box r
 "That's me, who are you?"
 
 Raising his hands in a show of peace, Gamble introduces himself.
-"I'm Captain Gamble of the Silver Thorn, I've been trying to find you for a while now after an info broker put you on my radar. I have a proposition that could benefit us both."
+"I'm Captain Gamble of the Silver Rose, I've been trying to find you for a while now after an info broker put you on my radar. I have a proposition that could benefit us both."
 
 Putting down the scrap she was holding in a nearby crate, she wandered over and switched to private comms.
 "Gamble huh? What do you need me for?"
@@ -105,7 +105,7 @@ The two walked back to the ship, each with a new spring in their step.
 "I've got bad news boss."
 Bri's voice called from the entrance to the cockpit.
 
-Swiveling his chair around to face her, Gamble cocked his head.
+Swiveling his chair around to face her, Gamble cocked his head slightly.
 "What's up?"
 
 Bri gestured behind her as she elaborated
@@ -125,7 +125,7 @@ Gamble shot her a wry look
 "Yeah...about that. I actually know where we can find one we can use."
 
 Bri stopped in her tracks
-"...say what now?"
+"...Say what now?"
 
 Gamble elaborated with a grin
 "Yeah, see, I kinda already took a job to...recover some things from one. It's practically untouched if you don't count the damage it likely sustained from being in a minefield the last century or two."
@@ -140,7 +140,7 @@ Skepticism replaced alarm as Bri sarcastically commented
 "I see why you didn't lead with this back on the surface..."
 
 Gamble scratched the back of his head
-"Yeeeah, I know it's not exactly gonna be a walk in the park but this should be a great test run for us. Besides, we need the ship to reforge the *Silver Thorn's* hull ID."
+"Yeeeah, I know it's not exactly gonna be a walk in the park but this should be a great test run for us. Besides, we need the ship to reforge the *Silver Roses* hull ID."
 
 `iv-move:Make a Connection|Heart|4|3|0|1|5|move:starforged/connection/make_a_connection`   `iv-track-create:Brianna 'Bri' Savela|The Starforged/Campaign Julius Gamble/Progress/Connections/Brianna 'Bri' Savela.md` 
 
