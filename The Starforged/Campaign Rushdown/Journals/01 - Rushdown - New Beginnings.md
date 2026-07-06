@@ -1,5 +1,5 @@
 
-Previous Entry: [[Rushdown 00 - Setting the Scene]]
+Previous Entry: [[00 - Rushdown - Setting the Scene]]
 
 Rushdown enters [[Butcher]]'s office in [[Minami City]].  He's just arrived in the city today, after a long flight from [[Red Suns]] HQ. 
 

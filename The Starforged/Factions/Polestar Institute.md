@@ -11,7 +11,7 @@ Guild: Researchers
 
 The Polestar Institute are a group of scientists who research magic and how it interacts with technology.
 
-Their main base is The [[Apollo Center]].
+Their main base is The [[Apollo Center]] in Devil's Chain.
 
 Their Director is [[Althea Taylan]].
 

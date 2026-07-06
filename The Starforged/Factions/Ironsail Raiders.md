@@ -1,0 +1,4 @@
+
+Ironsail Raiders is the generic name for a multitude of different tribes who can be found in some parts of the Expanse.  They live by an honor code, and each tribe follows a strong leader.  They are mainly known in the Outlands as raiders as raiding parties are part of their culture, but more often than not they're raiding each other - infighting between tribes is the norm, although trade and diplomacy also takes place.
+
+Their raiding parties are not stupid - if they come across a settlement or ship that is too heavily defended to safely attack they'll gladly trade with them instead of raiding.  They're basically opportunists looking to make a name for themselves by bringing back as much loot as possible for their tribes.
