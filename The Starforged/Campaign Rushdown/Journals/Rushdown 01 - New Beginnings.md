@@ -143,7 +143,7 @@ The pipe bounces off Rushdown's power armor and Rushdown turns to face the new a
 
 >Does he find anything interesting?   `iv-oracle:Small Chance|86|No|move.oracle_rollable:starforged/fate/ask_the_oracle.small_chance` 
 
-He makes his way back to the *Rude Awakening*, where the crew are ready to depart for the showdown with the Ironsail Raiders.
+Finding nothing, he makes his way back to the *Rude Awakening* where the crew are ready to depart for the showdown with the Ironsail Raiders.
 
 ---
 
