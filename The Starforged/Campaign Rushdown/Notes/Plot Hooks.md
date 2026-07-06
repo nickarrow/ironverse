@@ -1,8 +1,8 @@
 
 
 
-- What is Cassidy doing?
-- Increased pirate activity?
-- Papa Angel's fate
-- Skullcrusher's gang in Southside
-- 
+- 01 -What is Cassidy doing?
+- 01 - Increased pirate activity?
+- 01 - Papa Angel's fate
+- 01 - Skullcrusher's gang in Southside
+- 02 - Larissa Station

@@ -139,5 +139,9 @@ Rushdown brings the *Rude Awakening* in to dock and has the crew unload some of 
 
 The *Rude Awakening* heads straight to Gallows.
 
-`iv-move:Set a Course|Supply|4|5|0|3|1|move:starforged/exploration/set_a_course` 
+`iv-move:Set a Course|Supply|4|5|0|3|1|move:starforged/exploration/set_a_course`  `iv-meter:Momentum|6|7` 
+
+They get to Gallows without a hitch, and as they come in to dock with the station they notice the three ships that attacked theirs on the landing pad.  After he docks and disembarks, Rushdown searches the local 'net for the ship registry and gets a name - the  `iv-oracle:Starship Name|9|Beowulf|oracle_rollable:starforged/starship/name`, captained by a Chief Wulfric.  He heads to the Ironsail quarter and heads to the tavern.  He orders a drink and asks where he can find Wulfric.
+
+`iv-move:Gather Information|Wits|2|3|0|2|3|move:starforged/adventure/gather_information` 
 
