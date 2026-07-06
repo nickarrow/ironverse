@@ -139,7 +139,7 @@ The pipe bounces off Rushdown's power armor and Rushdown turns to face the new a
 
 `iv-progress:Take Decisive Action|01 - Alley Fight|10|3|2|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md|move:starforged/combat/take_decisive_action`  `iv-track-complete:01 - Alley Fight|The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md` 
 
-"Run," whispers Rushdown, and the man turns and takes off sprinting down the alleyway.  Rushdown retrieves the stolen gun and searches the two unconscious gangers.
+"Run," growls Rushdown, and the man turns and takes off sprinting down the alleyway.  Rushdown retrieves the stolen gun and searches the two unconscious gangers.
 
 >Does he find anything interesting?   `iv-oracle:Small Chance|86|No|move.oracle_rollable:starforged/fate/ask_the_oracle.small_chance` 
 
