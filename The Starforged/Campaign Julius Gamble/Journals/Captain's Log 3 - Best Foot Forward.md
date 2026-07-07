@@ -140,7 +140,7 @@ Skepticism replaced alarm as Bri sarcastically commented
 "I see why you didn't lead with this back on the surface..."
 
 Gamble scratched the back of his head
-"Yeeeah, I know it's not exactly gonna be a walk in the park but this should be a great test run for us. Besides, we need the ship to reforge the *Silver Roses* hull ID."
+"Yeeeah, I know it's not exactly gonna be a walk in the park but this should be a great test run for us. Besides, we need the ship to reforge the *Silver Rose's* hull ID."
 
 `iv-move:Make a Connection|Heart|4|3|0|1|5|move:starforged/connection/make_a_connection`   `iv-track-create:Brianna 'Bri' Savela|The Starforged/Campaign Julius Gamble/Progress/Connections/Brianna 'Bri' Savela.md` 
 
