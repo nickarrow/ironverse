@@ -148,3 +148,5 @@ Finding nothing, he makes his way back to the *Rude Awakening* where the crew ar
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`   `iv-meter:Momentum|6|7` 
+
+Next Entry: [[02 - Rushdown - Hunting down Ironsails]]
