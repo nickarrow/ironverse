@@ -227,4 +227,5 @@ The office has been cleared out - whoever was using it has clearly decided that 
 
 "Your guess is as good as mine.  Turn this place over for clues."
 
-`iv-move:Gather Information|Wits|2|3|0|6|6|move:starforged/adventure/gather_information|burn=10:2` 
+`iv-move:Gather Information|Wits|2|3|0|6|6|move:starforged/adventure/gather_information|burn=10:2`  `iv-meter:Momentum|2|4` 
+
