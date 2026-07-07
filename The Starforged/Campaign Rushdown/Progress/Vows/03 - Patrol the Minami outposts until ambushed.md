@@ -1,12 +1,13 @@
 ---
-name: 00 - Connection Butcher
-rank: formidable
-progress: 12
+name: 03 - Patrol the Minami outposts until ambushed
+rank: dangerous
+progress: 0
 tags:
   - incomplete
-track-type: Connection
+track-type: Vow
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
+
 ---
 
 
