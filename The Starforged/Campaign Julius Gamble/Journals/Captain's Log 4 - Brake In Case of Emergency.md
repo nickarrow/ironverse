@@ -27,7 +27,7 @@ Her holo blinked, now displaying a 3d rendering of a spheroid.
 
 With another blink of her holo, the spheroid now had small maneuvering thrusters.
 
-"The next mine is sometimes called a seeker or chaser mine. These mines contain rudimentary heat seeking protocols that allow them to pursue anything larger than a snub fighter."
+"The next mine is sometimes called a seeker or chaser mine. While less powerful than a contact mine, seeker mines contain rudimentary heat-seeking protocols that activate on detecting firing weapons. Combined with their integrated maneuvering jets, this allows these mines to pursue anything larger than a snub fighter. They're generally used to discourage people from just shooting at a minefield to open a path."
 
 The holo blinked a third time, the spheroid now had a small cylinder inside that seemed to glow.
 
