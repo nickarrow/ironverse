@@ -34,13 +34,13 @@ The holo blinked a third time, the spheroid now had a small cylinder inside that
 "And of course who could forget the pulse mine. These mines will interact with any shields in range, exploding in a EMP burst sufficient to knock out most shields for a short time. Of course when deployed alongside seeker and contact mines, even a few moments is more than sufficient to doom the vulnerable vessel."
 
 The two humans in the cockpit slowly turned their gaze from the holo to the thousands of mines ahead of them. Meg took the opportunity finish her presentation on a far too cheery note
-"The truly impressive thing is, from the exterior they're so indistinguishable that without the code used to deploy them a ship will never know if it's safe until the mines have atomized the intruder!"
+"The truly impressive thing is, from the exterior they're so indistinguishable that without the code used to deploy them a ship will never know what mine they face until the mine is already upon them!"
 
 The statement hung in the air as they processed the deluge of information. Gamble swallowed hard.
 
 "Does this satisfy your request?"
 
-Bri, stonefaced, uttered a deadpan "Yeah, that'll do."
+Bri, stone-faced, uttered a deadpan "Yeah, that'll do."
 
 The minefield remained suspended in space in front of them, passive and yet it began feeling more like a spider's web with each passing moment.
 
