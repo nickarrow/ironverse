@@ -1,7 +1,7 @@
 ---
 name: 01 - Visit the three key settlements in Ashitaba
 rank: dangerous
-progress: 16
+progress: 24
 tags:
   - incomplete
 track-type: Vow
