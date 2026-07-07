@@ -229,3 +229,12 @@ The office has been cleared out - whoever was using it has clearly decided that 
 
 `iv-move:Gather Information|Wits|2|3|0|6|6|move:starforged/adventure/gather_information|burn=10:2`  `iv-meter:Momentum|2|4` 
 
+Murphy starts searching through drawers while Rushdown taps at the vidscreen on the desk.  "Oh, you are not going to believe this," he says.
+
+"You found something?" replies Murphy.
+
+"He forgot to wipe the terminal.  It isn't even password protected.  We have them."
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|4|5` 
