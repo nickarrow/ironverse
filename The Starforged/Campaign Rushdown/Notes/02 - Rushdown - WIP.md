@@ -153,7 +153,7 @@ The barman motions to a man drinking alone at a corner table at the back of the 
 
 "You shot at my ship and then ran before I could shoot back."
 
-"Oh, it's you.  What do you want?"
+"Oh, it's you.  I'm guessing you're not going to tell me how you found me, so what do you want?"
 
 "I want you to stop raiding that spot."
 
@@ -191,7 +191,7 @@ They arrive back at Tranquilo and Rushdown calls Florian.  "It's done," he tells
 
 `iv-track-complete:01 - Get rid of the Ironsail Raiders|The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|0|1|epic|1` 
 
-"So what, did I fail the test?"
+"So what, did I fail the test?" asks Rushdown.
 
 "Depends if this raider captain keeps his vow or not, doesn't it?  If we have any more work for you we'll courier your office on Minami."
 
