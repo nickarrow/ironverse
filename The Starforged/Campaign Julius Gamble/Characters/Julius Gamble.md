@@ -7,7 +7,7 @@ edge: 2
 heart: 3
 iron: 1
 shadow: 2
-wits: 1
+wits: 2
 health: 5
 spirit: 5
 supply: 5
@@ -17,7 +17,7 @@ Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_XPEarned: 0
-FailureTrack_Progress: 2
+FailureTrack_Progress: 3
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
 description: |-
