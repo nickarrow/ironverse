@@ -49,6 +49,14 @@ Bri turned to Gamble with a furrowed brow "Not gonna lie to you boss, I'm having
 Gamble met her gaze, a sympathetic expression on his face
 "Look, I get that you're nervous. I am too, but I'm about to let our first adventure together be our last. Right now our first goal is just to find the *Kilby*. We can worry about getting to it after that."
 
-Pulling up the data packet on his wrist computer, Gamble reviewed the data again.
-"It says here that salvagers found a partially destroyed SOS buoy not too far from here. It stands to reason that the crew of the *Kilby* would have sent out more than one. If we can just find another one we may be able to extract a a point of origin from it and get our heading."
+Pulling up the data packet on his wrist computer, Gamble reviewed the data again. "It says here that salvagers found a partially destroyed SOS buoy not too far from here. It stands to reason that the crew of the *Kilby* would have sent out more than one. If we can just find another one we may be able to extract a point of origin from it and get our heading."
 
+Bri was less than thrilled with this plan
+"So we try to follow breadcrumbs that may or may not exist?"
+
+Gamble arched an eyebrow
+"Beats sailing straight into a very explosive unknown, don't you think?"
+
+Bri grumbled, but eventually agreed with a curt "Fine."
+
+Gamble set about navigating to the coordinates where the buoy was found as Bri turned to leave the cockpit again. Just before crossing the threshold she turned and announced "But if we die I am soooo haunting your ass." before resuming her route back to engineering.
