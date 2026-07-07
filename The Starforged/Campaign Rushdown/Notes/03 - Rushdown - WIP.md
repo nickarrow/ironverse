@@ -53,4 +53,6 @@ Rushdown enters Butcher's office.
 
 "Yes, you can consider your previous mission completed, I want all your attention on this."
 
-`iv-progress:Fulfill Your Vow|01 - Visit the three key settlements in Ashitaba|6|5|4|The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md|move:starforged/quest/fulfill_your_vow` 
+`iv-progress:Fulfill Your Vow|01 - Visit the three key settlements in Ashitaba|6|5|4|The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:01 - Visit the three key settlements in Ashitaba|The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|1|3|epic|2` 
+
+"Understood.  What's the job?" replies Rushdown.  Butcher gets him up to speed on the rebel attacks on Minami ships and bases.
