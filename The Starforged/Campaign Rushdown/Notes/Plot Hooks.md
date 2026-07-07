@@ -6,3 +6,5 @@
 - 01 - Papa Angel's fate
 - 01 - Skullcrusher's gang in Southside
 - 02 - Larissa Station
+- 02 - Wulfric
+- 02 - Florian Angel

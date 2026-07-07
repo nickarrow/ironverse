@@ -139,9 +139,64 @@ Rushdown brings the *Rude Awakening* in to dock and has the crew unload some of 
 
 The *Rude Awakening* heads straight to Gallows.
 
-`iv-move:Set a Course|Supply|4|5|0|3|1|move:starforged/exploration/set_a_course`  `iv-meter:Momentum|6|7` 
+`iv-move:Set a Course|Supply|4|5|0|3|1|move:starforged/exploration/set_a_course`  `iv-meter:Momentum|6|7`  `iv-track-advance:01 - Visit the three key settlements in Ashitaba|The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md|8|16|dangerous|1` 
 
-They get to Gallows without a hitch, and as they come in to dock with the station they notice the three ships that attacked theirs on the landing pad.  After he docks and disembarks, Rushdown searches the local 'net for the ship registry and gets a name - the  `iv-oracle:Starship Name|9|Beowulf|oracle_rollable:starforged/starship/name`, captained by a Chief Wulfric.  He heads to the Ironsail quarter and heads to the tavern.  He orders a drink and asks where he can find Wulfric.
+They get to Gallows without a hitch, and as they come in to dock with the station they notice the three ships that attacked theirs on the landing pad.  After he docks and disembarks, Rushdown searches the local 'net for the ship registry and gets a name - the  `iv-oracle:Starship Name|9|Beowulf|oracle_rollable:starforged/starship/name`, captained by a Captain Wulfric.  He heads to the Ironsail quarter and heads to the tavern.  He orders a drink and asks where he can find Wulfric.
 
 `iv-move:Gather Information|Wits|2|3|0|2|3|move:starforged/adventure/gather_information` 
 
+The barman motions to a man drinking alone at a corner table at the back of the tavern.  Rushdown heads over and takes the seat opposite him.  Wulfric looks up in alarm at the heavily armored merc sitting across from him.
+
+"You know who I am?" asks Rushdown.
+
+"No idea," says Wulfric.
+
+"You shot at my ship and then ran before I could shoot back."
+
+"Oh, it's you.  What do you want?"
+
+"I want you to stop raiding that spot."
+
+"It's a good spot.  People head into Tranquilo loaded with goods and valuables to gamble away."
+
+"And people who mess with the Angel Brothers' customers don't survive long.  There's other spots.  This one's not worth your life."
+
+`iv-move:Compel|Iron|5|4|0|3|3|move:starforged/adventure/compel` 
+
+"Fine, we won't hit that spot anymore."
+
+"Swear it."
+
+Wulfric takes out a black iron dagger.  "I vow me and my crew won't return to the ambush point for Tranquilo traffic," he says.
+
+`iv-track-advance:01 - Get rid of the Ironsail Raiders|The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md|24|36|troublesome|1` 
+
+"Good enough," says Rushdown.  He stands up and heads back to the ship.  He decides to leave exploring Gallows for another day, and returns to Tranquilo to let Florian Angel know the job is done.
+
+`iv-move:Set a Course|Supply|2|5|0|2|6|move:starforged/exploration/set_a_course` 
+
+They arrive back at Tranquilo and Rushdown calls Florian.  "It's done," he tells Florian.
+
+`iv-progress:Fulfill Your Vow|01 - Get rid of the Ironsail Raiders|9|3|10|The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md|move:starforged/quest/fulfill_your_vow` 
+
+"They're all dead?" replies Florian.
+
+"No, but I got an iron vow from their captain that the attacks would stop."
+
+"You have to be fucking kidding me, I told you to get rid of them."
+
+"I did, they're gone."
+
+"Ok, ok, this is just a failure to communicate, that's all.  For future reference, if I ask you to get rid of someone, I want you to fucking kill them."
+
+`iv-track-complete:01 - Get rid of the Ironsail Raiders|The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|0|1|epic|1` 
+
+"So what, did I fail the test?"
+
+"Depends if this raider captain keeps his vow or not, doesn't it?  If we have any more work for you we'll courier your office on Minami."
+
+The call ends abruptly once again.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|7|8` 
