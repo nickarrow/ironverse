@@ -9,3 +9,5 @@
 - 02 - Wulfric
 - 02 - Florian Angel
 - 03 - Rebels
+- 03 - Fake Butcher
+- 03 - Real Butcher

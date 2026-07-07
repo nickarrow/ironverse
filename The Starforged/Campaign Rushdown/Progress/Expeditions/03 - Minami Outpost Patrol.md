@@ -1,10 +1,10 @@
 ---
-name: 03 - Patrol the Minami outposts until ambushed
+name: 03 - Minami Outpost Patrol
 rank: dangerous
 progress: 40
 tags:
   - incomplete
-track-type: Vow
+track-type: Expedition
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---
