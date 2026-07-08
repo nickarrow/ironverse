@@ -15,7 +15,7 @@ Rushdown pulls up outside the safehouse.  It's a rundown apartment on the edge o
 
 `iv-dice:1d4|1` 
 
-The front door opens into a living area.  There's a single guard sitting on the sofa watching a vidshow.  There's a submachine gun sitting on the sofa next to the guard, but his hands are full with snacks.
+The front door opens into a living area.  There's a single guard sitting on the sofa watching a vidshow.  There's a submachine gun sitting on the sofa next to him, but his hands are full with snacks.
 
 "Down on the ground, now!" yells Rushdown.
 
@@ -64,7 +64,7 @@ They arrive in good time and soon spot the *Former Glory* on their scanners.
 
 "They don't seem to have noticed us," says Scout, "They're not hailing us or trying to run."
 
-"Biggs, line up a shot on their e-drive.  If we can stop them from jumping away, they'll have to surrender."
+"Biggs, line up a shot on their e-drive.  If we can stop them from jumping away, they'll have to surrender," says Rushdown to the gunnery officer.
 
 `iv-move:Secure an Advantage|Wits|2|3|0|4|9|move:starforged/adventure/secure_an_advantage` 
 
@@ -76,7 +76,7 @@ Biggs takes his time to line up the perfect shot.
 
 The blast hits true and the *Former Glory*'s e-drive is destroyed, but the rest of the ship remains intact.
 
-"Ok, they're not going anywhere.  Bring us in for boarding, if they shoot at us then start shooting back.  Murphy, prepare a boarding party by the main airlock."
+"Ok, they're not going anywhere.  Bring us in for boarding, if they shoot at us then start shooting back.  Murphy, prepare a boarding party by the main airlock."  Murphy walks briskly off the bridge, barking into his communicator.
 
 >Does the *Former Glory* respond?  `iv-oracle:50/50|45|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
@@ -88,7 +88,7 @@ The Satonaka ship turns to face the Red Suns vessel and starts firing its main g
 
 `iv-track-create:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md` 
 
-"They're mad, they don't stand a chance," says Biggs.
+"They're crazy, they don't stand a chance," says Biggs.
 
 "Return fire," says Rushdown.
  
@@ -118,7 +118,7 @@ The call cuts off and the *Former Glory* fires again.
 
 `iv-oracle:Pay the Price|84|You are stressed|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`   `iv-meter:Spirit|5|4` 
 
-The shots rip into the *Rude Awakening*'s hull and Rushdown tenses up as he waits for the damage report.  Meanwhile, the Red Suns' reply smashes into the *Former Glory* and sends debris spinning away from the site of the impact.
+The shots rip into the *Rude Awakening*'s hull and Rushdown tenses up as he waits for the damage report, but the damage is negligible.  Meanwhile, the Red Suns' reply smashes into the *Former Glory* and sends debris spinning away from the site of the impact.
 
 `iv-oracle:Combat Action|98|Use a decoy or distraction, Reveal an unexpected ability or weapon|oracle_rollable:sundered_isles/misc/combat_action` 
 
@@ -140,7 +140,11 @@ The shot hits the ship and the three images disappear instantly.
 
 With a final volley from the *Rude Awakening*, the *Former Glory*'s power cuts out, and the guns stop firing.
 
-"Hold fire," says Rushdown.  "Murphy, prepare a boarding party.  Hornet, bring us in to dock."
+"Hold fire," says Rushdown.  "Murphy, is the boarding party ready?"
+
+"At the airlock awaiting your go," comes the reply.  
+
+"Hornet, bring us in to dock," says Rushdown.
 
 ---
 
