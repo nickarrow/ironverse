@@ -238,3 +238,5 @@ Murphy starts searching through drawers while Rushdown taps at the vidscreen on 
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|4|5` 
+
+`iv-track-complete:03 - Minami Outpost Patrol|The Starforged/Campaign Rushdown/Progress/Expeditions/03 - Minami Outpost Patrol.md`  `iv-track-complete:03 - Patrol the Minami outposts until ambushed|The Starforged/Campaign Rushdown/Progress/Vows/03 - Patrol the Minami outposts until ambushed.md` 

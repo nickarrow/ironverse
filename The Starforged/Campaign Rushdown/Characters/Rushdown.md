@@ -1,15 +1,15 @@
 ---
 name: Rushdown
-xp_spent: 0
+xp_spent: 2
 xp_added: 0
-momentum: 6
+momentum: 10
 edge: 3
 heart: 2
 iron: 4
 shadow: 2
 wits: 3
 health: 5
-spirit: 5
+spirit: 4
 supply: 5
 Bonds_Progress: 2
 Bonds_XPEarned: 0
@@ -24,7 +24,7 @@ assets:
   - id: asset:starforged/path/armored
     abilities:
       - true
-      - false
+      - true
       - false
     controls:
       broken: false

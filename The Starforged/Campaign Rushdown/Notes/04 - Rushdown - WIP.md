@@ -46,13 +46,103 @@ They arrive back at the office where Murphy is still going through the data on t
 
 "Any idea where they're operating out of?"
 
-"They stay on the move.  They're just a small espionage team operating out of a ship called the *Former Glory*."
+"They're operating out of a ship called the *Former Glory*.  It's hiding out in an asteroid field in the next system over."
 
 "Anything about the fake Butcher?"
 
 "His real name is Switchblade, he's one of their agents."
 
-"Good work, both of you," says Gray.  "I need to get some rest after everything that's happened.  Come back tomorrow and we'll go after these bastards."
+"Good work, both of you," says Gray.  "I need to get some rest after everything that's happened.  Go get those bastards and I'll see you back here later."
+
+---
+
+Rushdown and Murphy make their way back to the *Rude Awakening* and Rushdown sets a course for the next system over.
+
+`iv-move:Set a Course|Supply|1|5|0|2|4|move:starforged/exploration/set_a_course`  `iv-meter:Momentum|6|7` 
+
+They arrive in good time and soon spot the *Former Glory* on their scanners.
+
+"They don't seem to have noticed us," says Scout, "They're not hailing us or trying to run."
+
+"Biggs, line up a shot on their e-drive.  If we can stop them from jumping away, they'll have to surrender."
+
+`iv-move:Secure an Advantage|Wits|2|3|0|4|9|move:starforged/adventure/secure_an_advantage` 
+
+Biggs takes his time to line up the perfect shot.
+
+"Fire!" says Rushdown.
+
+`iv-move:Face Danger|Edge|2|3|1|1|5|move:starforged/adventure/face_danger|adds=1`  `iv-meter:Momentum|7|8` 
+
+The blast hits true and the *Former Glory*'s e-drive is destroyed, but the rest of the ship remains intact.
+
+"Ok, they're not going anywhere.  Bring us in for boarding, if they shoot at us then start shooting back.  Murphy, prepare a boarding party by the main airlock."
+
+>Does the *Former Glory* respond?  `iv-oracle:50/50|45|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+>Do they attack the *Rude Awakening*?   `iv-oracle:50/50|8|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+The Satonaka ship turns to face the Red Suns vessel and starts firing its main guns at them.  Hornet tries to dodge the incoming fire.
+
+`iv-move:Enter the Fray|Edge|1|3|0|10|1|move:starforged/combat/enter_the_fray` 
+
+`iv-track-create:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md` 
+
+"They're mad, they don't stand a chance," says Biggs.
+
+"Return fire," says Rushdown.
+ 
+The *Rude Awakening* rakes the *Former Glory* with fire from its main cannons.
+
+`iv-move:Strike|Edge|1|3|1|10|1|move:starforged/combat/strike|adds=1`  `iv-meter:Momentum|8|9`  `iv-track-advance:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md|0|24|troublesome|2` 
+
+The shots rip into the *Former Glory*'s hull.
+
+`iv-oracle:Combat Action|15|Compel a surrender or concession|oracle_rollable:sundered_isles/misc/combat_action` 
+
+"Sir, they're hailing us," says Janus.
+
+"Put it on screen," says Rushdown.
+
+A face appears on screen, distorted by static.  "I don't know how you found us but you should let us live.  Satonaka will destroy you if you kill us."
+
+"Are you going to come quietly?"
+
+"No, just leave us alone.  We didn't kill any of your people."
+
+"That's not happening."
+
+The call cuts off and the *Former Glory* fires again.
+
+`iv-move:Clash|Edge|6|3|0|5|9|move:starforged/combat/clash`  `iv-track-advance:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md|24|36|troublesome|1` 
+
+`iv-oracle:Pay the Price|84|You are stressed|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`   `iv-meter:Spirit|5|4` 
+
+The shots rip into the *Rude Awakening*'s hull and Rushdown tenses up as he waits for the damage report.  Meanwhile, the Red Suns' reply smashes into the *Former Glory* and sends debris spinning away from the site of the impact.
+
+`iv-oracle:Combat Action|98|Use a decoy or distraction, Reveal an unexpected ability or weapon|oracle_rollable:sundered_isles/misc/combat_action` 
+
+Suddenly, there are four *Former Glory*s.  They start performing evasive maneuvers.  "What happened?" asks Rushdown.
+
+"Must be some kind of holo tech, they send out some decoys so we don't know which is the real ship." says Janus.
+
+Rushdown looks at the four ships to try and figure out which one is the real one.
+
+`iv-move:Secure an Advantage|Wits|6|3|0|3|6|move:starforged/adventure/secure_an_advantage` 
+
+"Look, only one of the ships has battle damage, the other three are in pristine condition," says Rushdown, "They must not update the holoimage in realtime.  Take a shot at the damaged one."
+
+`iv-move:React Under Fire|Wits|1|3|1|1|4|move:starforged/combat/react_under_fire|adds=1`  `iv-meter:Momentum|9|10` 
+
+The shot hits the ship and the three images disappear instantly.
+
+`iv-progress:Take Decisive Action|04 - Former Glory fight|9|4|5|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md|move:starforged/combat/take_decisive_action`  `iv-track-complete:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md` 
+
+With a final volley from the *Rude Awakening*, the *Former Glory* explodes in a blinding ball of flame.
+
+"Well, that's that I suppose," says Murphy.
+
+"For now, at least," says Rushdown.
 
 ---
 
