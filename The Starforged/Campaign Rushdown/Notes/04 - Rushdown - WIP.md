@@ -138,11 +138,20 @@ The shot hits the ship and the three images disappear instantly.
 
 `iv-progress:Take Decisive Action|04 - Former Glory fight|9|4|5|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md|move:starforged/combat/take_decisive_action`  `iv-track-complete:04 - Former Glory fight|The Starforged/Campaign Rushdown/Progress/Combat/04 - Former Glory fight.md` 
 
-With a final volley from the *Rude Awakening*, the *Former Glory* explodes in a blinding ball of flame.
+With a final volley from the *Rude Awakening*, the *Former Glory*'s power cuts out, and the guns stop firing.
 
-"Well, that's that I suppose," says Murphy.
-
-"For now, at least," says Rushdown.
+"Hold fire," says Rushdown.  "Murphy, prepare a boarding party.  Hornet, bring us in to dock."
 
 ---
 
+> Are there any survivors?  `iv-oracle:50/50|57|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+The boarding party clear the *Former Glory* without resistance - a hole in the hull vented the atmosphere and nobody that survived the battle was able to get an EVA suit on in time.  The boarding party return to the ship and Rushdown orders Biggs to blow it up - the information it carries is too valuable to leave for some random scav crew to find.  That done, they return to Minami City.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
+>I realized I forgot to roll Make a Connection for Gray earlier
+
+`iv-move:Make a Connection|Heart|6|2|0|7|5|move:starforged/connection/make_a_connection`  `iv-track-create:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md` 
