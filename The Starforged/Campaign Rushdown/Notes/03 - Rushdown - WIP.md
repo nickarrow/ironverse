@@ -233,7 +233,7 @@ Murphy starts searching through drawers while Rushdown taps at the vidscreen on 
 
 "You found something?" replies Murphy.
 
-"He forgot to wipe the terminal.  It isn't even password protected.  We have them."
+"The fake Butcher forgot to wipe the terminal.  It isn't even password protected.  We have them."
 
 ---
 
