@@ -202,3 +202,5 @@ The call ends abruptly once again.
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|7|8` 
 
 >I also just realized I forgot to add momentum for the Begin a Session move earlier  `iv-meter:Momentum|8|9` 
+
+Next Entry: [[03 - Rushdown - Unmasked]]

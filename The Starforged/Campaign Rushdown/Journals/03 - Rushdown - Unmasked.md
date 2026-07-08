@@ -221,7 +221,7 @@ They arrive back at Minami city and Rushdown and Murphy race to Butcher's office
 
 >Is Butcher there?  `iv-oracle:50/50|88|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-The office has been cleared out - whoever was using it has clearly decided that time is up for whatever plot they're hatching.  Butcher's skull-emblazoned ballistic mask is lying on the desk, a clear sign for Rushdown that he was done with this persona.
+The office has been cleared out - whoever was using it has decided that time is up for whatever plot they're hatching.  Butcher's skull-emblazoned ballistic mask is lying on the desk, a clear sign for Rushdown that he was done with this persona.
 
 "So who was this guy?" asks Murphy.  "And what happened to the real Butcher?"
 
