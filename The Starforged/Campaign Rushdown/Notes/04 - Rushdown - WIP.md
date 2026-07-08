@@ -29,7 +29,7 @@ The man gets down on the floor and Rushdown moves in and zipties his hands behin
 
 "Butcher?  Are you ok?" Rushdown asks Butcher.
 
-"Just Gray is fine.  I'll be ok once I get out of here," Butcher replies.  Rushdown unchains her, and they make their way back to the office.  They gag the man and leave him chained to the radiator; they don't have a way to move him through the city without being noticed.  On the way, Rushdown gets Gray up to speed on what's been happening while she was being held hostage.
+"Just Gray is fine.  I'll be ok once I get out of here," she replies.  Rushdown unchains her, and they make their way back to the office.  They gag the man and leave him chained to the radiator; they don't have a way to move him through the city without being noticed.  On the way, Rushdown gets Gray up to speed on what's been happening while she was being held hostage.
 
 They arrive back at the office where Murphy is still going through the data on the terminal.
 
