@@ -9,5 +9,6 @@
 - 02 - Wulfric
 - 02 - Florian Angel
 - 03 - Rebels
+- 03 - Wynn Barrow
 - 04 - Switchblade
 - 04 - Satonaka

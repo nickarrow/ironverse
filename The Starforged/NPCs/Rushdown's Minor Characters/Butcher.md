@@ -9,3 +9,4 @@ Character Role: Officer in charge of the Ashitaba sector
 `iv-oracle:Character Goals|4|Acquire territory or dominion|oracle_rollable:sundered_isles/character/goals` 
 
 Butcher is stationed at the Red Suns office in [[Minami City]].
+
