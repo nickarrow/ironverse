@@ -38,7 +38,7 @@ They arrive back at the office where Murphy is still going through the data on t
 
 "So, what are we looking at?" asks Rushdown.
 
-"You're gonna love this.  So your last job was working for Satonaka against [[Takamaki Heavy Industries|Takamaki]], right?  Well now you're working for Takamaki, guess who has it out for you."
+"You're gonna love this.  So your last job was working for [[Satonaka Clan|Satonaka]] against [[Takamaki Heavy Industries|Takamaki]], right?  Well now you're working for Takamaki, guess who has it out for you."
 
 "Of course.  It had to be them.  What do they want?"
 

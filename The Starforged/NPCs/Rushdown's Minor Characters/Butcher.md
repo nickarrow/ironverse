@@ -10,3 +10,6 @@ Character Role: Officer in charge of the Ashitaba sector
 
 Butcher is stationed at the Red Suns office in [[Minami City]].
 
+---
+
+'Butcher' turned out to be [[Switchblade]] in disguise, impersonating the real Butcher, [[Gray]].  He managed to get away at [[Minami City]], and it is unknown if he was aboard the *Former Glory* when it was destroyed by Rushdown (see [[04 - Rushdown - Former Glory]]).

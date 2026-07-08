@@ -1,7 +1,9 @@
 
+Previous Entry: [[04 - Rushdown - Former Glory]]
+
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
 
-*Rushdown discovered that the people responsible for kidnapping and impersonating his superior officer were Satonaka - his former employer and rival of [[Takamaki Heavy Industries|Takamaki]].  He tracked the squad's ship and destroyed it.*
+*Rushdown discovered that the people responsible for kidnapping and impersonating his superior officer were the [[Satonaka Clan]] - his former employer and rival of [[Takamaki Heavy Industries|Takamaki]].  He tracked the squad's ship and destroyed it.*
 
 ---
 
