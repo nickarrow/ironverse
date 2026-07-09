@@ -7,11 +7,13 @@ Previous Entry: [[04 - Rushdown - Former Glory]]
 
 ---
 
-Rushdown enters Gray's office.  She looks up from her terminal.  "Ah, Rushdown," she says, "I never properly thanked you for the rescue.  I do appreciate it, you know."
+Rushdown enters [[Gray]]'s office.  She looks up from her terminal.  "Ah, Rushdown," she says, "I never properly thanked you for the rescue.  I do appreciate it, you know."
 
 "You'd do the same for me, right?" replies Rushdown.
 
 "No, I'd wait for backup.  But seriously, thanks."
 
 `iv-track-advance:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md|0|4|formidable|1` 
+
+---
 
