@@ -15,5 +15,6 @@ Rushdown enters [[Gray]]'s office.  She looks up from her terminal.  "Ah, Rushdo
 
 `iv-track-advance:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md|0|4|formidable|1` 
 
----
+"While you're here, take this," Gray continues, handing Rushdown a datashard.  "It's a firmware update for your power armor, you should see about a 17% increase in shield efficiency."
 
+Rushdown takes the shard and slots it into his armor.  It restarts and he notices the shield is noticably stronger.  "Thanks"
