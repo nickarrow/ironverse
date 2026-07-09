@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 8
+name: 05 - Take out the Gang Leader
+rank: troublesome
+progress: 40
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

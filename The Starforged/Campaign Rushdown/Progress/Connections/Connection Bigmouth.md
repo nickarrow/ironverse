@@ -1,7 +1,7 @@
 ---
-name: Connection Gray
+name: Connection Bigmouth
 rank: formidable
-progress: 8
+progress: 4
 tags:
   - incomplete
 track-type: Connection
