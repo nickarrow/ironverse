@@ -12,3 +12,6 @@
 - 03 - Wynn Barrow
 - 04 - Switchblade
 - 04 - Satonaka
+- 05 - Gangs of Southside
+- 05 - Bigmouth
+- 05 - Angel Enforcers

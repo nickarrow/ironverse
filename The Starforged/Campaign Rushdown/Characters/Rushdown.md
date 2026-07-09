@@ -2,7 +2,7 @@
 name: Rushdown
 xp_spent: 2
 xp_added: 0
-momentum: 7
+momentum: 8
 edge: 3
 heart: 2
 iron: 4
@@ -15,7 +15,7 @@ Bonds_Progress: 3
 Bonds_XPEarned: 0
 Discoveries_Progress: 1
 Discoveries_XPEarned: 0
-Quests_Progress: 4
+Quests_Progress: 6
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0

@@ -183,9 +183,34 @@ Rushdown joins in the search for the hostage.
 
 Rushdown calls Bigmouth. "The hostage isn't here."
 
-"Then he's probably in one of their safehouses."
+"Then he's probably in one of their safehouses," replies Bigmouth.
 
 "You had me take out an entire gang base and he wasn't even here?"
 
 "I said I knew where there base was, I never said I knew where the hostage was.  Listen, you'd better get out of there, you made enough noise that Angel Enforcers are actually on their way to Southside for once."
 
+"Where's this safehouse?"
+
+"Not far.  I'll send you the details."
+
+---
+
+Rushdown sends his men back to the ship and makes his way to the safehouse.  He bangs loudly on the door three times.  "Your boss is dead.  I just need the hostage.  Let him go and I'll let you live."  He stands to the side of the door in case someone decides to shoot through it.
+
+`iv-move:Compel|Iron|6|4|0|8|9|move:starforged/adventure/compel` 
+
+Rushdown hears several locks being unlocked and then the door swings open.  A man in purple pushes a man in a suit out into the street.  "We don't want no trouble," comes a voice from inside the room.  The door closes behind the man and Rushdown hears the door hastily being locked again.
+
+"You the Minami guy?"
+
+"Yeah," says the man.
+
+`iv-track-advance:05 - Hostage Rescue|The Starforged/Campaign Rushdown/Progress/Vows/05 - Hostage Rescue.md|24|32|dangerous|1` 
+
+`iv-progress:Fulfill Your Vow|05 - Hostage Rescue|8|7|3|The Starforged/Campaign Rushdown/Progress/Vows/05 - Hostage Rescue.md|move:starforged/quest/fulfill_your_vow`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|4|6|epic|2`  `iv-track-complete:05 - Hostage Rescue|The Starforged/Campaign Rushdown/Progress/Vows/05 - Hostage Rescue.md`  `iv-track-advance:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md|8|12|formidable|1` 
+
+"Come on then.  Let's get you home," says Rushdown.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|7|8` 
