@@ -15,4 +15,3 @@ Rushdown enters Gray's office.  She looks up from her terminal.  "Ah, Rushdown,"
 
 `iv-track-advance:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md|0|4|formidable|1` 
 
-""
