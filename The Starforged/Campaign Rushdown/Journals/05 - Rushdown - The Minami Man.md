@@ -125,7 +125,7 @@ The Suns manage to get into cover, the gas disguising their movements and making
 
 `iv-oracle:Combat Action|11|Charge recklessly|oracle_rollable:sundered_isles/misc/combat_action` 
 
-The gangers are clearly not well trained or disciplined and they advance on the Suns continuing to fire wildly even though they don't have clear line of sight.  Rushdown counts five of them advancing on the seven Suns.  A moment later, one of the gangers yells "Shit, I'm out," and Rushdown swings out and starts blasting at the line of enemies.
+The gangers are clearly not well trained or disciplined and they advance on the Suns continuing to fire wildly even though they don't have clear line of sight.  They're hip firing, not even using their rifle sights.  Rushdown counts five of them advancing on the seven Suns.  A moment later, one of the gangers yells "Shit, I'm out," and Rushdown swings out and starts blasting at the line of enemies.
 
 >Doing a Clash move, setting my Action Dice to 5 using armored + 3 for Edge = 8
 > `iv-dice:1d10|6`  `iv-dice:1d10|2` 
@@ -133,7 +133,7 @@ The gangers are clearly not well trained or disciplined and they advance on the 
 
 `iv-track-advance:05 - Fight through to the gang leader's office|The Starforged/Campaign Rushdown/Progress/Combat/05 - Fight through to the gang leader's office.md|16|32|dangerous|2` 
 
-Rushdown expertly moves from target to target firing a short burst at each one.  His men join in and in seconds the five attackers are down.  They continue through the doors into the VIP area.
+Rushdown expertly moves his aim from target to target firing a short burst at each one.  His men join in and in seconds the five attackers are down.  They continue through the doors into the VIP area.
 
 `iv-progress:Take Decisive Action|05 - Fight through to the gang leader's office|8|9|7|The Starforged/Campaign Rushdown/Progress/Combat/05 - Fight through to the gang leader's office.md|move:starforged/combat/take_decisive_action`  `iv-meter:Momentum|8|6`  `iv-track-complete:05 - Fight through to the gang leader's office|The Starforged/Campaign Rushdown/Progress/Combat/05 - Fight through to the gang leader's office.md`  `iv-track-advance:05 - Hostage Rescue|The Starforged/Campaign Rushdown/Progress/Vows/05 - Hostage Rescue.md|8|16|dangerous|1` 
 
@@ -201,7 +201,7 @@ Rushdown sends his men back to the ship and makes his way to the safehouse.  He 
 
 Rushdown hears several locks being unlocked and then the door swings open.  A man in purple pushes a man in a suit out into the street.  "We don't want no trouble," comes a voice from inside the room.  The door closes behind the man and Rushdown hears the door hastily being locked again.
 
-"You the Minami guy?"
+"You with Minami?"
 
 "Yeah," says the man.
 
