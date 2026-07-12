@@ -1,5 +1,5 @@
 ---
-name: protect the Paladin from the danger
+name: Confront those attacking the Paladin
 rank: dangerous
 progress: 32
 tags:

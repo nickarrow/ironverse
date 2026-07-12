@@ -81,7 +81,7 @@ move "[Strike](datasworn:move:starforged\/combat\/strike)" {
 ```
 
 ```iron-vault-mechanics
-progress from=0 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=1
+progress from=0 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Confront those attacking the Paladin.md|Confront those attacking the Paladin]]" rank="dangerous" steps=1
 ```
 
 Arana manages to wound the assassin, but the assassin jumps up and locks blades with Arana.
@@ -95,7 +95,7 @@ The assassin swung at Arana:
 ```iron-vault-mechanics
 move "[Clash](datasworn:move:starforged\/combat\/clash)" {
     roll "Iron" action=6 adds=0 stat=2 vs1=10 vs2=5
-    progress from=8 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=1
+    progress from=8 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Confront those attacking the Paladin.md|Confront those attacking the Paladin]]" rank="dangerous" steps=1
     meter "Health" from=5 to=4
 }
 
@@ -106,7 +106,7 @@ Arana mostly blocked the assassin's blade, but the assassin's blade cut her arm.
 ```iron-vault-mechanics
 move "[Clash](datasworn:move:starforged\/combat\/clash)" {
     roll "Iron" action=6 adds=0 stat=2 vs1=1 vs2=1
-    progress from=16 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" rank="dangerous" steps=2
+    progress from=16 name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Confront those attacking the Paladin.md|Confront those attacking the Paladin]]" rank="dangerous" steps=2
 }
 
 ```
@@ -115,8 +115,8 @@ With blood dripping down her left arm, Arana parried the blow, and swung down in
 
 ```iron-vault-mechanics
 move "[Fulfill Your Vow](datasworn:move:starforged\/quest\/fulfill_your_vow)" {
-    progress-roll name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" score=8 vs1=3 vs2=4
-    track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Protect the Paladin from the danger.md|protect the Paladin from the danger]]" status="completed"
+    progress-roll name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Confront those attacking the Paladin.md|Confront those attacking the Paladin]]" score=8 vs1=3 vs2=4
+    track name="[[The Starforged\/Campaign Arana ‘Chip’ Haydar\/Progress\/Confront those attacking the Paladin.md|Confront those attacking the Paladin]]" status="completed"
 }
 
 ```
