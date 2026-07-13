@@ -50,7 +50,7 @@ The setback from the loss of their oldest and most well-developed colonies has n
 
 *Quest Prompt: Your opponent in a private duel falls to the ground, sword clattering from their hand. From their position on the ground, they concede their defeat. As soon as the words of surrender are uttered, a unseen assassin strikes them from an unseen vantage point and cuts their life short before fleeing, yelling about a murder. Your life changes in an instant. Who was your opponent and were they your friend or your foe? What were the stakes of the duel? Who do you suspect framed you for their murder and why?*
 
-*Quest prompt: One of the great houses has decided you're worthy of their attention. Which house is it? Why do you want to join up with them so badly? What great trial have you sworn a vow to complete to secure your membership?*
+*Quest prompt: One of the great houses has decided you're worthy of their attention. Which house is it? Why do you want to join up with them so badly? What great trial have you sworn a vow to complete in order to secure your membership?*
 ## Piracy
 
 Pirates are fiercely independent, but bound by a shared code.
