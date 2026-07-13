@@ -15,7 +15,7 @@ Previous Entry: [[05 - Rushdown - The Minami Man]]
 
 The pair make their way back to the *Rude Awakening*.  Rushdown hands Rahul off to a crewmember and instructs them to show him to his quarters for the trip.  He heads to the bridge and tells the bridge crew to prepare for takeoff. 
 
-"Captain, we're grounded," says Joker, the pilot.  "Flight control say we're to stay on the ground until further notice."
+"Captain, we're grounded," says Joker, the pilot, after a few minutes.  "Flight control say we're to stay on the ground until further notice."
 
 "We're receiving a call from [[Florian Angel]]," says Janus, the communications officer.
 
