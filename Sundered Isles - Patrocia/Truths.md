@@ -19,6 +19,7 @@ It is an age of sail.
 Sailing ships navigate the farthest reaches and weather the fiercest storms. Their cannons unleash devastating barrages against rivals or raiders, and their crews wield muskets and blades to defend their decks. Some commanders plot a course through hazardous waters with chart and sextant, while others rely on a deeper understanding of sea and sky. But above all else, we trust in the loyalty of our shipmates and the strength of our vows.
 
 *Quest Prompt: "She's beautiful" you think to yourself as you see the ship in port for the first time. Suddenly you understand why you were hired to secure it. Who hired you for this job? Why do they want this ship in particular? Who are you stealing from and why would no one else take the job? What misfortune ensured you did?*
+
 ## Iron Vows
 
 Some see iron vows as a vestige of a more superstitious age, but the tradition persists.
@@ -48,6 +49,8 @@ The setback from the loss of their oldest and most well-developed colonies has n
 *Quest prompt: The letter finds its way to you, inside is a message with orders you already know you'll refuse to follow. What duty are you abandoning? What vow have you already sworn that convinces you to do so? What retribution will you now have to endure?*
 
 *Quest Prompt: Your opponent in a private duel falls to the ground, sword clattering from their hand. From their position on the ground, they concede their defeat. As soon as the words of surrender are uttered, a unseen assassin strikes them from an unseen vantage point and cuts their life short before fleeing, yelling about a murder. Your life changes in an instant. Who was your opponent and were they your friend or your foe? What were the stakes of the duel? Who do you suspect framed you for their murder and why?*
+
+*Quest prompt: One of the great houses has decided you're worthy of their attention. Which house is it? Why do you want to join up with them so badly? What great trial have you sworn a vow to complete to secure your membership?*
 ## Piracy
 
 Pirates are fiercely independent, but bound by a shared code.
