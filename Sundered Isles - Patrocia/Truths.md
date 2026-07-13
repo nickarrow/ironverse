@@ -48,7 +48,7 @@ The setback from the loss of their oldest and most well-developed colonies has n
 
 *Quest prompt: The letter finds its way to you, inside is a message with orders you already know you'll refuse to follow. What duty are you abandoning? What vow have you already sworn that convinces you to do so? What retribution will you now have to endure?*
 
-*Quest Prompt: Your opponent in a private duel falls to the ground, sword clattering from their hand. From their position on the ground, they concede their defeat. As soon as the words of surrender are uttered, a unseen assassin strikes them from an unseen vantage point and cuts their life short before fleeing, yelling about a murder. Your life changes in an instant. Who was your opponent and were they your friend or your foe? What were the stakes of the duel? Who do you suspect framed you for their murder and why?*
+*Quest Prompt: Your opponent in a private duel falls to the ground, sword clattering from their hand. From their position on the ground, they concede their defeat. As soon as the words of surrender are uttered, an unseen assassin strikes them from a high vantage point and cuts their life short before fleeing, yelling about a murder. Your life changes in an instant. Who was your opponent and were they your friend or your foe? What were the stakes of the duel? Who do you suspect framed you for their murder and why?*
 
 ## The Great Houses
 
