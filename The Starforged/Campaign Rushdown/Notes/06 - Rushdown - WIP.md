@@ -29,7 +29,7 @@ The pair make their way back to the *Rude Awakening*.  Rushdown hands Rahul off 
 
 "Understood."
 
-"Oh, and by the way, the [[Ironsail Raiders|Ironsail]] raids have stopped so it seems like whatever you did actually worked.  Seems like you can get the job done after all.  We might have work for you, I'll send a courier to your office if anything comes up.  And I actually mean it this time."
+"Oh, and by the way, the [[Ironsail Raiders|Ironsail]] raids have stopped so whatever you did actually worked.  Seems like you can get the job done after all.  We might have work for you, I'll send a courier to your office if anything comes up.  And I actually mean it this time."
 
 `iv-move:Make a Connection|Heart|6|2|0|6|4|move:starforged/connection/make_a_connection`  `iv-track-create:Connection Florian Angel|The Starforged/Campaign Rushdown/Progress/Connections/Connection Florian Angel.md` 
 
