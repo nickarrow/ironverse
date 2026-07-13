@@ -34,7 +34,7 @@ The Wave-Born of House Duran have an uncanny sense of wind and tide, and bear th
 
 Naturally, House Duran maintains its own interest in controlling the Wave-Born. They train and supply them to interested bidders, of which there are many. However, rumors persist that some Wave-Born have grown disillusioned with this oversight and have begun to strike out on their own regardless of the retribution from their House.
 
-*Quest prompt: Black clouds creep over the horizon, heralds of a vicious storm to come. You don't fear the storm as much as you do the aftermath of needing to find a port to repair the inevitable damage so far off the edge of the map. Why are you so far afield? Who offers you unexpected aid and what vow do you swear to them in exchange for their help?*
+*Quest prompt: Black clouds creep over the horizon, heralds of a vicious storm to come. You don't fear the storm as much as you do the aftermath of needing to find a port to repair the inevitable damage it'll do when you're so far off the edge of the map. Why are you so far afield? Who offers you unexpected aid and what vow do you swear to them in exchange for their help?*
 ## Empires
 
 Imperial forces vie for dominion over Patrocia in both the New World and the Old World.
