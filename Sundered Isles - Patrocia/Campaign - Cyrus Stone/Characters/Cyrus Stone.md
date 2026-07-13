@@ -44,6 +44,7 @@ assets:
     controls:
       0/clock: 0
     options: {}
+callsign: Sparrowhawk
 ---
 
 
@@ -64,4 +65,6 @@ assets:
 
 ```iron-vault-character-assets
 ```
+
+## Backstory
 

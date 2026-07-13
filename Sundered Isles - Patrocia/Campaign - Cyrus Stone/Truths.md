@@ -1,8 +1,9 @@
 ## Sundering
 ```iron-vault-truth
 truth:sundered_isles/sundering
-inserted
 ```
+##### Old Truth:
+
 A great war left horrible scars upon the isles.
 
 A generations-old war is only recently ended, and the reminders of that fruitless conflict are all around us. Islands wracked by destruction, seas tainted, people displaced. The cost is immeasurable, but some still squabble over what remains.
