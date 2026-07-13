@@ -52,7 +52,11 @@ The setback from the loss of their oldest and most well-developed colonies has n
 
 ## The Great Houses
 
-Once noble households of the old empire, proto-nations without borders have outlived their original intended purposes in service to the old Rhodesian Empire. They now operate similarly to international guilds, each leveraging over a thousand years of expertise in their craft to secure their fortunes and ensure the prosperity of their own. Due to their decentralized nature, most of the Great Houses maintain enclaves in major settlements that can range from just an envoy and a handful of retainers to a full blown embassy.
+Once noble households of the old empire, proto-nations without borders have outlived their original intended purposes in service to the old Rhodesian Empire. They now operate similarly to international guilds, each leveraging over a thousand years of expertise in their craft to secure their fortunes and ensure the prosperity of their own. 
+
+As legitimate remnants of the old empire that remain active today, the Great Houses are no stranger to political schemes and leverage their reputation and prestige to their advantage in dealings with the Old World powers and each other. Many hopeful fortune seekers still flock to the banners of the Great Houses, but only the best succeed in joining one of them.
+
+Due to their decentralized nature, most of the Great Houses maintain enclaves in major settlements that can range from just an envoy and a handful of retainers to a full blown embassy and a functional business in one. 
 
 *Quest prompt: One of the great houses has decided you're worthy of their attention. Which house is it? What did you do to impress them?Why do you want to join up with them so badly? What great trial have you sworn a vow to complete in order to secure your membership?*
 ## Piracy
