@@ -1,0 +1,11 @@
+![[Nimesh.png]]
+
+Home to the New Velucan faith, praising Veluca, God of the Pure, and ruled by his chosen priests, who are led by Divine High Arbiter Bannon. The nation is as welcoming of mages as the faith it worships, and protects them jealously from the agents of the Lorresian Inquisition. As a result, it’s easier here than anywhere else in Patrocia to find mages, though they still remain quite rare. Mages looking for work or training can sometimes find a place as a state sanctioned mage or head south to Ossik to become a court mage to one of the lords of note.  
+  
+Culturally Nimesh views itself as a nation of the righteous, and should your blood be stirred to action you can always join the military and fight in the name of Veluca in the crusades of purification, recruitment stations are ever present.  
+  
+Of particular note is the role of women, who are considered the purest of Valuca’s creations. Women are expected to be subservient to their husbands and fathers, and raise their daughters to do the same. Boys are given a choice at the age of 13 to join the clergy or begin military training, with only the children who are assistants to doctors, blacksmiths and such being exempt. All men born in Nimesh must undergo a crusade, after which they may lay down the sword and live a normal life, or continue their personal crusade and work their way up the military.  
+  
+Divine High Arbiter Ramos Bannon is a righteous man, pious and proud. He views it as his god given duty to bring lost souls back into the fold and cast down the false religion spread by Lorresia and takes no half-measures in pursuit of that goal. He’s also a staunch traditionalist, believing that change for the sake of change is what led to the downfall of Rhodesia. His power is quite secure due to the backing of the Nimeshian military, as such he’s only too happy to take hardline stances on new subjects, forever altering the dogma of Nimesh and other nations that follow the New Velucan Faith  
+  
+Regardless, If you’re an outsider looking to make some gold, you can always join up with one of the mercenary bands bound for a crusade against Lorresia, or speak with a village headsman to see about becoming a caravan guard. Mages are also always in need of assistants to help them in their pursuits, and are a steady source of employment.

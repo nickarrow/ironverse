@@ -1,0 +1,21 @@
+![[Harbia.png]]
+
+A relative newcomer to the international scene, the Tsardom has only been stable for about 135 years. Their stunningly fast rise in prominence is attributed largely to the ascendance of Tsar Ulf Tulgenev, also known as the Iron Wolf, who unified the land in the last bloody civil war. Using brutal tactics and employing new innovations in warfare in the region, he brought the land's powerful tribal Jarls to heel. His son Ivar now leads Harbia, and he is just as ruthless and efficient as his father.  
+  
+Where his father unified the land, Ivar now modernizes it at a breakneck pace, importing every innovation he can find. Where the lands were once hosted herds of yaks, forges have taken their place and many inventors from House Vincelli are being funded by the Tsar in exchange for exclusive use of their discoveries. He also professes no one faith, allowing missionaries from both major religions to minister to his people provided they do not incite open conflict.  
+  
+Harbia is a land of tundra and taiga biomes, with many fishermen and sailors providing food for the land due to the difficulty of establishing agriculture sufficient to feed a large population center. Tribal settlements are also home to some of the best hunters and trackers in Patrocia, and while many from the more “civilized” nations look down on Harbian culture they speak in reverent tones of the nation's warrior lodges.  
+  
+While cold and snowy are very quick to spring to mind when describing Harbia, their forests and wildlife are beautiful and serene, and the many rivers of the land allow for plentiful fishing. Even the ground is rife with mineral goods, allowing for the creation of high quality ore. It’s not hard to find relics of Harbian history when exploring the wilds: Old battlefields and crumbling, abandoned tribal buildings are commonplace reminders of a history that stretches long before the advent of the Harbian Tsardom.  
+  
+Notable landmarks include:  
+  
+The Long Halls, the great stone fortifications built into the mountains to the south. They house the honored dead of the ancient tribal clans, and were built to protect both the dead and the living against the ancient bone raider incursions. If you’ve few scruples you can make a great deal of money looting the tombs, but beware of protections put in place by the ancient clans and the ire of potentially living relatives.  
+  
+Frostport, Capital of Harbia and home to some of the most impressive workshops and innovations of the modern age. It’s also the headquarters of many of the influential Harbian warrior lodges. One lodge of note are the Dreadkeepers. Led by Odric Helbarred, they are the sworn enemies of the bone raiders who keep constant vigil against their ancient foes.  
+  
+The City of Niter, named for its most valuable resource, is the source of a large portion of Harbia’s recent innovation. While niter can be found elsewhere in the old world, the niter mined in this area is among the purest known and allows for the powering of greater technologies and experiments than any other.  
+  
+Mortar Keep, the ancestral home of House Duran. Located on the easternmost Isle in Harbia, Mortar Keep includes a massive shipyard and a wide, blockaded river allowing the launching of entire navies and testing of new designs entirely unseen by prying eyes.  
+  
+Diplomatically, Harbia is playing a very careful game of pitting theocracies and empires against each other in a battle for Harbia’s allegiance. They allow both theocracies to court its people, maintain trade with everyone but the other successor empires, and are generally considered the upstart empire of the world. But, they also manage to be too valuable economically to ignore and too powerful to conquer without exposing weakness to other enemies so they’ve found some success with this strategy. Their relations with the Vitan Federation are strained at best due to the tsar viewing them as nothing but rebels and pirates along with Harbia’s aims to become the dominant power of the new world and cement Harbia’s status as world power.

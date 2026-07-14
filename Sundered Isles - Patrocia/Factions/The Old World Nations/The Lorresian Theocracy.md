@@ -1,0 +1,9 @@
+![[Lorresia.png]]
+
+Lorresia is a land ruled by priests in the name of Lorres, the lady of light. Mages are unwelcome in their lands outside of the cloisters watched heavily by the inquisitorial mage hunters, where they are forbidden from using their gifts. Rogue mages are dealt with brutally and without hesitation, and being burnt at the stake (Or purified by Lorres’ holy light, as it’s often termed) is only one of the potential grisly ends that can be met by earning the ire of the inquisition.  
+  
+The land itself is a warm land, bathed in sun that sustains its many forests and northern jungles. The people live lives dedicated to Lorres, guided by their local priests and bishops. Ultimately they all follow the word of the His Holiness Arch-Bishop Lorenzo III, who is seldom seen outside of major festivals, preferring to reside in the Palazzo Della Luce in the capital of Lorsfia. Little is known of his personality or temperament, but people will speak nothing but glowing praise for him, as to do otherwise is heresy.  
+  
+A more recognizable and ever present leadership figure is Head Inquisitrix Bellona and her right hand: Master Mage Hunter Carlo Abruzzo. While His Holiness prays in seclusion for guidance, forgiveness, and blessings from Lorres, Bellona handles the day to day affairs of the nation she deems not worth His Holiness’s time. She is reputed to be all business and very strict, with a fury easily provoked by not showing the proper respect to Loreresian rituals.  
+  
+If you ever visit Lorresia, be aware you may be walking into the lion’s den and you should always go prepared to pay a tithe to the church and observe the litany of rituals required to purify a visitor to their nation.
