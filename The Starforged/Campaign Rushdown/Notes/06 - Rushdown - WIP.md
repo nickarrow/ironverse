@@ -15,7 +15,7 @@ Previous Entry: [[05 - Rushdown - The Minami Man]]
 
 The pair make their way back to the *Rude Awakening*.  Rushdown hands Rahul off to a crewmember and instructs them to show him to his quarters for the trip.  He heads to the bridge and tells the bridge crew to prepare for takeoff. 
 
-"Captain, we're grounded," says Joker, the pilot, after a few minutes.  "Flight control say we're to stay on the ground until further notice."
+"Captain, we're grounded," says Hornet, the pilot, after a few minutes.  "Flight control say we're to stay on the ground until further notice."
 
 "We're receiving a call from [[Florian Angel]]," says Janus, the communications officer.
 
@@ -33,4 +33,15 @@ The pair make their way back to the *Rude Awakening*.  Rushdown hands Rahul off 
 
 `iv-move:Make a Connection|Heart|6|2|0|6|4|move:starforged/connection/make_a_connection`  `iv-track-create:Connection Florian Angel|The Starforged/Campaign Rushdown/Progress/Connections/Connection Florian Angel.md` 
 
-""
+"Look forward to it," replies Rushdown.  The call ends and Rushdown heads back to the bridge.  "Hornet, we should be cleared for takeoff now," he says.  As he says that, a light on Hornet's console flicks from red to green.
+
+"Taking us up," says Hornet.
+
+`iv-move:Set a Course|Supply|1|5|0|6|2|move:starforged/exploration/set_a_course` 
+
+During the journey, the ship detects an unknown lifeform aboard the ship.  The crew hunt it down and it turns out just to be an energy leech - a known parasite that feeds off energy conduits.  They throw it out of the airlock, but the search delays their return.
+
+`iv-meter:Momentum|8|6` 
+
+They land in [[Minami City]], Rushdown hands Rahul over to Minami and messages [[Gray]] that he's accomplished his mission.
+
