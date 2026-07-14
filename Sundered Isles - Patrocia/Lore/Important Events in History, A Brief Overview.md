@@ -25,7 +25,6 @@ The Iron-Gold Mandate - 1 PRF
 
 Following a period of restructuring and consolidating his power after the defeat of the Three Warlord Pact, Valkorian issues the Iron-Gold Mandate. This decree authorized the creation of the Great Houses and ennobled the Seven Companions, assigning them lands and titles while also charging their house with their duties to the empire.
 
-  
 
 ## The Fall of the Empire
 
