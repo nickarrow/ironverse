@@ -1,0 +1,6 @@
+![[6-house-ikoban.png|280]]
+The sixth Great House was House Ikoban, they were charged with becoming masters of the duel that they might champion the emperor personally and bodyguard his line. Their experimentations in the dueling ring revolutionized dueling in ways that are still relevant and exceptionally effective even today, though they still keep their greatest techniques a closely guarded secret.
+
+House Ikoban remain the unrivaled champions of the duel, owning arenas and adventurers guilds to earn their coin. If you can afford the coin and need protection, there is no better investment you could make than an Ikoban Bodyguard (except perhaps a sizable donation to House Marvello, but that's debatable)
+
+House Ikoban answers to Lady Xia Ikoban, legendary duelist and poet. While not required by tradition she accepts all challenges, and according to tradition if defeated she must abdicate in favor of the victor. It is a testament to her skill and temperament that she has reigned over the house for over 15 years with only a lost eye to show for her injuries. She is by all accounts passionate and empathetic, and offers charity far more than any other house leader.

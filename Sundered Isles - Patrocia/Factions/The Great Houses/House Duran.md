@@ -1,0 +1,6 @@
+![[7-house-duran.png|288]]
+The seventh Great House, House Duran. They tamed the harsh seas and defended the waters of the empire from barbarians and beasts alike. When recovered their great ships are the pride of any navy and their lighthouses stand firm millennia later.
+
+House Duran remain the undisputed masters of the sea, be it fishing or trading. Their current fortunes are quite promising as they are the only house with a private navy available for hire to protect colony ships and they have quickly refined their already masterful shipbuilding process to meet significantly increased demand.
+
+House Duran is led by Lord Ivor Duran, a hulking mountain of a man. He's an accomplished admiral, brawler and fisherman, and wears trophies from all three careers openly. Regarded as an honest if undiplomatic man, he's rumored to be a short tempered man but only a suicidal fool would say such a thing to his face. While you might not like his unrefined manners, you'll always know where you stand with him and never have any choice but to respect his skill.

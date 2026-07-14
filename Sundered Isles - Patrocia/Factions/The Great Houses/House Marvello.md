@@ -1,0 +1,6 @@
+![[3-house-marvello.png|288]]
+Third among the Great Houses came House Marvello, the emperor’s left hand. To them the emperor assigned the duty of espionage and diplomacy, a duty they took seriously as they watched for threats both foreign and internal. Their web of intrigue was legendary, shaping the way diplomats and nations interact into the modern day.
+
+The current head of House Marvello is unknown, they run the family strictly through a council empowered by him or her. If you ever visit an information broker, town crier or even brothel, your coin invariably made its way to House Marvello.  
+
+While much is unknown about the Head of house Marvello, the Speaker for the Council is Lady Julia Marvello. A retired courtesan, she's proof that it's dangerous to underestimate a working girl. By all accounts she's a tactful and ruthless negotiator, and is painfully aware of exactly what leverage she has when petitioned for aid. She's as stunning as she is cunning, so beware her spies and assassins should you make an enemy of House Marvello.

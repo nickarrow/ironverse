@@ -1,0 +1,4 @@
+![[1-house-grandduul.png|272]]
+First among the Great Houses was House Granduul, chosen to be the emperor’s right hand and to lead the emperor’s armies in battle and train his troops for honor and glory in combat. Some of the greatest heroes of ages past trace their heritage back to House Granduul, and their military traditions and innovations hold firm today.
+
+In the Modern Age they are led by Lord Darius Thorne, a powerful man who holds the true loyalty of almost any important mercenary army in Patrocia. By all accounts he is a loud, proud and honorable man, as fierce in celebration as he is in battle.
