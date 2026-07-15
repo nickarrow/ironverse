@@ -87,7 +87,7 @@ Everybody returns to their seats.
 
 "I vow to discover the fate of the Miwako and recover any valuable information still available," says Rushdown.
 
-`iv-move:Swear an Iron Vow|Heart|4|2|0|6|2|move:starforged/quest/swear_an_iron_vow`  `iv-meter:Momentum|6|7` 
+`iv-move:Swear an Iron Vow|Heart|4|2|0|6|2|move:starforged/quest/swear_an_iron_vow`  `iv-meter:Momentum|6|7`  `iv-track-create:06 - Find the fate of the Miwako and recover any surviving intel|The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md` 
 
 "The only lead we have to go on is these logs," says Rushdown, "Can we get access to them?"
 
