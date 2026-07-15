@@ -11,8 +11,8 @@ wits: 3
 health: 5
 spirit: 4
 supply: 5
-Bonds_Progress: 3
-Bonds_XPEarned: 0
+Bonds_Progress: 4
+Bonds_XPEarned: 2
 Discoveries_Progress: 1
 Discoveries_XPEarned: 0
 Quests_Progress: 6
