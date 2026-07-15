@@ -2,7 +2,7 @@
 name: Rushdown
 xp_spent: 2
 xp_added: 0
-momentum: 6
+momentum: 7
 edge: 3
 heart: 2
 iron: 4
