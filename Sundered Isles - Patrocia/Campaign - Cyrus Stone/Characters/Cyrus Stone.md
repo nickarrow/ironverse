@@ -45,6 +45,7 @@ assets:
       0/clock: 0
     options: {}
 callsign: Sparrowhawk
+description: A fair, youthful appearance hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
 ---
 
 
@@ -68,3 +69,8 @@ callsign: Sparrowhawk
 
 ## Backstory
 
+`iv-oracle:Your Backstory|81|Survived a disaster or battle at sea|oracle_rollable:sundered_isles/getting_underway/create_your_character/your_backstory|cursed=7`  `iv-oracle:Your Backstory|35|Found adrift with no memory of your former life|oracle_rollable:sundered_isles/getting_underway/create_your_character/your_backstory` 
+
+`iv-oracle:Action|30|Defeat|oracle_rollable:sundered_isles/core/action`  `iv-oracle:Theme|24|Deception|oracle_rollable:sundered_isles/core/theme` 
+
+I washed ashore on the beach with nothing but the clothes on my back, some sentimental trinkets of a life I can't remember, and the inexplicable certainty I am being hunted.
