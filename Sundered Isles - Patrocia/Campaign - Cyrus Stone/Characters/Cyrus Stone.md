@@ -45,7 +45,7 @@ assets:
       0/clock: 0
     options: {}
 callsign: Sparrowhawk
-description: A fair, youthful appearance hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
+description: A fair, youthful face hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
 player: ALargeFallingAnvil
 ---
 
