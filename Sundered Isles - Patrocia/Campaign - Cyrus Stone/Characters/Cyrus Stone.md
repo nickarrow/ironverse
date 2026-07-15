@@ -46,6 +46,7 @@ assets:
     options: {}
 callsign: Sparrowhawk
 description: A fair, youthful appearance hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
+player: ALargeFallingAnvil
 ---
 
 
@@ -73,4 +74,4 @@ description: A fair, youthful appearance hidden under unkept medium length hair 
 
 `iv-oracle:Action|30|Defeat|oracle_rollable:sundered_isles/core/action`  `iv-oracle:Theme|24|Deception|oracle_rollable:sundered_isles/core/theme` 
 
-I washed ashore on the beach with nothing but the clothes on my back, some sentimental trinkets of a life I can't remember, and the inexplicable certainty I am being hunted.
+I washed ashore on the beach with nothing but the clothes on my back, a broken blade, some sentimental trinkets of a life I can't remember, a strange codex, and the inexplicable certainty I am being hunted.
