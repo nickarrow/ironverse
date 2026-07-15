@@ -93,7 +93,7 @@ Everybody returns to their seats.
 
 "Sure, you can access them from my terminal," says Captain Finn.  Rushdown goes to the other side of the desk and starts looking for information on the Miwako.
 
-`iv-move:Gather Information|Wits|6|3|0|7|1|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
+`iv-move:Gather Information|Wits|6|3|0|7|1|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9`  `iv-track-advance:06 - Find the fate of the Miwako and recover any surviving intel|The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md|0|4|formidable|1` 
 
 Rushdown looks through the files for a few minutes and finds the transmission from the day the Miwako went missing.  "This has the coordinates the distress call originated from - it's probably our best bet at picking up the trail.  How long ago was all this, anyway?"
 
