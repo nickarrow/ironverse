@@ -75,7 +75,7 @@ The Captain laughs.  "Everybody says that," he says.  "So, what do you know abou
 
 "And you want us to find the Miwako?" asks Rushdown.
 
-"Well if it were that simple we'd send our own people.  Now, here's where the trouble begins.  The person who found that old file was...my brother.  The Clan creates batches of us clones, so they can still access the ship's computer if something happens to the acting Captain.  Then, he managed to escape the city somehow - we think he's working with the rebels.  They want to find the Miwako hoping to dig up old dirt they can use to reveal the Clan's lies and undermine their authority enough to start a rebellion.  Your job is to find the Miwako and secure any sensitive information it may hold."
+"Well if it were that simple we'd send our own people.  Now, here's where the trouble begins.  The person who found that old file was...my brother.  The Clan creates batches of us clones, so they can still access the ship's computer if something happens to the acting Captain.  Anyway, he managed to escape the city somehow, possibly working with the rebels.  They want to find the Miwako hoping to dig up old dirt they can use to reveal the Clan's lies and undermine their authority enough to start a proper rebellion in Minami City.  Your job is to find the Miwako and secure any sensitive information it may hold."
 
 Rushdown takes out his black iron blade.  Captain Finn's eyes widen.  "Knife!" he yells.  "Guards!"  Two guards burst through the doors, guns raised.  They point them at Rushdown.  He holds his hands up, still gripping the blade with his thumb.
 
@@ -94,3 +94,42 @@ Everybody returns to their seats.
 "Sure, you can access them from my terminal," says Captain Finn.  Rushdown goes to the other side of the desk and starts looking for information on the Miwako.
 
 `iv-move:Gather Information|Wits|6|3|0|7|1|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
+
+Rushdown looks through the files for a few minutes and finds the transmission from the day the Miwako went missing.  "This has the coordinates the distress call originated from - it's probably our best bet at picking up the trail.  How long ago was all this, anyway?"
+
+"In the Minami calendar it's the year 184 After Landfall, and the Miwako went missing after about 30 years of service, so approximately 150 years," replies the Captain.
+
+"One hell of a cold case," mutters Gray.  "It could be halfway across the galaxy by now, or worse."
+
+"Or it could be right under our noses.  We won't know until we look," says Rushdown.  "Anything else we should know, Captain?"
+
+"If you come across my brother on your travels, we'd appreciate it if you could bring him back alive.  Hefty bonus and all that."
+
+"Understood," says Rushdown.  
+
+The meeting over, Wynne Barrow escorts them back down to the lobby.
+
+"He's quite different in person," says Gray.
+
+"He's had extensive media training, he knows how to act in front of a camera," replies Wynne.  "Anyway, I expect you have a lot to do so I'll let you get on with it."
+
+The two Red Suns exchange their visitor badges for their handguns and head back to Gray's office.  They scan the guns to see if Minami planted anything on the them but they're clean.
+
+"This job may take you outside the sector," says Gray, "So it's time to let you in on a little secret.  HQ has a vested interest in this operation; there's a small navy on standby one sector over.  I can't have you taking part in inter-sector operations in a corvette, there's too much that can go wrong, so I'm going to call in a bigger ship for you.  The *Rude Awakening* will assume your patrol duties while you're on this mission, but it'll take a while for the new ship to get here.  Go and check out these coordinates, then report back."
+
+"Why give me the new ship?  Why not just have its existing captain pursue the Miwako?"
+
+"You were requested personally by Takamaki, we can hardly let you patrol Gallows and Tranquilo in a corvette while an operation of this scale is being carried out in the sector."
+
+"Who will take over captaincy of the *Rude Awakening*?"
+
+"Any preference?"
+
+"I'd give it to Murphy."
+
+"That can be arranged.  But don't say anything until you get back from this mission."
+
+"Understood."
+
+---
+
