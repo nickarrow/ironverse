@@ -93,4 +93,4 @@ Everybody returns to their seats.
 
 "Sure, you can access them from my terminal," says Captain Finn.  Rushdown goes to the other side of the desk and starts looking for information on the Miwako.
 
-`iv-move:Gather Information|Wits|6|3|0|7|1|move:starforged/adventure/gather_information` 
+`iv-move:Gather Information|Wits|6|3|0|7|1|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
