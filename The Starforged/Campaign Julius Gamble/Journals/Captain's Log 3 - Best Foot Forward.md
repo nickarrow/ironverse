@@ -28,7 +28,7 @@ The little holo orb popped up on his console, pulsing cheerily as Meg's voice em
 
 Meg flashed a holo showing a highly unstable magnetosphere on the planet.
 
-"The magneto storms that occasionally run wild across the surface can wreck havoc on sensitive equipment and communications outside of orbit, if [[Bri]] is down there and her ship has been hit since landing it's no guarantee that communications or a standard transponder will be functioning well enough to read from orbit. Particularly bad storms can ground a vessel for good, I suspect those wrecks may be what drew the vessel Bri is serving upon here in the first place."
+"The magneto storms that occasionally run wild across the surface can wreck havoc on sensitive equipment and communications outside of orbit, if [[Bri (Legacy)]] is down there and her ship has been hit since landing it's no guarantee that communications or a standard transponder will be functioning well enough to read from orbit. Particularly bad storms can ground a vessel for good, I suspect those wrecks may be what drew the vessel Bri is serving upon here in the first place."
 
 Gamble nodded his understanding "Guess we'll have to hope she hasn't been down there too long." Not deterred in the slightest, he continued on his course.
 

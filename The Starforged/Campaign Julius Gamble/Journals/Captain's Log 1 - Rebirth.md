@@ -97,7 +97,7 @@ The cockpit was silent, aside from the small beeps from Julius tapping on contac
 `iv-oracle:50/50|11|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
 While Julius was pondering an auto mechanic by the name of Mitt Skelti, Meg piped up.
-"I believe I have found a suitable candidate. [[Bri|Brianna Savela]], currently serving as a starship engineer aboard a vessel known as the *Work Ethic*. Her file indicates a history of salvaging and few allies. She may be easy to poach as a result."
+"I believe I have found a suitable candidate. [[Bri (Legacy)|Brianna Savela]], currently serving as a starship engineer aboard a vessel known as the *Work Ethic*. Her file indicates a history of salvaging and few allies. She may be easy to poach as a result."
 
 Julius heartened at this news. "That sounds like a good start, where do we find her?"
 
