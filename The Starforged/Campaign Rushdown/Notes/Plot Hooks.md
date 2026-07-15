@@ -15,3 +15,6 @@
 - 05 - Gangs of Southside
 - 05 - Bigmouth
 - 05 - Angel Enforcers
+- 06 - Rahul Shah
+- 06 - Captain Finn
+- 06 - The Miwako

@@ -133,3 +133,30 @@ The two Red Suns exchange their visitor badges for their handguns and head back 
 
 ---
 
+Rushdown returns to the *Rude Awakening* and prepares for departure.  Once the crew is aboard and at their stations, they set off into the unknown.
+
+`iv-track-create:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md` 
+
+`iv-move:Undertake an Expedition|Wits|4|3|0|9|6|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md|0|8|dangerous|1` 
+
+`iv-oracle:Spaceborne Peril|36|Intruder or stowaway creates trouble|oracle_rollable:starforged/space/peril` 
+
+"Sir, trouble in the crew quarters," says Murphy, the security officer.
+
+"What kind of trouble?" replies Rushdown.
+
+"Seems like we have some kind of intruder - two security officers are wounded but they've been cornered in the locker room.  They're armed."
+
+"I'll deal with this. Tell your men to stay in cover until I get there."
+
+Rushdown heads to the crew quarters.  There are signs of a struggle and blaster fire.  "They're in there," says a young crewmember, indicating toward the locker room.
+
+"You in there," calls Rushdown, "This is the captain speaking.  You picked the wrong ship to hitch a ride on - we're armed to the teeth and trained to kill.  You're surrounded and outnumbered."
+
+`iv-move:Secure an Advantage|Iron|2|4|0|10|10|move:starforged/adventure/secure_an_advantage` 
+
+"Oh, I'm on the right ship alright.  You're the space scum working for the fake Minami Clan.  Don't think you can scare me, I have a bomb.  If you try anything I'll blow a hole in the hull," comes a woman's voice from the other side of the doorway.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|9|10` 

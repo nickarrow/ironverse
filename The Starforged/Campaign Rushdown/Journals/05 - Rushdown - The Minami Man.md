@@ -214,3 +214,5 @@ Rushdown hears several locks being unlocked and then the door swings open.  A ma
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|7|8` 
+
+Next Entry: [[06 - Rushdown - Captain Finn]]

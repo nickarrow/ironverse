@@ -159,3 +159,5 @@ The boarding party clear the *Former Glory* without resistance - a hole in the h
 >I realized I forgot to roll Make a Connection for Gray earlier
 
 `iv-move:Make a Connection|Heart|6|2|0|7|5|move:starforged/connection/make_a_connection`  `iv-track-create:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md` 
+
+Next Entry: [[05 - Rushdown - The Minami Man]]
