@@ -67,7 +67,7 @@ She gestured to a chair opposite her, the perfect facsimile of magnanimous host.
 
 She pulled up a holo-terminal and began tapping away as Julius took a seat. Now seated across the desk from her, he was able to see flecks of something reflective in the stone slab that served as the desktop. Quartz? Gold? Something else entirely? It was unclear but he was pretty confident by the rest of the decor in the room it was worth a small fortune.
 
-He was taken out of his musings as Whisper announced "I have some information for you. Callsign [[Bri (Legacy)]], full name Brianna Savela. Former scrapper, highly competent according to the service records I can find of her serving as an engineer. Is that your target?"
+He was taken out of his musings as Whisper announced "I have some information for you. Callsign [[Bri]], full name Brianna Savela. Former scrapper, highly competent according to the service records I can find of her serving as an engineer. Is that your target?"
 
 Julius nodded, trying to present a confident and charming persona as he replied.
 
