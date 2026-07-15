@@ -132,15 +132,13 @@ There's a pause.
 
 "So I burnt my best undercover agent over a nobody?"
 
-"It would appear so.  Look on the bright side, at least she didn't blow herself up over a nobody.  That's all you wanted to ask?"
+"Guess so.  Look on the bright side, at least she didn't blow herself up over a nobody.  That's all you wanted to ask?"
 
 "No, there was more but without the bomb threat I doubt you'll answer."
 
-"Okay then."
-
 `iv-track-advance:07 - Go to the Resistance meeting|The Starforged/Campaign Rushdown/Progress/Vows/07 - Go to the Resistance meeting.md|12|24|troublesome|1` 
 
-"So what about Juliana?" asks The Spider.
+"So what about Juliana?" continues The Spider.
 
 "My vow was not to try to capture anyone at the meeting, but I already captured her before the meeting so I guess I'll hang onto her for now.  Unless you have something you're willing to trade for her, obviously," replies Rushdown.
 
