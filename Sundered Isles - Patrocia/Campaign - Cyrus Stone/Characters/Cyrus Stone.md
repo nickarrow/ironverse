@@ -2,7 +2,7 @@
 name: Cyrus Stone
 xp_spent: 0
 xp_added: 0
-momentum: 10
+momentum: 6
 edge: 2
 heart: 2
 iron: 3
@@ -13,7 +13,7 @@ spirit: 5
 supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 0
+Discoveries_Progress: 2
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_XPEarned: 0
@@ -67,7 +67,12 @@ player: ALargeFallingAnvil
 
 ```iron-vault-character-assets
 ```
-
+## Gear
+- One hat with tattered feather
+- One Silver-hilted Rapier with a broken blade (Half length)
+- One cryptic codex in a wax-sealed map case
+- One flask of rum
+- One dagger fashioned from the fang of a large Night Weaver and some spider silk
 ## Backstory
 
 `iv-oracle:Your Backstory|81|Survived a disaster or battle at sea|oracle_rollable:sundered_isles/getting_underway/create_your_character/your_backstory|cursed=7`  `iv-oracle:Your Backstory|35|Found adrift with no memory of your former life|oracle_rollable:sundered_isles/getting_underway/create_your_character/your_backstory` 

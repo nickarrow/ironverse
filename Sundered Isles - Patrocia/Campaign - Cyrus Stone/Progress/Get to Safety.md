@@ -1,7 +1,7 @@
 ---
 name: Get to Safety
 rank: troublesome
-progress: 12
+progress: 24
 tags:
   - incomplete
 track-type: Vow
