@@ -227,4 +227,4 @@ I search him and I find a pouch of gold and a flask of something that smells alc
 
 I tuck away the loot, and return to my wandering, a little more weary but yet more glad to be alive.
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Explore the Jungle|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|8|16|dangerous|1`  `iv-track-advance:Get to Safety|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Get to Safety.md|0|12|troublesome|1` 
