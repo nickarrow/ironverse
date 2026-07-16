@@ -5,4 +5,4 @@
 Character Role: Resistance Spy
 `iv-oracle:Character Goal|47|Pay a debt|oracle_rollable:starforged/character/goal` 
 
-Juliana is a Resistance spy who stowed away onto Rushdown's ship with a bomb and tried to hijack it.  Rushdown ultimately struck a deal with her.
+Juliana is a [[Resistance]] spy who stowed away onto Rushdown's ship with a bomb and tried to hijack it.  Rushdown ultimately struck a deal with her.

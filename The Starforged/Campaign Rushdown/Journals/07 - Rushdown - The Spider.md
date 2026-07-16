@@ -11,7 +11,7 @@ Previous Entry: [[06 - Rushdown - Captain Finn]]
 
 "Let's say I believe you," says Rushdown, "What are you waiting for?"
 
-"Wiping you out is Plan B.  My mission is to hijack the ship and force you to fly to meet one of our people.  You rescued a Minami exec from Tranquilo and wiped out half a block doing it.  We want to know what was so important about him."
+"Wiping you out is Plan B.  My mission is to hijack the ship and force you to fly to meet one of our people.  You rescued a Minami exec from Tranquilo and wiped out an entire gang doing it.  We want to know what was so important about him."
 
 "I take it you're with the rebels?" asks Rushdown.
 
@@ -112,7 +112,7 @@ They come out in deep space.  A multipurpose vehicle is sitting there waiting fo
 
 "Juliana, have they hurt you?" says The Spider
 
-"No, they just locked me up."
+"Spider!  No, they just locked me up."
 
 "Did they interrogate you?"
 
@@ -124,7 +124,7 @@ They come out in deep space.  A multipurpose vehicle is sitting there waiting fo
 
 "So, what did you want to talk to us about?" asks Rushdown.
 
-"Who was the Minami man you killed a dozen men to save?  As far as we can find out he's a nobody."
+"Who was the Minami man you killed over a dozen men to save?  As far as we can find out he's a nobody."
 
 "He is a nobody.  Minami didn't ask us to save him, they asked us to wipe out the gang who dared cross them.  I just saved him because the job would have felt half finished otherwise."
 
@@ -140,7 +140,7 @@ There's a pause.
 
 "So what about Juliana?" continues The Spider.
 
-"My vow was not to try to capture anyone at the meeting, but I already captured her before the meeting so I guess I'll hang onto her for now.  Unless you have something you're willing to trade for her, obviously," replies Rushdown.
+"My vow was not to capture anyone at the meeting, but since I captured her *before* the meeting I guess I'll hang onto her for now.  Unless you have something you're willing to trade for her, obviously," replies Rushdown.
 
 "All I have is information."
 
@@ -170,3 +170,71 @@ The Spider maneuvers to a safe distance and blinks away into FTL.
 
 ---
 
+`iv-move:Undertake an Expedition|Wits|3|3|0|2|4|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md|8|16|dangerous|1` 
+
+They arrive safely at the next waypoint.  Finding nothing remarkable, they recharge the e-drive and move on.
+
+`iv-move:Undertake an Expedition|Wits|6|3|0|9|8|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md|16|24|dangerous|1` 
+
+`iv-oracle:Spaceborne Peril|5|Automated defenses or mines protect this area|oracle_rollable:starforged/space/peril` 
+
+"Sir, I'm detecting some kind of drone out there," says Janus.
+
+"I know that signature," says Murphy, "They're shipkiller drones, they protect areas from enemy ships."
+
+"Are we in danger?" asks Rushdown.
+
+"If they spot us and swarm, then yeah they could take down a corvette."
+
+"Let's try and stay out of sight then.  Power down all nonessential systems and sit tight until we can jump again."
+
+`iv-move:Face Danger|Shadow|4|2|0|6|9|move:starforged/adventure/face_danger` 
+
+"Sir, one of the drones is approaching us at speed," says Janus.  "None of the other drones seem to be alerted."
+
+"If we fire on it the others are bound to notice," says Murphy.
+
+"Maybe it won't tag us as an enemy vessel and it'll just leave us alone," says Rushdown.  "Leave the guns powered down but be ready to make a break for it if necessary."
+
+The drone stops nearby and starts scanning the *Rude Awakening*.
+
+>Does the drone become hostile?  `iv-oracle:50/50|81|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+
+After a tense minute that seems to stretch on for hours, the drone silently returns to its patrol.  The ship holds its position until it is ready to jump away.
+
+`iv-move:Undertake an Expedition|Wits|5|3|0|3|6|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md|24|32|dangerous|1` 
+
+The ship makes another safe jump to an unremarkable location.
+
+"We're close to the coordinates now, one more jump should take us there.  Be ready for anything when we come out of warp, the rebels didn't mention the Miwako but that doesn't mean there isn't a nasty surprise waiting for us on the other side."
+
+`iv-progress:Finish an Expedition|06 -Expedition to distress coordinates|8|1|1|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Rushdown/Characters/Rushdown.md|1|3|epic|2`  `iv-track-complete:06 -Expedition to distress coordinates|The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md`  `iv-track-advance:06 - Find the fate of the Miwako and recover any surviving intel|The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md|4|8|formidable|1` 
+
+`iv-oracle:Planetary Class|19|Furnace World|oracle_rollable:starforged/planet/class` 
+`iv-oracle:Sample Names|7|Ember|oracle_rollable:starforged/planet/furnace/name` 
+`iv-oracle:Atmosphere|29|Toxic|oracle_rollable:starforged/planet/furnace/atmosphere` 
+`iv-oracle:Observed From Space|13|Glowing rivers of lava|oracle_rollable:starforged/planet/furnace/observed_from_space` 
+`iv-oracle:Outlands|63|None|oracle_rollable:starforged/planet/furnace/settlements/outlands` 
+
+`iv-oracle:Location|90|Deep Space|oracle_rollable:starforged/derelict/location` 
+`iv-oracle:Deep Space|48|Starship|oracle_rollable:starforged/derelict/type/deep_space` 
+`iv-oracle:Starship Name|46|Long Haul|oracle_rollable:starforged/starship/name` 
+`iv-oracle:Starship Type|68|Multipurpose|oracle_rollable:starforged/starship/type` 
+`iv-oracle:Condition|55|Cold and dark|oracle_rollable:starforged/derelict/condition` 
+`iv-oracle:Outer First Look|73|Sending a signal or message|oracle_rollable:starforged/derelict/outer_first_look` 
+
+"Sir, we're in orbit around a volcanic world by the name of Ember.  Uninhabited," says Janus.  "However, we're picking up a signal from further out.  There's some kind of ship out there.  The signal is pretty weak, but it matches the distress signal the Miwako picked up."
+
+"Take us in for a closer look," says Rushdown.  The *Rude Awakening* approaches the vessel.
+
+"No signs of power," says Janus, "Looks like it's been sitting there for a long time."
+
+"It's just a multipurpose ship," says Rushdown, "Why divert an arkship for this?  And why didn't the arkship just bring the whole ship on board?"
+
+"Maybe there was originally more than one ship out here," says Murphy.
+
+"I'm going across to take a look," says Rushdown.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|6|7` 

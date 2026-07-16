@@ -1,7 +1,7 @@
 ---
 name: 06 - Find the fate of the Miwako and recover any surviving intel
 rank: formidable
-progress: 4
+progress: 8
 tags:
   - incomplete
 track-type: Vow

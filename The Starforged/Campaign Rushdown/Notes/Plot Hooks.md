@@ -10,7 +10,7 @@
 - 02 - Florian Angel
 - 03 - Rebels
 - 03 - Wynn Barrow
-- 04 - Switchblade
+- 04 - Switchblade (on Gallows)
 - 04 - Satonaka
 - 05 - Gangs of Southside
 - 05 - Bigmouth
@@ -18,3 +18,6 @@
 - 06 - Rahul Shah
 - 06 - Captain Finn
 - 06 - The Miwako
+- 07 - Juliana Barbosa
+- 07 - The Spider
+- 

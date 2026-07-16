@@ -160,3 +160,5 @@ Rushdown heads to the crew quarters.  There are signs of a struggle and blaster 
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|9|10` 
+
+Next Entry: [[07 - Rushdown - The Spider]]
