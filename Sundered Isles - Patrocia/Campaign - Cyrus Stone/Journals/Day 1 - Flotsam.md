@@ -50,7 +50,7 @@ This ambling around bore no fruit beyond allowing me to work the aches out of my
 Content that I had at least taken inventory of my defensive capabilities, I began to walk toward the jungle. Upon reaching the edge of the jungle, I stop and observe it for a moment. A medley of birdsong reaches my ears as the jungle canopy inhabitants went about their business. The buzz of an insect goes by my ear and I reflexively wave it away with my right hand before wincing and clutching my side as the error takes its toll. Inside the jungle I hear a chittering call ring out surprisingly loudly. I'm not sure what to make of that, I'll have to keep my wits about me in there.
 
 `iv-move:Swear an Iron Vow|Heart|2|2|0|8|3|move:starforged/quest/swear_an_iron_vow`  `iv-track-create:Get to Safety|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Get to Safety.md` 
-
+`iv-meter:Momentum|2|3` 
 I need to find some signs of life, if any, on this island. I have no better way to do that than to go explore. At worst, if I can't find anything I'll turn back and continue scouring the coast.
 
 With that, I begin to explore the jungle depths.
@@ -61,7 +61,7 @@ With that, I begin to explore the jungle depths.
 
 It didn't take long for the chittering noise I heard earlier to make itself known: A angry bird the size of me leapt out of the bushes in front of me, a bundle of bright feathers clearly looking for a fight. It scratches the ground with its claws in a threat display that leaves large gouges that I'm painfully aware could be inflicted upon me. I'm in no shape for a fight, much less a drawn out one so I either need to quickly pacify this thing or escape.
 
-I raise my voice and yell loudly, waving my hat above my head with my left arm above my head as I draw what's left of my rapier with my right arm. `iv-move:Compel|Iron|6|3|0|7|1|move:starforged/adventure/compel` `iv-meter:Momentum|2|3`
+I raise my voice and yell loudly, waving my hat above my head with my left arm above my head as I draw what's left of my rapier with my right arm. `iv-move:Compel|Iron|6|3|0|7|1|move:starforged/adventure/compel` `iv-meter:Momentum|3|4`
 
 To my immense surprise, this actually works and the bird hesitates. Seeing my chance, I raise my voice even louder, yelling nonsense and stomping my feet. I draw a large gash in the ground with my rapier, imitating its threat display. When the bird takes a step back, I begin to follow it, maintaining my display until the bird truly turns tail and runs.
 
@@ -75,11 +75,11 @@ Not one to let a treasure go unappreciated, I scoop up the valuables and a squar
 
 ---
 `iv-move:Undertake an Expedition|Wits|5|2|0|4|10|move:sundered_isles/exploration/undertake_an_expedition`  `iv-track-advance:Explore the Jungle|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|0|8|dangerous|1` 
-`iv-noroll:Lose Momentum|move:starforged/suffer/lose_momentum` `iv-meter:Momentum|3|1`
+`iv-noroll:Lose Momentum|move:starforged/suffer/lose_momentum` `iv-meter:Momentum|4|2`
 
 I wandered a while, trying my best to stay vigilant as the noises of the jungle continued unabated. Unfortunately for me there weren't exactly signposts or well trod paths to follow, so I lost the coast a few times and had to backtrack a bit. Continuing to follow the coast did pay dividends in the end though, as I eventually found a clearing that allowed me to spot something stone peeking over the treetops. I wasn't sure what it was, but it was the first sign of civilization I'd seen since waking up and I wasn't about to pass it by,
 
-`iv-move:Explore a Waypoint|Wits|3|2|0|4|9|move:starforged/exploration/explore_a_waypoint` `iv-meter:Momentum|1|2`
+`iv-move:Explore a Waypoint|Wits|3|2|0|4|9|move:starforged/exploration/explore_a_waypoint` `iv-meter:Momentum|2|3`
 
 The way towards the structure is difficult, the jungle canopy is so thick the path that things were almost dark in the brush but eventually I find my way there. The structure is an old stone step pyramid, overgrown and crumbling. As I get closer, I notice a large stone stele at the edge of the pyramid's clearing. Approaching, I can see it's inscribed with a worn picture: demonic spiders descending from the moon. A pile of skeletons ring the picture.
 
@@ -109,7 +109,7 @@ Almost as soon as I free my boot, the left side of the webbing zips away into th
 The web connects with me, hitting me straight in the chest before I have time to react. I'm yanked forward, stumbling to keep on my feet just as the shiny black carapace of a massive spider becomes visible at the end of the strand of webbing, reeling it in with 8 beady eyes fixed on me.
 
  `iv-move:Enter the Fray|Wits|5|2|0|2|5|move:starforged/combat/enter_the_fray`
- `iv-meter:Momentum|2|4`  `iv-track-create:Defeat or Escape from the Giant Spider|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md` 
+ `iv-meter:Momentum|3|5`  `iv-track-create:Defeat or Escape from the Giant Spider|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md` 
  `iv-initiative:Initiative|<from>|In Control`
 
 Thinking quickly, I once again slice the strand connecting myself and the spider. It hisses as its line goes slack, and something green drips from its mouth mandibles.
@@ -191,7 +191,7 @@ A bead of sweat runs down my face as the acidic poison continues to inch closer 
 Ready to throw the next net, the spider tenses and wiggles slightly. I know I need to avoid it, but I'm not sure I can. I resolve to sit up and try to intercept the web my left hand so I can potentially let my right arm stay free to attack.
 
 `iv-move:React Under Fire|Iron|5|3|0|4|1|move:starforged/combat/react_under_fire` 
-`iv-initiative:Position|In a Bad Spot|In Control`  `iv-meter:Momentum|4|5` 
+`iv-initiative:Position|In a Bad Spot|In Control`  `iv-meter:Momentum|5|6` 
 
 My plan is a success, I intercept the net and it wraps around my left arm and chest. I hold right arm as close as I dare to my body, feigning that it's stuck too.
 
@@ -212,19 +212,28 @@ My eyes drift to the sticky webbing covering the ground and patches of my clothe
 
 My work done and some bandages ready for future use, I look over the dressing. It was acceptable given the circumstances, though it was going to hurt like hell when the time came to change it later. I could only hope the healing process would be far enough along it wouldn't reopen the wound.
 
-Exhausted, I wander over to the spider and wipe my blade off on its corpse. To my surprise, my blade remains a blue tinge even after it's wiped. I immediately wiped my hands and face, hoping it was just metal that got permanently stained by the blood.
+Exhausted, I wander over to the spider and wipe my blade off on its corpse. To my surprise, my blade remains a blue tinge even after it's wiped. I immediately wiped my hands and face, hoping it was just metal that got permanently stained by the blood. My skin appears unchanged thankfully, and I breathe a sigh of relief.
+
+`iv-move:Secure an Advantage|Wits|4|2|0|9|3|move:starforged/adventure/secure_an_advantage` `iv-meter:Momentum|6|8` 
+
+Looking over the great beast, I consider what I can else I can repurpose from it.
+I didn't have a bottle or anything to else I'd feel safe stashing it's acidic venom in, so that was out of the question. What I do fancy my odds of salvaging is the great dagger-sized fangs the horrible thing had at the end of each mandible, assuming I could ensure it was done dripping aforementioned acidic venom.  
+
+Recovering the mandible in question from the pool of venom proves a bit of a test of skill, but after some trial and error I learn that the spider's own webbing is immune to the acidic nature of the venom. Using this knowledge I draw find sticky silk and fish the mandible out of the pool it was lying in. Extracting the fang from the mandible, I carefully wrap sticky silk around the base of the fang, then add fresh, non-sticky silk from a spinneret around that layer to make a handle I can safely hold without getting it stuck to me. It was a bit of a crude weapon, but it would serve me well as an off-hand dagger in a pinch. 
+
+The battle is over, and I've secured a trophy that could help me stay alive. Not bad.
 
 ---
 
 In the aftermath, I take the time to follow the original tripwire back the monster's nest in search of anything or anyone else that might have been caught.
  `iv-oracle:50/50|29|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
  
-`iv-move:Gather Information|Wits|3|2|0|5|4|move:starforged/adventure/gather_information` 
+`iv-move:Gather Information|Wits|3|2|0|5|4|move:starforged/adventure/gather_information` `iv-meter:Momentum|8|9` 
 
-I'm surprised to find multiple cocoons, most were animals, but one was an unfortunate man dressed in a sailors outfit. By the state of him, he'd been here only a little while, maybe a few days to a week? This meant there could be a settlement on the island! Or he just could be a castaway like me, I was no closer to certainty that I was heading in the right direction.
+I'm surprised to find multiple cocoons, most were animals, but one was an unfortunate man dressed in a sailors outfit. By the state of him, he'd been here only a little while, maybe a few days to a week? This meant there could be a settlement on the island! ...Or he just could be a castaway like me. I was no closer to certainty that I was heading in the right direction, but at least I had some small indication I might not be alone here.
 
-I search him and I find a pouch of gold and a flask of something that smells alcoholic. I take a swig and am rewarded by the rich taste of rum.
+I search him and I find a pouch of gold and a flask of something that smells alcoholic. I take a swig and am rewarded by the rich taste of rum. It trickles down my throat and I realize just how thirsty I am. The urge to drain the flask is strong, but I restrain myself. I don't know how long I'll be out here, better to ration my resources carefully.
 
-I tuck away the loot, and return to my wandering, a little more weary but yet more glad to be alive.
+I tuck away my scavenged loot and return to my wandering, a little more weary but yet more grateful just to be alive than ever.
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Explore the Jungle|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|8|16|dangerous|1`  `iv-track-advance:Get to Safety|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Get to Safety.md|0|12|troublesome|1` 
