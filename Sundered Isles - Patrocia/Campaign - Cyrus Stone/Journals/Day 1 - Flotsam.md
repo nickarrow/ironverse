@@ -198,9 +198,11 @@ My plan is a success, I intercept the net and it wraps around my left arm and ch
 The spider falls for the bait, not spinning any more nets and moving in for the kill.
 I pretend to struggle as it staggers over on it remaining legs. As it looms over me I get a good look at its highly unsettling  (if now incomplete) mouth anatomy. It's eyes fix on me with malice as its fang dripped venom so close to me I couldn't help but flinch.
 
-`iv-progress:Take Decisive Action|Defeat or Escape from the Giant Spider|9|6|5|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md|move:starforged/combat/take_decisive_action` 
+`iv-progress:Take Decisive Action|Defeat or Escape from the Giant Spider|9|6|5|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md|move:starforged/combat/take_decisive_action`  `iv-meter:Momentum|6|7` 
 
 As the spider made to finish me off, I took my chance. The wretched thing threw its weight into driving its remaining mandible into my neck as I drove my blade upwards with all my might. Luckily for me, my weapon was longer and it intercepted the beast's trajectory. Between its weight being brought down upon me and my stab going up, the blade pierces deeply into the underside of the monster's head.
+
+`iv-track-complete:Defeat or Escape from the Giant Spider|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md` 
 
 In an almost anticlimactically quick fashion, the beast shutters and dies. It collapses, just narrowly missing landing on top of me. I breathe a sigh of relief and wrench my blade from the beast, only to startle as I realize more acidic poison is beginning to pool by my head.
 
@@ -214,21 +216,21 @@ My work done and some bandages ready for future use, I look over the dressing. I
 
 Exhausted, I wander over to the spider and wipe my blade off on its corpse. To my surprise, my blade remains a blue tinge even after it's wiped. I immediately wiped my hands and face, hoping it was just metal that got permanently stained by the blood. My skin appears unchanged thankfully, and I breathe a sigh of relief.
 
-`iv-move:Secure an Advantage|Wits|4|2|0|9|3|move:starforged/adventure/secure_an_advantage` `iv-meter:Momentum|6|8` 
+`iv-move:Secure an Advantage|Wits|4|2|0|9|3|move:starforged/adventure/secure_an_advantage` `iv-meter:Momentum|7|9` 
 
 Looking over the great beast, I consider what I can else I can repurpose from it.
 I didn't have a bottle or anything to else I'd feel safe stashing it's acidic venom in, so that was out of the question. What I do fancy my odds of salvaging is the great dagger-sized fangs the horrible thing had at the end of each mandible, assuming I could ensure it was done dripping aforementioned acidic venom.  
 
-Recovering the mandible in question from the pool of venom proves a bit of a test of skill, but after some trial and error I learn that the spider's own webbing is immune to the acidic nature of the venom. Using this knowledge I draw find sticky silk and fish the mandible out of the pool it was lying in. Extracting the fang from the mandible, I carefully wrap sticky silk around the base of the fang, then add fresh, non-sticky silk from a spinneret around that layer to make a handle I can safely hold without getting it stuck to me. It was a bit of a crude weapon, but it would serve me well as an off-hand dagger in a pinch. 
+Recovering the mandible in question from the pool of venom proves a bit of a test of skill, but after some trial and error I learn that the spider's own webbing is immune to the acidic nature of the venom. Using this knowledge I draw find sticky silk and fish the mandible out of the pool it was lying in. Extracting the fang from the mandible, I carefully wrap sticky silk around the base of the fang, then add fresh, non-sticky silk from a spinneret around that layer to make a handle I can safely hold without getting it stuck to me. It was a bit of a crude weapon handle, but it meant the could serve me well as an off-hand dagger in a pinch. 
 
-The battle is over, and I've secured a trophy that could help me stay alive. Not bad.
+I tuck the blade away and move to the edge of the clearing and look it over. I take a deep breath and slowly let it out to center myself and calm my nerves. The battle is over, and while there were a few close calls I'm alive and I've secured a trophy that could help me continue to stay alive in the future. Not bad.
 
 ---
 
 In the aftermath, I take the time to follow the original tripwire back the monster's nest in search of anything or anyone else that might have been caught.
  `iv-oracle:50/50|29|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
  
-`iv-move:Gather Information|Wits|3|2|0|5|4|move:starforged/adventure/gather_information` `iv-meter:Momentum|8|9` 
+`iv-move:Gather Information|Wits|3|2|0|5|4|move:starforged/adventure/gather_information` `iv-meter:Momentum|9|10` 
 
 I'm surprised to find multiple cocoons, most were animals, but one was an unfortunate man dressed in a sailors outfit. By the state of him, he'd been here only a little while, maybe a few days to a week? This meant there could be a settlement on the island! ...Or he just could be a castaway like me. I was no closer to certainty that I was heading in the right direction, but at least I had some small indication I might not be alone here.
 

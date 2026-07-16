@@ -2,7 +2,7 @@
 name: Cyrus Stone
 xp_spent: 0
 xp_added: 0
-momentum: 6
+momentum: 10
 edge: 2
 heart: 2
 iron: 3
@@ -17,8 +17,8 @@ Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_XPEarned: 0
-FailureTrack_Progress: 0
-FailureTrack_XPEarned: 0
+FailureTrack_Progress: 5
+FailureTrack_XPEarned: 2
 iron-vault-kind: character
 pronouns: He/Him
 assets:
