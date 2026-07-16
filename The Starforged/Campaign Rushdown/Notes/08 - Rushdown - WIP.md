@@ -163,7 +163,7 @@ Rushdown arrives back at Minami City.  He heads to [[Gray]]'s office to report o
 
 `iv-move:Gather Information|Wits|2|3|0|2|7|move:starforged/adventure/gather_information`  `iv-meter:Momentum|3|4` 
 
-There are multiple matches - various wrecks and derelicts have been found with these markings daubed on the walls and floors.  They are usually linked to massacres and ritualistic killings, and often drawn in blood.  It seems the Ascendancy, or another group like them, is still in operation to this day, although nothing is really known about them.  They show up and vanish seemingly at will.  There's no pattern to their attacks, they don't stay in once sector, and they don't take prisoners or loot.  They don't seem like a pirate band at all.
+There are multiple matches - various wrecks and derelicts have been found with these markings daubed on the walls and floors.  They are usually linked to massacres and ritualistic killings, and often drawn in blood.  It seems the Ascendancy, or another group like them, is still in operation to this day, although nothing is really known about them.  They show up and vanish seemingly at will.  There's no pattern to their attacks, they don't stay in one sector, and they don't take prisoners or loot.  They don't seem like a pirate band at all.
 
 "I don't know who we're dealing with, but this doesn't feel like a cold case any more," says Rushdown.
 
