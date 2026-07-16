@@ -1,8 +1,8 @@
 ---
 name: Rushdown
-xp_spent: 2
+xp_spent: 5
 xp_added: 0
-momentum: 7
+momentum: 4
 edge: 3
 heart: 2
 iron: 4
@@ -13,8 +13,8 @@ spirit: 4
 supply: 5
 Bonds_Progress: 4
 Bonds_XPEarned: 2
-Discoveries_Progress: 3
-Discoveries_XPEarned: 0
+Discoveries_Progress: 4
+Discoveries_XPEarned: 2
 Quests_Progress: 7
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
@@ -57,6 +57,13 @@ assets:
       - false
     controls:
       broken: false
+    options: {}
+  - id: asset:starforged/path/navigator
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
     options: {}
 ---
 

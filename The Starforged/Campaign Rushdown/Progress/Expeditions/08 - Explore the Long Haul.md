@@ -1,10 +1,10 @@
 ---
-name: 06 - Find the fate of the Miwako and recover any surviving intel
-rank: formidable
-progress: 12
+name: 08 - Explore the Long Haul
+rank: troublesome
+progress: 36
 tags:
-  - incomplete
-track-type: Vow
+  - complete
+track-type: Expedition
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---
