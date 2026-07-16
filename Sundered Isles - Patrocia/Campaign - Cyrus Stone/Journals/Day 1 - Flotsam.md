@@ -234,7 +234,7 @@ In the aftermath, I take the time to follow the original tripwire back the monst
 
 I'm surprised to find multiple cocoons, most were animals, but one was an unfortunate man dressed in a sailors outfit. By the state of him, he'd been here only a little while, maybe a few days to a week? This meant there could be a settlement on the island! ...Or he just could be a castaway like me. I was no closer to certainty that I was heading in the right direction, but at least I had some small indication I might not be alone here.
 
-I search him and I find a pouch of gold and a flask of something that smells alcoholic. I take a swig and am rewarded by the rich taste of rum. It trickles down my throat and I realize just how thirsty I am. The urge to drain the flask is strong, but I restrain myself. I don't know how long I'll be out here, better to ration my resources carefully.
+I search him and I find a pouch of gold and a flask of something that smells alcoholic. I take a swig and am rewarded by the rich taste of rum. It trickles warmly down my throat and I realize just how thirsty I am. The urge to drain the flask is strong, but I restrain myself. I don't know how long I'll be out here so it's better to ration my resources carefully.
 
 I tuck away my scavenged loot and return to my wandering, a little more weary but yet more grateful just to be alive than ever.
 
