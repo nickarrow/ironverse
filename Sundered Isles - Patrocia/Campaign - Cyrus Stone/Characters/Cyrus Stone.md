@@ -74,4 +74,6 @@ player: ALargeFallingAnvil
 
 `iv-oracle:Action|30|Defeat|oracle_rollable:sundered_isles/core/action`  `iv-oracle:Theme|24|Deception|oracle_rollable:sundered_isles/core/theme` 
 
-I washed ashore on the beach with nothing but the clothes on my back, a broken blade, some sentimental trinkets of a life I can't remember, a strange codex, and the inexplicable certainty I am being hunted.
+Description: A fair, youthful face hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
+
+I washed ashore on the beach with nothing but the clothes on my back, a broken blade, some sentimental trinkets of a life I can't remember, a strange codex I can't understand, and the inexplicable certainty I am being hunted. I recall battle, an alarm bell ringing, bodies falling upon a deck. Brief flashes of faces I don't have names for. I am lost in more ways than one.
