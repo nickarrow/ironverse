@@ -176,4 +176,10 @@ Creed looks confused.  "I don't know of any AI that survived an encounter with t
 
 "The nearest one that I know of is a few sectors away.  It's a planet called [[Pyla]], in the Devil's Chain sector."
 
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+
 `iv-track-advance:06 - Find the fate of the Miwako and recover any surviving intel|The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md|12|16|formidable|1` 
+
+`iv-meter:Momentum|8|9` 

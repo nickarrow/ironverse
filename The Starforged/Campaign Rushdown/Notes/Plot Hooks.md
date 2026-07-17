@@ -24,3 +24,7 @@
 - 08 - Cleveland/Long Haul
 - 08 - Ascendancy
 - 08 - Captain Redblood
+- 09 - Inferno
+- 09 - Argus Bridger
+- 09 - The guy in the chair
+- 09 - Creed Bond
