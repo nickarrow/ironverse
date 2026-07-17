@@ -25,4 +25,3 @@ Finally we must address the undercity. While the agrarian sprawl outside of the 
 [[The Kingdom of Ossik]]
 
 ## Appears In
-*This is optional but highly encouraged, drop a link to the journal(s) this location appears in so others can read up before using it in their own stories!
