@@ -115,6 +115,6 @@ Considering the torrential rainstorm that just swept through the region, I knew 
 
 `iv-progress:Finish an Expedition|Explore the Jungle|10|7|3|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|move:starforged/exploration/finish_an_expedition` 
 
-It's about an hour while later that I find the jungle begins to thin out. Now that my line of sight has expanded significantly, in between the trees I can see a towering mountain range in the distance. Following the road yet further, the jungle transitions into a into a lush and fertile grassland. Not sad to be out of the jungle, I forge ahead reinvigorated. I announce to no one in particular as I walk "Now we're getting somewhere!"
+It's about an hour while later that I find the jungle begins to thin out. Now that my line of sight has expanded significantly, in between the trees I can see a towering mountain range in the distance. Following the road yet further, the jungle transitions into a into a lush and fertile grassland. Not sad to be out of the jungle, I forge ahead reinvigorated. I announce to no one in particular as I stride forward "Now we're getting somewhere!"
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Get to Safety|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Get to Safety.md|12|24|troublesome|1` 
