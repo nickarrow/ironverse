@@ -23,6 +23,6 @@ A popular Order is the Order of the Old Growth. They are expert monster hunters 
 
 ## The Order of the White Lance
 When a Knight Exemplar has served with distinction and is ready to retire from active service, they are offered the chance to join the Order of the White Lance. This order runs the yearly tournament that bears their name and ensures that each order gains enough recruits to sustain itself and be fit to serve. They are recruiters, teachers, bardic storytellers, public relations specialists, and social advocates all in one. While they are technically retired, in truly dire times this order has been known to decide to take up arms again and fight grave threats. 
-One such legend tells of the oldest members of the order choosing to sacrifice themselves to protect some squires from a Deep Wyrm that managed to get out of the undercity and go on a rampage.
+One such legend tells of the oldest members of the order choosing to draw their blades and enact a suicide charge to protect some squires from a Deep Wyrm that managed to get out of the undercity and go on a rampage.
 
 They are many things, but above all else they are a cherished part of Ossik's shared culture can expect a warm welcome in any settlement in Ossik. 
