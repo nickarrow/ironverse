@@ -30,4 +30,8 @@ I am very fortunate that I heeded the warning and didn't disturb the pyramid whi
 
 ---
 
+I reached a massive river gorge with a tenuous rope bridge strung across it. While it held firm, a storm rolled in as I began to cross and the fierce winds did their best to throw me to my death. I managed to hold on and took shelter in a cave to wait out the storm when I managed to finish my crossing.
 
+---
+
+Following the direction the bridge was pointing, I successfully found a dirt path and have followed it over a river to a grassland. I can see mountains in the distance and believe my time in the jungle has finally come to an end.
