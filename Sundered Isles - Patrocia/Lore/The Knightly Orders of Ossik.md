@@ -15,7 +15,7 @@ Finally, in rare circumstance you can either be born a noble and afford to be tr
 
 ## The Modern Orders
 
-It's not actually confidently known how many Orders exist, but it's estimated that there are at least 30. The difficulty in counting is due to some orders being very remote or having a niche purpose. For example, the Order of the Swan are actually mariners dedicated to defending the shores of the nation. As such, they spend quite little time at home and plenty at sea or far afield while The Order of the Cloud spend most of their time hunting threats in the mountains. 
+It's not actually confidently known how many Orders exist, but it's estimated that there are at least 30 orders of varying prominence. The difficulty in counting is due to some orders being very in remote areas or having a niche purpose. For example, the Order of the Swan are actually mariners dedicated to defending the shores of the nation. As such, they spend very little time at home and plenty at sea or far afield while The Order of the Peak spend most of their time hunting threats in the mountains. 
 
 As a result of having different disciplines what a knight looks like can vary greatly too. The Order of the Bear are elite shock infantry troops, they are clad head to toe in heavy plate armor and look much more like what you might imagine a Knight as. But the Order of the Swan have no use for plate armor, it's much too heavy to swim in and would rust at sea. They tend to wear leather armors and flowing cloth. What unifies all the orders and aids in identification is the knightly crest of their order, often displayed prominently on their chest in the form of a badge or crest alongside a personal coat of arms.
 
