@@ -9,3 +9,5 @@
 | Type                | Desert World           |
 Pyla is surrounded by an asteroid field, the remnants of a moon that was destroyed thousands of years ago.
 
+It is also home to a massive ship graveyard - hundreds of derelicts are both in orbit and on the surface of the planet.
+
