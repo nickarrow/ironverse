@@ -125,7 +125,7 @@ Rushdown is ushered into a living room.  There are photos of ships covered in th
 
 "So, what ship?" asks Creed.  He's an elderly man.
 
-A younger man walks in and sees the gun.  "What's going on?" he asks.
+A younger man walks into the room and sees the gun.  "What's going on?" he asks.
 
 "This man here says he's after information on the Ascendancy," says the older man.
 
