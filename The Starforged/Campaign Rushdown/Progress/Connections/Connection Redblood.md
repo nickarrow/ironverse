@@ -1,12 +1,13 @@
 ---
-name: 06 - Find the fate of the Miwako and recover any surviving intel
+name: Connection Redblood
 rank: formidable
-progress: 16
+progress: 0
 tags:
   - incomplete
-track-type: Vow
+track-type: Connection
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
+
 ---
 
 

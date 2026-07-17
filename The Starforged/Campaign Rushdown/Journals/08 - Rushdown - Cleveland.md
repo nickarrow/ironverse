@@ -168,3 +168,27 @@ There are multiple matches - various wrecks and derelicts have been found with t
 "I don't know who we're dealing with, but this doesn't feel like a cold case any more," says Rushdown.
 
 "Just focus on the Miwako, we don't need to get involved with these guys unless they get in our way," says Gray.  "Oh, and I got a courier this morning; your new ship should arrive by the time you get back from Gallows."
+
+"Good to hear," says Rushdown.  He leaves Gray's office, heads to the *Rude Awakening*, and goes directly to Gallows.
+
+`iv-move:Set a Course|Supply|3|5|0|4|10|move:starforged/exploration/set_a_course` 
+
+"Sir, Landing Control want to speak with you before we dock," says Janus.
+
+"Put them through," says Rushdown.
+
+"Captain Rushdown," says Landing Control over comms, "We heard about what happened on Tranquilo, we don't want that kind of trouble here.  Are you here on a job?"
+
+"Just looking for some information," replies Rushdown.
+
+"Okay, well either way the boss wants to talk to you.  After you dock, go to the Wessex Saloon and talk to Captain Redblood."
+
+"Got it."
+
+"Ok, you're free to dock.  Landing control out."
+
+The *Rude Awakening* docks with the station, and Rushdown heads out to meet Redblood.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|4|5` 

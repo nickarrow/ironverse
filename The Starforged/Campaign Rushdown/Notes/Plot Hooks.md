@@ -20,4 +20,7 @@
 - 06 - The Miwako
 - 07 - Juliana Barbosa
 - 07 - The Spider
-- 
+- 08 - Angel Sisters
+- 08 - Cleveland/Long Haul
+- 08 - Ascendancy
+- 08 - Captain Redblood
