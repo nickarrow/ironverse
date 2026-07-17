@@ -1,10 +1,10 @@
 ---
-name: 06 - Find the fate of the Miwako and recover any surviving intel
+name: 10 - Explore the Miwako (?)
 rank: formidable
-progress: 20
+progress: 12
 tags:
   - incomplete
-track-type: Vow
+track-type: Expedition
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

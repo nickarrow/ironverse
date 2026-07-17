@@ -1,4 +1,6 @@
 
+Previous Entry: [[08 - Rushdown - Cleveland]]
+
 `iv-noroll:Begin a Session|move:starforged/session/begin_a_session` 
 
 *Rushdown found a derelict and woke the dormant ship's AI.  It told him about its encounter with the Miwako, which led Rushdown to investigate a group of pirates known as the [[Ascendancy of the Awakened Worlds|Ascendancy]].  He is on [[Gallows]] looking for information, but he has been summoned for a meeting with [[Captain Redblood]].* 
@@ -125,7 +127,7 @@ Rushdown is ushered into a living room.  There are photos of ships covered in th
 
 "So, what ship?" asks Creed.  He's an elderly man.
 
-A younger man walks into the room and sees the gun.  "What's going on?" he asks.
+A younger man walks in and sees the gun.  "What's going on?" he asks.
 
 "This man here says he's after information on the Ascendancy," says the older man.
 
@@ -157,17 +159,13 @@ Creed looks confused.  "I don't know of any AI that survived an encounter with t
 
 "It was aboard a derelict.  It's in Minami City now.  I can probably swing you an interview with it if you give me good information on the Miwako."
 
-"That would be...unprecedented."
-
-"I also have the telemetry of the interior of the ship - all the markings and whatnot."
-
-"Ok, I'll tell you what I know.  The Ascendancy of today is very different from the Ascendancy of a century ago.  I didn't even know they went as far back as 150 years, the earliest records I have are at about 110 years old.  They may not even be the same group, today's Ascendancy may have found the remnants of the original group and decided to follow in their footsteps."
+"That would be...unprecedented.  Ok, I'll tell you what I know.  The Ascendancy of today is very different from the Ascendancy of a century ago.  I didn't even know they went as far back as 150 years, the earliest records I have are at about 110 years old.  They may not even be the same group, today's Ascendancy may have found the remnants of the original group and decided to follow in their footsteps."
 
 "Anything about an Arkship?"
 
 `iv-move:Gather Information|Wits|5|3|0|7|7|move:starforged/adventure/gather_information`  `iv-meter:Momentum|6|8` 
 
-"They have a habit of creating ship graveyards.  They'll plunder a ship, fly it for a while, and then land it or abandon it in orbit around a certain planet.  Some planets have hundreds of ships orbiting them.  If they took your ship, the chances are it's in one of these graveyards by now."
+"Nothing concrete, but they have a habit of creating ship graveyards.  They'll plunder a ship, fly it for a while, and then land it or abandon it in orbit around a certain planet.  Some planets have hundreds of ships orbiting them.  If they took your ship, the chances are it's in one of these graveyards by now."
 
 "So where's the nearest one?"
 

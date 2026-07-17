@@ -2,7 +2,7 @@
 name: Rushdown
 xp_spent: 5
 xp_added: 0
-momentum: 9
+momentum: 8
 edge: 3
 heart: 2
 iron: 4
@@ -49,21 +49,22 @@ assets:
       supply: 5
       supply/unequipped: false
     options:
-      name: The Rude Awakening
-  - id: asset:starforged/module/heavy_cannons
-    abilities:
-      - true
-      - false
-      - false
-    controls:
-      broken: false
-    options: {}
+      name: The Seventh Sun
   - id: asset:starforged/path/navigator
     abilities:
       - true
       - false
       - false
     controls: {}
+    options: {}
+  - id: asset:sundered_isles/path/crew_commander
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      command: 2
+      command/commandless: false
     options: {}
 ---
 

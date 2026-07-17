@@ -192,3 +192,5 @@ The *Rude Awakening* docks with the station, and Rushdown heads out to meet Redb
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|4|5` 
+
+Next Entry: [[09 - Rushdown - Following the Thread]]
