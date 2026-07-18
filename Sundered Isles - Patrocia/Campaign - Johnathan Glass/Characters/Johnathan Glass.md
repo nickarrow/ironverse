@@ -2,7 +2,7 @@
 name: Johnathan Glass
 xp_spent: 0
 xp_added: 0
-momentum: 2
+momentum: 9
 edge: 3
 heart: 3
 iron: 4
@@ -41,7 +41,7 @@ assets:
     abilities:
       - true
     controls:
-      integrity: 5
+      integrity: 4
     options:
       name: The Spearhead
   - id: asset:sundered_isles/path/waterborn
