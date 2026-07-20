@@ -67,11 +67,18 @@ player: ALargeFallingAnvil
 
 ```iron-vault-character-assets
 ```
+
+## Motivations & Demeanor
+
+![[Uncover My Past Motivation.png|485]]
+
+![[Heroic Demeanor.png]]
+
 ## Gear
 - One hat with tattered feather
 - One Silver-hilted Rapier with a broken blade (Half length)
 - One cryptic codex in a wax-sealed map case
-- One flask of rum
+- One flask of watered-down rum
 - One dagger fashioned from the fang of a large Night Weaver and some spider silk
 ## Backstory
 
