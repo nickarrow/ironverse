@@ -2,7 +2,7 @@
 name: Rushdown
 xp_spent: 5
 xp_added: 0
-momentum: 8
+momentum: 6
 edge: 3
 heart: 2
 iron: 4
@@ -13,7 +13,7 @@ spirit: 4
 supply: 5
 Bonds_Progress: 4
 Bonds_XPEarned: 2
-Discoveries_Progress: 4
+Discoveries_Progress: 6
 Discoveries_XPEarned: 2
 Quests_Progress: 7
 Quests_XPEarned: 2
@@ -43,7 +43,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 5
+      integrity: 4
       integrity/battered: false
       integrity/cursed: false
       supply: 5

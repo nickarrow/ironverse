@@ -19,7 +19,6 @@
 - 06 - Captain Finn
 - 06 - The Miwako
 - 07 - Juliana Barbosa
-- 07 - The Spider
 - 08 - Angel Sisters
 - 08 - Cleveland/Long Haul
 - 08 - Ascendancy
@@ -28,3 +27,6 @@
 - 09 - Argus Bridger
 - 09 - The guy in the chair
 - 09 - Creed Bond
+- 10 - The Monkey
+- 10 - The Spider captured
+- 10 - The ancient rifles

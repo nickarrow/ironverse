@@ -1,10 +1,10 @@
 ---
-name: 06 - Find the fate of the Miwako and recover any surviving intel
-rank: formidable
-progress: 32
+name: 10 - Corvette
+rank: dangerous
+progress: 8
 tags:
   - complete
-track-type: Vow
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---
