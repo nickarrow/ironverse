@@ -114,6 +114,9 @@ These curious creatures are one of the few beasts of their size you won't be sca
 
 ### The Dread
 This beast is so named for its nasty habit of stalking ships for days before striking, it's large dorsal fin is sometimes mistaken for a far-off ship's sail. This massive shark-like fish is very skittish, but far more powerful than its behavior would indicate. They are considered very difficult to hunt as a result.
+
+### Spirit Sirens
+When the night is dark and you're alone on watch, you may spot the soft glow of a human shape that beckons in the darkness. I tell you this with utmost certainty and grave import: *Do not go to this light.* It is the lure of a vile angler fish with a long tongue and row upon row of dagger-like teeth. It will lash its tongue at a sailor who approaches the edge of the ship and drag him into a painful death.
 # The Sea of Corsino
 
 ### House Gautier
