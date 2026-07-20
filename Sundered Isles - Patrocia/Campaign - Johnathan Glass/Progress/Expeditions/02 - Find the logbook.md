@@ -1,7 +1,7 @@
 ---
-name: 01 - Journey to Port Vesper
-rank: dangerous
-progress: 32
+name: 02 - Find the logbook
+rank: troublesome
+progress: 36
 tags:
   - complete
 track-type: Expedition
