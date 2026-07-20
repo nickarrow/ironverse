@@ -9,18 +9,18 @@ Take one demeanor per character.
 -  Buyoff: The character’s action that makes the demeanor being minimized to a point in which it is no longer a hallmark of your character. When you trigger the demeanor buyoff, envision your character’s transformation. Then, discard the demeanor and take another one in its place, applying the same principle to choosing your demeanor. Ask yourself what that other demeanor your character is widely known for or how your character develops right after this change of attitude.
 
 When you act according to your demeanor...
--  Virtue: Add +1 to your move.
--  Vice: Take up to your momentum maximum.
--  Buyoff: Take +5 momentum.
+-  **Virtue:** Add +1 to your move.
+-  **Vice:** Take up to your momentum maximum.
+-  **Buyoff:** Take +5 momentum.
 
 # Motivations:
 Your character may have up to 2 motivation assets at any one time.
 
 When you fulfill a motivation, take +momentum according to its highest layer completed.
 
-- Layer 1: Take +1 Momentum
-- Layer 2: Take +2 Momentum
-- Layer 3: Take +3 Momentum
-- Buyoff: Take +5 Momentum
+- **Layer 1:** Take +1 Momentum
+- **Layer 2:** Take +2 Momentum
+- **Layer 3: Take** +3 Momentum
+- **Buyoff: Take** +5 Momentum
 
-When you trigger a motivation buyoff, envision what you learn that makes you change your conviction or interests. Then discard the motivation asset and take another one if appropriate.
+When you **trigger a motivation buyoff**, envision what you learn that makes you change your conviction or interests. Then discard the motivation asset and take another one if appropriate.
