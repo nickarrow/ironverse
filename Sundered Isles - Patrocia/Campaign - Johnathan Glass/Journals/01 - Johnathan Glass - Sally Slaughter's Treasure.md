@@ -47,7 +47,7 @@ As this is happening, the door swings open and Johnathan Glass walks in.  The fi
 
 "This is a bit of a bad time," says the barman, who's ducking down behind the counter.  "You might want to take a walk around the block until things settle down."
 
-Glass sighs and turns around to watch the action.  A mug is thrown, and its contents end up drenching Johnny's shirt.  Johnny looks down at his shirt, then back up at the melee.  He sighs again.  He picks up the mug and throws it back at the person he thinks threw it in the first place, then jumps at the nearest combatant.
+Glass sighs and turns around to watch the action.  A mug is thrown, and its contents end up drenching Johnny's shirt.  Johnny looks down at his shirt, then back up at the melee.  He sighs again.  He picks up the mug and throws it back in the direction it came from, then jumps at the nearest combatant.
 
 `iv-move:Battle|Iron|2|4|0|4|5|move:starforged/combat/battle`  `iv-meter:Momentum|3|5` 
 
@@ -63,7 +63,7 @@ Johnny sits down at Sticky Joe's booth.  "Sticky Joe?  I heard you're looking fo
 
 "Johnny Glass?  The Ikoban who ran away?"
 
-"That was a long time ago."
+"You have a good memory, that was a long time ago."
 
 "Well, I'll be damned.  You're back in town?"
 
