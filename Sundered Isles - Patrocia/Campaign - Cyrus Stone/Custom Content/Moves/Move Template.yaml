@@ -1,0 +1,61 @@
+type: move
+name: Trade
+roll_type: action_roll
+_source:
+  title: Custom Moves
+  authors:
+    - name: Oathbound Soliloquy
+  date: "2026-06-29"
+  license: https://creativecommons.org/licenses/by/4.0
+  url: https://example.com
+trigger:
+  text: "When you seek to acquire supplies or goods through exchange in a settlement, envision your approach and roll."
+  conditions:
+    - method: player_choice
+      roll_options:
+        - using: stat
+          stat: heart
+      text: "With charm, reputation, or social grace"
+    - method: player_choice
+      roll_options:
+        - using: stat
+          stat: wits
+      text: "With shrewdness, cunning, or market knowledge"
+    - method: player_choice
+      roll_options:
+        - using: stat
+          stat: iron
+      text: "With intimidation, leverage, or force of presence"
+    - method: player_choice
+      roll_options:
+        - using: stat
+          stat: shadow
+      text: "With deception, misdirection, or exploitation"
+text: |-
+  When __you seek to acquire supplies or goods through exchange in a settlement__, envision your approach and roll.
+
+  * With charm, reputation, or social grace: Roll +heart.
+  * With shrewdness, cunning, or market knowledge: Roll +wits.
+  * With intimidation, leverage, or force of presence: Roll +iron.
+  * With deception, misdirection, or exploitation: Roll +shadow.
+
+  On a __strong hit__, you get what you need. Take +2 supply.
+
+  On a __weak hit__, you get what you need but at greater cost. Choose one.
+
+  * Take +1 supply and suffer -1 momentum.
+  * Take +2 supply and suffer -2 momentum.
+
+  On a __miss__, the deal falls through or goes badly wrong. [Pay the Price](datasworn:move:classic/fate/pay_the_price).
+outcomes:
+  strong_hit:
+    text: "On a __strong hit__, you get what you need. Take +2 supply."
+  weak_hit:
+    text: |-
+      On a __weak hit__, you get what you need but at greater cost. Choose one.
+
+      * Take +1 supply and suffer -1 momentum.
+      * Take +2 supply and suffer -2 momentum.
+  miss:
+    text: "On a __miss__, the deal falls through or goes badly wrong. [Pay the Price](datasworn:move:classic/fate/pay_the_price)."
+allow_momentum_burn: true

@@ -44,6 +44,20 @@ assets:
     controls:
       0/clock: 0
     options: {}
+  - id: asset:campaign/assets/uncover_my_past_md
+    abilities:
+      - false
+      - false
+      - false
+    controls: {}
+    options: {}
+  - id: asset:campaign/assets/champion_md
+    abilities:
+      - false
+      - false
+      - false
+    controls: {}
+    options: {}
 callsign: Sparrowhawk
 description: A fair, youthful face hidden under unkept medium length hair and a short beard of thick black hair. Worn and ragged, but once fine clothing. A feathered hat with a wide brim. A silver rapier with a broken blade.
 player: ALargeFallingAnvil
@@ -68,11 +82,6 @@ player: ALargeFallingAnvil
 ```iron-vault-character-assets
 ```
 
-## Motivations & Demeanor
-
-![[Uncover My Past Motivation.png|485]]
-
-![[Heroic Demeanor.png]]
 
 ## Gear
 - One hat with tattered feather
