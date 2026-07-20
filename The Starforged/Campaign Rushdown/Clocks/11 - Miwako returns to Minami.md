@@ -1,5 +1,5 @@
 ---
-name: 10 - Satonaka Return
+name: 11 - Miwako returns to Minami
 segments: 4
 progress: 1
 default-odds: no roll

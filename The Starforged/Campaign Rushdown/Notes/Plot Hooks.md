@@ -28,5 +28,9 @@
 - 09 - The guy in the chair
 - 09 - Creed Bond
 - 10 - The Monkey
-- 10 - The Spider captured
 - 10 - The ancient rifles
+- 11 - The Board
+- 11 - Paulie
+- 11 - The Contract
+- 11 - Skullcrusher's bounty
+- 11 - What happened to the Spider

@@ -41,6 +41,8 @@ Finn is dressed in his full uniform, having his hair and makeup done by a team o
 
 "We can send a team to retrieve it."
 
+`iv-clock-create:11 - Miwako returns to Minami|The Starforged/Campaign Rushdown/Clocks/11 - Miwako returns to Minami.md` 
+
 "Be careful if you do, apparently the clan are still quite active.  We also pulled the complete databanks from the ship," says Gray, handing over the datapad with all the ship's logs on it.  "We password protected it to make sure nobody else gets that data.  And one more thing.  Something that may be a little bit sensitive."
 
 "Sensitive?"
@@ -125,15 +127,106 @@ The flier takes them to the spaceport.  There's a scene outside the *Seventh Son
 
 The next day the news comes through - the password for the *Minami* has been found and the Captains are no longer needed to run the city.  Captain Finn is expected to announce his retirement at the end of the day and appoint the Board as leaders in his stead.  
 
-The Spider messages Rushdown.  "Guess who unlocked the *Minami* today?" he says.
+Rushdown lets the crew take a few days off in Minami City, and oversees the work on the ship repairs.
 
-"They let you out?" replies Rushdown.
+`iv-move:Sojourn|Heart|5|2|0|2|10|move:starforged/recover/sojourn`  `iv-meter:Flagship / Integrity|4|5` 
 
-"They want a peaceful resolution with the Resistance.  They want to negotiate.  They're letting me go as a sign of goodwill."
+Rolling for Crew Commander
 
-"Well, I guess the breakout won't be necessary after all.  You need a ride anywhere?"
+`iv-dice:1d6|3` + Heart = 5 vs  `iv-dice:1d10|9`  `iv-dice:1d10|9` Miss with a match.
 
-"Nah, they're loaning me a multipurpose vehicle. But thanks for the offer.  Gotta run."
+`iv-meter:Crew Commander / Command|2|4` 
 
-The call ends.
+Rushdown gets word that his crew are being targeted - someone is ambushing them alone or in small groups and giving them a beating.  He heads to the sickbay to question the victims.  They were all drinking in the waterfront entertainment district at night, when they got jumped by a man wearing power armor.  He beat them until they couldn't stand and then just left them lying in the street - didn't take anything.  Rushdown decides to get to the bottom of the attacks.
 
+`iv-track-create:11 - Crew Attacks|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md` 
+
+He heads straight to the entertainment district, and starts asking around.
+
+`iv-move:Gather Information|Wits|4|3|0|9|10|move:starforged/adventure/gather_information`  `iv-oracle:Pay the Price|19|A surprising development complicates your quest|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
+
+People have seen the man, but they're afraid to talk about him - he's big and the power armor makes him look even bigger.  He's been asking around the entertainment district about Rushdown.  It seems like he's after Rushdown and is attacking the Red Suns in order to draw him out.  Rushdown goes looking for the man in the back alleys and quiet spots of the entertainment district.
+
+`iv-track-create:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md` 
+
+`iv-move:Undertake an Expedition|Wits|1|3|0|8|3|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md|0|12|troublesome|1` 
+
+He searches the alley where the most recent attack happened, but he doesn't see the man.
+
+>Rolling Story Complication because none of the perils tables really fit
+
+`iv-oracle:Story Complication|87|Urgent message distracts you from your quest|oracle_rollable:starforged/misc/story_complication` 
+
+Rushdown gets a call from Gray on his communicator calling him into the office.  He sends a message to all crew telling them to avoid the waterfront entertainment district, and goes to see Gray.
+
+He gets to the office.  "Something the matter?"
+
+"The Board want to speak with us.  I think it's about that exclusivity contract."
+
+"We're not going to take it, are we?"
+
+"It depends, if it's just for Minami City then it should be okay.  If it's for the whole sector, we'll have to involve HQ."
+
+"I'll let you do the talking," says Rushdown.
+
+They go to meet the board - this time aboard the *Minami* itself.  They are in a board room, and this time the Suns have seats at the table instead of sitting across from the Board.
+
+"We never introduced ourselves last time," begins the big man with the suit.  "I'm Paulie the Hook, on account of I used to be a boxer."  The rest of the board go around and introduce themselves, but let Paulie do the rest of the talking.  "So, last time we mentioned an exclusivity contract."
+
+"Yes, what sort of exclusivity were you thinking of?" asks Gray.
+
+"Well, we know you operate throughout the sector and have multiple ships, and I don't think we have enough work to justify a sector-wide contract.  So, we believe that a Minami City exclusivity contract would be the most beneficial.  All Red Suns contracts issued in or around Minami City are to be issued by the board."
+
+"That sounds doable, but what about third parties that want to use our services?"
+
+"Well, we were thinking you could move your office from where it is now in town to the *Minami* itself.  Anyone who wants to contract out the Red Suns would need to get approval from one of our officers, and pay a licensing fee directly to the board on top of your usual fees."
+
+"Make the officer Wynne Barrow."
+
+"That can be arranged."
+
+"What about if we're contacted from off-world about a job?  Someone sends a courier from Tranquilo, say," says Rushdown.
+
+"Let's say it doesn't fall under our agreement for now, pending a trial period of three months."
+
+"And what if an off-world job involves a target in Minami City?"
+
+"Go through Wynne Barrow.  And don't take jobs against Minami Clan members."
+
+"Ok, I'll agree to the three month trial period," says Gray.  "Let me know when your lawyers have drawn up the contract and I'll have my people look it over."  Gray and Paulie shake hands, and the meeting ends.
+
+Rushdown heads back to the waterfront entertainment district and resumes the search for the mysterious attacker.
+
+`iv-move:Undertake an Expedition|Wits|5|3|0|2|2|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md|12|24|troublesome|1` 
+
+Rushdown takes a look in a deserted looking alleyway, but doesn't see any sign of the man.
+
+>Rolling Opportunity for the match, I don't really know what else to roll on
+
+`iv-oracle:Opportunity|2|Culturally significant object or artifact|oracle_rollable:starforged/derelict/community/opportunity` 
+
+He finds some hoppernut shells on the ground - this kind of nut is grown on Tranquilo and are a popular snack there.  Strange.
+
+`iv-move:Undertake an Expedition|Wits|4|3|0|10|6|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md|24|36|troublesome|1` 
+
+`iv-oracle:Peril|98|Avenge, Debt|oracle_rollable:starforged/derelict/community/peril` 
+
+Rushdown steps into a small plaza.  There's a fountain in the middle, and metal benches by the walls.
+
+"Looking for something?" comes a voice from above.
+
+`iv-progress:Finish an Expedition|11 - Searching for the man|9|7|3|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md`  `iv-track-advance:discoveries|The Starforged/Campaign Rushdown/Characters/Rushdown.md|6|7|epic|1`  `iv-track-advance:11 - Crew Attacks|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md|0|12|troublesome|1` 
+
+A man jumps down from the rooftops above Rushdown.  "Another Sun for me to break."
+
+"No, I'm the one you're looking for.  What's all this about?"
+
+"You remember the alleyway on Southside?  Nobody knew who you were back then so you got away clean.  But your name's been circulating and Skullcrusher put two and two together.  He got the money together to hire me to send you to the hospital."
+
+"That's what this is about?  I'm going to have to pay this Skullcrusher a visit once I'm done with you."
+
+"That's not going to happen."
+
+"We'll see."
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|6|7` 

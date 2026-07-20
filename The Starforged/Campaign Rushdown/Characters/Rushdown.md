@@ -8,15 +8,15 @@ heart: 2
 iron: 4
 shadow: 2
 wits: 3
-health: 5
+health: 3
 spirit: 4
 supply: 5
 Bonds_Progress: 4
 Bonds_XPEarned: 2
-Discoveries_Progress: 6
+Discoveries_Progress: 7
 Discoveries_XPEarned: 2
-Quests_Progress: 7
-Quests_XPEarned: 2
+Quests_Progress: 8
+Quests_XPEarned: 4
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
@@ -43,7 +43,7 @@ assets:
       - false
       - false
     controls:
-      integrity: 4
+      integrity: 5
       integrity/battered: false
       integrity/cursed: false
       supply: 5
@@ -63,7 +63,7 @@ assets:
       - false
       - false
     controls:
-      command: 2
+      command: 4
       command/commandless: false
     options: {}
 ---
