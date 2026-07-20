@@ -1,10 +1,21 @@
 # [[Barille 02 - Reck]]
 
-`iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-meter:Momentum|5|6` 
+> [!question]+ Session Frame
+> *Set before play — this is the scaffold that keeps the session on track.*
+> - **Opening want:** Get on the ground and work the RU job — find the missing man and whatever the "manifestations" really are.
+> - **Driving question:** What is actually happening on Reck, and who is behind the disappearances?
+> - **You are here:** Act 1 — Pursuit, heading for the **Tilt**.
+> - **Beats to land:** Threshold · Challenge · Tilt · Climax · Resolution. The Tilt is mandatory at the midpoint — don't soften it.
 
-EXT. SNUB FIGHTER 27 REENTRY TO ACKRISS-2
+`iv-noroll:Begin a Session|move:starforged/session/begin_a_session` `iv-meter:Momentum|5|6`
 
-The 27 bursts through the purple and green clouds of [[Ackriss-2]]. Scans are showing a toxic atmosphere and remnants of ash. Likely from regular volcanic eruptions. 
+```
+EXT. UPPER ATMOSPHERE, ACKRISS-2 — SN-27 ON DESCENT — DAY — GRIM
+
+The 27 punches through purple-green cloud, trailing damage. The scans read toxic air and drifting ash from the volcanic ranges below. Somewhere under all that murk is Reck, and the crash site of the attacking raiders.
+```
+
+The 27 bursts through the clouds of [[Ackriss-2]]. Scans read a toxic atmosphere thick with ash, likely from regular volcanic activity.
 
 ```
 BARILLE BLACK
@@ -13,149 +24,151 @@ This is SN27 on approach, anyone down there?
 NO RESPONSE
 ```
 
-> [[Reck]] itself is built into the rock cliffs of a large canyon. The rock providing a natural shield from the harsh atmosphere. A settlement supporting thousands, out in the frontier of the Expanse. 
+[[Reck]] is built into the rock walls of a great canyon, the stone shielding it from the worst of the atmosphere. A settlement of thousands, out in the frontier of the Expanse.
 
-Barille circles the settlement, and sees an impact crater and wreckage. It looks like the attacking frigate crashed into the settlement on the south side. Not good. Smoke is coming out of the wreckage. 
-
-Barille eyes what looks like a landing port nearby. The auto-landing sequence takes over, and Barille tries to ping the transport ship. 
+Barille circles. On the south side, an impact crater and a spread of wreckage still trailing smoke, the frigate came down right into the settlement. He picks out a landing port nearby and lets the auto-landing sequence take the controls while he pings the transport.
 
 ```
 BARILLE BLACK
-Hey, did you make it down here? Any injured. This is Barille. 
+Hey, did you make it down? Anyone injured? This is Barille.
 
 COMMS OFFICER
-Reading you Barille, yeah, we’re all in one piece. That was you in the fighter right? 
+Reading you, Barille. Yeah, we're all in one piece. That was you in the fighter, right?
 
 BARILLE BLACK
-Yeah, any idea who that was?
+Yeah. Any idea who that was?
 
 COMMS OFFICER
-They transmitted a pretty long message, something about the Ascendancy of the Awakened Worlds? That mean anything to you?
+They transmitted a pretty long message. Something about the Ascendancy of the Awakened Worlds? That mean anything to you?
 
 BARILLE BLACK
-Nope. Never heard of them. Trouble is, the suicided into Reck, so I guess we can’t ask them. I can't raise anyone down there, trouble?
+Nope. Never heard of them. Trouble is, they suicided into Reck, so we can't exactly ask. I can't raise anyone down there, trouble?
 
 COMMS OFFICER
-Yeah, the impact shook the entire canyon and its been pretty much disaster mode down here. Reck is pretty wild on a good day, but the suicide attack has everyone either panicked or fighting fires. 
+Yeah. The impact shook the whole canyon. It's disaster mode down there. Reck is pretty wild on a good day, but the crash has everyone either panicking or fighting fires.
 
 BARILLE BLACK
-Got it. Thanks for the info. Barille out. 
+Got it. Thanks for the info. Barille out.
 ```
 
-> So we have a name. `iv-entity-create:Faction|Ascendancy of the Awakened Worlds|The Starforged/Factions/Ascendancy of the Awakened Worlds.md` A bit of a mouthful, and clearly not the most inconspicuous bunch. 
+`So we have a name.` `iv-entity-create:Faction|Ascendancy of the Awakened Worlds|The Starforged/Factions/Ascendancy of the Awakened Worlds.md` `A mouthful, and clearly not a subtle bunch.`
 
-Barille check's to see if the landing has an automated repair system. Negative. Okay, can I send a message? 
+He checks the landing port for an automated repair rig. Nothing. He taps out a message instead.
 
 ```
-BARILLE BLACK - Typing via hand terminal
-*Landing bay 17, SN27 - Barille Black, requesting repairs.* 
-
-Yeah, I'm going to need to talk to someone. 
+BARILLE BLACK — via hand terminal
+Landing bay 17, SN27 - Barille Black, requesting repairs.
 ```
 
- > Okay, so that’s fine. Need to start investigating for the [[Risen Union]] anyway. Let's go for a walk. 
+`Fine. I need to start the RU job anyway. Let's go for a walk.`
 
-Before leaving Barille sends out an encoded wideband broadcast.  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` 
+Before he leaves, Barille sends out an encoded wideband broadcast. `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`
 
 ![[Message 01 - Barille Black]]
 
-`iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged/Epistolary/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1` 
+`iv-track-advance:Expose the darkness behind the attacks across Devil's Chain and stop it from spreading|The Starforged/Epistolary/Expose the darkness behind the attacks across the sector and stop it from spreading.md|0|2|extreme|1`
 
-INT. LANDING PORT WITH 27 PARKED AND RELEASEING STEAM
+```
+INT. LANDING PORT — BAY 17 — DAY — UNEASY
 
-Barille get's out of his fighter and sets off. He reflects on the little bit of information he has about the so called "horrors" of Reck. The job just stated "terrifying manifestations" not a lot to go on. Need to ask around. And someone has gone missing, let's find anyone in charge.  `iv-move:Gather Information|Wits|1|2|0|9|4|move:starforged/adventure/gather_information` 
+The 27 sits venting steam, hull scarred from the fight. Barille drops down onto the deck. The RU brief on Reck's "horrors" was three words long "terrifying manifestations", and a name to find: a man gone missing. That's all he has to go on.
+```
 
-> What is the dire threat or unwelcome truth?  `iv-oracle:Action + Theme|68|Journey Opportunity|oracle_rollable:starforgedsupp/templates/actiontheme` Reck is a frontier settlement with an *obvious social stratification*. It looks like there may be a bit of a revolution happening, and Barille just found himself smack in the middle of it. Good luck getting your ship repaired any time soon, and also...  `iv-oracle:Pay the Price|98|Your vehicle suffers damage, Your action causes collateral damage or has an unintended effect|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
-> 
-> Looks like my message has attracted the wrong kind of attention. 
+He sets off, turning the thin briefing over as he walks. Not much to work with. Someone's gone missing, and there are "manifestations" nobody will define. He needs to find whoever's in charge and start asking. `iv-move:Gather Information|Wits|1|2|0|9|4|move:starforged/adventure/gather_information`
 
-A sudden crash and screeching of metal is heard from behind Barille, in the landing bay. He runs back to see the large grapple hook digging into the side of the 27. `iv-meter:Snub Fighter / Integrity|2|1` 
+What's the dire threat or unwelcome truth? `iv-oracle:Action + Theme|68|Journey Opportunity|oracle_rollable:starforgedsupp/templates/actiontheme` Reck is a frontier settlement with an *obvious social stratification*, and it looks like that pressure is boiling over into open revolt. Barille has just walked into the middle of it. Getting his ship repaired any time soon is off the table, and, `iv-oracle:Pay the Price|98|Your vehicle suffers damage, Your action causes collateral damage or has an unintended effect|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price`, his broadcast has drawn the wrong kind of attention.
 
-There's also a small group of folk that have gathered, scavengers or otherwise and two big guys step in front of Barille. 
+Metal screeches behind him. He turns back toward the bay in time to see a heavy grapple hook punch into the flank of the 27. `iv-meter:Snub Fighter / Integrity|2|1` A group of scavengers has gathered around it, and two large persons step into his path.
 
 ```
 BARILLE BLACK
-Hey friends, seems like you have gone and put a hook into my ship. 
+Hey, friends. Looks like you've gone and put a hook in my ship.
 
 SCAVENGER 1
-I think you mean our ship. You picked the wrong day to show up, we control the entire east ward now. 
+You mean our ship. You picked the wrong day to show up. We control the east ward now.
 
 BARILLE BLACK
-Yeah, that's fine. *Barille pulls out a cigarette and lites it* You can have the east ward, but I'm going to need my ship. How about, you ungrapple it and we don't have to turn this into a... thing.
+That's fine. *lights a cigarette* You can have the east ward. But I'm going to need my ship back. So how about you unhook it, and we don't turn this into a thing.
 ```
 
-`iv-move:Compel|Heart|5|3|0|4|5|move:starforged/adventure/compel`  `iv-meter:Momentum|6|7` 
+`iv-move:Compel|Heart|5|3|0|4|5|move:starforged/adventure/compel` `iv-meter:Momentum|6|7`
 
 ```
 SCAVENGER 1
-Huh. I figured you we're just going to try and pull a gun and... look if you stay out of our way, you can keep this ship. Looks pretty beat up anyway. Just remember, the east ward is ours.
+Huh. Figured you'd go for a gun and we'd have to... look. Stay out of our way and you keep the ship. It's beat to hell anyway. Just remember: east ward's ours.
 
 BARILLE BLACK
-Got it. And who is "Us" exactly? 
+Got it. And who's "us," exactly?
 
 SCAVENGER 1
-We're with "Murad", and she owns it. Got that!
+We're with Murad. She owns it. Understand?
 
 BARILLE BLACK
-Understood. *Takes a long drag on the *cigarette*, congrats to her. 
+Understood. *long drag* Congratulations to her.
 ```
 
-Murad's scavengers drop their tools and then push past Barille, pushing him as they pass. Barille looks at the claw still stuck in the side of his fighter.
+The scavengers drop their tools, shove past him hard enough to make the point, and go. Barille eyes the claw still buried in his fighter's flank. `Ugh. This is going to cost me.`
 
-> Ugh, this is going to cost me. He thinks to himself.
-
-`iv-oracle:Interlude Scene|34|Fight in a sparring match|oracle_rollable:sundered_isles/misc/interlude_scene` Barille finishes his cigarette and then proceeds to begin stretching. He practices a form, and then works up a sweat. All the while, thinking through the current situation. Reck, on the brink of rebellion. Whoever this "Murad" is, staking a claim. The transport ship and the attacking and suicidal pirates. He then thinks back to the [[Circle of the Elder Stars|Circle]] and his vow to [[Establish a new noble house in the Circle of the Elder Stars|establish a new noble house in the Circle]]. You can't ever really leave the Circle, but he is done working for others, doing their dirty work. 
-
-Barille sets off.  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|0|4|formidable|1` 
-
-INT. CROWDED CORRIDORS OF RECK
-
-Barille needs to find a lead for the missing person. Or whatever these "manifestations" are. He checks his hand terminal UI.  `iv-entity-create:NPC|Rowena Jensen|The Starforged/Characters/Rowena Jensen.md` is the local contact. Let's start there.  `iv-move:Gather Information|Wits|4|2|0|1|4|move:starforged/adventure/gather_information`  `iv-meter:Momentum|7|9` 
-
-While looking at Rowena's profile, he immediate gets a ping from her.
+`iv-oracle:Interlude Scene|34|Fight in a sparring match|oracle_rollable:sundered_isles/misc/interlude_scene` He grinds out the cigarette and, for a moment, just breathes, running a fighting form to settle himself, working up a light sweat while the day sorts itself out in his head. Reck on the edge of revolt. A woman named Murad staking claims. A transport nearly gunned down, and raiders who'd rather die than break off. And under all of it, the [[Circle of the Elder Stars|Circle]] and his vow to [[Establish a new noble house in the Circle of the Elder Stars|build a house of his own]]. You never really leave the Circle. But he's done doing other men's dirty work. He rolls his shoulders and sets off. `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|0|4|formidable|1`
 
 ```
-ROWENA JENSEN - TEXT MESSAGE
-Mr. Black - RU said you we're coming, so I've been monitoring for a proximity alert. Reck is always kind of a disaster, but today has been bigger than normal. I'm tied up in other work, but here's what I know. Ping me when you've got something.
+INT. CROWDED CORRIDORS OF RECK — DAY — RESTLESS
+
+Foot traffic packs the tunnels, tense and quick. Barille needs a lead — on the missing man, or on whatever these "manifestations" are. He pulls the RU contact file up on his hand terminal.
+```
+
+The local contact is `iv-entity-create:NPC|Rowena Jensen|The Starforged/Characters/Rowena Jensen.md`. He starts there. `iv-move:Gather Information|Wits|4|2|0|1|4|move:starforged/adventure/gather_information` `iv-meter:Momentum|7|9` He's still reading her profile when a ping comes in from her directly.
+
+```
+ROWENA JENSEN — text message
+Mr. Black - RU said you were coming, so I've had a proximity alert running. Reck's always a bit of a disaster, but today's worse than usual. I'm tied up in other work. Here's what I have. Ping me when you've got something.
 
 *data file attached*
 
 -message ends
 ```
 
-> **Info on the missing person:**  `iv-oracle:Action + Theme|22|Deflect Religion|oracle_rollable:starforgedsupp/templates/actiontheme` Karthick Hunter, a colleague to Rowena has gone missing. There is a strong religion that permeates the upper classes of Reck, and Karthick was a true believer. 
-> 
-> Recently, Karthick had started showing up late for work, and when he was there, he was not focused on it, instead he had started to become obsessed with the religion. `iv-oracle:Story Clue|21|Evokes a remarkable anomaly or phenomenon|oracle_rollable:starforged/misc/story_clue` So much so, and then one day he just disappeared. Like, every trace of him. His apartment, rented out. His personnel files, deleted. There is simply no record of him anywhere! Local authorities were no help (and generally only existed for the upper classes anyway), and nobody seems to have any answers as to where he is.  
-> 
-> Info on the horrifying manifestations:  `iv-oracle:Descriptor+Focus|17|Deadly Portal|oracle_rollable:starforgedsupp/templates/descriptorfocus` There have always been rumors on Reck. Its a frontier settlement, built into the bedrock of a toxic and violent planet. Going outside is rarely undertaken, and often perilous. Lately though, the rumors seem to center around voids that simply snatch people out of existence. Nobody has been able to document such portals, and most think it is just a rumor. Except now Karthick has gone missing. 
+**The missing person.** `iv-oracle:Action + Theme|22|Deflect Religion|oracle_rollable:starforgedsupp/templates/actiontheme` Karthick Hunter, a colleague of Rowena's, has vanished. There's a powerful religion woven through Reck's upper classes, and Karthick was a true believer. Lately he'd been turning up late, unfocused when he was there at all, increasingly consumed by the faith. `iv-oracle:Story Clue|21|Evokes a remarkable anomaly or phenomenon|oracle_rollable:starforged/misc/story_clue` Then one day he was simply gone, and not just gone. *Erased.* His apartment already re-rented, his personnel files deleted, every record of him wiped clean. The local authorities were no help, and in any case they mostly exist to serve the upper tiers. Nobody has any answer for where he went.
 
-`iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|4|8|formidable|1` 
+**The manifestations.** `iv-oracle:Descriptor+Focus|17|Deadly Portal|oracle_rollable:starforgedsupp/templates/descriptorfocus` There have always been rumors on Reck, it's a frontier settlement carved into a toxic, violent world, and going outside is rare and often fatal. But lately the rumors have narrowed to one shape: voids that open and snatch people clean out of existence. No one has ever documented one. Most write it off as a story. Except now Karthick is missing, and every trace of him is gone.
 
-EXT. RECK MARKET
+`iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|4|8|formidable|1`
 
-With new key information in hand. Barille leans against a pillar in a larger marketplace. The lights are dimming (simulated sunset), and the market is starting to come alive with vendors. There is still a lot of folks hustling around, but it is hard to tell if this is in response to the frigate's suicide attack, or just the normal for Reck. 
+```
+EXT. RECK MARKET — SIMULATED DUSK — BUSY
 
-Barille sits and watches the market for a while, looking for something to catch his eye, or maybe just an outdoor pub to get a drink....
+Overhead lights dim toward an artificial sunset. Vendors fire up their stalls and the market swells with noise. Barille needs to
+know where Karthick's trail actually leads, and the crowd is the fastest place to take the settlement's pulse.
+```
 
-One drink.
+He leans against a pillar and reads the market, trying to gauge whether the churn is fallout from the crash or just an ordinary Reck evening. He drops into a seat at a place called the `iv-oracle:Name|265|Pinched Penny|oracle_rollable:starsmith/starships/name`, orders one drink, and puts his back to the bar to watch the room. `iv-oracle:Descriptor|83|Ruined|oracle_rollable:starsmith/core/descriptor` It's seen better days. So has the whole settlement a place maybe one bad night from collapse. Or maybe it's just one of those days. ^Pinched-Penny
 
-Barille finds a seat at a placed called the  `iv-oracle:Name|265|Pinched Penny|oracle_rollable:starsmith/starships/name` He orders a drink and then turns around, back to the bar. He's eyeing up the people here, trying to get a sense of the place.  `iv-oracle:Descriptor|83|Ruined|oracle_rollable:starsmith/core/descriptor` Yeah, it's seen better days. And now it seems that this settlement might be on the brink of collapse. Or... you know, it could just be one of those days. ^Pinched-Penny
+`iv-ooc:Trying to figure out the next steps for Barille. I am thinking another Gather Information, or possibly even an expedition to go on a clue hunt. `
 
-`iv-ooc:Trying to figure out the next steps for Barille. I am thinking another Gather Information, or possibly even an expedition to go on a clue hunt. ` 
+He pulls up the data file again and studies Karthick's photo. Then he settles the tab and heads for the man's former apartment. `iv-ooc:Is Barille getting closer to the suicide crash site?` `iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
 
-Barille reviews the data file, the image of Karthick. Time to go for a walk, and he heads towards Karthick's former apartment.  `iv-ooc:Is Barille getting closer to the suicide crash site?`  `iv-oracle:50/50|14|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  
+```
+INT. RESIDENCY DISTRICT — CORRIDOR NEAR KARTHICK'S APARTMENT — EVENING — WRONG
 
-After about 10 min of walking, Barille sees flashing lights and alert messages pinging his hand terminal.  `iv-oracle:Story Clue|186|Uncovers a damaging secret involving a secondary threat|oracle_rollable:starsmith/misc/story_clue` Barille proceeds forward, and then suddenly realizes he's completely alone. There should be fire crews, or other people here, but there isn't. There's... nobody. He's in a residency district, and about block away from Karthick's former apartment.  `iv-move:Gather Information|Wits|1|2|0|6|4|move:starforged/adventure/gather_information|burn=9:2` that's when he sees  `iv-oracle:Action + Theme|69|Summon Rumor|oracle_rollable:starforgedsupp/templates/actiontheme` the very solid wall in front of him twist in upon itself and a blaze of blue fire twisting open what appears to be a portal. His hand terminal is alerting him to something. 
+Ten minutes' walk in, warning lights strobe and the hand terminal starts pinging. But the corridor is empty. No fire crews, no
+gawkers, no one at all — just Barille, a block from a dead man's door, and the feeling that he's walked past the edge of something.
+```
 
-The portal slowly expands, and inside of it there is first an abyss of nothing, but then a craggy rockface appears, it is a though Barille is looking into some other world, through a window in the side of this very flex-steel building. As it all goes quiet, and then out of the portal steps a human, or something human like.  `iv-oracle:Descriptor|189|Shocking|oracle_rollable:starsmith/core/descriptor`  Whatever it is, it is hard to for Barille to focus his eyes on. The human shaped entity seems to disregard Barille, turns towards the adjacent hallway and then moves off. ^Otherworldly-portals
+`iv-oracle:Story Clue|186|Uncovers a damaging secret involving a secondary threat|oracle_rollable:starsmith/misc/story_clue` He presses forward and only then registers how completely alone he is. In a residency district, a block from Karthick's old apartment, there should be *someone*. There's no one. `iv-move:Gather Information|Wits|1|2|0|6|4|move:starforged/adventure/gather_information|burn=9:2` That's when the wall ahead of him — solid flex-steel — twists in on itself and a blaze of blue fire tears it open. `iv-oracle:Action + Theme|69|Summon Rumor|oracle_rollable:starforgedsupp/templates/actiontheme`
 
-In a sudden flash, the portal disappears, and then Barille can hear the alarms going off again in the hallway.
+The portal widens. Inside is first an abyss of nothing, then a craggy rockface resolves, as though he's looking through a window in the side of the building into some other world entirely. Everything goes still. Then something steps out of it: a human, or something shaped like one. `iv-oracle:Descriptor|189|Shocking|oracle_rollable:starsmith/core/descriptor` Whatever it is, Barille's eyes refuse to hold it. The figure ignores him completely, turns down the adjacent hallway, and moves off. ^Otherworldly-portals
+
+In a single flash the portal is gone. The hallway alarms start again.
 
 ```
 BARILLE
-So... that kind of ratchets up this missing person's case a bit. 
+So... that ratchets up the missing-person case a bit.
 ```
 
-Barille checks his hand terminal, its got all kinds of radiation alerts, and there are definitely some unique isotopes that were just recorded. Barille feels for his *kinetic pistol*. So, maybe that is a way to track, whatever those things are? Or at least the portals? It's at least something that we can track.  `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone`  `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|8|12|formidable|1` 
+His hand terminal is screaming, radiation alerts, and a spread of unusual isotopes it just logged. Barille's hand drifts to his *kinetic pistol*. So there's a way to track this. Maybe not the entity itself, but the portals, the trail they leave. It's something. `iv-noroll:Reach a Milestone|move:starforged/quest/reach_a_milestone` `iv-track-advance:Investigate and report on the rumored horrors of Reck|The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md|8|12|formidable|1`
 
-[[Barille 03 - Searching Through Reck]] 
+> [!abstract] Session in Review · Challenge → Tilt
+> **Challenge (Act 1).** On the ground, Barille worked the RU job through a settlement fracturing along class lines and pulled a thread on the missing believer, Karthick, and the rumored "manifestations."
+> **The Tilt.** The rumor stopped being a rumor: a portal tore open a solid wall and something stepped out. The missing-person case became something far worse and it is now fact, not speculation. Everything after this falls toward an ending Barille couldn't have planned.
+
+[[Barille 03 - Searching Through Reck]]
