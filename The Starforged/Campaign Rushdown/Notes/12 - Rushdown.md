@@ -159,3 +159,7 @@ More enforcers show up and Rushdown and the five attackers are all arrested and 
 "Yeah, I think I might just do that," says Rushdown.
 
 `iv-progress:Fulfill Your Vow|11 - Crew Attacks|9|2|2|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:11 - Crew Attacks|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|7|8|epic|1` 
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 
