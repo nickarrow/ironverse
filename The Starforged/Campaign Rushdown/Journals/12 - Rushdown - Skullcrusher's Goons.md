@@ -26,7 +26,7 @@ The meeting continues for quite some time, but in the end nothing is settled.
 
 ---
 
-The man rushes at Rushdown and throws a wild punch.
+The man on the armor rushes at Rushdown and throws a wild punch.
 
 `iv-move:Enter the Fray|Iron|3|4|0|10|8|move:starforged/combat/enter_the_fray` 
 
@@ -38,11 +38,11 @@ Rushdown blocks the blow with his arm, his power armor taking most of the damage
 
 `iv-track-advance:12 - Mysterious Man Fight|The Starforged/Campaign Rushdown/Progress/Combat/12 - Mysterious Man Fight.md|0|8|formidable|2` 
 
-The man's knee collides with Rushdown's chest and bounces off harmlessly, while Rushdown's own punch collides with the man's ribs and he grunts.  Rushdown realizes the man isn't wearing power armor, he's just wearing regular armor - he must be strong to be carrying that much weight around and moving the way he does.  Rushdown tries to analyze the man's fighting style - so far he's been wild and reckless, but is that all he's capable of?
+The man's knee collides with Rushdown's chest and bounces off harmlessly, while Rushdown's own punch collides with the man's ribs and he grunts.  Rushdown realizes the man isn't wearing power armor, he's just wearing regular armor - he must be almost superhumanly strong to be carrying that much weight around and moving the way he does.  Rushdown tries to analyze the man's fighting style - so far he's been wild and reckless, but is that all he's capable of?
 
 `iv-oracle:Combat Action|86|Summon aid or reinforcements|oracle_rollable:starforged/misc/combat_action` 
 
-The man looks down at his ribs, surprised that Rushdown landed a hit on him.  He speaks into his wrist communicatior "I need backup."  Realizing he only has a second before the man can give out his location, Rushdown tries to grab the man's wrist.
+The man looks down at his ribs, surprised that Rushdown landed a hit on him.  He speaks into his wrist communicatior "I found him, get over here."  Realizing he only has a second before the man gives out his location, Rushdown tries to grab the man's wrist.
 
 `iv-move:Gain Ground|Wits|5|3|0|8|1|move:starforged/combat/gain_ground` 
 
@@ -58,11 +58,11 @@ He gets his arms around the man's waist and tries to lift him up and throw him b
 
 `iv-move:Strike|Iron|5|4|0|10|3|move:starforged/combat/strike`  `iv-track-advance:12 - Mysterious Man Fight|The Starforged/Campaign Rushdown/Progress/Combat/12 - Mysterious Man Fight.md|16|24|formidable|2` 
 
-He throws the man backwards towards the fountain, but the man is agile and manages to twist in the air and land on his feet after slamming into the fountain.  Drenched, he jumps up and kicks off the fountain, sending a kick directly towards Rushdown.
+He throws the man backwards towards the fountain, but the man is agile and manages to twist in the air and land on his feet after slamming into the fountain.  Drenched, he jumps up and kicks off the fountain, sending a spinning kick directly towards Rushdown.
 
 `iv-move:React Under Fire|Iron|3|4|0|7|8|move:starforged/combat/react_under_fire`  `iv-oracle:Pay the Price|49|A new enemy is revealed|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
 
-Rushdown pushes the kick away, but he sees a van pull up.  It seems the reinforcements have found him even without a location.
+Rushdown pushes the kick away, but he sees a van pull up.  It seems the reinforcements have found him after all.
 
 `iv-dice:1d4|4` 
 
@@ -86,7 +86,7 @@ Rushdown grapples the man and trips him, slamming him into the ground, just as t
 
 `iv-move:Gain Ground|Iron|5|4|0|9|10|move:starforged/combat/gain_ground`  `iv-oracle:Pay the Price|30|Your action causes collateral damage or has an unintended effect|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
 
-As Rushdown struggles with the ganger over control of the bat, the armored man gets up and charges at him.  He pushes Rushdown back, and he tumbles through a large bay window leading into a restaurant.  The patrons, who had been watching the fight from the window, scatter and run into the street, screaming.  The man charges again, and Rushdown picks up a wine bottle and swings it at him.
+As Rushdown struggles with the ganger over control of the bat, the armored man gets up and charges at him.  He pushes Rushdown back, and he tumbles through a large bay window leading into a restaurant that looks out onto the plaza.  The patrons, who had been watching the fight from the window, scatter and run into the street, screaming.  The man charges again, and Rushdown picks up a wine bottle and swings it at him.
 
 >Clash with Armored, 9 vs  `iv-dice:1d10|8`  `iv-dice:1d10|7` Strong Hit
 
@@ -124,7 +124,7 @@ Rushdown meets the gangers head on with a flurry of blows.
 
 `iv-oracle:Take Decisive Action|29|It’s worse than you thought: Make a suffer move (-2)|move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action`  `iv-meter:Health|4|2`  `iv-move:Endure Harm|Iron|1|4|0|2|2|move:starforged/suffer/endure_harm`  `iv-meter:Health|2|3` 
 
-Rushdown takes the two men down, but catches a nasty blow from a pair of knuckle dusters in the process.
+Rushdown takes the two men down, but catches a nasty blow from a set of knuckle dusters in the process.
 
 The mysterious man is slowly getting to his feet.
 
@@ -162,4 +162,4 @@ More enforcers show up and Rushdown and the five attackers are all arrested and 
 
 ---
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|6|7` 

@@ -31,7 +31,7 @@
 
 Rushdown returns to [[Minami City]] without further incident.  Minami security come to take away the Spider and his ship, and Rushdown meets up with [[Gray]] and heads to speak to [[Captain Finn]].
 
-Finn is dressed in his full uniform, having his hair and makeup done by a team of artists as they enter his office.  "Let's make this quick," he says after he clears everyone  except [[Wynne Barrow]], Rushdown and Gray from the room, "I have a public appearance in a few minutes and I need to get ready."
+Finn is dressed in his full uniform, having his hair and makeup done by a team of artists as they enter his office.  "Let's make this quick," he says after he clears everyone except [[Wynne Barrow]], Rushdown and Gray from the room, "I have a public appearance in a few minutes and I need to get ready."
 
 "So I see," says Gray.  "Let's get straight to it then, we found the *Miwako* in perfect working order."
 
@@ -43,7 +43,7 @@ Finn is dressed in his full uniform, having his hair and makeup done by a team o
 
 `iv-clock-create:11 - Miwako returns to Minami|The Starforged/Campaign Rushdown/Clocks/11 - Miwako returns to Minami.md` 
 
-"Be careful if you do, apparently the clan are still quite active.  We also pulled the complete databanks from the ship," says Gray, handing over the datapad with all the ship's logs on it.  "We password protected it to make sure nobody else gets that data.  And one more thing.  Something that may be a little bit sensitive."
+"Be careful if you do, apparently the clan are still quite active.  We also pulled the complete databanks from the ship," says Gray, handing over the datapad with all the ship's logs on it.  "We password protected the *Miwako* to make sure nobody else gets that data.  And one more thing.  Something that may be a little bit sensitive."
 
 "Sensitive?"
 
@@ -77,15 +77,15 @@ There are all sorts of criminals in the holding cell, all waiting for processing
 
 "Nope."
 
-After about an hour, Wynne Barrow comes in flanked by a pair of guards.  "Rushdown, Gray, come with me."  Rushdown and Gray follow her out of the holding cell, and outside where a flier is waiting.  A guard is holding the door open, so Rushdown and Gray enter, and Wynne follows.  The filier takes off and flies across the city.
+After about an hour, Wynne Barrow comes in flanked by a pair of guards.  "Rushdown, Gray, come with me."  Rushdown and Gray follow her out of the holding cell, and outside where a flier is waiting.  A guard is holding the door open, so Rushdown and Gray enter, and Wynne follows.  The flier takes off and flies across the city.
 
 "You're letting us go free?" asks Gray.
 
-"Not exactly.  The board wishes to speak with you."
+"Not exactly.  The Board wishes to speak with you."
 
 "I thought you were working for Finn?"
 
-"I'm his liason with the board.  I think he forgets I'm there half the time."
+"I'm his liason with the Board.  I think he forgets I'm there half the time."
 
 After just a couple of minutes, they land on the roof of one of the tallest buildings in Minami City.  They head down the stairs to the top floor, where they enter a conference room.  Five people  are seated on one side of a table, and two chairs are set up in the center of the room.  Gray and Rushdown sit.
 
@@ -99,7 +99,7 @@ After just a couple of minutes, they land on the roof of one of the tallest buil
 
 "Ok, the medium version," says the man.  "The clones don't have any idea how to run this city, they just play videogames and get high all day.  They don't care about the people, and they're so scared of losing their power that they run this place like a prison.  You've seen that first hand."
 
-"And what do we get out of the deal?"
+"And what do we get out of the deal?" asks Gray.
 
 "Your freedom, obviously, and we'd owe you a favor."
 
@@ -121,7 +121,7 @@ After just a couple of minutes, they land on the roof of one of the tallest buil
 
 "We'll need to verify that it works, of course," says the man.  "You can head back to your ship for now."
 
-The flier takes them to the spaceport.  There's a scene outside the *Seventh Son*, the guards are trying to arrest the members of the away team but the crew refuse to let them on board.  Wynne calls off the guards and orders them to return to duty.  Gray and Rushdown board the ship and wait for news.
+The flier takes them to the spaceport.  There's a scene outside the *Seventh Son*, guards are trying to arrest the members of the away team but the crew refuse to let them on board.  Wynne calls off the guards and orders them to return to duty.  Gray and Rushdown board the ship and wait for news.
 
 ---
 
@@ -137,7 +137,7 @@ Rolling for Crew Commander
 
 `iv-meter:Crew Commander / Command|2|4` 
 
-Rushdown gets word that his crew are being targeted - someone is ambushing them alone or in small groups and giving them a beating.  He heads to the sickbay to question the victims.  They were all drinking in the waterfront entertainment district at night, when they got jumped by a man wearing power armor.  He beat them until they couldn't stand and then just left them lying in the street - didn't take anything.  Rushdown decides to get to the bottom of the attacks.
+Rushdown gets word that his crew are being targeted - someone is ambushing them alone or in small groups and giving them a beating.  He heads to the sickbay to question the victims.  They were all drinking in the waterfront entertainment district at night when they got jumped by a man wearing power armor.  He beat them until they couldn't stand and then just left them lying in the street - didn't take anything.  Rushdown decides to get to the bottom of the attacks.
 
 `iv-track-create:11 - Crew Attacks|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md` 
 
@@ -171,7 +171,7 @@ He gets to the office.  "Something the matter?"
 
 They go to meet the board - this time aboard the *Minami* itself.  They are in a board room, and this time the Suns have seats at the table instead of sitting across from the Board.
 
-"We never introduced ourselves last time," begins the big man with the suit.  "I'm Paulie the Hook, on account of I used to be a boxer."  The rest of the board go around and introduce themselves, but let Paulie do the rest of the talking.  "So, last time we mentioned an exclusivity contract."
+"We never introduced ourselves last time," begins the big man with the suit.  "I'm Paulie the Hook, on account of I used to be a boxer."  The rest of the board go around and introduce themselves, but let Paulie does the rest of the talking.  "So, last time we mentioned an exclusivity contract."
 
 "Yes, what sort of exclusivity were you thinking of?" asks Gray.
 
@@ -179,7 +179,7 @@ They go to meet the board - this time aboard the *Minami* itself.  They are in a
 
 "That sounds doable, but what about third parties that want to use our services?"
 
-"Well, we were thinking you could move your office from where it is now in town to the *Minami* itself.  Anyone who wants to contract out the Red Suns would need to get approval from one of our officers, and pay a licensing fee directly to the board on top of your usual fees."
+"Well, we were thinking you could move your office from where it is now in town to the *Minami* itself.  Anyone who wants to contract out the Red Suns would need to get approval from one of our officers, and pay a licensing fee directly to the Board on top of your usual fees."
 
 "Make the officer Wynne Barrow."
 
@@ -217,11 +217,11 @@ Rushdown steps into a small plaza.  There's a fountain in the middle, and metal 
 
 `iv-progress:Finish an Expedition|11 - Searching for the man|9|7|3|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:11 - Searching for the man|The Starforged/Campaign Rushdown/Progress/Expeditions/11 - Searching for the man.md`  `iv-track-advance:discoveries|The Starforged/Campaign Rushdown/Characters/Rushdown.md|6|7|epic|1`  `iv-track-advance:11 - Crew Attacks|The Starforged/Campaign Rushdown/Progress/Vows/11 - Crew Attacks.md|0|12|troublesome|1` 
 
-A man jumps down from the rooftops above Rushdown.  "Another Sun for me to break."
+A man jumps down from the rooftops above Rushdown.  He's huge, clad in an enormous set of power armor.  "Another Sun for me to break."
 
 "No, I'm the one you're looking for.  What's all this about?"
 
-"You remember the alleyway on Southside?  Nobody knew who you were back then so you got away clean.  But your name's been circulating and Skullcrusher put two and two together.  He got the money together to hire me to send you to the hospital."
+"Oh, it's you?  Took you long enough.  You remember the alleyway on Southside?  Nobody knew who you were back then so you got away clean.  But your name's been circulating and Skullcrusher put two and two together.  He got the money together to hire me to send you to the hospital."
 
 "That's what this is about?  I'm going to have to pay this Skullcrusher a visit once I'm done with you."
 
