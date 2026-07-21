@@ -1,10 +1,10 @@
 ---
-name: 01 - Sally Slaughter's Treasure
+name: 03 - Coordinates Expedition
 rank: dangerous
-progress: 16
+progress: 24
 tags:
   - incomplete
-track-type: Vow
+track-type: Expedition
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---

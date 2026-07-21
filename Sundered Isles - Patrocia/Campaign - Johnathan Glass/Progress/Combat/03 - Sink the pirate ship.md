@@ -1,10 +1,10 @@
 ---
-name: 01 - Sally Slaughter's Treasure
+name: 03 - Sink the pirate ship
 rank: dangerous
-progress: 16
+progress: 32
 tags:
-  - incomplete
-track-type: Vow
+  - complete
+track-type: Combat
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---
