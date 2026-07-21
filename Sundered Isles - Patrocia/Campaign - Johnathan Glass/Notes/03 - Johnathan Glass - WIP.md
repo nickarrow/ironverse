@@ -133,4 +133,22 @@ The ship flounders, and a final barrage slams into their side.  They start slipp
 
 The crew seem spooked after the pirate attack - if pirates are operating in these waters, they could strike at any time.  Johnny reminds the crew that they repelled the last group of pirates that tried with ease, and tells them they have nothing to worry about.
 
-`iv-move:Undertake an Expedition|Edge|3|3|0|7|7|move:starforged/exploration/undertake_an_expedition` 
+`iv-move:Undertake an Expedition|Edge|3|3|0|7|7|move:starforged/exploration/undertake_an_expedition`  `iv-oracle:Pay the Price|71|You waste resources|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
+
+The Gunner comes to Johnny and explains they used a lot of their shot and powder in the pirate fight - supplies are running lower than he'd like.  Johnny makes a note to try and be more judicious with his fire in future.
+
+`iv-meter:Supply|4|3` 
+
+`iv-move:Undertake an Expedition|Edge|3|3|0|1|10|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:03 - Coordinates Expedition|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md|24|32|dangerous|1` 
+
+`iv-oracle:Seafaring Peril|9|Crewmember is found dead|oracle_rollable:sundered_isles/seafaring/peril` 
+
+A popular young crewmember is found dead on the deck - it appears he fell from the rigging and broke his neck.  He's given a burial at sea, and the mood is somber for the next couple of days.
+
+`iv-progress:Finish an Expedition|03 - Coordinates Expedition|8|6|2|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md|3|5|epic|2`  `iv-track-complete:03 - Coordinates Expedition|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md`  `iv-track-advance:01 - Sally Slaughter's Treasure|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md|16|24|dangerous|1` 
+
+Finally, they're at the spot indicated in the logbook.  Johnny prepares himself, and then dives under the water, down towards whatever happens to lie below.
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 

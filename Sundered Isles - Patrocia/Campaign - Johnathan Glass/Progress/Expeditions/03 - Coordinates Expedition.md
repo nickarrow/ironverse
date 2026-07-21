@@ -1,9 +1,9 @@
 ---
 name: 03 - Coordinates Expedition
 rank: dangerous
-progress: 24
+progress: 32
 tags:
-  - incomplete
+  - complete
 track-type: Expedition
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress

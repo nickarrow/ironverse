@@ -1,6 +1,6 @@
 ---
 name: Johnathan Glass
-xp_spent: 0
+xp_spent: 2
 xp_added: 0
 momentum: 4
 edge: 3
@@ -10,11 +10,11 @@ shadow: 2
 wits: 2
 health: 5
 spirit: 5
-supply: 4
+supply: 3
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 3
-Discoveries_XPEarned: 0
+Discoveries_Progress: 5
+Discoveries_XPEarned: 2
 Quests_Progress: 0
 Quests_XPEarned: 0
 FailureTrack_Progress: 0
@@ -34,7 +34,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls: {}
     options: {}
   - id: asset:sundered_isles/incidental_vehicle/sailing_ship
