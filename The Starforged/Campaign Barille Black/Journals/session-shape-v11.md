@@ -10,9 +10,9 @@
 
 ## I. Why a Session Needs a Shape
 
-Scene Framing tells you how to build a scene. Scene Zero tells you how to start a session. This document tells you what goes between them — how a sequence of well-framed scenes becomes a complete *story* rather than an open chain.
+Scene Framing tells you how to build a scene. Scene Zero tells you how to start a session. This document tells you what goes between them: how a sequence of well-framed scenes becomes a complete *story* rather than an open chain.
 
-You can build perfect sentences, write tight slugs, enter at the "but" — and still find yourself ninety minutes in with no sense of where the story is going or how it ends. The problem isn't the scenes. It's that scenes need a container.
+You can build perfect sentences, write tight slugs, and enter at the "but," and still find yourself ninety minutes in with no idea where the story is going or how it ends. The scenes aren't the problem. They just need something to sit inside.
 
 The Session Shape borrows two containers and welds them together. The Three-Act Structure (from screenwriting) tells you *when* things happen. The Five Room Dungeon (from Johnn Four, 2006) tells you *what kind of scene* each beat should be. Together they answer both questions.
 
@@ -28,11 +28,11 @@ These are the five scenes a session must hit. Other scenes are connective tissue
 | 2 | **Challenge** | A non-combat problem. A puzzle, social obstacle, or moral test. *Not a fight.* | Forces variety into the session. |
 | 3 | **Tilt** | The reversal. The worst complication arrives as fact. *Mandatory.* | The hinge. Without it, the session coasts. |
 | 4 | **Climax** | The hardest scene of the session. Direct confrontation with what the Tilt revealed. | The scene the story has been pointing at. |
-| 5 | **Resolution** | The aftermath. Three sentences. What happened, what it cost, who they became. | A story without an ending isn't a story. |
+| 5 | **Resolution** | The aftermath. Three sentences. What happened, what it cost, who they became. | The ending is what makes it a story. |
 
-The Five Room Dungeon's classic order is *Entrance with Guardian · Puzzle · Setback · Big Climax · Reward*. Adapted for solo narrative play, those become *Threshold · Challenge · Tilt · Climax · Resolution*. The structural function is identical. The names are tuned for story rather than dungeon.
+The Five Room Dungeon's classic order is *Entrance with Guardian · Puzzle · Setback · Big Climax · Reward*. For solo narrative play those become *Threshold · Challenge · Tilt · Climax · Resolution*. Same function, names tuned for story instead of dungeon.
 
-> **The Tilt and the Setback are the same beat.** Two completely independent traditions arrived at the same midpoint reversal. That's strong evidence it's load-bearing.
+> **The Tilt and the Setback are the same beat.** Two traditions landed on the same midpoint reversal without talking to each other. When that happens, it's usually worth paying attention to.
 
 -----
 
@@ -60,28 +60,28 @@ Three scenes, ~30 minutes. Your character actively pursues the want established 
 The goal of Act 1 is *not* to succeed. It's to make success harder. Each scene should answer the current question but generate a new one.
 
 **Required beats in Act 1:**
-- **Scene 1 — Threshold.** The character commits. They cross from "considering" to "doing." The world responds — usually by revealing a first cost they didn't anticipate.
+- **Scene 1 — Threshold.** The character commits. They cross from "considering" to "doing." The world responds, usually by revealing a first cost they didn't anticipate.
 - **Scene 3 — Challenge.** A non-combat problem. Negotiation, deception, a moral choice, a puzzle. Forces a different kind of scene from Scene 1.
 
-Scene 2 is connective — it deepens whatever Scene 1 opened up.
+Scene 2 is connective. It deepens whatever Scene 1 opened up.
 
-> **Act 1 Signal:** When the path forward feels genuinely threatened — not impossible, but precarious — Act 1 has done its job. Move to the Tilt.
+> **Act 1 Signal:** When the path forward feels genuinely threatened (not impossible, but precarious), Act 1 has done its job. Move to the Tilt.
 
 -----
 
 ## V. The Tilt
 
-> **At the forty-minute mark, or after scene 3 — whichever comes first — stop and apply the Tilt. This is mandatory. Do not skip it. Do not soften it.**
+> **At the forty-minute mark, or after scene 3 (whichever comes first), stop and apply the Tilt. This is mandatory. Do not skip it. Do not soften it.**
 
 The Tilt is the structural hinge. Everything before it is setup-through-action. Everything after it is falling toward an ending you couldn't have planned.
 
-Without a forced Tilt, the oracle will let you coast. A coasting session is drift with better-framed scenes.
+Without a forced Tilt, the oracle will happily let you coast for another hour, and no amount of clean framing turns a coasting session into a story.
 
 Ask one question: *what is the worst complication that could arrive right now?*
 
 It arrives. Write it in your journal as a fact, not a possibility. Build the first Act 2 scene from that fact.
 
-The Tilt is not a setback you recover from in the next scene. It's a fracture. Something that was true at the start of Act 1 is no longer true — a relationship, a plan, a resource, an assumption. Something breaks and stays broken until the Resolution decides what to do with it.
+The Tilt is not a setback you recover from in the next scene. It's a fracture. Something that was true at the start of Act 1 is no longer true: a relationship, a plan, a resource, an assumption. Something breaks and stays broken until the Resolution decides what to do with it.
 
 -----
 
@@ -89,8 +89,8 @@ The Tilt is not a setback you recover from in the next scene. It's a fracture. S
 
 | System | How to Apply the Tilt |
 |---|---|
-| **Mythic GME 2e** | Set Chaos Factor to 8. Roll a Random Event. Take the result literally — it happened, right now. |
-| **Ironsworn / Starforged** | Pay the Price — hard. No weak hits. The worst reasonable outcome occurs and enters the fiction as fact. |
+| **Mythic GME 2e** | Set Chaos Factor to 8. Roll a Random Event. Take the result literally: it happened, right now. |
+| **Ironsworn / Starforged** | Pay the Price, hard. No weak hits. The worst reasonable outcome occurs and enters the fiction as fact. |
 | **Kal-Arath** | Roll on the Peril or Complication table. The result enters the fiction immediately. |
 | **Any oracle system** | Ask: "Does the worst complication arrive right now?" Roll at maximum difficulty, then ask what it is. |
 
@@ -102,7 +102,7 @@ The Tilt is not a setback you recover from in the next scene. It's a fracture. S
 
 **The Tilt question at the 40-minute mark:** *What is the worst complication that could arrive right now?*
 
-**The roll:** A second Syndicate ship drops out of jump on a parallel vector — not a patrol, a *cleanup* ship. They aren't here for the wreck. They're here for the enforcer's mistakes.
+**The roll:** A second Syndicate ship drops out of jump on a parallel vector. Not a patrol, a *cleanup* ship. They aren't here for the wreck. They're here for the enforcer's mistakes.
 
 **What that fractures:**
 - Her extraction route is now blocked.
@@ -120,7 +120,7 @@ The Five Beats enforce structural variety. Before you apply the Tilt, run a quic
 - Have at least *three different scene types* shown up so far? (Combat, social, exploration, intrigue, etc.)
 - Has the **Challenge** beat actually been non-combat? If you defaulted to a fight when the oracle pointed at a puzzle, you've collapsed two beats into one.
 
-A session where every scene is a fight isn't a story. It's a fight scene with intermissions. The 5RD discipline forces texture into the session even when your oracle keeps suggesting the same thing. If your variety check fails, the Tilt is the moment to course-correct: make the worst complication something *non-combat* — a betrayal, a revelation, a moral fracture.
+A session that's all combat isn't much of a story. It's one long fight with breaks in it. The 5RD discipline pushes texture into the session even when your oracle keeps handing you the same thing. If your variety check fails, the Tilt is the moment to course-correct: make the worst complication something *non-combat*, like a betrayal, a revelation, or a moral fracture.
 
 -----
 
@@ -128,12 +128,12 @@ A session where every scene is a fight isn't a story. It's a fight scene with in
 
 Four scenes, ~50 minutes. React to the Tilt. Frame each scene using the Protocol, but now the want from Scene Zero is under pressure in a new way.
 
-Don't try to immediately fix what the Tilt broke. Let consequences compound for at least two scenes before the story starts resolving. The want may *change shape* in Act 2 — that's not failure, that's story. Senna may find that getting the witness to safety matters more than the original vow. Kael may find that the logs contain something she didn't expect. Let the Tilt reframe what winning looks like.
+Don't try to immediately fix what the Tilt broke. Let consequences compound for at least two scenes before the story starts resolving. The want may *change shape* in Act 2. That's not failure, that's story. Senna may find that getting the witness to safety matters more than the original vow. Kael may find that the logs contain something she didn't expect. Let the Tilt reframe what winning looks like.
 
 **Required beat in Act 2:**
 - **Scene 8 (or thereabouts) — Climax.** The hardest scene of the session. Direct confrontation with what the Tilt revealed. This is the scene the story has been pointing at since the Threshold.
 
-Scenes 5–7 are connective. One or two of them can be **interludes** — the breath between the Tilt and the Climax.
+Scenes 5–7 are connective. One or two of them can be **interludes**, the breath between the Tilt and the Climax.
 
 > **Act 2 Signal:** When the consequences of the Tilt have fully landed and you can see what the story is actually *about*, you're ready for the Climax.
 
@@ -141,11 +141,11 @@ Scenes 5–7 are connective. One or two of them can be **interludes** — the br
 
 ### Interludes in Act 2
 
-An **interlude** is a scene without a frame. No Want, no Obstacle, no Stake — just a character, a moment, and what's on their mind. (Full structure in Scene Framing.)
+An **interlude** is a scene without a frame. No Want, no Obstacle, no Stake: just a character, a moment, and what's on their mind. (Full structure in Scene Framing.)
 
-Interludes belong in Act 2 specifically. They don't belong in Act 1 (they stall the pursuit) and they don't belong in Act 3 (they dilute the ending). In Act 2, they do real structural work — they let the Tilt's consequences settle emotionally before the Climax.
+Interludes belong in Act 2 specifically. They don't belong in Act 1 (they stall the pursuit) and they don't belong in Act 3 (they dilute the ending). In Act 2, they do real structural work: they let the Tilt's consequences settle before the Climax.
 
-> **Two interludes per session, max. If you find yourself wanting a third, the issue isn't that you need another interlude — it's that your last framed scene didn't generate enough consequence. Re-read your last outcome, find the "but" or "therefore" you missed, and frame from there.**
+> **Two interludes per session, max. If you find yourself wanting a third, the issue isn't that you need another interlude. It's that your last framed scene didn't generate enough consequence. Re-read your last outcome, find the "but" or "therefore" you missed, and frame from there.**
 
 **Example — Kael, between Tilt and Climax:**
 
@@ -167,11 +167,11 @@ Roll at whatever difficulty your current Chaos Factor, track, or oracle suggests
 
 1. **What happened.** The final scene's outcome in plain terms.
 2. **What it cost.** What is different about the world or the character that wasn't true at the start.
-3. **Who they became.** One sentence. Not a moral — just a true thing about this person now.
+3. **Who they became.** One sentence. Not a moral, just a true thing about this person now.
 
-Then stop. A complete story lives in your journal.
+Then stop. You've got a complete story.
 
-> **A note on failure.** A "no" or partial-fail at this final roll isn't a broken story. It's a *tragedy*, a *cost*, or a *Pyrrhic victory* — all of them legitimate endings. Some of the best solo sessions end with the character not getting what they wanted. Write the three sentences anyway. The story still lands.
+> **A note on failure.** A "no" or partial-fail at this final roll isn't a broken story. It's a *tragedy*, a *cost*, or a *Pyrrhic victory*, all of them legitimate endings. Some of the best solo sessions end with the character not getting what they wanted. Write the three sentences anyway. The story still lands.
 
 -----
 
@@ -238,7 +238,7 @@ For a longer evening: add one connective scene to Act 1 and one to Act 2.
 
 ### A Two-Session Arc — Cliffhanger at the Tilt
 
-Session 1 runs Act 1 and ends *at* the Tilt — the worst complication arrives, you write it down, and you stop. The Tilt becomes the cliffhanger. Session 2 opens with Act 2's first scene and runs through Climax and Resolution.
+Session 1 runs Act 1 and ends *at* the Tilt: the worst complication arrives, you write it down, and you stop. The Tilt becomes the cliffhanger. Session 2 opens with Act 2's first scene and runs through Climax and Resolution.
 
 This is the single best use of structural Tilt for solo play. The mandatory hinge becomes a built-in cliffhanger that pulls you back to the next session.
 
@@ -254,9 +254,9 @@ For a longer arc, each session *is* one beat:
 | 4 | **Climax** | The confrontation. The hardest single session in the arc. |
 | 5 | **Resolution** | Aftermath. What it cost. Who they became. |
 
-Each individual session still uses the full five-beat structure internally, with its own Tilt at the midpoint. Stories nested inside stories — every level has a clear shape and a forced hinge.
+Each individual session still uses the full five-beat structure internally, with its own Tilt at the midpoint. Stories nested inside stories, every level with a clear shape and a forced hinge.
 
-This solves the long-form problem. People can write multi-session stories but rarely finish them, because long arcs lack mandatory breaks and drift into open exploration. A forced Tilt at every layer (scene, session, arc) gives even abandoned campaigns a sense of completion at every level.
+This is the part that usually falls apart in long play. People start multi-session stories all the time and rarely finish them, because a long campaign has no built-in breakpoints and slowly drifts into open-ended exploration. A forced Tilt at every layer (scene, session, arc) means even a campaign you eventually walk away from feels finished at every level you did reach.
 
 -----
 

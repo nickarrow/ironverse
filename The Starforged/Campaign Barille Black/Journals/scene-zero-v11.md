@@ -12,9 +12,9 @@
 
 Many solo systems front-load worldbuilding as a prerequisite to play. Ironsworn asks you to answer its Truths before your first scene. Starforged invites you to build a sector, establish a home region, define background assets. Kal-Arath has factions, histories, and a cosmology to absorb.
 
-The temptation is to answer all of it before starting. The result is two hours of preparation and no story.
+It's tempting to answer all of it before you start. Do that and you get two hours of prep and no story.
 
-Some players prefer that approach — building world, character, and history before the first session. That's a legitimate way to play and compatible with everything in this document. Scene Zero is for the *other* situation: when the setup trap has caught you too many times, when you want to discover your world through play rather than before it, when you want to pick up this document and be inside a scene within five minutes of opening it.
+Some players like building the world, the character, and the history up front, and that's a perfectly good way to play. Scene Zero is for the other situation: you've been burned by the setup trap too often, you'd rather discover your world by playing in it than by planning it, and you want to be inside a scene five minutes after opening this doc.
 
 > You don't need to know your world before you start. You need a character, a drive, and a first "but." Everything else is a future scene.
 
@@ -50,7 +50,7 @@ One present-tense urgency. Verb plus goal. If you find yourself writing more tha
 
 ### Q3 — What does the world feel like?
 
-One word — a mood or situation, not a genre. Situation words do much more work than genre labels.
+One word: a mood or situation, not a genre. Situation words do much more work than genre labels.
 
 **Examples:** Fringe · Broken · Occupied · Forgotten · Hunted · Contested · Fading · Rising · Scarred · Quarantined · Drowned
 
@@ -58,9 +58,9 @@ One word — a mood or situation, not a genre. Situation words do much more work
 
 ### Q4 — What just forced you into motion?
 
-The inciting disruption — what changed in the world to make this story start now. Pick a disruption type, then finish the sentence.
+The inciting disruption: what changed in the world to make this story start now. Pick a disruption type, then finish the sentence.
 
-> **A note on the word "but."** Q4's "but" is the *inciting* but — the disruption that opens the story. Inside Scene Framing, "but" appears again in a different role: the *obstacle* but in the scene-frame formula. They're related but distinct. Q4's disruption *creates the situation* that produces your first scene's obstacle. Don't worry about the difference now — just write Q4 as a single sentence with a "but" in it.
+> **A note on the word "but."** Q4's "but" is the *inciting* but: the disruption that opens the story. Inside Scene Framing, "but" appears again in a different role: the *obstacle* but in the scene-frame formula. They're related but distinct. Q4's disruption *creates the situation* that produces your first scene's obstacle. Don't worry about the difference now. Just write Q4 as a single sentence with a "but" in it.
 
 **Disruption types:**
 - *Arrived somewhere*
@@ -82,7 +82,7 @@ The disruption gives you the *situation* of your first scene. The *Want* in your
 
 One person. Name, role, and whether they're a resource or a complication. They don't need a personality yet. They need to exist.
 
-This can be the same person as your obstacle in Q7, or it can be someone else — a contact, an ally, a family member, a target. If they're the same as Q7, Q5 is asking *who they are to your character beyond the immediate scene*. If they're different, you've just seeded a second relationship the story can return to later.
+This can be the same person as your obstacle in Q7, or it can be someone else: a contact, an ally, a family member, a target. If they're the same as Q7, Q5 is asking *who they are to your character beyond the immediate scene*. If they're different, you've just seeded a second relationship the story can return to later.
 
 > *The Syndicate enforcer. Complication — he's already on site, and she knows him from before.*
 > *The woman with the warlord's mark. Resource and complication — she may know what Bram needs, but she also serves the man he's hunting.*
@@ -161,7 +161,7 @@ Five minutes from blank page. Go.
 
 ## IV. The World-As-Needed Rule
 
-Scene Zero leaves most of the world undefined. That's not an omission — it's the point.
+Scene Zero leaves most of the world undefined. That's not an omission. It's the point.
 
 The rule is simple: **only answer a worldbuilding question when a scene physically requires it.**
 
@@ -172,15 +172,15 @@ The rule is simple: **only answer a worldbuilding question when a scene physical
 
 The game's worldbuilding tables are not homework. They are oracle prompts you reach for when a scene demands an answer you don't have yet.
 
-Every oracle roll, every scene outcome, every NPC choice is a world truth being revealed under dramatic pressure rather than invented in advance. Those truths are more specific and surprising than anything planned beforehand, because they were generated at the moment they mattered.
+Each roll and each scene outcome reveals a piece of the world at the moment it actually matters, instead of ahead of time. What you get that way tends to be more specific and more surprising than anything you'd have planned.
 
 -----
 
 ### A Note on Interludes
 
-Not every scene needs to be a frame. Once you've played a few framed scenes, you'll find moments where what your character needs is to *not* be in conflict — to drink, to grieve, to remember, to write a letter. These are **interludes**, and they belong in your sessions.
+Not every scene needs to be a frame. Once you've played a few framed scenes, you'll find moments where what your character needs is to *not* be in conflict: to drink, to grieve, to write a letter. These are **interludes**, and they belong in your sessions.
 
-Scene Framing covers their structure. Don't reach for one in your first scene — start with a frame, get the engine running, and let interludes appear when the story has earned them.
+Scene Framing covers their structure. Don't reach for one in your first scene. Start with a frame, get the engine running, and let interludes show up once the story has earned them.
 
 -----
 
@@ -192,7 +192,7 @@ Keep a short running list as you play. Call it **World Truths**, or Discoveries,
 > *Session 1 — The enforcer knew Kael's ship name before she gave it.*
 > *Session 2 — The warlord's territory has no healers. All of them left or disappeared.*
 
-After three sessions this list becomes richer than any setting document you could have written in advance. The world discovers itself. Your job is to play and write it down.
+After three sessions this list is richer than any setting doc you'd have written up front. You play, and you write down what surfaces.
 
 -----
 

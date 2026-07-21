@@ -10,31 +10,31 @@
 
 ## I. Prep Is Play
 
-Ironsworn named something experienced solo players had always known: prep is play. Building your world, your character, the relationships and tensions around them — that creative work *is* the game.
+Ironsworn named something experienced solo players had always known: prep is play. Building your world, your character, the relationships and tensions around them. That creative work *is* the game.
 
-Scene framing carries that idea one step further. The sixty seconds you spend before a scene — deciding what your character needs, who or what stands in the way, what failure costs — those sixty seconds are part of the game. You are making authorial decisions, and authorial decisions are play.
+Scene framing carries that idea one step further. The sixty seconds you spend before a scene, deciding what your character needs, who or what stands in the way, and what failure costs, are part of the game. You are making authorial decisions, and authorial decisions are play.
 
-The alternative is drift. You open a session without a frame and begin narrating ambient details, hoping a scene will emerge from the texture. Sometimes it does. Often an hour passes and you've produced a simulation of nothing — no stakes, no tension, no forward motion.
+The alternative is drift. You open a session with no frame and start narrating ambient detail, hoping a scene turns up on its own. Sometimes one does. More often an hour goes by and nothing has really happened.
 
 > A few screenplay-like phrases written before a scene will do more for your solo game than any oracle table rolled after you've already lost the thread.
 
-Screenwriters solved this problem in 1965. Dwight V. Swain defined a scene as "a unit of conflict — an account of an effort to attain a goal despite opposition." Goal, conflict, disaster. That structure holds because it maps onto the fundamental shape of dramatic interest. Most solo RPG advice handles oracles, prompts, and worldbuilding well; what's been less standardized is the sixty seconds *before* the scene begins.
+Screenwriters worked this out a long time ago. In 1965, Dwight V. Swain defined a scene as "a unit of conflict — an account of an effort to attain a goal despite opposition." Goal, conflict, disaster. It holds up because that's the shape of anything dramatic. Solo RPG advice covers oracles, prompts, and worldbuilding well, but the sixty seconds *before* a scene starts rarely get the same attention.
 
-This document is one method for that minute.
+Here's a method for that minute.
 
 -----
 
 ## II. The Protocol — Four Steps
 
-Before every scene, answer four questions. Write one sentence. Then play. If you can do this in sixty seconds, you're doing it right. If it takes longer, one of the steps is stalling — and that stall is worth examining, because it usually points to something fuzzy in your setup.
+Before every scene, answer four questions. Write one sentence. Then play. If you can do this in sixty seconds, you're doing it right. If it takes longer, one of the steps is stalling, and that stall is worth examining, because it usually points to something fuzzy in your setup.
 
-We'll build an example as we go. **Kael Rho** is a salvager. She has sworn a vow to recover her dead captain's final ship logs before a corporate faction — the Syndicate — strips the wreck and destroys the evidence of what happened.
+We'll build an example as we go. **Kael Rho** is a salvager. She has sworn a vow to recover her dead captain's final ship logs before a corporate faction (the Syndicate) strips the wreck and destroys the evidence of what happened.
 
 -----
 
 ### Step 01 — Situation: What is the world doing?
 
-Roll your oracle. Two words, a phrase, a random event — whatever your system offers. This gives you the world's state as your character arrives, something happening independent of what they want. Hold it loosely; it's a seed, not an answer.
+Roll your oracle. Two words, a phrase, a random event: whatever your system offers. This gives you the world's state as your character arrives, something happening independent of what they want. Hold it loosely; it's a seed, not an answer.
 
 **Examples:**
 
@@ -58,7 +58,7 @@ Reduce what your character needs in this scene to a single verb. Your active vow
 | **Force & Protection** | Defeat · Free · Protect · Survive |
 | **Restoration** | Repair · Endure |
 
-If none of these fit, supply your own. The verb is a discipline, not a constraint — it forces specificity. A want like "deal with the situation" is too vague to drive a scene. A verb tells you what success looks like.
+If none of these fit, supply your own. The verb is a discipline, not a constraint. It forces specificity. A want like "deal with the situation" is too vague to drive a scene. A verb tells you what success looks like.
 
 If your character has no active vow or thread yet, ask directly: what do they most urgently need *in this scene*? The verb is the answer.
 
@@ -82,7 +82,7 @@ Ask two yes/no questions. Roll for both, or simply decide.
 
 When the obstacle is a person, give them their own want. An NPC simply blocking your path is a wall; an NPC with a conflicting goal is a scene.
 
-When the obstacle is a person who isn't an enemy — a frightened witness, a grieving contact, someone whose trust you need — their want is usually safety, privacy, or protection. The scene becomes about creating conditions where they can give you what you both need.
+When the obstacle is a person who isn't an enemy (a frightened witness, a grieving contact, someone whose trust you need), their want is usually safety, privacy, or protection. The scene becomes about creating conditions where they can give you what you both need.
 
 **Kael's obstacle:** A — Yes: the Syndicate enforcer who denied her salvage claim is on-site. B — No: he doesn't know Kael is inbound. His want: complete the asset strip before his supervisor's deadline. His goal and Kael's collide the moment she appears on his sensors.
 
@@ -105,15 +105,15 @@ If the sentence form feels mechanical, frame it as a yes/no question: *"Will Kae
 
 Re-read the sentence you wrote. Has the tension resolved? If so, cut. Short scenes that land cleanly are not failures.
 
-If the frame itself has turned out to be wrong, revise it. It's a working document, not a contract. What you can't do is keep playing with no frame at all — that's how drift starts. Take thirty seconds, rewrite, continue.
+If the frame itself has turned out to be wrong, revise it. It's a working document, not a contract. What you can't do is keep playing with no frame at all. That's how drift starts. Take thirty seconds, rewrite, continue.
 
 -----
 
 ## III. Writing the Frame
 
-The sentence formula is the underlying structure — but it's not necessarily what you write in your journal. Most players find it more natural to write something that looks like the *opening* of a scene rather than a fill-in-the-blank template. Screenwriters solved this with the slug line: a compact notation that captures setting, situation, and stakes in three or four lines of plain text.
+The sentence formula is the underlying structure, but it's not necessarily what you write in your journal. Most people find it more natural to write something that reads like the *opening* of a scene than to fill in a blank template. The slug line does exactly that: a compact bit of notation that captures setting, situation, and stakes in three or four lines of plain text.
 
-The format: an all-caps header telling you where and when you are, followed by two or three present-tense sentences describing what's happening and what the pressure is. It takes thirty seconds and does something the formula alone doesn't — it puts you *in* the scene before you start playing it.
+The format: an all-caps header telling you where and when you are, followed by two or three present-tense sentences describing what's happening and what the pressure is. It takes thirty seconds and does something the formula alone doesn't: it puts you *in* the scene before you start playing it.
 
 -----
 
@@ -154,7 +154,7 @@ bell, and every door between here and the prisoner is already
 locked against her.
 ```
 
-Each took under a minute to write. The slug sets INT or EXT, location, time, and a single mood word. The action lines carry the want, the obstacle, and the pressure — not as abstract statements but as things present in the physical space. The stakes aren't announced; they're embedded in what the character can see.
+Each took under a minute to write. The slug sets INT or EXT, location, time, and a single mood word. The action lines carry the want, the obstacle, and the pressure, not as abstract statements but as things present in the physical space. The stakes aren't announced; they're embedded in what the character can see.
 
 -----
 
@@ -181,7 +181,7 @@ The word *"Go"* at the end is optional but useful. It's a permission to start.
 
 -----
 
-> **What you write is the scene's opening, not its outcome.** The slug tells you where you are and what the pressure is. It doesn't tell you how it ends — that's what the dice, the oracle, and your character's choices are for. The frame is a launching pad, not a script.
+> **What you write is the scene's opening, not its outcome.** The slug tells you where you are and what the pressure is. It doesn't tell you how it ends. That's what the dice, the oracle, and your character's choices are for. The frame is a launching pad, not a script.
 
 -----
 
@@ -189,13 +189,13 @@ The word *"Go"* at the end is optional but useful. It's a permission to start.
 
 > *"Drama is life with the dull bits cut out."* — Alfred Hitchcock
 
-A scene has two edges — where you enter it and where you leave it — and most solo players handle both badly.
+A scene has two edges, where you enter it and where you leave it, and most solo players handle both badly.
 
 For this section we follow **Senna**, whose frame and slug we built in Section III.
 
 > *Senna needs to get the witness through the Hallow Pass before dawn, but a storm has collapsed the old stone bridge and there is no other crossing before the garrison — and if they don't reach the far side by morning, the warlord's riders will have them cornered.*
 
-When the obstacle is environmental — a collapsed bridge, a raging river, a failing drive — the scene plays differently than when an NPC blocks your way. There's no negotiating with a storm. The scene becomes about problem-solving, endurance, and discovery. The obstacle questions did their job before the scene began.
+When the obstacle is environmental (a collapsed bridge, a raging river, a failing drive), the scene plays differently than when an NPC blocks your way. There's no negotiating with a storm. The scene becomes about problem-solving, endurance, and discovery. The obstacle questions did their job before the scene began.
 
 -----
 
@@ -222,9 +222,9 @@ When the tension in your sentence resolves, the scene is over. Cut. One sentence
 
 That is enough. Build the next sentence. Play the next scene.
 
-The single sentence between scenes does real work: it carries the causal thread forward. The outcome of the cut scene becomes the situation of the next one — this is the seed of the But & Therefore chain in Section VI. One sentence usually captures it.
+The single sentence between scenes does real work: it carries the causal thread forward. The outcome of the cut scene becomes the situation of the next one. This is the seed of the But & Therefore chain in Section VI. One sentence usually captures it.
 
-The resistance to cutting early comes from a belief that something important might happen in the gap. But you aren't skipping things that happened — you're deciding which things are the story. You hold that authority.
+The resistance to cutting early comes from a belief that something important might happen in the gap. But you aren't skipping things that happened. You're deciding which things are the story. You hold that authority.
 
 -----
 
@@ -239,14 +239,14 @@ The resistance to cutting early comes from a belief that something important mig
 
 ## V. The Interlude
 
-Not every scene needs to turn on tension. Sometimes what your character needs is to *not* be in conflict — to drink, to grieve, to remember, to write a letter, to sit with what just happened. These scenes have a name in theater and music: the **interlude**.
+Not every scene needs to turn on tension. Sometimes what your character needs is to *not* be in conflict: to drink, to grieve, to sit with what just happened. These scenes have a name in theater and music: the **interlude**.
 
 Interludes are a deliberate scene type, not a permission slip for aimless play. The distinction matters:
 
-> A **frame** answers *"Will [Character] [Want]?"* — yes/no, scene resolves when answered.
-> An **interlude** answers *"What is [Character] like when [Situation]?"* — open, scene resolves when something true is revealed.
+> A **frame** answers *"Will [Character] [Want]?"* Yes or no, and the scene resolves once it's answered.
+> An **interlude** answers *"What is [Character] like when [Situation]?"* It's open, and resolves when something true surfaces.
 
-If you find yourself reaching for an interlude because the last scene didn't generate a clean "but," that's not an interlude — that's drift. Re-read the outcome, find the consequence you missed, and frame from there.
+If you find yourself reaching for an interlude because the last scene didn't generate a clean "but," that's not an interlude. That's drift. Re-read the outcome, find the consequence you missed, and frame from there.
 
 -----
 
@@ -260,9 +260,9 @@ Three answers, one sentence, no obstacle, no stake.
 
 > *Kael, alone on the derelict's empty bridge, with the captain's logs already in her pocket and three hours before her ship's window opens.*
 
-She might play her captain's voice on the headset for the first time. She might look out at a hull breach and remember something. She might write a single line in her journal. Play until the moment lands — usually one or two paragraphs — and cut.
+She might play her captain's voice on the headset for the first time. She might look out at a hull breach and remember something. She might write a single line in her journal. Play until the moment lands, usually one or two paragraphs, and cut.
 
-> Interludes are a counterweight to action, not an alternative to structure. Use them sparingly and they'll do real work. Use them constantly and the protocol erodes.
+> Interludes are a counterweight to action, not a substitute for structure. A couple a session earn their keep. Lean on them constantly and the protocol stops meaning much.
 
 -----
 
@@ -270,7 +270,7 @@ She might play her captain's voice on the headset for the first time. She might 
 
 In 2011, Trey Parker and Matt Stone visited an NYU class and described the rule that governs their writers' room. If "and then" connects two story beats, you're stuck with something boring. Replace "and then" with "but" or "therefore." *But* introduces tension: something cut against what came before. *Therefore* introduces causation: something happened because of what came before.
 
-For this section we follow **Vesper**. Notice how Question B — the warden knows she's coming — changes everything. She arrives to find her first plan already invalidated. The scene opens in crisis.
+For this section we follow **Vesper**. Notice how Question B (the warden knows she's coming) changes everything. She arrives to find her first plan already invalidated. The scene opens in crisis.
 
 -----
 
@@ -380,7 +380,7 @@ Common pairings:
 ### Slug Format
 
 ```
-INT. PUBIC SHOWERS OUTSIDE RESIDENTIAL AREA — EVENING — DESPERATE 
+INT. PUBLIC SHOWERS OUTSIDE RESIDENTIAL AREA — EVENING — DESPERATE 
 SITUATION:    WANT:    OBSTACLE: 
 Set the scene with two or three lines. Present tense. What's here, what's happening, 
 what the pressure is. Want and obstacle embedded in the physical space, not stated as abstractions.
