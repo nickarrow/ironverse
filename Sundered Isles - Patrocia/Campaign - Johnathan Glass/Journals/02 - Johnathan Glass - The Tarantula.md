@@ -171,4 +171,4 @@ Eventually he finds the logbook tucked away inside one of the bunks in the forec
 
 ---
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|3|4` 
