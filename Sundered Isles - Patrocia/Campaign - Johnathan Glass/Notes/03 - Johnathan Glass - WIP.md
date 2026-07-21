@@ -147,7 +147,7 @@ A popular young crewmember is found dead on the deck - it appears he fell from t
 
 `iv-progress:Finish an Expedition|03 - Coordinates Expedition|8|6|2|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md|3|5|epic|2`  `iv-track-complete:03 - Coordinates Expedition|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md`  `iv-track-advance:01 - Sally Slaughter's Treasure|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md|16|24|dangerous|1` 
 
-Finally, they're at the spot indicated in the logbook.  Johnny prepares himself, and then dives under the water, down towards whatever happens to lie below.
+Finally, they're at the spot indicated in the logbook.  Johnny prepares himself, and then dives under the water, down towards whatever lies below.
 
 ---
 
