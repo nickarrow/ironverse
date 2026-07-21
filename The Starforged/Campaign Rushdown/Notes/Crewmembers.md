@@ -4,6 +4,7 @@ Seventh Sun:
 Beat - Communications
 Eyeball - Sensors
 Strongarm - Security
+Dr. Sloane - Medical
 
 
 Rude Awakening:

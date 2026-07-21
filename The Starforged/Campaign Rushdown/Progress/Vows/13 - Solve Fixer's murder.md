@@ -1,10 +1,10 @@
 ---
-name: Connection Redblood
-rank: formidable
-progress: 8
+name: 13 - Solve Fixer's murder
+rank: troublesome
+progress: 40
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Vow
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

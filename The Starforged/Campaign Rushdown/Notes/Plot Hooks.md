@@ -34,5 +34,6 @@
 - 11 - The Contract
 - 11 - Skullcrusher's bounty
 - 11 - What happened to the Spider
-- 12 - Murder at Gallows
+- 13 - Leonid
+- 13 - Chief's black iron dagger
 - 

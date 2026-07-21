@@ -1,7 +1,7 @@
 ---
 name: 10 - Satonaka Return
 segments: 4
-progress: 1
+progress: 2
 default-odds: no roll
 tags:
   - incomplete
