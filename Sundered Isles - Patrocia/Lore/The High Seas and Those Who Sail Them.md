@@ -6,8 +6,7 @@ The Frostborne Sea
 The Forsaken Sea
 The Sea of Corsino
 
-All are dangerous, none are empty.
-
+All are dangerous, none are fully known.
 
 # The Sea of Iron
 
@@ -120,12 +119,20 @@ When the night is dark and you're alone on watch, you may spot the soft glow of 
 # The Sea of Corsino
 
 ### House Gautier
-
+The merchant ships of House Gautier are a common sight in these waters, and are an excellent source of trade and supplies should you need it. Don't get any ideas though, they're still very well armed for being trade vessels.
 ### Pirates of the Central Sea
+Due to the riches that travel the shortest route between the Old World and the New World, pirates are amply incentivized to ply their trade. 
 
+Notable captains include: 
+- Captain William Gaunt aboard his frigate *The Wily Baron*, he's a master of the hit and run.
+- Captain Esmerelda Vale, sailing her Brig *The Contessa's Vengeance*. Her skills with a blade are the thing of legend, don't let her board your ship if you value your cargo.
+- Captain Stricio Elderbaden, who trades blows with the best of them on his man-o-war *The Last Laugh*. A trading broadsides with him would be a costly mistake, best to run unless you're sure you can win.
+
+But aside from them there are still plenty of other pirates who may surprise you, keep your head on swivel!
 ### Colony Ships
-
+The Old World colonial powers send ships to their colonies full of supplies and colonists.. These ships themselves aren't overly armed, but they're seldom without an escort.
 ### Treasure Fleets
+While Colony ships ferry supplies and manpower, all colonial powers plunder the new world and arrange ship convoys to bring their riches home. These purpose-built ships are defensively strong to deter pirates, but that seldom actually does.
+### The Ashfury Reavers
 
-### The Blood-Iron Reavers
-
+These are no pirates, pirates will parley when you fly the white flag. The Ashfury Reavers hold no value towards a life that isn't one of their own. It's not clear where they sail from, but they do not leave survivors when they strike and they won't ally when anyone, not even the Vitan Federation. If you spot a ship in flames, it's likely one of their latest victims.

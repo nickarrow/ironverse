@@ -1,0 +1,25 @@
+So, you'd like to know more about mages, eh?
+
+Mages are a strange lot, both blessed and cursed in equal measure by their rare gift. You see, magical potential only manifests itself during a moment of extreme stress/distress and does so in a big way due to it being an untrained mage casting uncontrolled magic. As a result it's usually very hard to keep hidden the emergence of a new mage from prying eyes, and everyone powerful has differing opinions on where mages belong.
+
+So let's say you've had your brush with death, you did something inexplicable, and you lived despite truly believing you would die. You beat the odds: You're a mage, congratulations! Having the manifested the aptitude for magic almost certainly means someone noticed, so you can look forward to visits from one (or more!) of the following groups: 
+
+1) The Church of Veluca, which will basically force you into being a magical monk locked away somewhere for your own protection, but you're only allowed to perform your miracles in the name of Veluca as your church handler sees fit. 
+
+2) The Lorresian Theocracy, which will gleefully burn you alive for being a heretical mage. They have professional mage hunters who act with impunity across national borders and are allowed to use a lot more than just fire to kill you. If you're important by the time they find you they might even bother to make it look like an accident. 
+
+3) Powerful people who want a mage to use for their own purposes. They'll reach you however they can, using family, friends, lovers and more as blackmail. They might even offer you training to sweeten the deal, but once you shake hands with that particular devil there's no going back.
+
+Now in theory you could escape, I've heard rumors of safe refuge for mages in the remnants of House Kirsten, but that could just as easily be a trap for mages thinking they might escape the clutches of the Old World powers. Just getting to Ben Kirsten would be feat all by itself as he's an extremely public target that the myriad of groups who enjoy their control over mages would love to make an example of.
+
+Oh, and just in case you're thinking you'll just hide that you're a mage when they come calling: There is no widespread established test for measuring magical aptitude (that's where the fall of House Kirsten and the loss of its knowledge benefits you as a mage), but anyone powerful with a vested interest in finding mages will have recovered a rare artifact or two that resonates with the presence of someone with magical aptitude, or they're just happy to torture a suspected mage into another life-and-death magical outburst.
+## Learning Magic
+
+When House Kirsten dissolved following the Schism that destroyed the Rhodesian Empire, the mage colleges under their authority were burned and looted by zealots. Over a millennia of knowledge on magical study was lost, and what survives has been looted, sold, stolen, lost, and destroyed since. A mage who seeks to learn to use their extraordinary abilities has a handful of options available.
+
+1) Find an independent mage to teach you. This will be extremely hard as independent mages are an elusive sort who spend most of their time in hiding from the groups I explained above. I wouldn't even know where to start finding one, so you'll have to come up with something clever on your own.
+2) Sign your life away to a powerful patron in exchange for access to their collection of magical materials and artifacts and hope you learn enough to break free from their influence. They may even already have a pet mage who can teach you if you've really made a mistake and gotten in with someone you can never end your service to.
+3) Escape to the New World and hope to independently study in peace. This option takes the longest because you are starting from absolutely nothing but incurs the least risk of capture. 
+4) Attempt to find something looters and zealots missed in the ruins of the Old World mage colleges. This is easily the biggest risk for the biggest reward. The colleges were burned and looted, and what remains is likely to be lost, highly cursed, trapped, and well searched already. What's more, you're likely to draw unwanted attention asking around to find one. But the payoff if you survive and manage to find something everyone else missed? We're talking priceless magical artifacts, scrolls, lessons written by master mages the likes of which Patrocia will almost certainly never seen again. These are the things newly minted mages dream of.
+
+Even once you have a teacher or some way of learning from your magical betters, you have a long and difficult process of study and practice to look forwards to. And if you didn't sign your soul away to a patron, you still need to be constantly on the move and keep a lookout for mage hunters from interested parties. May the odds be in your favor!
