@@ -1,10 +1,10 @@
 ---
-name: Connection Ogre
-rank: formidable
-progress: 4
+name: 05 - Insectoid Attack
+rank: dangerous
+progress: 32
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Combat
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---

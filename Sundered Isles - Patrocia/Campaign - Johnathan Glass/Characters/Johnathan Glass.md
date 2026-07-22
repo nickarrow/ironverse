@@ -1,20 +1,20 @@
 ---
 name: Johnathan Glass
-xp_spent: 2
+xp_spent: 5
 xp_added: 0
-momentum: 7
+momentum: 10
 edge: 3
 heart: 3
 iron: 4
 shadow: 2
 wits: 2
-health: 5
+health: 4
 spirit: 5
-supply: 3
+supply: 5
 Bonds_Progress: 0
 Bonds_XPEarned: 0
-Discoveries_Progress: 7
-Discoveries_XPEarned: 2
+Discoveries_Progress: 8
+Discoveries_XPEarned: 4
 Quests_Progress: 2
 Quests_XPEarned: 0
 FailureTrack_Progress: 0
@@ -37,13 +37,6 @@ assets:
       - true
     controls: {}
     options: {}
-  - id: asset:sundered_isles/incidental_vehicle/sailing_ship
-    abilities:
-      - true
-    controls:
-      integrity: 5
-    options:
-      name: The Spearhead
   - id: asset:sundered_isles/path/waterborn
     abilities:
       - true
@@ -52,6 +45,19 @@ assets:
     controls:
       air: 5
     options: {}
+  - id: asset:sundered_isles/command_vehicle/flagship
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      integrity: 5
+      integrity/battered: false
+      integrity/cursed: false
+      supply: 5
+      supply/unequipped: false
+    options:
+      name: The Spearhead
 ---
 
 

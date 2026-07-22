@@ -75,7 +75,7 @@ She waves her hand, and the gash across her torso disappears.  She moves in, try
 
 `iv-move:Clash|Iron|3|4|1|1|2|move:starforged/combat/clash|adds=1`  `iv-track-advance:04 - Defeat Sally Slaughter |Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/04 - Defeat Sally Slaughter.md|8|16|formidable|2` 
 
-Johnny bays her hands away again, and drives his blade into her neck.  Again, she doesn't flinch.  Johnny looks around to see if there's anything in the hold he can use to his advantage.
+Johnny bats her hands away again, and drives his blade into her neck.  Again, she doesn't flinch.  Johnny looks around to see if there's anything in the hold he can use to his advantage.
 
 `iv-move:Gain Ground|Wits|3|2|0|8|7|move:starforged/combat/gain_ground`  `iv-clock-create:04 - Sally Slaughter 2nd Form|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/04 - Sally Slaughter 2nd Form.md` 
 
@@ -151,7 +151,7 @@ They arrive back in Erast, and divide the loot.  Half the crew decides to retire
 
 "What are you going to do with yours?"
 
-"Outfit the ship, probably.  And keep the rest for a rainy day."
+"Outfit the ship, probably.  And keep the rest for a rainy day," says Johnny.
 
 "You're going to keep working?"
 
