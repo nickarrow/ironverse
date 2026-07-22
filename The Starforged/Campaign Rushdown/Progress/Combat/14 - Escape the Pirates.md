@@ -1,10 +1,10 @@
 ---
-name: 13 - Investigate missing scientist
-rank: troublesome
-progress: 40
+name: 14 - Escape the Pirates
+rank: formidable
+progress: 36
 tags:
-  - incomplete
-track-type: Vow
+  - complete
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

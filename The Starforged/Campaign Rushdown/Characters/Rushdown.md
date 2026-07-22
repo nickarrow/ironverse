@@ -1,8 +1,8 @@
 ---
 name: Rushdown
-xp_spent: 7
+xp_spent: 9
 xp_added: 0
-momentum: 5
+momentum: 6
 edge: 3
 heart: 2
 iron: 4
@@ -60,10 +60,10 @@ assets:
   - id: asset:sundered_isles/path/crew_commander
     abilities:
       - true
-      - false
+      - true
       - false
     controls:
-      command: 4
+      command: 5
       command/commandless: false
     options: {}
 ---

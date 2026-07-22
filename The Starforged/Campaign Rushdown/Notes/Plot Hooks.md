@@ -27,6 +27,7 @@
 - 09 - Argus Bridger
 - 09 - The guy in the chair
 - 09 - Creed Bond
+- 09 - Creed Bond's conversation with Cleveland
 - 10 - The Monkey
 - 10 - The ancient rifles
 - 11 - The Board
@@ -36,4 +37,5 @@
 - 11 - What happened to the Spider
 - 13 - Leonid
 - 13 - Chief's black iron dagger
-- 
+- 14 - Dr. Malek
+- 14 - Captain Hook

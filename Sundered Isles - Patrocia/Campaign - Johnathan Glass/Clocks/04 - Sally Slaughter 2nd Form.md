@@ -1,10 +1,10 @@
 ---
-name: 11 - Miwako returns to Minami
+name: 04 - Sally Slaughter 2nd Form
 segments: 4
 progress: 2
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

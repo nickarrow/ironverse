@@ -1,10 +1,10 @@
 ---
-name: Connection Sticky Joe
+name: "04 - Defeat Sally Slaughter "
 rank: formidable
-progress: 8
+progress: 40
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Combat
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---

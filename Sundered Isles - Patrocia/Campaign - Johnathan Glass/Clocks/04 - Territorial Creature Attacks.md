@@ -1,10 +1,10 @@
 ---
-name: 11 - Miwako returns to Minami
+name: 04 - Territorial Creature Attacks
 segments: 4
-progress: 2
+progress: 1
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

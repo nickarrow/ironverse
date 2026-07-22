@@ -198,5 +198,6 @@ They come out of warp in orbit of a large, uninhabited planet.  They enjoy havin
 
 `iv-progress:Finish an Expedition|16 - Expedition to find Tomiko|7|6|4|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/16 - Expedition to find Tomiko.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md|6|10|epic|4`  `iv-track-advance:15 - Find Tomiko's Relic|The Starforged/Campaign Jett Foley/Progress/Jett/Vows/15 - Find Tomiko's Relic.md|8|16|dangerous|1`  `iv-track-complete:16 - Expedition to find Tomiko|The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/16 - Expedition to find Tomiko.md` 
 
+They come out of warp and see the *Golden Lyre*.
 
-
+`iv-noroll:End a Session|move:starforged/session/end_a_session` 

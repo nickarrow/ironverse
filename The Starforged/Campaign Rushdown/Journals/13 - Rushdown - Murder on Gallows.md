@@ -102,7 +102,7 @@ Looking at the position of the body and the nature of the killing blow, Rushdown
 
 `iv-track-advance:13 - Solve Fixer's murder|The Starforged/Campaign Rushdown/Progress/Vows/13 - Solve Fixer's murder.md|0|12|troublesome|1` 
 
-Rushdown follows the trail, which leads back into Redblood's territory, to the roof of a tavern.  Rushdown goes down the stairs and into the bar - he gets a strange look from thr barman as he exits the staff-only area.  He walks up to the barman and says "I'm working for Redblood.  Did Fixer use to come in here?"
+Rushdown follows the trail, which leads back into Redblood's territory, to the roof of a tavern.  Rushdown goes down the stairs and into the bar - he gets a strange look from the barman as he exits the staff-only area.  He walks up to the barman and says "I'm working for Redblood.  Did Fixer use to come in here?"
 
 "Yeah, from time to time."
 
@@ -154,7 +154,7 @@ Rushdown heads to the spaceport and checks the ship registry.
 
 >Is the ship docked?  `iv-oracle:50/50|46|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
-The ship is still docked at Gallows.  Rushdown makes his way to the ship and sends a message to it.
+The ship is still docked at Gallows.  Rushdown makes his way to the ship and hails it from his communicator.
 
 "Who are you, and what do you want?" comes the reply.
 
@@ -234,7 +234,7 @@ They slide out of warp in orbit of an ice world.  Leonid's ship is right ahead o
 
 "I'll tell you what I know if you promise to let me go.  And deliver something to the Ironsails for me."
 
-"Depends what you want me to deliver, but s.ure."
+"Depends what you want me to deliver, but sure."
 
 "Ok, here's what happened.  Fixer stole our chief's black iron dagger.  They had some falling out about a job, and Fixer took the dagger as leverage.  The chief gave me the job of getting it back."
 
@@ -266,7 +266,7 @@ They dock, and Rushdown heads straight to Redblood's office.
 
 "So, did you find the killer?"
 
-"Weren't no killer," says Rushdown.  "Fixer stole from the Ironbloods, and fell from a roof fleeing from the man they sent to get their goods back."
+"There wasn't a killer," says Rushdown.  "Fixer stole from the Ironbloods, and fell from a roof fleeing from the man they sent to get their goods back."
 
 "So it was the Ironbloods?"
 
@@ -278,10 +278,10 @@ They dock, and Rushdown heads straight to Redblood's office.
 
 "Leonid.  He's In my brig, he wants to turn himself in.  Figures the Ironbloods will take the blame if he doesn't."
 
-"That's a tricky one.  There are more and more Ironbloods aboard Gallows these days, but my lads are going to want some kind of retribution.  We might even have to have a Fair Trial.  We haven't had one of those in years."
+"That's a tricky one.  There are more and more Ironbloods aboard Gallows these days, but my lads are going to want some kind of retribution.  That spells trouble whatever we do with him.  We might even have to have a Fair Trial.  We haven't had one of those in years."
 
-"Politics is out of my league.  I'll arrange the prisoner transfer," says Rushdown.
+"Politics is out of my league, but I'll arrange the prisoner transfer," says Rushdown.
 
 ---
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|5|6` 
