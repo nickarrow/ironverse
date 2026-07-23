@@ -152,7 +152,11 @@ The Ogre carefully counts out every last penny.  "Wonderful," he says, "Pleasure
 
 `iv-track-advance:Connection Ogre|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ogre.md|4|8|formidable|1` 
 
-Johnny heads back to the Three Lillies.  He talks to Sticky Joe.  "Any jobs while I was out?"
+Johnny heads into town to find a healer for his wounds.  The healer takes one look at his leg and tuts.
+
+`iv-move:Heal|Iron|2|4|0|10|9|move:starforged/recover/heal|burn=10:2`  `iv-meter:Momentum|2|0`  `iv-meter:Health|3|5` 
+
+Johnny heads back to the Three Lillies.  He talks to Sticky Joe.  "Any jobs come in while I was out?"
 
 "Nope."
 
@@ -168,5 +172,5 @@ Johnny heads back to the Three Lillies.  He talks to Sticky Joe.  "Any jobs whil
 
 `iv-clock-create:06 - Gang Vengence|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/06 - Gang Vengence.md` 
 
-REMEMBER TO HEAL!
+`iv-meter:Momentum|0|1` 
 
