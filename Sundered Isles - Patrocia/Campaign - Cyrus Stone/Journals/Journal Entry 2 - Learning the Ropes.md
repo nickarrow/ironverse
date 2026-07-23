@@ -105,7 +105,7 @@ Opting not to push my luck, I resume the following heading set by the rope bridg
 
 ---
 
-`iv-move:Undertake an Expedition|Wits|6|2|0|4|7|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:Explore the Jungle|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|32|40|dangerous|1` 
+`iv-move:Undertake an Expedition|Wits|6|2|0|4|7|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:Explore the Jungle|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md|32|40|dangerous|1` `iv-track-advance:Quests|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md|2|4|epic|2` 
 
 I cross a river and what feels like miles of jungle, but my heart skips a beat when I spot an actual beaten path. Sure it wasn't a proper road, but it also wasn't overgrown or filled with webs or nesting birds and giant reptiles! My heart feels light and i can't help but grin at the sight. I can only hope I pick the right direction to follow.
 

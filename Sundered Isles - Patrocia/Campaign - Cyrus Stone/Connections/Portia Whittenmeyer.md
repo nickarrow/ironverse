@@ -1,12 +1,13 @@
 ---
-name: Get to Safety
-rank: troublesome
-progress: 36
+name: Portia Whittenmeyer
+rank: dangerous
+progress: 0
 tags:
   - incomplete
-track-type: Vow
+track-type: Connection
 character: "[[Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md]]"
 iron-vault-kind: progress
+
 ---
 
 
