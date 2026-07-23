@@ -1,10 +1,10 @@
 ---
-name: 05 - Clear out the crypt
-rank: formidable
-progress: 36
+name: 06 - Gang Members
+rank: dangerous
+progress: 32
 tags:
   - complete
-track-type: Vow
+track-type: Combat
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---

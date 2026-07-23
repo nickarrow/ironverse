@@ -8,3 +8,5 @@
 - 04 - Bone hairpin
 - 04 - The Triple Crown
 - 05 - Adventurers Guild?
+- 06 - Marked for vengence by gang
+- 06 - Horatio Blake

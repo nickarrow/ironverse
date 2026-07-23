@@ -1,10 +1,10 @@
 ---
-name: 05 - Clear out the crypt
-rank: formidable
+name: 06 - Second Floor Expedition
+rank: troublesome
 progress: 36
 tags:
   - complete
-track-type: Vow
+track-type: Expedition
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---

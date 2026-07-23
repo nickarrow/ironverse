@@ -223,7 +223,7 @@ Johnny inspects the creature's greatsword.  It seems to glow in the dark and is 
 
 `iv-progress:Finish an Expedition|05 - Crypt Expedition|8|8|7|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/05 - Crypt Expedition.md|move:starforged/exploration/finish_an_expedition`  `iv-track-advance:discoveries|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md|7|8|epic|1`  `iv-track-advance:05 - Clear out the crypt|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/05 - Clear out the crypt.md|24|32|dangerous|1`  `iv-track-complete:05 - Crypt Expedition|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/05 - Crypt Expedition.md` 
 
-He realizes that the crypt doesn't have an entrance - aside from the hole in the basement wall, there's no way in or out.  He wonders how many more pockets full of unknown monsters lie buried beneath the city.  He heads back upstairs to tell the client the job is done.
+He realizes that the crypt doesn't have an entrance - aside from the hole in the basement wall, there's no way in or out.  He wonders how many more pockets full of unknown monsters lie buried beneath the city.  He heads back upstairs to tell the client,  `iv-oracle:Given Name|79|Horatio|oracle_rollable:sundered_isles/character/name/given_name`  `iv-oracle:Family Name|63|Blake|oracle_rollable:sundered_isles/character/name/family_name` , the job is done.
 
 `iv-progress:Fulfill Your Vow|05 - Clear out the crypt|8|10|8|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/05 - Clear out the crypt.md|move:starforged/quest/fulfill_your_vow` 
 
@@ -247,3 +247,4 @@ He realizes that the crypt doesn't have an entrance - aside from the hole in the
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|9|10` 
+

@@ -1,10 +1,10 @@
 ---
-name: 05 - Clear out the crypt
+name: 06 - Big Man
 rank: formidable
-progress: 36
+progress: 40
 tags:
   - complete
-track-type: Vow
+track-type: Combat
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
 ---
