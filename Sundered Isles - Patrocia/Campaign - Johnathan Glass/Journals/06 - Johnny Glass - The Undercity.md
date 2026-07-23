@@ -162,7 +162,7 @@ Johnny heads back to the Three Lillies.  He talks to Sticky Joe.  "Any jobs come
 
 "Nope."
 
-"Anyone wanting to join?"
+"Anyone wanting to join up with the guild?"
 
 "Nope."
 
