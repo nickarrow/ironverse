@@ -156,6 +156,8 @@ Johnny heads into town to find a healer for his wounds.  The healer takes one lo
 
 `iv-move:Heal|Iron|2|4|0|10|9|move:starforged/recover/heal|burn=10:2`  `iv-meter:Momentum|2|0`  `iv-meter:Health|3|5` 
 
+Johnny is used to shipboard patch-up jobs but the healer takes her time to meticulously dress Johnny's wounds.  The whole procedure takes much longer than he thought it would.
+
 Johnny heads back to the Three Lillies.  He talks to Sticky Joe.  "Any jobs come in while I was out?"
 
 "Nope."

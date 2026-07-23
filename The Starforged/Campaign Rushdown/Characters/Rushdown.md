@@ -2,12 +2,12 @@
 name: Rushdown
 xp_spent: 9
 xp_added: 0
-momentum: 8
-edge: 3
-heart: 2
-iron: 4
-shadow: 2
-wits: 3
+momentum: 3
+edge: 2
+heart: 1
+iron: 3
+shadow: 1
+wits: 2
 health: 5
 spirit: 4
 supply: 5
@@ -63,7 +63,7 @@ assets:
       - true
       - false
     controls:
-      command: 5
+      command: 4
       command/commandless: false
     options: {}
 ---
