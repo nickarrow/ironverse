@@ -11,7 +11,7 @@ wits: 2
 health: 5
 spirit: 4
 supply: 5
-Bonds_Progress: 4
+Bonds_Progress: 5
 Bonds_XPEarned: 2
 Discoveries_Progress: 8
 Discoveries_XPEarned: 4
@@ -63,7 +63,7 @@ assets:
       - true
       - false
     controls:
-      command: 4
+      command: 3
       command/commandless: false
     options: {}
 ---

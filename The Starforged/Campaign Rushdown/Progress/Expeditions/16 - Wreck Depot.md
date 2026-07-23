@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 20
+name: 16 - Wreck Depot
+rank: troublesome
+progress: 36
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Expedition
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

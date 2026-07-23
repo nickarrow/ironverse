@@ -31,7 +31,6 @@
 - 10 - The ancient rifles
 - 11 - The Board
 - 11 - Paulie
-- 11 - What happened to the Spider
 - 13 - Leonid
 - 13 - Chief's black iron dagger
 - 14 - Dr. Malek
@@ -40,3 +39,5 @@
 - 15 - Vanguard
 - 16 - Alexis Wade
 - 16 - Basilisk
+- 16 - Peace talks
+- 16 - The bounty hunter
