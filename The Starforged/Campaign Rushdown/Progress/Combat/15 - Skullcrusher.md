@@ -1,10 +1,10 @@
 ---
-name: 13 - Investigate missing scientist
-rank: troublesome
-progress: 40
+name: 15 - Skullcrusher
+rank: formidable
+progress: 36
 tags:
-  - complete
-track-type: Vow
+  - incomplete
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

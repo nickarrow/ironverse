@@ -1,11 +1,12 @@
 ---
-name: 10 - Satonaka Return
+name: Ascendancy scouts arrive in Ashitaba
 segments: 4
-progress: 3
+progress: 0
 default-odds: no roll
 tags:
   - incomplete
 iron-vault-kind: clock
+
 ---
 
 

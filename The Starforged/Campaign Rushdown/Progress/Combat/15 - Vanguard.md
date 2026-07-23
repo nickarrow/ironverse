@@ -1,10 +1,10 @@
 ---
-name: 13 - Investigate missing scientist
+name: 15 - Vanguard
 rank: troublesome
 progress: 40
 tags:
   - complete
-track-type: Vow
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

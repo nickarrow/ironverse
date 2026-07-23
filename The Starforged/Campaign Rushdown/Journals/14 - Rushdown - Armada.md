@@ -199,3 +199,5 @@ Rushdown contacts Paulie the Hook and informs him about Captain Hook.
 "I think I'm going to head to Tranquilo to find the guy who's been sending mercs after me before he causes any more trouble."
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|5|6` 
+
+`iv-track-complete:13 - Investigate missing scientist|The Starforged/Campaign Rushdown/Progress/Vows/13 - Investigate missing scientist.md` 
