@@ -280,3 +280,5 @@ Rushdown heads back to the *Seventh Sun*.  The crew seem stressed - he pushed th
 ---
 
 `iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|2|3` 
+
+>That expedition was agonizingly slow, so I'm going back to 43322 for the next one
