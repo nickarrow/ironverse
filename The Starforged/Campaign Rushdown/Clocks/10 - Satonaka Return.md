@@ -1,10 +1,10 @@
 ---
 name: 10 - Satonaka Return
 segments: 4
-progress: 3
+progress: 4
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

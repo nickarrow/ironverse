@@ -4,7 +4,6 @@
 - 01 - What is Cassidy doing?
 - 01 - Increased pirate activity?
 - 01 - Papa Angel's fate
-- 01 - Skullcrusher's gang in Southside
 - 02 - Larissa Station
 - 02 - Wulfric
 - 02 - Florian Angel
@@ -32,10 +31,12 @@
 - 10 - The ancient rifles
 - 11 - The Board
 - 11 - Paulie
-- 11 - The Contract
-- 11 - Skullcrusher's bounty
 - 11 - What happened to the Spider
 - 13 - Leonid
 - 13 - Chief's black iron dagger
 - 14 - Dr. Malek
 - 14 - Captain Hook
+- 15 - Skullcrusher (after the fight)
+- 15 - Vanguard
+- 16 - Alexis Wade
+- 16 - Basilisk

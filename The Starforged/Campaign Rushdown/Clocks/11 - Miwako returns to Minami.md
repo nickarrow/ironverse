@@ -1,10 +1,10 @@
 ---
 name: 11 - Miwako returns to Minami
 segments: 4
-progress: 3
+progress: 4
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

@@ -148,7 +148,7 @@ His next attack sends Skullcrusher down to one knee.  Rushdown aims a kick at hi
 
 The kick lands clean, right on Skullcrusher's jaw.
 
-`iv-progress:Take Decisive Action|15 - Skullcrusher|9|10|4|The Starforged/Campaign Rushdown/Progress/Combat/15 - Skullcrusher.md|move:starforged/combat/take_decisive_action`  `iv-meter:Momentum|10|8` 
+`iv-progress:Take Decisive Action|15 - Skullcrusher|9|10|4|The Starforged/Campaign Rushdown/Progress/Combat/15 - Skullcrusher.md|move:starforged/combat/take_decisive_action`  `iv-meter:Momentum|10|8`  `iv-track-complete:15 - Skullcrusher|The Starforged/Campaign Rushdown/Progress/Combat/15 - Skullcrusher.md`  `iv-clock-resolve:15 - Backup arrives|The Starforged/Campaign Rushdown/Clocks/15 - Backup arrives.md` 
 
 Skullcrusher slumps to the ground, unable to continue the fight.  Rushdown goes over to his body and searches for the release mechanism for Skullcrusher's robotic arm.  It takes a minute, but finally he unhitches it and takes it with him.  He doesn't usually take trophies, but this is to send a message to Southside.
 
@@ -162,4 +162,6 @@ Sloane is glad he came in; the bullet is close to a vital organ and Rushdown nee
 
 `iv-move:Set a Course|Supply|3|5|1|6|8|move:starforged/exploration/set_a_course|adds=1` 
 
-They arrive, and Gray contacts them.  She has a mission for them from Minami.  Now that the Board is in charge, they want to reconcile with the Resistance and are in negotiations with them.  They want to release The Spider as a sign of goodwill, but are still wary of Resistance traps on Minami ships so they want the *Seventh Sun* to deal with the transfer.
+They arrive, and Gray contacts them.  She has a mission from Minami.
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|6|7` 
