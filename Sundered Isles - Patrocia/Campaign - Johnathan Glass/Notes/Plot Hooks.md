@@ -10,3 +10,7 @@
 - 05 - Adventurers Guild?
 - 06 - Marked for vengence by gang
 - 06 - Horatio Blake
+- 07 - Havoc
+- 07 - The Two Billies
+- 07 - Blackfriar's Adventurer's Guild 
+- 07 - Ernesto Mason
