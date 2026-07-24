@@ -203,7 +203,7 @@ Sure enough he saw about three dozen of the local toughs blocking the road, arme
 
 But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia that was referred to (at least amongst the Serrato) as the “Star-Whirl Sword”, that marked an ordained knight of the Ethereals. 
 
-`iv-oracle:Descriptor|159|Lifeless|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Descriptor|103|Artificial|oracle_rollable:starsmith/core/descriptor` The men themselves seemed more like statues than people, facing forward impassively into
+`iv-oracle:Descriptor|159|Lifeless|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Descriptor|103|Artificial|oracle_rollable:starsmith/core/descriptor` “I will ask again, Sergeant.” One of the knights asked with almost sterile politeness, his augmetic hand not even twitching towards his depowered energy blade as he spoke to a corporate enforcer twice his size yet infinitely more nervous. “In the name of Justice and Peace, allow us to pass and meet with your employers.”
 
 “Could you…*not* kill everyone you see, Tybalt? As vile as what was done to your clan is, the people at the R.U. Offices  cannot all be involved in the plot”
 
