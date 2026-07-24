@@ -1,23 +1,23 @@
-> _"Iron rusts. Flesh falters. Deeds Endure."_  
-> _- Common Serrato motto_
+>*"Iron rusts. Flesh falters. Deeds Endure."*
+>*- Common Serrato motto*
 
-CALIGO GAMUT SECTOR  
-PORT KOSHIBA, PLANETSIDE STARPORT  
+CALIGO GAMUT SECTOR
+PORT KOSHIBA, PLANETSIDE STARPORT 
 DRYDOCK GAMMA-12 (OCCUPIED: CRUISER-CLASS WARSHIP "KAAL-KAAZ")
 
-Begin a Session Begin a Session(87)Peril lies ahead or lurks just out of view Tybalt held his head high as he suffered nobly through the unrelenting mockery of his Serrato kinfolk (of both the _Kaal-Kaaz_ and _Clarion Call_), the latest blow being Jeek-Harper sharing his real-time monitoring of Koshiban social media after he betrayed his Reaver-Chief by sharing a personally edited clip of the former's appearance on official news channels, where Tybalt's voice was auto-tuned for comical effect. The great warrior mastered himself as the laughter on the comms redoubled when the public's comments on it passed a thousand within the last hour. He had already dispensed monetary compensation, billed to his family holdings via the Courier Guild and thus honour was satisfied for the mess he had made, but there yet remained the taunting judgement of his peers.
+`iv-noroll:Begin a Session|move:starforged/session/begin_a_session`  `iv-oracle:Begin a Session|87|Peril lies ahead or lurks just out of view|move.oracle_rollable:starforged/session/begin_a_session.begin_a_session` Tybalt held his head high as he suffered nobly through the unrelenting mockery of his Serrato kinfolk (of both the *Kaal-Kaaz* and *Clarion Call*), the latest blow being Jeek-Harper sharing his real-time monitoring of Koshiban social media after he betrayed his Reaver-Chief by sharing a personally edited clip of the former's appearance on official news channels, where Tybalt's voice was auto-tuned for comical effect. The great warrior mastered himself as the laughter on the comms redoubled when the public's comments on it passed a thousand within the last hour. He had already dispensed monetary compensation, billed to his family holdings via the Courier Guild and thus honour was satisfied for the mess he had made, but there yet remained the taunting judgement of his peers.
 
-He would most certainly dispense harsh punishments for this betrayal, because he definitely wasn't laughing with them, Epathus included. Likely(47)Yes Develop Your Relationship [Find where he stands with Epathus](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/progress/tybalt-yhen-serrato/find-where-he-stands-with-epathus) +1 (3/10)
+He would most certainly dispense harsh punishments for this betrayal, because he definitely wasn't laughing with them, Epathus included. `iv-oracle:Likely|47|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  `iv-noroll:Develop Your Relationship|move:starforged/connection/develop_your_relationship`  `iv-track-advance:Find where he stands with Epathus|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|12|14|extreme|1` 
 
-But there yet remained the matter of their prisoner, whom he and Paxel were dragging back to the _Kaal-Kaaz_ for interrogation.
+But there yet remained the matter of their prisoner, whom he and Paxel were dragging back to the *Kaal-Kaaz* for interrogation.
 
-> Was this attack ordered by an important local? Likely(6)Yes
+> Was this attack ordered by an important local? `iv-oracle:Likely|6|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.likely`  
 
 Did the local law enforcement (A rabble of Audun-born musclemen and two-credit mercenaries hiding from the consequences of past deeds in Terminus, who primarily exist to protect the interests of their disparate patrons) try to stop them, presumably to stop Tybalt from finding out some inconvenient truth?
 
 Yes.
 
-Compel(Iron)—9 vs 6|7 But were they paid enough to tell a Serrato Bannersworn in full warplate that he couldn’t do what he wanted?
+`iv-move:Compel|Iron|6|3|0|6|7|move:starforged/adventure/compel` But were they paid enough to tell a Serrato Bannersworn in full warplate that he couldn’t do what he wanted?
 
 No.
 
@@ -33,22 +33,22 @@ And right then, Tybalt puts a hand on the barrel and forces it down, and the liz
 
 “A medium of communication, at present.” Tybalt interrupts, even if his voice is rich with discomfort, before turning to the risen corpse. “What do you seek from Household Serrato, that you would call upon the services of a [First Light](obsidian://open?vault=Ironverse&file=The%20Starforged%2FLocations%2FSettlements%2FFirst%20Light) corpse-witch?”
 
-Descriptor(131)Exotic The jerkiness begins to recede, and the corpse more readily assumes the straight-backed posture of a Terminus socialite as it removed its mask, to show that the dead man’s dusky features wore another person’s smile.
+`iv-oracle:Descriptor|131|Exotic|oracle_rollable:starsmith/core/descriptor` The jerkiness begins to recede, and the corpse more readily assumes the straight-backed posture of a Terminus socialite as it removed its mask, to show that the dead man’s dusky features wore another person’s smile.
 
 “Only to help, Tybalt-Yhen.” Said the stranger with all the glee of a shameless liar “We have a common enemy at the moment, who has taken umbrage with your questions.” As if to clarify, they gestures loosely at the body they had puppeted.
 
-> Is it part of the Risen Union? 50/50(43)Yes  
-> Character Goal(197)Action + Theme, Establish reputation Action + Theme(41)Journey Debt Type(250)▶Data Harvesters - Keepers of knowledge Data Harvesters Role(86)Surveillance experts
+> Is it part of the Risen Union?  `iv-oracle:50/50|43|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
+`iv-oracle:Character Goal|197|Action + Theme, Establish reputation|oracle_rollable:starsmith/characters/goal`  `iv-oracle:Action + Theme|41|Journey Debt|oracle_rollable:starforgedsupp/templates/actiontheme` `iv-oracle:Type|250|▶Data Harvesters - Keepers of knowledge|oracle_rollable:starsmith/factions/type`  `iv-oracle:Data Harvesters Role|86|Surveillance experts|oracle_rollable:starsmith/factions/role` 
 
-"Have you noticed the Risen Union showing up more and more lately? There's nothing special at first glance, just another conglomerate charging whole limbs for their goods, in their case mass-produced goods. Even having whole production lines of _gunpowder munitions_ fit only for hardscrabble colonist militias.
+"Have you noticed the Risen Union showing up more and more lately? There's nothing special at first glance, just another conglomerate charging whole limbs for their goods, in their case mass-produced goods. Even having whole production lines of *gunpowder munitions* fit only for hardscrabble colonist militias.
 
-This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the _good fortune_ of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond. This one was merely a chess piece moved by their hand, who got his ambitions stoked by a sizeable payout and the potential fame of taking the head of a Serrato House-Brother.”
+This, of course, is a farce. The real heart of the group, whether it was always there or just hollowed out an existing group fit for purpose, are infobrokers. Spies and the like, who seem very good at their job. Why, they've managed the *good fortune* of steering clear of any sort of trouble from the Ascendancy, and so their star is in ascendance here in Port Koshiba and beyond. This one was merely a chess piece moved by their hand, who got his ambitions stoked by a sizeable payout and the potential fame of taking the head of a Serrato House-Brother.”
 
 “And we're supposed to just believe you?" Paxel interjects, waving his gun at the reanimated corpse in flagrant violation of gun safety, and Tybalt nods in the scavenger's direction
 
 "And that is just the most relevant thing. Why should I care what skeletons the Risen Union keep in their closet? Knowledge is power in the Forge, of course it is hoarded. Why should they distract from my Iron Vow?"
 
-> Has the Risen Union done anything that affected Household Serrato? 50/50(50)Yes
+> Has the Risen Union done anything that affected Household Serrato?  `iv-oracle:50/50|50|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`
 
 The corpse makes Tybalt want to bisect it by dramatically feigning shock for its puppeteer. “Oh my Stars! And here I thought the Serrato prized family?”
 
@@ -56,38 +56,38 @@ In the blink of an eye, the persona of an irritating trust-fundee gives way to t
 
 “What if your father's corpse was in that closet? Literally, not merely in metaphor.”
 
-A minute of stunned silence passes before either responds. “Bullshit” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the _Hermes_ when it self-destructed. The battle-reports confirm it.”
+A minute of stunned silence passes before either responds. “Bullshit” Tybalt tries to declare, horrified by how weak he sounded. “He was fighting near the e-drive of the *Hermes* when it self-destructed. The battle-reports confirm it.”
 
-“They confirm his _warplate_ was detected the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?” The corpse suggests.
+“They confirm his *warplate* was detected the e-drive. But can you say he was seen alive and fighting, or was it simply hacked to declare as much?” The corpse suggests.
 
 “But to what end?” Tybalt asks in a low growl, confusion fermenting into blood-red fury in his breast as the concept took root in his mind.
 
 The corpse shrugs. “That remains to be discovered. This isn’t a holodrama, Tybalt-Yhen, I do not inexplicably have all the answers for you. What I can tell you is that the trail leads to the Risen Union’s planetary holdings on Audun.”
 
-“How convenient.” Paxel comments dryly, his obvious disbelief pulling Tybalt out of his singular train of thought. “_”OooOh, there’s good stuff right here, just over this ledge, go on take a look.”_ You think I haven’t pulled that trick on someone? Maybe put something on the line that actually means something, if you’re not just trying to get us to wipe out your competition free of charge.”
+“How convenient.” Paxel comments dryly, his obvious disbelief pulling Tybalt out of his singular train of thought. “*”OooOh, there’s good stuff right here, just over this ledge, go on take a look.”* You think I haven’t pulled that trick on someone? Maybe put something on the line that actually means something, if you’re not just trying to get us to wipe out your competition free of charge.”
 
-[Determine if the Ascendancy attacked Helia-36, and destroy them if they did](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/progress/tybalt-yhen-serrato/pirate-hunt) +1 (1/10) Swear an Iron Vow(Heart)—3 vs 3|9 [bonds](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/characters/tybalt-yhen-serrato) +1 (1/10) Momentum:2 → 4
+`iv-track-advance:Determine if the Ascendancy attacked Helia-36, and destroy them if they did|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md|0|4|formidable|1`  `iv-move:Swear an Iron Vow|Heart|1|2|0|3|9|move:starforged/quest/swear_an_iron_vow|burn=10:2`  `iv-track-advance:bonds|The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt-Yhen Serrato.md|6|7|epic|1`  `iv-meter:Momentum|2|4` 
 
-Annoyance was writ clear upon the stolen face of their guest, but he ultimately sighs and gestures to _Shattersky_. Understanding the implication, Tybalt holds out the axe to him, black iron head first, which he lays a stolen hand on.
+Annoyance was writ clear upon the stolen face of their guest, but he ultimately sighs and gestures to *Shattersky*. Understanding the implication, Tybalt holds out the axe to him, black iron head first, which he lays a stolen hand on.
 
 “Though it serves my purposes that you follow my suggestion, I swear to you, On Iron, that what I have said about your father’s fate, and the involvement of the Risen Union, is true. Let this axe taste my lifesblood if I have spoken false.”
 
-Through all this, Tybalt and Paxel search for any trace of falsehood in the vow…and finds none.  
-[Raze the RU Offices in Port Koshiba to the ground](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/progress/raze-the-ru-offices-in-port-koshiba-to-the-ground)
+Through all this, Tybalt and Paxel search for any trace of falsehood in the vow…and finds none.
+`iv-track-create:Raze the RU Offices in Port Koshiba to the ground|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Raze the RU Offices in Port Koshiba to the ground.md` 
 
-“How much is there to kill?” Tybalt says at last. Gather Information(Wits)—3 vs 5|5match
+“How much is there to kill?” Tybalt says at last. `iv-move:Gather Information|Wits|1|2|0|5|5|move:starforged/adventure/gather_information` 
 
-Without prompting, data filters onto his HUD, and though he expects little will come of it Tybalt makes a mental note to overhaul his armor’s digital defences “They’ve a factory in the underground sections, but leaving that intact to be taken over by their rivals will make it easier for you to leave Port Koshiba unchallenged.
+Without prompting, data filters onto his HUD, and though he expects little will come of it Tybalt makes a mental note to overhaul his armor’s digital defences “They’ve a factory in the underground sections, but leaving that intact to be taken over by their rivals will make it easier for you to leave Port Koshiba unchallenged. 
 
 No, the greater issue for you is that the administrative centre of the RU is in the Oldtown district: The original settlement before they had to expand. Luxurious apartments, garden-domes, regular patrols of law enforcement, it is Audun’s little slice of Sirona. Which is to say, barging in with mag-cannons firing will alienate all those who matter in Port Koshiba.”
 
-As if sensing that Tybalt’s current solution to this conundrum was “Not Caring”, he then adds “And to cause the havoc that comes with a full assault would be disruptive to Port Koshiba, and would harm the interests of the Circle of the Elder Stars. And the Serrato _are_ loyal to the Circle and Conclave, are they not?“
+As if sensing that Tybalt’s current solution to this conundrum was “Not Caring”, he then adds “And to cause the havoc that comes with a full assault would be disruptive to Port Koshiba, and would harm the interests of the Circle of the Elder Stars. And the Serrato *are* loyal to the Circle and Conclave, are they not?“
 
 Many commanders from other houses (and in fact many from House Serrato as well) would rage and rail at the insinuation, whether true or otherwise. Tybalt recoiled as if physically struck.
 
 “You do not need to lecture me like some unruly cargo-loader. If the Conclave wishes the indolence of Port Koshiba’s highest undisturbed, then none will note my passage. Will we meet again, after they are dealt with?”
 
-> Make a Connection(Heart)—5 vs 1|1match Does the new contact reside on Reck? 50/50(9)Yes Callsign(126)Darkwing Role(98)Scientist, Action + Theme Action(233)Expose Theme(49)Knowledge Revealed Character Aspect(131)Dynamic Rank(84)Extreme NPC:[Telrai Telemachon](https://ironverse.quest/the-starforged/npcs/telrai-telemachon) First Look(176)Prim [Dr. Telrai's Bizarre Company](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/progress/dr.-telrais-bizarre-company)
+>  `iv-move:Make a Connection|Heart|3|2|0|1|1|move:starforged/connection/make_a_connection`  Does the new contact reside on Reck? `iv-oracle:50/50|9|Yes|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty`  `iv-oracle:Callsign|126|Darkwing|oracle_rollable:starsmith/characters/name/callsign`  `iv-oracle:Role|98|Scientist, Action + Theme|oracle_rollable:starsmith/characters/role`  `iv-oracle:Action|233|Expose|oracle_rollable:starsmith/core/action`  `iv-oracle:Theme|49|Knowledge|oracle_rollable:starsmith/core/theme`  `iv-oracle:Revealed Character Aspect|131|Dynamic|oracle_rollable:starsmith/characters/revealed_aspect`  `iv-oracle:Rank|84|Extreme|oracle_rollable:sundered_isles/misc/magnitude/rank`  `iv-entity-create:NPC|Telrai Telemachon|The Starforged/NPCs/Telrai Telemachon.md`  `iv-oracle:First Look|176|Prim|oracle_rollable:starsmith/characters/first_look`  `iv-track-create:Dr. Telrai's Bizarre Company|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Bizarre Company.md` 
 
 “No.” He says with the surety of one saying that water is wet. “But now that I have your measure…I think there is someone you should meet.”
 
@@ -101,7 +101,7 @@ As Tybalt leaned over to check, he was unsurprised to see it was a pretty woman,
 
 Tybalt asserts his right of command to move to the next file despite Paxel’s complaints, and he had to concede that his misgivings disappeared at once.
 
-> _The grainy video-feed is cast in darkness and strobing red as it depicted the POV of some security camera watching a battle. Armoured enforcers attempted to gun down a darting black blur flitting between them with cackling laughter. Every time it draws near to one, body parts go flying: A hand here, a head there, and as a result the gunfire diminishes by process of elimination. The video ends with the murderous shape of dark fabric landing among the remaining four men, and decapitating them all with a slashing piroutte of her black iron sword, for now the figure remained still enough that at the video’s end to show the face of that vain noble’s daughter, frozen in gleeful exultation._
+> *The grainy video-feed is cast in darkness and strobing red as it depicted the POV of some security camera watching a battle. Armoured enforcers attempted to gun down a darting black blur flitting between them with cackling laughter. Every time it draws near to one, body parts go flying: A hand here, a head there, and as a result the gunfire diminishes by process of elimination. The video ends with the murderous shape of dark fabric landing among the remaining four men, and decapitating them all with a slashing piroutte of her black iron sword, for now the figure remained still enough that at the video’s end to show the face of that vain noble’s daughter, frozen in gleeful exultation.*
 
 Tybalt was…not sure how to feel. So like some ancient wayfarer seeking to find the cardinal directions by the position of the stars, he attempts to orient himself by measuring against Paxel.
 
@@ -115,7 +115,7 @@ He was besotted.
 
 “Ah yes, she had decided that a good use of her time was to reveal how to jailbreak the operating systems of agricultural equipment in an entire sector, and so she needed to get a look at their most guarded data.”
 
-“_...Whose daughter is she?_” Is all Tybalt asks in response to that. Because what was just said would be deemed reasonable cause by a Terminus corporation to raze a planet to the bedrock if it would preserve their control over their secrets. The only thing that could stop them being the _absolute backing_ of someone vastly more powerful.
+“*...Whose daughter is she?*” Is all Tybalt asks in response to that. Because what was just said would be deemed reasonable cause by a Terminus corporation to raze a planet to the bedrock if it would preserve their control over their secrets. The only thing that could stop them being the *absolute backing* of someone vastly more powerful.
 
 “A beloved one. Her eccentricities are indulged for excelling in the sciences.”
 
@@ -125,28 +125,28 @@ The corpse smiles, and answers without the slightest shred of humour. “All of 
 
 Paxel, at this moment finally releases a horrified breath at seeing a female version of his boss to look at said man, and so he sees Tybalt just as flabbergasted as when he heard his father’s corpse might have been stolen.
 
-“You are telling me the heir of a _sitting Councilor of the Conclave_ is slumming it in the Expanse? And...do you suspect the pirates know?”
+“You are telling me the heir of a *sitting Councilor of the Conclave* is slumming it in the Expanse? And...do you suspect the pirates know?”
 
-"Shall I monitor the situation to find out for certain?" Is the rhetorical answer to Tybalt's question. "No, I shall be comfortable with killing them before they can think of doing so. She is, of course, guarded already, but what is forming in Devil's Chain is no mere scrap-bandit coalition. And-" The face of the corpse slackens strangely, and the following words grow garbled until the end is little more than the death rattle of a corpse. "Our time runs short. Decimate the Risen Union presence here then make for Reck without delayyyy-"
+"Shall I monitor the situation to find out for certain?" Is the rhetorical answer to Tybalt's question. "No, I shall be comfortable with killing them before they can think of doing so. She is, of course, guarded already, but what is forming in Devil's Chain is no mere scrap-bandit coalition. And-" The face of the corpse slackens strangely, and the following words grow garbled until the end is little more than the death rattle of a corpse. "Our time runs short. Decimate the Risen Union presence here then make for Reck without delayyyy-" 
 
-When the body collapses dead, and moves no longer. Paxel is the one to break the new silence with his characteristic 'eloquence'. "Tybalt, what in my fucking ass warts was that? That was a _dead body_ and someone was tal-talking through-"
+When the body collapses dead, and moves no longer. Paxel is the one to break the new silence with his characteristic 'eloquence'. "Tybalt, what in my fucking ass warts was that? That was a *dead body* and someone was tal-talking through-"
 
-"The Ironhome of Lost Light offers the services of those that can manipulate the dead to those whose coin is most handsome, but I don't try to learn more. It _does_ bother me too." Tybalt answers as he reorients his thoughts back to war. "But we must not tarry any longer, it seems there is vengeance I am long overdue in exacting."
+"The Ironhome of Lost Light offers the services of those that can manipulate the dead to those whose coin is most handsome, but I don't try to learn more. It *does* bother me too." Tybalt answers as he reorients his thoughts back to war. "But we must not tarry any longer, it seems there is vengeance I am long overdue in exacting."
 
-KAAL-KAAZ  
+KAAL-KAAZ
 ARMORY
 
-Compel(Heart)—5 vs 1|5 _"What do you mean you are marching into the Oldtown?"_ Epathus' voice was laced with static from the interference of Audun's perennial static-storms, but his annoyance shone through. _"If this is a vengeance raid for that attempt on your life I understand, those silken sots were already annoying. but you yourself have acknowledged that we must hurry before the trail goes cold. And the ships have been tuned-up, we can leave now."_
+`iv-move:Compel|Heart|2|2|1|1|5|move:starforged/adventure/compel|adds=1(Connection)` *"What do you mean you are marching into the Oldtown?"* Epathus' voice was laced with static from the interference of Audun's perennial static-storms, but his annoyance shone through. *"If this is a vengeance raid for that attempt on your life I understand, those silken sots were already annoying. but you yourself have acknowledged that we must hurry before the trail goes cold. And the ships have been tuned-up, we can leave now."*
 
 "I-" Tybalt begins awkwardly, struggling to think of what to say about his recent encounter without being declared a lunatic. "So all your men are assembled?"
 
-_"Obviously. Dal-Karus of all souls surprised me with his diligence, he was already present at the starport when I checked in the morning. He should be..."_ Epathus' voice trails off, for far longer than it should take him to skim through his roster of bannersworn. Then came a sigh of long suffering.
+*"Obviously. Dal-Karus of all souls surprised me with his diligence, he was already present at the starport when I checked in the morning. He should be..."* Epathus' voice trails off, for far longer than it should take him to skim through his roster of bannersworn. Then came a sigh of long suffering.
 
 "Epathus?"
 
-_"His current location is a gnat of a ship broadcasting Courier Guild markers, which I am currently watching ascend to orbit from where I saw him in the morning. I think his warplate is stowed in its storage bay, judging by where his locator blip is on that ship. We saw him leave the cantina with some woman"_ Tybalt hears the words through gritted teeth
+*"His current location is a gnat of a ship broadcasting Courier Guild markers, which I am currently watching ascend to orbit from where I saw him in the morning. I think his warplate is stowed in its storage bay, judging by where his locator blip is on that ship. We saw him leave the cantina with some woman"* Tybalt hears the words through gritted teeth
 
-"Dal-Karus. Seducing a woman. _Dal-Karus._" Tybalt enunciated to emphasize his disbelief.
+"Dal-Karus. Seducing a woman. *Dal-Karus.*" Tybalt enunciated to emphasize his disbelief.
 
 "The other way around."
 
@@ -154,32 +154,32 @@ _"His current location is a gnat of a ship broadcasting Courier Guild markers, w
 
 "Tybalt, how are you supposed to 'look' like a masochist?" Paxel chimed in unhelpfully
 
-_"I suspect she was already drunk as he was by the time she started propositioning him._"
+*"I suspect she was already drunk as he was by the time she started propositioning him.*" 
 
 "Dal-Karus aside, why did you let him traipse off with her?"
 
-_"We...thought it would improve his attitude."_
+*"We...thought it would improve his attitude."*
 
 "Was she hot?"
 
-"Shut up, Paxel"  
-_"Shut up, Paxel"_
+"Shut up, Paxel"
+*"Shut up, Paxel"*
 
 Pinching the bridge of his nose, Tybalt shelves the idea of asking for his counterpart’s help with the RU. “Well, it seems we both have sudden and urgent business to deal with.”
 
-“_You won’t come with me?_”
+“*You won’t come with me?*”
 
-“Do you want me to see you have to deal with whatever humiliation Dal-Karus has brought upon the _Clarion Call_?”
+“Do you want me to see you have to deal with whatever humiliation Dal-Karus has brought upon the *Clarion Call*?”
 
-[Find where he stands with Epathus](https://ironverse.quest/the-starforged/campaign-tybalt-yhen-serrato/progress/tybalt-yhen-serrato/find-where-he-stands-with-epathus) +1 (4/10) “_Fair point_.”
+`iv-track-advance:Find where he stands with Epathus|The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md|14|16|extreme|1` “*Fair point*.”
 
-“Who knows, perhaps you will have the sole glory of taking a pirate dreadnought by yourself?” Tybalt offers, in reference to an anonymous message he had received ([Message 06 - Jett Foley](https://ironverse.quest/the-starforged/epistolary/message-06---jett-foley))
+“Who knows, perhaps you will have the sole glory of taking a pirate dreadnought by yourself?” Tybalt offers, in reference to an anonymous message he had received ([[Message 06 - Jett Foley]])
 
-“_Assuming I believe it more than some sailor’s tale?_” Epathus’ characteristic sneer was returning to his tone as the subject shifted “_No ship that survives by piracy can afford to match the firepower of a ship of equal tonnage connected to Founder Clan supply-lines. They will need an escort of at least a cruiser and three corvettes to even pose a challenge._”
+“*Assuming I believe it more than some sailor’s tale?*” Epathus’ characteristic sneer was returning to his tone as the subject shifted “*No ship that survives by piracy can afford to match the firepower of a ship of equal tonnage connected to Founder Clan supply-lines. They will need an escort of at least a cruiser and three corvettes to even pose a challenge.*”
 
 “Cornered rats still have teeth.” Tybalt warns, even if it remains coloured by the very same arrogance that Epathus is displaying. “Now retrieve your gunner. I will catch up to you within a day I suspect.”
 
-By now, Tybalt’s armour was repaired and he moved now to address his Bannersworn that had assembled in the nearby hangar bay, and he asked Paxel a question as he made his way there. Secure an Advantage(Wits)—8 vs 10|5
+By now, Tybalt’s armour was repaired and he moved now to address his Bannersworn that had assembled in the nearby hangar bay, and he asked Paxel a question as he made his way there.  `iv-move:Secure an Advantage|Wits|6|2|0|10|5|move:starforged/adventure/secure_an_advantage` 
 
 “Paxel, have your people had the time to find suitable firing positions?"
 
@@ -187,7 +187,7 @@ By now, Tybalt’s armour was repaired and he moved now to address his Bannerswo
 
 "Still a sign that we must take the offices now, lest they destroy what clues there are to find. " Tybalt grunts, "The loss of their cover before the main assault is worth charging"
 
-Compel(Iron)—10 vs 2|2match Momentum:4 → 5
+`iv-move:Compel|Iron|6|3|1|2|2|move:starforged/adventure/compel|adds=1(Secure Advantage)`  `iv-meter:Momentum|4|5` 
 
 "Boss, Kellod's telling me he sees two robed sorts through his scope." Paxel chimed in, a quarter-hour into their march upon the RU offices in Port Koshiba, as he relayed a report from one of their rooftop snipers "Not so much as a shiv between them, but somehow they're not being beaten down by rifle butts for pestering the roadblock...scratch that, they've got something hanging on their belts, both of them. But too slim and short to be shock batons."
 
@@ -201,6 +201,13 @@ The column of black-clad Serrato continued their march down the main street, let
 
 Sure enough he saw about three dozen of the local toughs blocking the road, armed with enough firepower that even Serrato bannersworn needed to be wary, but not enough to actually survive a fight with them. Tybalt assumed they were sacrificial pawns, meant to delay his vengeance on the RU while their notaries made their escape.
 
-But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia of a cracked weighing scale that marked an ordained knight of the Ethereals. Supposedly meant to mark how they understood the principles of their order (which are ostensibly what shall bring true justice to the domains of humanity in the Forge, when they finally reach some nebulous end-point), even if it remained imperfect compared to the Paladins. Of course, only the Archon of the Ethereals could wear a fully intact scale, backed by the sigil of the Circle of the Elder Stars to mark his peerage within the high Conclave.
+But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia of a cracked weighing scale that marked an ordained knight of the Ethereals. 
 
-“Could you…_not_ kill everyone you see, Tybalt? As vile as what was done to your clan is, the people at the R.U. Offices cannot all be involved in the plot”
+
+“Could you…*not* kill everyone you see, Tybalt? As vile as what was done to your clan is, the people at the R.U. Offices  cannot all be involved in the plot”
+
+`iv-move:Face Danger|Heart|1|2|0|7|9|move:starforged/adventure/face_danger`  `iv-meter:Spirit|5|3` 
+
+The very *suggestion* that he take half-measures in exacting his revenge for the murder of his father makes Tybalt’s blood boil.
+
+“…I do this *solely* for the services previously rendered by the Ethereals to my clan.” He spits out bitterly.
