@@ -201,8 +201,9 @@ The column of black-clad Serrato continued their march down the main street, let
 
 Sure enough he saw about three dozen of the local toughs blocking the road, armed with enough firepower that even Serrato bannersworn needed to be wary, but not enough to actually survive a fight with them. Tybalt assumed they were sacrificial pawns, meant to delay his vengeance on the RU while their notaries made their escape.
 
-But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia of a cracked weighing scale that marked an ordained knight of the Ethereals. 
+But said toughs were also engaged in a standoff with the two figures that Paxel described. And Tybalt felt his own suspicions confirmed as he saw emblazoned on the robes of both men the insignia that was referred to (at least amongst the Serrato) as the “Star-Whirl Sword”, that marked an ordained knight of the Ethereals. 
 
+`iv-oracle:Descriptor|159|Lifeless|oracle_rollable:starsmith/core/descriptor`  `iv-oracle:Descriptor|103|Artificial|oracle_rollable:starsmith/core/descriptor` The men themselves seemed more like statues than people, facing forward impassively into
 
 “Could you…*not* kill everyone you see, Tybalt? As vile as what was done to your clan is, the people at the R.U. Offices  cannot all be involved in the plot”
 
