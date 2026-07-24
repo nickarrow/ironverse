@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 24
+name: 17 - Deal with the raiders
+rank: dangerous
+progress: 16
 tags:
   - incomplete
-track-type: Connection
+track-type: Vow
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

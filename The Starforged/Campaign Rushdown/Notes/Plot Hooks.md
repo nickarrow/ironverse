@@ -2,7 +2,6 @@
 
 
 - 01 - What is Cassidy doing?
-- 01 - Increased pirate activity?
 - 01 - Papa Angel's fate
 - 02 - Larissa Station
 - 02 - Wulfric
@@ -12,11 +11,9 @@
 - 04 - Switchblade (on Gallows)
 - 04 - Satonaka
 - 05 - Gangs of Southside
-- 05 - Bigmouth
 - 05 - Angel Enforcers
 - 06 - Rahul Shah
 - 06 - Captain Finn
-- 06 - The Miwako
 - 07 - Juliana Barbosa
 - 08 - Angel Sisters
 - 08 - Cleveland/Long Haul
@@ -41,3 +38,11 @@
 - 16 - Basilisk
 - 16 - Peace talks
 - 16 - The bounty hunter
+- 16 - The Miwako
+- 17 - Machete / Snakepit
+- 17 - Bigmouth betrayal?
+- 17 - Gallows Chief favor
+- 17 - Crux
+- 17 - Barracuda in the brig
+- 17 - Gutshot
+- 17 - Barracuda base

@@ -24,7 +24,7 @@
 
 ---
 
-With the mission completed, Rushdown focuses on investigating the missing Minami scientist that Dr. Sloane told him about.  He heads to the research facility.
+With the mission completed, Rushdown returns the chief's black iron dagger, then focuses on investigating the missing Minami scientist that Dr. Sloane told him about.  He heads to the research facility.
 
 `iv-move:Set a Course|Supply|5|5|0|1|1|move:starforged/exploration/set_a_course`  `iv-meter:Momentum|7|8` 
 

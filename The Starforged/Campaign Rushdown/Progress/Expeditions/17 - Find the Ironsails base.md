@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 24
+name: 17 - Find the Ironsails base
+rank: dangerous
+progress: 8
 tags:
   - incomplete
-track-type: Connection
+track-type: Expedition
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

@@ -2,7 +2,7 @@
 name: Rushdown
 xp_spent: 9
 xp_added: 0
-momentum: 3
+momentum: 9
 edge: 3
 heart: 2
 iron: 4
@@ -63,7 +63,7 @@ assets:
       - true
       - false
     controls:
-      command: 3
+      command: 6
       command/commandless: false
     options: {}
 ---
