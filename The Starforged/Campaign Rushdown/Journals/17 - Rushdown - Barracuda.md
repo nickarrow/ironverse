@@ -57,13 +57,13 @@ Rushdown goes to see Bigmouth.  "Hey, Bigmouth, how are things?"
 
 ---
 
-Rushdown heads to the main strip and takes in a few pitfights.  The fights are brutal, and since they have a 'bring your own weapons' policy sometimes lethal.
+Rushdown heads to the main strip and watches a few pitfights.  The fights are brutal, and since they have a 'bring your own weapons' policy, sometimes lethal.
 
 `iv-move:Hearten|Heart|5|2|0|9|7|move:starforged/recover/hearten` 
 
 `iv-oracle:Pay the Price|37|Something of value is lost or destroyed|move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price` 
 
-The fights don't excite Rushdown, he finds the bayong crowds distasteful and the violence to be pointless.  He heads back to the ship.
+The fights don't excite Rushdown, he finds the baying crowds distasteful and the violence to be pointless.  He heads back to the ship.
 
 ---
 
@@ -117,7 +117,7 @@ Rushdown returns to the ship, but instead of heading straight to Crux he instead
 
 `iv-move:Set a Course|Supply|1|5|1|6|9|move:starforged/exploration/set_a_course|adds=1`  `iv-meter:Momentum|5|3` 
 
-The plasma storm is still raging, so their progress is slow, but they make it to Gallows.  Rushdown goes to see the Ironsails chief, Pyro.
+The plasma storm is still raging, so their progress is slow, but they make it to Gallows.  Rushdown goes to see the Ironsail chief, Pyro.
 
 "Chief Pyro, good to see you again," says Rushdown.
 
@@ -228,7 +228,7 @@ Rushdown returns to his ship leaving the corvette for the scavs, and jumps to th
 
 They come out of warp and see the makeshift base.  It's a mid-sized freighter, with a number of multipurpose vehicles standing guard.  Rushdown tries to hail them, but they immediately jump into FTL, followed soon after by their escort.
 
-"It seems like we caught them while the raiding party is away.  Let's set a trap when they return - we'll hold position and attack them as they come out of warp," says Rushdown.   "Everyone, be on standby," he says over the ship's comms.
+"It seems like we caught them while the raiding party is away.  Let's set a trap for when they return - we'll hold position and attack them as they come out of warp," says Rushdown.   "Everyone, be on standby," he says over the ship's comms.
 
 ---
 
