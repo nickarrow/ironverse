@@ -105,7 +105,7 @@ Ernesto shakes Johnny's hand.  "Here's to a long and prosperous partnership."
 
 Johnny returns to the rowboat where his men are waiting nervously.  They help him aboard and they head back to the ship, which in turn heads back to Erast.  He heads to the Three Lillies to wait for the manager to turn up.
 
-She arrives a week later.  She walks into the Three Lillies and says, "I'm looking for Captain Glass".  She is youthful and athletic, and carries a rapier at her hip.  She wears a captain's hat with a feather in it and sports an eyepatch over her left eye.  Johnny raises his hand and waves her over.  "I'm Tiffany Swiftblade," she says, "Ernesto sent me."
+She arrives a week later.  She walks into the Three Lillies and says, "I'm looking for Captain Glass".  She is youthful and athletic, and carries a rapier at her hip.  She wears a captain's hat with a feather in it.  Johnny raises his hand and waves her over.  "I'm Tiffany Swiftblade," she says, "Ernesto sent me."
 
 "I've been expecting you," says Johnny.
 
@@ -179,4 +179,4 @@ The front door to the guild hall opens and a messenger walks in.  "Message for C
 
 ---
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|6|7` 
