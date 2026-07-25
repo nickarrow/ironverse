@@ -165,7 +165,7 @@ Johnny tries to find out more information on the gang who are hunting him.
 
 Johnny finds an off-duty city guardsman drinking in a tavern and buys him a couple of drinks.  He finds out the gang is run by a man called Havoc.  They're a mid-size organization who smuggle contraband goods into the city, and use them to create forbidden elixirs and chemicals to be sold on the black market.  They have various labs and storerooms hidden around the city, and Havoc himself operates out of a tavern called the Old Musket, giving the gang the name of The Musketeers.  They can be identified by a musket tattoo on their necks.  There's a small reward for the capture of anyone with such a gang tattoo, several individual bounties for lieutenants and captains, but Havoc himself is not a wanted man - he's smart, and covers his tracks well.
 
-"So, what do we do about them?" Johnny asks Tiffany the next morning.
+"So, what do we do about them?" Johnny asks Tiffany the next morning after filling her in on the details.
 
 "Nothing for now.  We'll just keep building our reputation and recruiting until we have the manpower to take them on."
 
