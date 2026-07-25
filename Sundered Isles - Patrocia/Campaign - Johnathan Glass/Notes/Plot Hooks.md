@@ -3,8 +3,6 @@
 - 01 - Brianna Aktuna
 - 01 - Kwan Hawking
 - 02 - Crew of the Tarantula
-- 03 - Man tailing Johnny
-- 04 - Sally Slaughter
 - 04 - Bone hairpin
 - 04 - The Triple Crown
 - 05 - Adventurers Guild?
@@ -14,3 +12,9 @@
 - 07 - The Two Billies
 - 07 - Blackfriar's Adventurer's Guild 
 - 07 - Ernesto Mason
+- 07 - Inigo
+- 08 - Sally Slaughter's return
+- 08 - Ernesto's ring
+- 08 - Rootle
+- 08 - Wanted in Nimesh under a false name
+- 08 - The Musketeers

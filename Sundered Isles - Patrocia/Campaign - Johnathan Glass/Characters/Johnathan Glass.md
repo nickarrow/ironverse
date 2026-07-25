@@ -2,7 +2,7 @@
 name: Johnathan Glass
 xp_spent: 5
 xp_added: 0
-momentum: 4
+momentum: 6
 edge: 3
 heart: 3
 iron: 4
@@ -15,7 +15,7 @@ Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 10
 Discoveries_XPEarned: 4
-Quests_Progress: 4
+Quests_Progress: 6
 Quests_XPEarned: 2
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0

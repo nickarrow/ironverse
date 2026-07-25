@@ -1,12 +1,13 @@
 ---
-name: 07 - Explore the flooded cave vow
-rank: dangerous
-progress: 24
+name: Connection Ernesto
+rank: formidable
+progress: 0
 tags:
-  - complete
-track-type: Vow
+  - incomplete
+track-type: Connection
 character: "[[Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md]]"
 iron-vault-kind: progress
+
 ---
 
 
