@@ -4,9 +4,8 @@ segments: 6
 progress: 0
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
-
 ---
 
 
