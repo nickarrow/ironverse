@@ -138,7 +138,7 @@ Bedlam is a small, planetside community on a jungle world.  It has a population 
 
 Rushdown walks up to the bar and says to the barman "I'm looking for Basilisk, flies the *Manta*."
 
-"No such person here," he says, but his eyes dart to the corner of the room for a fraction of a second.  Rushdown looks around and sees a woman with cropped brown hair sitting in a corner booth by herself.
+"No such person here," he says, but his eyes dart to the corner of the room for a fraction of a second.  Rushdown looks round and sees a woman with cropped brown hair sitting in a corner booth by herself.
 
 >Does she try to run?  `iv-oracle:50/50|51|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
