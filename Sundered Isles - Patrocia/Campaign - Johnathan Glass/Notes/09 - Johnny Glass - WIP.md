@@ -11,7 +11,7 @@
 
 "I really think you ought to give up this vendetta.  All this searching is distracting you from your work."
 
-"But my lord, this is work.  If the other gangs see that someone can attack one of our labs with impunity, they'll start attacking all of our businesses."
+"But my lord, this is my work.  If the other gangs see that someone can attack one of our labs with impunity, they'll start attacking all of our businesses."
 
 "If that happens, we'll find someone to make an example of."
 
@@ -26,3 +26,6 @@
 "Of course, my lord."
 
 `iv-meter:Momentum|7|8` 
+
+---
+
