@@ -1,9 +1,9 @@
 ---
 name: 17 - Deal with the raiders
 rank: dangerous
-progress: 16
+progress: 40
 tags:
-  - incomplete
+  - complete
 track-type: Vow
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress

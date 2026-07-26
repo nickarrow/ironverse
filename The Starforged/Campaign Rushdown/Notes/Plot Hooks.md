@@ -35,14 +35,15 @@
 - 15 - Skullcrusher (after the fight)
 - 15 - Vanguard
 - 16 - Alexis Wade
-- 16 - Basilisk
 - 16 - Peace talks
 - 16 - The bounty hunter
 - 16 - The Miwako
 - 17 - Machete / Snakepit
-- 17 - Bigmouth betrayal?
 - 17 - Gallows Chief favor
 - 17 - Crux
-- 17 - Barracuda in the brig
-- 17 - Gutshot
-- 17 - Barracuda base
+- 18 - Revenge for Gutshot
+- 18 - Rude Awakening attacked
+- 18 - Bigmouth's double-cross
+- 19 - Bedlam
+- 19 - Basilisk
+- 19 - Takamaki response

@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 36
+name: 19 - Solve the attack on the Rude Awakening
+rank: dangerous
+progress: 16
 tags:
   - incomplete
-track-type: Connection
+track-type: Vow
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

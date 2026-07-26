@@ -1,10 +1,10 @@
 ---
-name: Ascendancy scouts arrive in Ashitaba
+name: 18 - Boarded by Ironsails
 segments: 4
-progress: 3
+progress: 1
 default-odds: no roll
 tags:
-  - incomplete
+  - complete
 iron-vault-kind: clock
 ---
 

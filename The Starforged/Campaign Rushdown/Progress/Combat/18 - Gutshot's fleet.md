@@ -1,10 +1,10 @@
 ---
-name: Connection Gray
-rank: formidable
-progress: 36
+name: 18 - Gutshot's fleet
+rank: dangerous
+progress: 40
 tags:
-  - incomplete
-track-type: Connection
+  - complete
+track-type: Combat
 character: "[[The Starforged/Campaign Rushdown/Characters/Rushdown.md]]"
 iron-vault-kind: progress
 ---

@@ -145,9 +145,9 @@ Tiffany looks around the tavern and says "Well, this won't do.  This won't do at
 
 "No idea," says Johnny.  "Why is it good?"
 
-"Well, if we fifind out who they are, we can see if they have bounties on their heads.  Could be a nice way to earn a bit of cash and reputation at the same time.  Well, that's enough to be getting on with.  I'll go hunting for potential guild halls, you go explain the situation to your crew.  Oh, Ernesto had a message.  He says Sally Slaughter's back, whatever that means."
+"Well, if we find out who they are, we can see if they have bounties on their heads.  Could be a nice way to earn a bit of cash and reputation at the same time.  Well, that's enough to be getting on with.  I'll go hunting for potential guild halls, you go explain the situation to your crew."
 
-Johnny's buzzing enthusiasm drains from his face.  "It means trouble," he says.
+"This'll be fun," he says.
 
 ---
 
@@ -173,9 +173,13 @@ Johnny finds an off-duty city guardsman drinking in a tavern and buys him a coup
 
 "If it's on, it's on.  But there's no point in starting it while they have the advantage."
 
-The front door to the guild hall opens and a messenger walks in.  "Message for Captain Glass," he says.
+"Right.  So, what now then, if not the Musketeers?"
 
-"Here," says Johnny.  He takes the message, and the messenger looks at him expectantly.  It takes Johnny a moment to realize he's waiting for a tip.  Johnny gives him a coin, and he leaves with a smile on his face.  Johnny opens the message.  "It's from Ernesto.  He wants us to go to Port Vesper - he says we're going after Sally Slaughter."
+"We capture a pirate ship."
+
+"Capture a pirate ship?  Isn't it a better idea to sink them?"
+
+"Not if you're intending to keep it.  Or would you rather buy the guild's second ship out of your own pocket?"
 
 ---
 
