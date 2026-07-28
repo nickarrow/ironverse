@@ -1,7 +1,7 @@
 ---
 name: 19 - Solve the attack on the Rude Awakening
 rank: dangerous
-progress: 16
+progress: 24
 tags:
   - incomplete
 track-type: Vow

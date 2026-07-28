@@ -63,7 +63,7 @@ assets:
       - true
       - false
     controls:
-      command: 4
+      command: 3
       command/commandless: false
     options: {}
 ---
