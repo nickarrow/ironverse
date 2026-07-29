@@ -100,5 +100,37 @@ Later, Johnny and Tiffany are in the guild hall.  "Well, that could have gone be
 
 ---
 
+>Does Ernesto contact them?  `iv-oracle:50/50|61|No|move.oracle_rollable:starforged/fate/ask_the_oracle.fifty_fifty` 
 
+Johnny is sitting in his guildmaster's office, wishing he were in the Three Lillies.  There's a knock at the door, and Dobby, one of the guild's junior members, sticks his head round the door.  "There's someone here about a job."
+
+Johnny sits up in his chair.  "Show them in," he says.  A short, scruffy man enters, and sits down opposite Johnny.
+
+"My name's  `iv-oracle:Moniker|50|Pegleg|oracle_rollable:sundered_isles/character/name/moniker` ," says the man.
+
+"But you have both of your legs," says Johnny.
+
+"Still, that's what they call me.  Now listen close and listen good, I have the opportunity of a lifetime for you.  I won this in a game of cards."  He produces something from his pocket and slides it across Johnny's desk.
+
+"It's a compass," says Johnny.
+
+"Aye, but look closer."
+
+Johnny peers at the compass.  "It's a compass," he says.
+
+"Look at the needle!  It ain't pointing north!" says Pegleg.
+
+"So, it's a broken compass," says Johnny.
+
+"Lad, haven't you heard of enchanted compasses that don't point north?  They point to treasures, or your heart's desire, or somesuch."
+
+"No, I'm sure it's just broken."
+
+"Listen, I know this compass points to something big, but I haven't a ship of my own.  You take your ship and follow the compass, and we'll split whatever prize you find fifty-fifty."
+
+"Look, if you're so good at cards perhaps you'll win a ship the next time you play?  Then you'll be able to keep the whole prize for yourself," says Johnny.
+
+"You'll regret this when another captain grabs the prize before you," says Pegleg, snatching back his compass and walking to the door.  "You're making the biggest mistake of your life."  Johnny waves goodbye as Pegleg leaves.
+
+---
 

@@ -1,6 +1,6 @@
 ---
 name: Rushdown
-xp_spent: 9
+xp_spent: 11
 xp_added: 0
 momentum: 10
 edge: 3
@@ -33,7 +33,7 @@ assets:
     abilities:
       - true
       - false
-      - false
+      - true
     controls: {}
     options:
       ideology: The Red Suns
