@@ -96,10 +96,9 @@ Later, Johnny and Tiffany are in the guild hall.  "Well, that could have gone be
 
 "What's next then, a third ship?"
 
-"No, we only need two - one for routine jobs and one for Ernesto's special jobs.  Next, we need clients.  Where were you looking for work before?"
-
-"The town noticeboard, dockside taverns, that sort of thing."
-
-"Okay, you try and drum up some business your way, I'll come at it from a different angle."
+"No, we only need two - one for routine jobs and one for Ernesto's special jobs.  Next, we wait for Ernesto to contact us, and deal with anyone who walks in the front door in the meantime.  And train our men up while we're at it, of course."
 
 ---
+
+
+
