@@ -8,7 +8,6 @@
 - 02 - Florian Angel
 - 03 - Rebels
 - 03 - Wynn Barrow
-- 04 - Switchblade (on Gallows)
 - 04 - Satonaka
 - 05 - Gangs of Southside
 - 05 - Angel Enforcers
@@ -47,3 +46,5 @@
 - 19 - Bedlam
 - 19 - Basilisk
 - 19 - Takamaki response
+- 20 - Ascendancy in Ashitaba
+- 20 - 

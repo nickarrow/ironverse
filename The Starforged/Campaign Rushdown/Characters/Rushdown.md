@@ -15,8 +15,8 @@ Bonds_Progress: 5
 Bonds_XPEarned: 2
 Discoveries_Progress: 8
 Discoveries_XPEarned: 4
-Quests_Progress: 11
-Quests_XPEarned: 4
+Quests_Progress: 13
+Quests_XPEarned: 6
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
@@ -63,7 +63,7 @@ assets:
       - true
       - false
     controls:
-      command: 3
+      command: 2
       command/commandless: false
     options: {}
 ---

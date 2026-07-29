@@ -1,7 +1,7 @@
 ---
 name: Connection Gray
 rank: formidable
-progress: 36
+progress: 40
 tags:
   - incomplete
 track-type: Connection
