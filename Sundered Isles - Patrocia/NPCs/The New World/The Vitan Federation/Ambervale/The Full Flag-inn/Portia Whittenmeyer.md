@@ -1,16 +1,18 @@
-| Name                | Portia Whittenmeyer |
-| ------------------- | ------------------- |
-| Moniker, if any     |                     |
-| First Look          |                     |
-| Initial Disposition |                     |
-| Role                |                     |
-| Character Goal      |                     |
-| Revealed Aspect     |                     |
-| Location            |                     |
-| Faction, if any     |                     |
+
+| Name                | Portia Whittenmeyer                       |
+| ------------------- | ----------------------------------------- |
+| Moniker, if any     |                                           |
+| First Look          | Comely, Youthful, Redheaded               |
+| Initial Disposition | Friendly                                  |
+| Role                | Host at the [[The Full Flag-inn]]         |
+| Character Goal      | Support her father, learn about the world |
+| Revealed Aspect     |                                           |
+| Location            | [[Ambervale]], [[The Vitan Federation]]   |
+| Faction, if any     |                                           |
 ## Additional Details
-*Here you can include any additional details you want to on this NPC, like backstory, methodology, rumors, fears, etc.
+The dutiful daughter of the owner and operator of the Full Flag-inn, Portia is a supportive and empathetic person who tries to help those around her how she can. She loves to hear of grand adventures and mysteries from far off lands, an indulgence of her desire to one day see the world.
 ## See Also
-Link people, factions, locations and more that are relevant to this NPC.
+[[Gregory Whittenmeyer]]
 ## Appears In
-This is optional but highly encouraged, drop a link to the journal(s) this NPC appears in so others can read up before using them in their own stories!
+[[Journal Entry 3 - Safe Haven]]
+[[Journal Entry 4 - Tarnished Glory]]

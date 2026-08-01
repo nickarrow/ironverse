@@ -66,7 +66,7 @@ I stand from my chair with a sigh, don my hat, and grab the empty food tray befo
 
 ---
 
-Gregory is cleaning some mugs at the bar when I exit the inn portion of the establishment and reach the bottom of the stairs in the tavern. He greets me with a soapy wave when he spots me. On the opposite side of the tavern, I spy Portia wiping down tables but opt to leave her be for the time being.
+Gregory is cleaning some mugs at the bar when I exit the inn portion of the establishment and reach the bottom of the stairs in the deserted tavern. He greets me with a soapy wave when he spots me. On the opposite side of the tavern, I spy Portia wiping down tables but opt to leave her be for the time being.
 
 I make my way to the bar and slide the food tray onto it.
 "My thanks for the meal, it was a richness I missed on the road and will surely miss again."
@@ -78,12 +78,33 @@ In response I simply draw my broken blade and lift it for him to see.
 "I don't expect to move on today, but I also can't take on work at the moment. I need to get this fixed before I can think of going anywhere or doing much. I have need of a smith, would you happen to have a connection here in town who you would recommend?"
 
 Gregory's face grew serious as took a moment to consider, then replied
-"There aren't many smiths in Ambervale, and most aren't up to making more than horseshoes and nails. If you're determined to get this blade fixed up and are up for a challenge, visit The Black-Iron Anvil. A regular of mine, Karadrin Montfellier, runs the place, he's an exceptional smith but since his wife passed he's become a recluse."
+"There aren't many smiths in Ambervale, and most aren't up to making more than horseshoes and nails. If you're determined to get this blade fixed up and are up for a challenge, visit [[The Black-Iron Anvil]]. A regular of mine, [[Karadin Montfellier]], runs the place, he's an exceptional smith but since his wife passed he's become a recluse."
 
 I pondered the situation for a moment, then accepted the task.
 "...What's his favorite? Maybe I can help get through to him."
 
 `iv-move:Secure an Advantage|Heart|6|2|0|3|4|move:starforged/adventure/secure_an_advantage` `iv-meter:Momentum|7|8` 
+
+From behind me comes Portia's upbeat voice
+"Karadin? I know his order by heart, I'll whip it up for you. The poor guy is taking his wife's loss pretty hard so it'll be nice to know he's at least eating well."
+
+The pair went about cooking up a grilled fish platter with some bread and seasonings, working in tandem like a well oiled machine. Their practiced movements prompted the question before I could stop it.
+
+"How long have you two been doing this?"
+
+Gregory was the first to chime in as he seared a fillet.
+"Oh lets see now, Portia is 24 so we opened the inn here some 10 years ago or so?"
+
+Portia rolls her eyes and corrects her father.
+"Papa, I'm 27 now." 
+The old man chuckles and continues working as she addresses Cyrus with much more certainty than her father.
+"It's been 13 years. My father here was a ship's cook before he settled down with my mother here. When she passed I took over helping him here."
+
+I can't help but show my amusement at their dynamic, it was the first time I'd seen them acting familial in my time here, likely because I was the only one here at the moment.
+"I see, well your experience clearly shows. I'm sure Karadin will be grateful for your efforts. I'll have to get you to make me this when I get back, it smells great."
+
+Portia shot him a look, a twinkle in her eye.
+"I think I could manage that."
 
 ---
 
