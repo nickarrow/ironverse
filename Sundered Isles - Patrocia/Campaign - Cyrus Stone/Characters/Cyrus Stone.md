@@ -2,7 +2,7 @@
 name: Cyrus Stone
 xp_spent: 0
 xp_added: 0
-momentum: 7
+momentum: 4
 edge: 2
 heart: 2
 iron: 3

@@ -72,7 +72,7 @@ The woodsman nods again, a little less stone-faced. "Good luck out there Cyrus, 
 
 ---
 
-While it wasn't my ideal first brush with civilization, I can understand the need to conserve your resources even if it was a disappointment. The main takeaway was a heading and the promise of actual safety being not far down south.
+While it wasn't my ideal first brush with civilization, I can understand the need to conserve your resources in hard times. The main takeaway was a heading and the promise of actual safety being not far down south.
 
 With that in mind, I continue walking South for another half day. I pass a handful of people on the way but none stop to talk, only offering token greetings if anything. Considering that I likely look like a homeless wild man and we were on the outskirts of civilization, I couldn't blame them too harshly for not staying in my presence longer than necessary.
 
@@ -106,47 +106,47 @@ Finally I see it. The Full Flag-inn is a charming building, mostly white plaster
 
 I'm jarred from soaking in the atmosphere by the kind voice of the inn keeper. He's a little stooped, but the his build implies he once labored much harder than an innkeeper should.
 
-"Oh, uh...I'll try the white ale please. And would you happen to have a room for the night?"
+"Oh, uh...I'm a castaway from shores up north. Yours is the first welcoming place I've known in what feels like ages, so forgive my appearance."
+
+To answer his question I draw the makeshift pouch from my belt and slide a gold coin onto the bar. "I'll try the white ale please. And would you happen to have a room for the night?"
 
 The innkeeper smiles as though they were old friends and gestures with his thumb to some stairs a little ways off from the bar.
 "Don't worry, we always have a room or two available."
 
-Ducking under the bar, he produces a copper flagon and set to work on filling it.
-"Your ale is coming right up. We have fresh bread and roast duck if you're hungry. I might also recommend a hot bath before bed, just let me know when you'd like it and Portia can draw you one."
+Ducking under the bar, he produces a copper flagon and sets to work on filling it.
+"Your ale is coming right up. We have fresh bread and roast duck if you're hungry. I might also recommend a hot bath before bed, just let me know when you'd like it and [[Sundered Isles - Patrocia/NPCs/The New World/The Vitan Federation/Ambervale/The Full Flag-inn/Portia Whittenmeyer|Portia]] can draw you one."
 
-As if on cue, a young woman exited from the back room holding a platter of meats, cheeses and breads, bringing it over to a booth in the corner seemingly filled with off-duty guards.
+As if on cue, a comely woman with copper-red hair exited from the back room holding a platter of meats, cheeses and breads, bringing it over to a booth in the corner seemingly filled with off-duty guards.
 
-I nod to the innkeeper and throw a couple of my scavenged gold coins on the bar. "That all sounds like a fine idea. Would you happen to know where I might outfit myself? I seem to have adventured hard enough to reduce my finery to rags."
+I nod to the innkeeper and throw a couple more of my scavenged coins on the bar. "That all sounds like a fine idea. Would you happen to know where I might outfit myself? I seem to have adventured hard enough to reduce my finery to rags."
 
 The innkeeper thought a moment, then called out
 "Fane, got a second?"
 
-A gaunt man in an outfit of impeccable taste at a nearby table turned his head.
-"What can I do for you Gregory?"
+A gaunt man in an outfit of impeccable taste at a nearby table turned his head. He responds with just a hint of an Antinian accent "What can I do for you Gregory?"
 
 He gestured at me in response.
 "This young man needs a change of clothes, might my favorite tailor be looking for work?"
 
-Fane smiled in response and stood up, taking his drink with him and joining me at the bar.
-"Always happy to help a customer in need!"
+Fane smiled in response and stood up, taking his drink with him and joining me at the bar. "Always happy to help a customer in need!" He greets me with enthusiasm "Normally I'd do this at my shop but I can see you have higher priorities. What were you looking for exactly?"
 
 We spoke as I ate like a king that night, courtesy of the innkeeper's excellent cooking and divine selection of drinks. Following my meal I bathed and found myself with a new outfit awaiting me as I dried off. 
 
-It wasn't one to one with my old outfit, but it was a very similar style. I was pleased to find my hat had been cleaned up and given a pristine new long white feather to replace the old and broken one that had been adorning it. My boots had also been resoled to my pleasant surprise and it appeared that anything else I was wearing that hadn't been beyond saving had been lovingly cleaned and repaired. Fane was good, I had to give him that.
+It wasn't one to one with my old outfit, but it was a very similar style. I was pleased to find my hat had been cleaned up and given a new pristine long white feather to replace the old and broken one that had been adorning it. My boots had also been resoled to my pleasant surprise and it appeared that anything else I was wearing that hadn't been beyond saving had been lovingly cleaned and repaired. Fane was good, I had to give him that.
 
-As I entered my room at the inn feeling like a new man and was eyeing up the bed for a well deserved sleep, there was knock at my door. I opened it to find Portia holding a razor and mirror, with a towel draped over her shoulder. 
+As I entered my room at the inn feeling like a new man and was eyeing up the bed for a well deserved sleep, there was knock at my door. I opened it to find Portia holding a razor and mirror with a towel draped over her shoulder. 
 
 She smiled and in a tone very reminiscent of the innkeeper greeted him.
-"Hello master Stone, my father thought you might appreciate a trim, he sends these as a token of his appreciation for your patronage."
+"Hello Master Stone, my father thought you might appreciate a trim, he sends these as a token of his appreciation for your patronage."
 
 I smile in return, gesturing for her to set them on the table in the room behind me as I stepped out of her way. "Thank you, but please call me Cyrus. You and your father should be very proud of your work here. I have been in the wilds for what feels like a lifetime and you've offered me the richness I so missed while trying to make my way back."
 
 Portia finished setting her things down and gestured for him to have a seat.
-"You honor with your words. I'm no barber, but we should be able to get you presentable without too much struggle."
+"You honor me with your words. I'm no barber, but we should be able to get you presentable without too much struggle."
 
 `iv-move:Make a Connection|Heart|6|2|0|7|5|move:starforged/connection/make_a_connection`   `iv-track-create:Portia Whittenmeyer|Sundered Isles - Patrocia/Campaign - Cyrus Stone/Connections/Portia Whittenmeyer.md` 
 
-We talked as she helped tame my hair, and I cut my beard down into a fanciful Van Dyke style instead of the wild, bushy mess it was. I shared what I could of my journey, I showed her the dagger I made from the fang of that spider I encountered as proof. She was an excellent audience, staying after my grooming was complete and politeness no longer dictated she humor me. Truthfully I believe she was genuinely excited to hear of what had transpired. Finally with a yawn from me I failed to hide, she realized she had overstayed.
+We talked as she helped tame my hair, and I cut my beard down into a fanciful Van Dyke style instead of the wild, bushy mess it was. I shared what I could of my journey, I showed her the dagger I made from the fang of that spider I encountered as proof. She was an excellent audience, staying after my grooming was complete and politeness no longer dictated she humor me. Truthfully I believe she was genuinely excited to hear of what had transpired. Finally when I failed to hide a yawn that snuck up on me, she realized she had overstayed.
 
 "Apologies for keeping you up Cyrus, you're an excellent storyteller so I couldn't help but be a bit greedy with your time."
 

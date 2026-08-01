@@ -11,6 +11,6 @@
 *Add additional lore here
 
 ## See Also
-*Link people, factions, sub locations and more that are located in or relevant to this location.
+[[Portia]]
 ## Appears in
 [[Journal Entry 3 - Safe Haven]]
