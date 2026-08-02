@@ -56,7 +56,7 @@ initiative: false
 > ```
 
 > [!abstract]- NOTES
-> [[Sundered Isles - Patrocia/Campaign - Rowe Darwin/Journals/Session 0|Session 0]]
+> [[Rowe - Session 0|Rowe - Session 0]]
 
 > [!example]- TRACKS IN-PROGRESS
 > ```dataview
