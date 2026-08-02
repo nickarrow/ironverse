@@ -2,15 +2,15 @@
 name: Rowe Darwin
 xp_spent: 0
 xp_added: 0
-momentum: 7
+momentum: 2
 edge: 1
 heart: 2
 iron: 3
 shadow: 1
 wits: 2
 health: 4
-spirit: 5
-supply: 4
+spirit: 4
+supply: 2
 Bonds_Progress: 0
 Bonds_XPEarned: 0
 Discoveries_Progress: 0
@@ -45,7 +45,7 @@ assets:
       health: 3
       health/out_of_action: false
     options:
-      name: Darwin
+      name: Silver
 initiative: false
 ---
 

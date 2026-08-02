@@ -1,9 +1,9 @@
 ---
 name: Route the guards at the second gate
 rank: troublesome
-progress: 24
+progress: 36
 tags:
-  - incomplete
+  - complete
 track-type: Combat
 character: "[[Rowe Darwin]]"
 iron-vault-kind: progress
