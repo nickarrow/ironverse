@@ -5,7 +5,7 @@ progress: 4
 tags:
   - incomplete
 track-type: Vow
-character: "[[Sundered Isles - Patrocia/Campaign - Ro Nettie Darwin/Characters/Ro Nettie Darwin.md]]"
+character: "[[Rowe Darwin]]"
 iron-vault-kind: progress
 ---
 
