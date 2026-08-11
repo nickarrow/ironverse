@@ -227,15 +227,12 @@ Later, Bigmouth is on a prisoner transport on his way to rendezvous with a Takam
 
 `iv-progress:Fulfill Your Vow|19 - Solve the attack on the Rude Awakening|10|2|5|The Starforged/Campaign Rushdown/Progress/Vows/19 - Solve the attack on the Rude Awakening.md|move:starforged/quest/fulfill_your_vow`  `iv-track-complete:19 - Solve the attack on the Rude Awakening|The Starforged/Campaign Rushdown/Progress/Vows/19 - Solve the attack on the Rude Awakening.md`  `iv-track-advance:Connection Gray|The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md|36|40|formidable|1`  `iv-track-advance:quests|The Starforged/Campaign Rushdown/Characters/Rushdown.md|11|13|epic|2` 
 
-"And you captured the one responsible," she continues.  "Good work, Rushdown, it's a shame we didn't get to kill the bastard but you were right to hand him over.  So, our next step is to track down the Satonaka ship and destroy or capture it.  Our only lead is this image of one of their agents."  An image appears on the vidscreen of a woman with shoulder-length brown hair.
+"And you captured the one responsible," she continues.  "Good work, Rushdown, it's a shame we didn't get to kill the bastard but you were right to hand him over.  But I have important news.  This may seem sudden, but Takamaki were impressed by the Basilisk capture - she gave up the Satonaka spy ship and a Takamaki warship is on the way to destroy it as we speak.  They're going ahead with the merger - we're all pulling back to HQ for the handover of power."
 
-"You have to be kidding me," says Rushdown.  "That's Juliana Barbosa."
+"So the rumors were true, then?"
 
----
+"Yes, we'll all be wearing Takamaki uniforms before too long."
 
-`iv-noroll:End a Session|move:starforged/session/end_a_session` 
+"What about Ashitaba?"
 
-Next Session: 
-
-Form a bond with Gray
-Rest the crew
+"That's for Minami to worry about," says Gray.
