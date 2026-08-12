@@ -31,7 +31,7 @@ Johnny swims for a long time.  It's so dark in the passageway that he puts on th
 
 "Do what?" asks Johnny.  He looks around the room and sees a pair of armed guards standing a respectful distance away.
 
-Ernesto picks up a device that's sitting on the table.  "This is a rebreather.  Latest from Harbia, you put it over your mouth and nose, and it lets you breathe underwater.  We had a man swim the passageway and timed him, it takes over twenty minutes.  The best diver in the world can only manage four.  So, how do you do it?"
+Ernesto picks up a device that's sitting on the table.  "This is a rebreather.  Latest from Harbia, you put it over your mouth and nose, and it lets you breathe underwater.  We had a man swim the passageway and timed him, it takes over twenty minutes.  The best diver in the world can only manage four without coming up for air.  So, how do you do it?"
 
 "Oh, that.  Kind of an embarrassing story, to be honest.  I don't really like telling it."
 
@@ -45,7 +45,7 @@ Johnny was shown into the mage's chamber by one of the burly church guards.  The
 
 "Adventurer," corrected Johnny.
 
-"Yes, yes," said Rootle dismissively.  He put a large decanter on the center of the table, filled with a strange brown liquid.  "You'll need to take this potion," he said.  He turned around and started rummaging on the workbench behind him.  "Now, the job is to deliver a message to a mage in Lorresia and return with his reply.  You'll need to swim underground under his cloister and climb up the well, then sneak to the window of his chamber at night."  He picked up a pipette from the workbench and said  "Use this to administer the dose," as he turned around to see Johnny, empty decanter in hand, a line of brown liquid coming from the corner of his mouth.
+"Yes, yes," said Rootle dismissively.  He put a large decanter on the center of the table, filled with a strange brown liquid.  "You'll need to take this potion," he said.  He turned around and started rummaging on the workbench behind him.  "Now, the job is to deliver a message to a mage in Lorresia and return with his reply.  You'll need to swim underground under his cloister and climb up the well, then sneak to the window of his chamber at night."  He picked up a pipette from the workbench and said  "Use this to administer the dose," as he turned around to see Johnny, empty decanter in hand, a line of brown liquid dribbling from the corner of his mouth.
 
 "Dose?" said Johnny, innocently.
 

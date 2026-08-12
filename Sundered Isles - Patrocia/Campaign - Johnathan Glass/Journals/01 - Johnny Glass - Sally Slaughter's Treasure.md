@@ -43,7 +43,7 @@ Davey stands nose to nose with the knight who, to his credit, doesn't back down.
 
 `iv-meter:Momentum|2|3` 
 
-As this is happening, the door swings open and Johnathan Glass walks in.  The fight rages around him as he walks to the bar.  "I'll have a mug of ale.  I'm looking for Sticky Joe," he says to the barman.
+As this is happening, the door swings open and Johnnny Glass walks in.  The fight rages around him as he walks to the bar.  "I'll have a mug of ale.  I'm looking for Sticky Joe," he says to the barman.
 
 "This is a bit of a bad time," says the barman, who's ducking down behind the counter.  "You might want to take a walk around the block until things settle down."
 
@@ -59,7 +59,7 @@ Johnny sits down at Sticky Joe's booth.  "Sticky Joe?  I heard you're looking fo
 
 "And you are?"
 
-"Johnathan Glass.  Johnny.  From the *Spearhead*."
+"Johnny Glass.  Johnny.  From the *Spearhead*."
 
 "Johnny Glass?  The Ikoban who ran away?"
 
