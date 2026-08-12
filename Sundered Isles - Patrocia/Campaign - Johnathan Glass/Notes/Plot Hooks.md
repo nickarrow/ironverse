@@ -18,3 +18,7 @@
 - 08 - Rootle
 - 08 - Wanted in Nimesh under a false name
 - 08 - The Musketeers
+- 09 - Pegleg
+- 09 - Lord Brighton
+- 09 - Elric Brighton
+- 09 - The Bluecoat Bandit

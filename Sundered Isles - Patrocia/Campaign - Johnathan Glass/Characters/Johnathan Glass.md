@@ -2,7 +2,7 @@
 name: Johnathan Glass
 xp_spent: 5
 xp_added: 0
-momentum: 4
+momentum: 6
 edge: 3
 heart: 3
 iron: 4

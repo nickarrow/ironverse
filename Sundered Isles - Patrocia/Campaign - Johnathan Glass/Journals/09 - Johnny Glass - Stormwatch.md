@@ -134,3 +134,105 @@ Johnny peers at the compass.  "It's a compass," he says.
 
 ---
 
+Johnny waits in his office for a job to come in.  He's so bored that he almost starts doing some paperwork, but is saved at the last minute by Dobby with another visitor.  A man walks into the room and introduces himself as Elric, the younger son of Lord Brighton.
+
+`iv-oracle:Character Goals|24|Defeat a rival|oracle_rollable:sundered_isles/character/goals` 
+`iv-oracle:Story Clue|77|Leads to a nearby or familiar place|oracle_rollable:sundered_isles/misc/story_clue` 
+
+"Have you heard of The Bluecoat Bandit?" asks Elric.  "He's been terrorising the roads around town, robbing merchants and giving most of what he steals to the common folk so they don't talk."
+
+"I haven't, but go on."
+
+"Well, I'm telling you this in the strictest confidence, but he's actually my older brother.  He's just playing at being a folk hero, when in fact he's the heir to a moderate fortune."
+
+"Why is he doing it?  To oppose the queen?"
+
+"I rather think it's to impress the ladies, if I'm honest.  The point is, if he's killed or captured, he'll lose his inheritance and I'll stand to inherit a title and my father's fortune."
+
+"You want your own brother killed?"
+
+"No, no, of course not, it's just politics."
+
+"Fine, we'll deal with the Bluecoat Bandit, by iron I swear."
+
+`iv-move:Swear an Iron Vow|Heart|3|3|0|4|5|move:starforged/quest/swear_an_iron_vow`  `iv-meter:Momentum|4|6` 
+
+`iv-track-create:09 - Kill or Capture the Bluecoat Bandit|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/09 - Kill or Capture the Bluecoat Bandit.md` 
+
+"Excellent.  He has a base somewhere in the Howling Woods, it's not a large forest so it should be relatively easy to find."
+
+"How many men does he have?"
+
+"Oh, it's just him and a couple of college friends.  They really only attack lone travelers and wagons."
+
+"Fine.  Leave it with me, we'll take care of it."
+
+"Splendid."
+
+The next morning, Johnny and Tiffany head off to the Howling Woods.
+
+"Why do they call it the Howling Woods?" asks Tiffany as they walk.
+
+"I'm not sure, maybe it's full of wolves?" says Johnny.
+
+"Maybe the wind howls through the trees," says Tiffany.
+
+"I guess we'll find out soon enough," says Johnny.
+
+Before long they arrive, and head into the woods, looking out for any sign of a bandit hideout.
+
+`iv-track-create:09 - Find the bandit hideout|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md` 
+
+`iv-move:Undertake an Expedition|Wits|6|2|0|4|3|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:09 - Find the bandit hideout|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md|0|12|troublesome|1` 
+
+They come to a road that leads through the woods, and follow it for a while.  Before long, Johnny notices an arrow stuck in a tree.  "This must be an ambush site," he says.  "See if you can find any tracks."  They look around and see a set of footprints leading away, and follow in that direction.
+
+`iv-move:Undertake an Expedition|Wits|1|2|0|6|7|move:starforged/exploration/undertake_an_expedition`  `iv-clock-create:09 - Bandits see Johnny and ambush him|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/09 - Bandits see Johnny and ambush him.md`  `iv-clock-advance:09 - Bandits see Johnny and ambush him|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/09 - Bandits see Johnny and ambush him.md|0|1|1|4` 
+
+They soon lose the trail.  "Well, at least we narrowed the search down a bit," says Tiffany.
+
+`iv-move:Undertake an Expedition|Wits|5|2|0|4|6|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:09 - Find the bandit hideout|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md|12|24|troublesome|1` 
+
+They come across a clearing with archery targets set up.  "We must be getting close," says Johnny.  "Let's keep going in this direction."
+
+`iv-move:Undertake an Expedition|Wits|6|2|0|5|4|move:starforged/exploration/undertake_an_expedition`  `iv-track-advance:09 - Find the bandit hideout|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md|24|36|troublesome|1` 
+
+They see a thin line of smoke rising above the trees, and head in that direction.
+
+`iv-progress:Finish an Expedition|09 - Find the bandit hideout|9|10|7|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md|move:starforged/exploration/finish_an_expedition`  `iv-track-complete:09 - Find the bandit hideout|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md`  `iv-clock-resolve:09 - Bandits see Johnny and ambush him|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/09 - Bandits see Johnny and ambush him.md`  `iv-track-advance:09 - Kill or Capture the Bluecoat Bandit|Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/09 - Kill or Capture the Bluecoat Bandit.md|0|12|troublesome|1` 
+
+They creep through the undergrowth until they are close enough to see a camp, with five men standing around talking.  Three of the men are younger, and one has a bright blue coat on.  One of the men is older wearing fine robes and a coronet.  The final man looks dangerous - he is wearing leather armor and has his hand on the hilt of his sheathed longsword.  Two horses are tethered nearby.  Johnny and Tiffany can hear the conversation between the man in blue and the older man, which is starting to get heated.
+
+"If you get caught, you'll lose your inheritance, boy!" says the older man.  "Stop this bloody nonsense and come home."
+
+"Father, you worry too much.  If I get caught I've coin to buy my way out of trouble, and besides, that isn't going to happen.  This is just a lark."
+
+"Nothing is just a lark when titles are involved.  If anyone gets wind that you're the Bluecoat Bandit, there will be a huge scandal.  I'll have to disown you to save my own position."
+
+"How will anyone ever know?  I wear a mask."
+
+"That bloody masquerade mask isn't going to stop anyone who knows you from recognizing you."
+
+The conversation goes back and forth for a while.  Johnny and Tiffany try to stay hidden in the bush until the lord and his man leave.
+
+`iv-move:Face Danger|Shadow|1|2|0|1|4|move:starforged/adventure/face_danger`  `iv-meter:Momentum|6|5` 
+
+The conversation continues for hours, only ending when the man in armor says "My lord, it's time to leave if we want to get back before nightfall."
+
+"This isn't over," says the lord, "We'll be back to continue this conversation if you're not home tomorrow."  The lord and the armored man mount the horses and ride off.  When they're gone, Johnny and Tiffany consider their options from their bush.
+
+"Shall we just attack them?" whispers Johnny.
+
+"Don't you want to bring them in alive?" asks Tiffany.
+
+"Ideally, but we're outnumbered and lack transport."
+
+"We could wait until they sleep and slit their throats," says Tiffany.
+
+"Dark, but not a terrible idea.  Kill the two bandits and arrest the ringleader, then march him back to town in the morning," says Johnny, "Let's go with that."
+
+*Next time: What could possibly go wrong?*
+
+---
+
+`iv-noroll:End a Session|move:starforged/session/end_a_session`  `iv-meter:Momentum|5|6` 
