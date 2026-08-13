@@ -1,13 +1,13 @@
-| Name                          | The Three Lillies                                                                                                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Controlling Nation or Faction | Independent                                                                                                                                                         |
-| Location                      | [[Erast]], [[The Kingdom of Ossik]]                                                                                                                                 |
-| Size                          | Dozens                                                                                                                                                              |
-| Authority                     | N/A                                                                                                                                                                 |
-| Disposition                   | Friendly                                                                                                                                                            |
-| Focus                         | Entertainment                                                                                                                                                       |
-| Appearance                    | Modest                                                                                                                                                              |
-| Details                       |  `iv-oracle:Settlement Details\|50\|A local official is corrupt, but no one dares stand against them\|oracle_rollable:sundered_isles/settlement/details\|cursed=1`  |
+| Name                          | The Three Lillies                                                                                                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Controlling Nation or Faction | Independent                                                                                                                                                       |
+| Location                      | [[Erast]], [[The Kingdom of Ossik]]                                                                                                                               |
+| Size                          | Dozens                                                                                                                                                            |
+| Authority                     | N/A                                                                                                                                                               |
+| Disposition                   | Friendly                                                                                                                                                          |
+| Focus                         | Entertainment                                                                                                                                                     |
+| Appearance                    | Modest                                                                                                                                                            |
+| Details                       | `iv-oracle:Settlement Details\|50\|A local official is corrupt, but no one dares stand against them\|oracle_rollable:sundered_isles/settlement/details\|cursed=1` |
 
 ## Additional Details
 

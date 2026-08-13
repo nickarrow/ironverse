@@ -111,7 +111,7 @@ He heads to the Ikoban adventurers guild where he was raised.  He goes inside, a
 
 "Pretty bloody far from captain, I'll tell you that much."
 
-"You'll get there.  Is the Ogre still in charge around here?"
+"You'll get there.  Is [[The Ogre]] still in charge around here?"
 
 "Oh yes, he is most definitely still in charge."
 
